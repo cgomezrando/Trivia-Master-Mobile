@@ -1,0 +1,1676 @@
+[
+ {
+  "id": 1,
+  "question": "¿Qué artista lanzó el álbum Un Verano Sin Ti?",
+  "optionA": "Bad Bunny",
+  "optionB": "Feid",
+  "optionC": "Rauw Alejandro",
+  "optionD": "Ozuna",
+  "correctAnswer": "Bad Bunny"
+ },
+ {
+  "id": 2,
+  "question": "¿Cuál es el nombre real de Bad Bunny?",
+  "optionA": "Benito Antonio Martínez Ocasio",
+  "optionB": "José Fernando Cosculluela",
+  "optionC": "Jan Carlos Ozuna Rosado",
+  "optionD": "Raúl Ocasio Ruiz",
+  "correctAnswer": "Benito Antonio Martínez Ocasio"
+ },
+ {
+  "id": 3,
+  "question": "¿Qué canción abre el álbum Un Verano Sin Ti?",
+  "optionA": "Moscow Mule",
+  "optionB": "Tití Me Preguntó",
+  "optionC": "Me Porto Bonito",
+  "optionD": "Ojitos Lindos",
+  "correctAnswer": "Moscow Mule"
+ },
+ {
+  "id": 4,
+  "question": "¿Quién colabora con Bad Bunny en Me Porto Bonito?",
+  "optionA": "Chencho Corleone",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Jhayco",
+  "correctAnswer": "Chencho Corleone"
+ },
+ {
+  "id": 5,
+  "question": "¿Qué artista colaboró con Bad Bunny en Ojitos Lindos?",
+  "optionA": "Bomba Estéreo",
+  "optionB": "Karol G",
+  "optionC": "Young Miko",
+  "optionD": "Rauw Alejandro",
+  "correctAnswer": "Bomba Estéreo"
+ },
+ {
+  "id": 6,
+  "question": "¿Qué álbum lanzó Bad Bunny en 2023?",
+  "optionA": "Nadie Sabe Lo Que Va a Pasar Mañana",
+  "optionB": "YHLQMDLG",
+  "optionC": "El Último Tour del Mundo",
+  "optionD": "Oasis",
+  "correctAnswer": "Nadie Sabe Lo Que Va a Pasar Mañana"
+ },
+ {
+  "id": 7,
+  "question": "¿Qué canción de Bad Bunny alcanzó el número 1 global en Spotify durante semanas en 2022?",
+  "optionA": "Me Porto Bonito",
+  "optionB": "Tarot",
+  "optionC": "Yonaguni",
+  "optionD": "Party",
+  "correctAnswer": "Me Porto Bonito"
+ },
+ {
+  "id": 8,
+  "question": "¿Con qué artista lanzó Bad Bunny el álbum Oasis?",
+  "optionA": "J Balvin",
+  "optionB": "Feid",
+  "optionC": "Anuel AA",
+  "optionD": "Mora",
+  "correctAnswer": "J Balvin"
+ },
+ {
+  "id": 9,
+  "question": "¿Qué canción popularizó Bad Bunny en 2023 con referencias a la Fórmula 1?",
+  "optionA": "Monaco",
+  "optionB": "Where She Goes",
+  "optionC": "Perro Negro",
+  "optionD": "Thunder y Lightning",
+  "correctAnswer": "Monaco"
+ },
+ {
+  "id": 10,
+  "question": "¿Quién interpreta Provenza?",
+  "optionA": "Karol G",
+  "optionB": "Anitta",
+  "optionC": "Young Miko",
+  "optionD": "Becky G",
+  "correctAnswer": "Karol G"
+ },
+ {
+  "id": 11,
+  "question": "¿Qué álbum lanzó Karol G en 2023?",
+  "optionA": "Mañana Será Bonito",
+  "optionB": "KG0516",
+  "optionC": "Ocean",
+  "optionD": "Unstoppable",
+  "correctAnswer": "Mañana Será Bonito"
+ },
+ {
+  "id": 12,
+  "question": "¿Con quién colaboró Karol G en TQG?",
+  "optionA": "Shakira",
+  "optionB": "Rosalía",
+  "optionC": "Anitta",
+  "optionD": "Becky G",
+  "correctAnswer": "Shakira"
+ },
+ {
+  "id": 13,
+  "question": "¿Qué canción de Karol G se convirtió en un himno del verano de 2022?",
+  "optionA": "Provenza",
+  "optionB": "Gatúbela",
+  "optionC": "Tusa",
+  "optionD": "Mi Ex Tenía Razón",
+  "correctAnswer": "Provenza"
+ },
+ {
+  "id": 14,
+  "question": "¿Qué artista acompaña a Karol G en Mamiii?",
+  "optionA": "Becky G",
+  "optionB": "Natti Natasha",
+  "optionC": "Young Miko",
+  "optionD": "Anitta",
+  "correctAnswer": "Becky G"
+ },
+ {
+  "id": 15,
+  "question": "¿Qué canción lanzó Karol G junto a Peso Pluma?",
+  "optionA": "Qlona",
+  "optionB": "Cairo",
+  "optionC": "X Si Volvemos",
+  "optionD": "Gatúbela",
+  "correctAnswer": "Qlona"
+ },
+ {
+  "id": 16,
+  "question": "¿Qué artista colombiano es conocido como La Bichota?",
+  "optionA": "Karol G",
+  "optionB": "Becky G",
+  "optionC": "Farina",
+  "optionD": "Greeicy",
+  "correctAnswer": "Karol G"
+ },
+ {
+  "id": 17,
+  "question": "¿Qué colaboración reúne a Karol G y Young Miko?",
+  "optionA": "Dispo",
+  "optionB": "Gatúbela",
+  "optionC": "Contigo",
+  "optionD": "TQG",
+  "correctAnswer": "Dispo"
+ },
+ {
+  "id": 18,
+  "question": "¿Qué artista es conocido como Ferxxo?",
+  "optionA": "Feid",
+  "optionB": "Ryan Castro",
+  "optionC": "Blessd",
+  "optionD": "Maluma",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 19,
+  "question": "¿Qué canción lanzó Feid junto a Young Miko?",
+  "optionA": "Classy 101",
+  "optionB": "Normal",
+  "optionC": "Hey Mor",
+  "optionD": "Feliz Cumpleaños Ferxxo",
+  "correctAnswer": "Classy 101"
+ },
+ {
+  "id": 20,
+  "question": "¿Qué artista colabora con Feid en Hey Mor?",
+  "optionA": "Ozuna",
+  "optionB": "Rauw Alejandro",
+  "optionC": "Mora",
+  "optionD": "Sech",
+  "correctAnswer": "Ozuna"
+ },
+ {
+  "id": 21,
+  "question": "¿Qué álbum lanzó Feid en 2023?",
+  "optionA": "Mor No Le Temas a la Oscuridad",
+  "optionB": "Inter Shibuya",
+  "optionC": "Feliz Cumpleaños Ferxxo",
+  "optionD": "Ferxxocalipsis",
+  "correctAnswer": "Mor No Le Temas a la Oscuridad"
+ },
+ {
+  "id": 22,
+  "question": "¿Qué canción de Feid contiene la frase Qué chimba de vida?",
+  "optionA": "Normal",
+  "optionB": "Luna",
+  "optionC": "Ferxxo 100",
+  "optionD": "Belixe",
+  "correctAnswer": "Normal"
+ },
+ {
+  "id": 23,
+  "question": "¿Quién interpreta Luna junto a ATL Jacob?",
+  "optionA": "Feid",
+  "optionB": "Sech",
+  "optionC": "Mora",
+  "optionD": "Quevedo",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué artista lanzó el álbum Saturno?",
+  "optionA": "Rauw Alejandro",
+  "optionB": "Myke Towers",
+  "optionC": "Mora",
+  "optionD": "Feid",
+  "correctAnswer": "Rauw Alejandro"
+ },
+ {
+  "id": 25,
+  "question": "¿Con quién colaboró Rauw Alejandro en Beso?",
+  "optionA": "Rosalía",
+  "optionB": "Karol G",
+  "optionC": "Anitta",
+  "optionD": "Emilia",
+  "correctAnswer": "Rosalía"
+ },
+ {
+  "id": 26,
+  "question": "¿Qué álbum lanzó Rauw Alejandro en 2023?",
+  "optionA": "Playa Saturno",
+  "optionB": "Vice Versa",
+  "optionC": "Afrodisíaco",
+  "optionD": "Trap Cake",
+  "correctAnswer": "Playa Saturno"
+ },
+ {
+  "id": 27,
+  "question": "¿Quién acompaña a Rauw Alejandro en Punto 40?",
+  "optionA": "Baby Rasta",
+  "optionB": "Rauw Alejandro",
+  "optionC": "Feid",
+  "optionD": "Mora",
+  "correctAnswer": "Baby Rasta"
+ },
+ {
+  "id": 28,
+  "question": "¿Qué canción de Rauw Alejandro incluye a Chencho Corleone?",
+  "optionA": "Desesperados",
+  "optionB": "Diluvio",
+  "optionC": "Museo",
+  "optionD": "Panties y Brasieres",
+  "correctAnswer": "Desesperados"
+ },
+ {
+  "id": 29,
+  "question": "¿Qué artista puertorriqueño lanzó Vice Versa?",
+  "optionA": "Rauw Alejandro",
+  "optionB": "Mora",
+  "optionC": "Jhayco",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Rauw Alejandro"
+ },
+ {
+  "id": 30,
+  "question": "¿Qué artista colaboró con Rauw Alejandro en Vampiros?",
+  "optionA": "Rosalía",
+  "optionB": "Karol G",
+  "optionC": "Young Miko",
+  "optionD": "Anitta",
+  "correctAnswer": "Rosalía"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué canción abre el álbum Saturno?",
+  "optionA": "Punto 40",
+  "optionB": "Dime Quién??",
+  "optionC": "Más de Una Vez",
+  "optionD": "Lejos del Cielo",
+  "correctAnswer": "Punto 40"
+ },
+ {
+  "id": 32,
+  "question": "¿Qué artista español se hizo mundialmente famoso con Quédate?",
+  "optionA": "Quevedo",
+  "optionB": "Saiko",
+  "optionC": "Morad",
+  "optionD": "Recycled J",
+  "correctAnswer": "Quevedo"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué álbum lanzó Quevedo en 2023?",
+  "optionA": "Donde Quiero Estar",
+  "optionB": "Buenas Noches",
+  "optionC": "Playa Virginia",
+  "optionD": "Sin Señal",
+  "correctAnswer": "Donde Quiero Estar"
+ },
+ {
+  "id": 34,
+  "question": "¿Qué canción lanzó Quevedo junto a Feid?",
+  "optionA": "Ferxxo Edition",
+  "optionB": "Polaris",
+  "optionC": "Luna",
+  "optionD": "Ulises",
+  "correctAnswer": "Polaris"
+ },
+ {
+  "id": 35,
+  "question": "¿Qué canción lanzó Quevedo en 2023 inspirada en la capital colombiana?",
+  "optionA": "Columbia",
+  "optionB": "Vista al Mar",
+  "optionC": "Punto G",
+  "optionD": "Wanda",
+  "correctAnswer": "Columbia"
+ },
+ {
+  "id": 36,
+  "question": "¿Qué canción aparece en Donde Quiero Estar?",
+  "optionA": "Punto G",
+  "optionB": "Monaco",
+  "optionC": "Diluvio",
+  "optionD": "Normal",
+  "correctAnswer": "Punto G"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué artista colaboró con Quevedo en Amaneció?",
+  "optionA": "De La Ghetto",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "De La Ghetto"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué artista colaboró con Bad Bunny en La Canción?",
+  "optionA": "J Balvin",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Anuel AA",
+  "correctAnswer": "J Balvin"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué álbum contiene la canción Yonaguni?",
+  "optionA": "El Último Tour del Mundo",
+  "optionB": "YHLQMDLG",
+  "optionC": "Las Que No Iban a Salir",
+  "optionD": "Ninguno de ellos",
+  "correctAnswer": "Ninguno de ellos"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué artista acompaña a Bad Bunny en Tarot?",
+  "optionA": "Jhayco",
+  "optionB": "Mora",
+  "optionC": "Feid",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Jhayco"
+ },
+ {
+  "id": 41,
+  "question": "¿Qué canción de Bad Bunny incluye referencias a Pokémon y anime japonés?",
+  "optionA": "Yonaguni",
+  "optionB": "Monaco",
+  "optionC": "Perro Negro",
+  "optionD": "Where She Goes",
+  "correctAnswer": "Yonaguni"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué artista colabora con Bad Bunny en Un x100to?",
+  "optionA": "Grupo Frontera",
+  "optionB": "Fuerza Regida",
+  "optionC": "Peso Pluma",
+  "optionD": "Eslabón Armado",
+  "correctAnswer": "Grupo Frontera"
+ },
+ {
+  "id": 43,
+  "question": "¿Qué canción lanzó Bad Bunny en solitario en primavera de 2023?",
+  "optionA": "Where She Goes",
+  "optionB": "Monaco",
+  "optionC": "Fina",
+  "optionD": "Thunder y Lightning",
+  "correctAnswer": "Where She Goes"
+ },
+ {
+  "id": 44,
+  "question": "¿Quién acompaña a Bad Bunny en Perro Negro?",
+  "optionA": "Feid",
+  "optionB": "Mora",
+  "optionC": "Eladio Carrión",
+  "optionD": "Rauw Alejandro",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 45,
+  "question": "¿Qué álbum lanzó Bad Bunny antes de Un Verano Sin Ti?",
+  "optionA": "El Último Tour del Mundo",
+  "optionB": "YHLQMDLG",
+  "optionC": "Oasis",
+  "optionD": "Las Que No Iban a Salir",
+  "correctAnswer": "El Último Tour del Mundo"
+ },
+ {
+  "id": 46,
+  "question": "¿Qué canción de Bad Bunny se hizo viral por su coreografía en TikTok en 2023?",
+  "optionA": "Where She Goes",
+  "optionB": "Monaco",
+  "optionC": "Fina",
+  "optionD": "Mr. October",
+  "correctAnswer": "Where She Goes"
+ },
+ {
+  "id": 47,
+  "question": "¿Qué artista colaboró con Bad Bunny en La Jumpa?",
+  "optionA": "Arcángel",
+  "optionB": "Anuel AA",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Arcángel"
+ },
+ {
+  "id": 48,
+  "question": "¿Qué artista colabora con Karol G en Cairo?",
+  "optionA": "Ovy On The Drums",
+  "optionB": "Quevedo",
+  "optionC": "Feid",
+  "optionD": "Peso Pluma",
+  "correctAnswer": "Ovy On The Drums"
+ },
+ {
+  "id": 49,
+  "question": "¿Qué álbum contiene la canción Amargura?",
+  "optionA": "Mañana Será Bonito",
+  "optionB": "KG0516",
+  "optionC": "Ocean",
+  "optionD": "Unstoppable",
+  "correctAnswer": "Mañana Será Bonito"
+ },
+ {
+  "id": 50,
+  "question": "¿Qué artista aparece junto a Karol G en Contigo?",
+  "optionA": "Tiësto",
+  "optionB": "Feid",
+  "optionC": "Young Miko",
+  "optionD": "Ryan Castro",
+  "correctAnswer": "Tiësto"
+ },
+ {
+  "id": 51,
+  "question": "¿Qué canción de Karol G alcanzó el número 1 global en Spotify España en 2024?",
+  "optionA": "Si Antes Te Hubiera Conocido",
+  "optionB": "TQG",
+  "optionC": "Provenza",
+  "optionD": "Amargura",
+  "correctAnswer": "Si Antes Te Hubiera Conocido"
+ },
+ {
+  "id": 52,
+  "question": "¿Qué tema lanzó Karol G junto a Quevedo?",
+  "optionA": "Pero Tú",
+  "optionB": "Cairo",
+  "optionC": "Kármica",
+  "optionD": "TQG",
+  "correctAnswer": "Pero Tú"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué artista colaboró con Karol G en Friki?",
+  "optionA": "Feid",
+  "optionB": "Anuel AA",
+  "optionC": "J Balvin",
+  "optionD": "Maluma",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 54,
+  "question": "¿Qué canción de Karol G fue inspirada en el merengue?",
+  "optionA": "Si Antes Te Hubiera Conocido",
+  "optionB": "Tusa",
+  "optionC": "Gatúbela",
+  "optionD": "Amargura",
+  "correctAnswer": "Si Antes Te Hubiera Conocido"
+ },
+ {
+  "id": 55,
+  "question": "¿Qué álbum lanzó Karol G antes de Mañana Será Bonito?",
+  "optionA": "KG0516",
+  "optionB": "Ocean",
+  "optionC": "Unstoppable",
+  "optionD": "Tusa",
+  "correctAnswer": "KG0516"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué artista aparece junto a Karol G en Gatúbela?",
+  "optionA": "Maldy",
+  "optionB": "Yandel",
+  "optionC": "Feid",
+  "optionD": "Quevedo",
+  "correctAnswer": "Maldy"
+ },
+ {
+  "id": 57,
+  "question": "¿Qué canción lanzó Feid junto a Sean Paul?",
+  "optionA": "Niña Bonita",
+  "optionB": "Niña Linda",
+  "optionC": "Ferxxo 100",
+  "optionD": "Luna",
+  "correctAnswer": "Niña Bonita"
+ },
+ {
+  "id": 58,
+  "question": "¿Qué artista colaboró con Feid en Ritmo de Medallo?",
+  "optionA": "Ryan Castro",
+  "optionB": "Blessd",
+  "optionC": "Maluma",
+  "optionD": "J Balvin",
+  "correctAnswer": "Ryan Castro"
+ },
+ {
+  "id": 59,
+  "question": "¿Qué álbum lanzó Feid después de Mor No Le Temas a la Oscuridad?",
+  "optionA": "Ferxxocalipsis",
+  "optionB": "Feliz Cumpleaños Ferxxo",
+  "optionC": "Inter Shibuya",
+  "optionD": "19",
+  "correctAnswer": "Ferxxocalipsis"
+ },
+ {
+  "id": 60,
+  "question": "¿Qué artista acompaña a Feid en Bubalu?",
+  "optionA": "Rema",
+  "optionB": "Ozuna",
+  "optionC": "Mora",
+  "optionD": "Quevedo",
+  "correctAnswer": "Rema"
+ },
+ {
+  "id": 61,
+  "question": "¿Qué canción lanzó Feid junto a Yandel?",
+  "optionA": "Yandel 150",
+  "optionB": "Hey Mor",
+  "optionC": "Normal",
+  "optionD": "Luna",
+  "correctAnswer": "Yandel 150"
+ },
+ {
+  "id": 62,
+  "question": "¿Qué artista colaboró con Feid en Ferxxo 100?",
+  "optionA": "ICON",
+  "optionB": "Blessd",
+  "optionC": "Ryan Castro",
+  "optionD": "Sech",
+  "correctAnswer": "ICON"
+ },
+ {
+  "id": 63,
+  "question": "¿Qué artista colaboró con Rauw Alejandro en Santa?",
+  "optionA": "Rvssian",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Rvssian"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué álbum precedió a Saturno?",
+  "optionA": "Vice Versa",
+  "optionB": "Afrodisíaco",
+  "optionC": "Trap Cake Vol.2",
+  "optionD": "Playa Saturno",
+  "correctAnswer": "Vice Versa"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué canción interpreta Rauw Alejandro junto a Anuel AA?",
+  "optionA": "Reloj",
+  "optionB": "Dime Quién??",
+  "optionC": "Santa",
+  "optionD": "Diluvio",
+  "correctAnswer": "Reloj"
+ },
+ {
+  "id": 66,
+  "question": "¿Qué artista colaboró con Rauw Alejandro en Panties y Brasieres?",
+  "optionA": "Daddy Yankee",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Jhayco",
+  "correctAnswer": "Daddy Yankee"
+ },
+ {
+  "id": 67,
+  "question": "¿Qué canción de Rauw Alejandro fue un éxito masivo en 2021?",
+  "optionA": "Todo de Ti",
+  "optionB": "Reloj",
+  "optionC": "Diluvio",
+  "optionD": "Museo",
+  "correctAnswer": "Todo de Ti"
+ },
+ {
+  "id": 68,
+  "question": "¿Qué álbum contiene la canción Museo?",
+  "optionA": "Vice Versa",
+  "optionB": "Saturno",
+  "optionC": "Afrodisíaco",
+  "optionD": "Playa Saturno",
+  "correctAnswer": "Vice Versa"
+ },
+ {
+  "id": 69,
+  "question": "¿Qué artista aparece junto a Rauw Alejandro en Te Felicito?",
+  "optionA": "Shakira",
+  "optionB": "Karol G",
+  "optionC": "Rosalía",
+  "optionD": "Anitta",
+  "correctAnswer": "Shakira"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué canción de Rauw Alejandro tiene un sonido claramente inspirado en los años 80?",
+  "optionA": "Todo de Ti",
+  "optionB": "Diluvio",
+  "optionC": "Punto 40",
+  "optionD": "Lejos del Cielo",
+  "correctAnswer": "Todo de Ti"
+ },
+ {
+  "id": 71,
+  "question": "¿Qué artista colaboró con Rauw Alejandro en Baila Conmigo?",
+  "optionA": "Selena Gomez",
+  "optionB": "Karol G",
+  "optionC": "Anitta",
+  "optionD": "Becky G",
+  "correctAnswer": "Selena Gomez"
+ },
+ {
+  "id": 72,
+  "question": "¿Qué álbum lanzó Rauw Alejandro en 2020?",
+  "optionA": "Afrodisíaco",
+  "optionB": "Vice Versa",
+  "optionC": "Saturno",
+  "optionD": "Trap Cake Vol.2",
+  "correctAnswer": "Afrodisíaco"
+ },
+ {
+  "id": 73,
+  "question": "¿Qué artista colaboró con Quevedo en Ahora Qué?",
+  "optionA": "Saiko",
+  "optionB": "Mora",
+  "optionC": "Feid",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Saiko"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué canción de Quevedo incluye referencias a Colombia desde el título?",
+  "optionA": "Columbia",
+  "optionB": "Punto G",
+  "optionC": "Wanda",
+  "optionD": "Vista al Mar",
+  "correctAnswer": "Columbia"
+ },
+ {
+  "id": 75,
+  "question": "¿Qué artista colaboró con Quevedo en Playa del Inglés?",
+  "optionA": "Myke Towers",
+  "optionB": "Saiko",
+  "optionC": "Mora",
+  "optionD": "Aitana",
+  "correctAnswer": "Myke Towers"
+ },
+ {
+  "id": 76,
+  "question": "¿Qué álbum contiene la canción Vista al Mar?",
+  "optionA": "Donde Quiero Estar",
+  "optionB": "Buenas Noches",
+  "optionC": "Playa Virginia",
+  "optionD": "Sin Señal",
+  "correctAnswer": "Donde Quiero Estar"
+ },
+ {
+  "id": 77,
+  "question": "¿Qué artista aparece junto a Quevedo en Wanda?",
+  "optionA": "Mora",
+  "optionB": "Feid",
+  "optionC": "Myke Towers",
+  "optionD": "Saiko",
+  "correctAnswer": "Mora"
+ },
+ {
+  "id": 78,
+  "question": "¿Qué artista lanzó el álbum Microdosis?",
+  "optionA": "Mora",
+  "optionB": "Feid",
+  "optionC": "Jhayco",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Mora"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué canción de Mora incluye a Bad Bunny como colaborador?",
+  "optionA": "Una Vez",
+  "optionB": "APA",
+  "optionC": "Memorias",
+  "optionD": "512",
+  "correctAnswer": "Una Vez"
+ },
+ {
+  "id": 80,
+  "question": "¿Qué álbum lanzó Mora en 2021?",
+  "optionA": "Primer Día de Clases",
+  "optionB": "Microdosis",
+  "optionC": "Paraíso",
+  "optionD": "Estrella",
+  "correctAnswer": "Microdosis"
+ },
+ {
+  "id": 81,
+  "question": "¿Qué canción de Mora se convirtió en una de las más reproducidas de Microdosis?",
+  "optionA": "Memorias",
+  "optionB": "APA",
+  "optionC": "512",
+  "optionD": "Volando",
+  "correctAnswer": "Memorias"
+ },
+ {
+  "id": 82,
+  "question": "¿Qué artista acompaña a Mora en Volando Remix?",
+  "optionA": "Bad Bunny y Sech",
+  "optionB": "Feid y Jhayco",
+  "optionC": "Rauw y Myke Towers",
+  "optionD": "Quevedo y Saiko",
+  "correctAnswer": "Bad Bunny y Sech"
+ },
+ {
+  "id": 83,
+  "question": "¿Qué álbum lanzó Mora en 2022?",
+  "optionA": "Paraíso",
+  "optionB": "Primer Día de Clases",
+  "optionC": "Microdosis",
+  "optionD": "Estrella",
+  "correctAnswer": "Paraíso"
+ },
+ {
+  "id": 84,
+  "question": "¿Qué canción de Mora comparte nombre con un número?",
+  "optionA": "512",
+  "optionB": "Memorias",
+  "optionC": "APA",
+  "optionD": "Reina",
+  "correctAnswer": "512"
+ },
+ {
+  "id": 85,
+  "question": "¿Con qué artista colaboró Mora en Reina?",
+  "optionA": "Saiko",
+  "optionB": "Feid",
+  "optionC": "Quevedo",
+  "optionD": "Jhayco",
+  "correctAnswer": "Saiko"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué álbum lanzó Mora en 2023?",
+  "optionA": "Estrella",
+  "optionB": "Paraíso",
+  "optionC": "Microdosis",
+  "optionD": "Primer Día de Clases",
+  "correctAnswer": "Estrella"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué canción de Estrella incluye a Young Miko?",
+  "optionA": "Corazón Partío",
+  "optionB": "Bikini",
+  "optionC": "Media Luna",
+  "optionD": "Tuyo",
+  "correctAnswer": "Bikini"
+ },
+ {
+  "id": 88,
+  "question": "¿Quién interpreta LACONE junto a Mora?",
+  "optionA": "Saiko",
+  "optionB": "Quevedo",
+  "optionC": "Feid",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Saiko"
+ },
+ {
+  "id": 89,
+  "question": "¿Qué canción de Mora incluye a Feid?",
+  "optionA": "La Inocente",
+  "optionB": "Reina",
+  "optionC": "Media Luna",
+  "optionD": "Volando",
+  "correctAnswer": "La Inocente"
+ },
+ {
+  "id": 90,
+  "question": "¿Qué artista acompaña a Mora en La Inocente?",
+  "optionA": "Feid",
+  "optionB": "Quevedo",
+  "optionC": "Saiko",
+  "optionD": "Young Miko",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 91,
+  "question": "¿Qué canción de Mora fue especialmente popular en TikTok en 2022?",
+  "optionA": "Memorias",
+  "optionB": "512",
+  "optionC": "APA",
+  "optionD": "Volando",
+  "correctAnswer": "Memorias"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué artista lanzó el álbum Easy Money Baby?",
+  "optionA": "Myke Towers",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Sech",
+  "correctAnswer": "Myke Towers"
+ },
+ {
+  "id": 93,
+  "question": "¿Qué canción impulsó la popularidad internacional de Myke Towers en 2020?",
+  "optionA": "Diosa",
+  "optionB": "Girl",
+  "optionC": "Ronca",
+  "optionD": "Experimento",
+  "correctAnswer": "Diosa"
+ },
+ {
+  "id": 94,
+  "question": "¿Qué artista colaboró con Myke Towers en Bandido?",
+  "optionA": "Tini",
+  "optionB": "Emilia",
+  "optionC": "Karol G",
+  "optionD": "Anitta",
+  "correctAnswer": "Tini"
+ },
+ {
+  "id": 95,
+  "question": "¿Qué álbum lanzó Myke Towers en 2021?",
+  "optionA": "Lyke Mike",
+  "optionB": "Easy Money Baby",
+  "optionC": "La Vida Es Una",
+  "optionD": "Island Boyz",
+  "correctAnswer": "Lyke Mike"
+ },
+ {
+  "id": 96,
+  "question": "¿Qué canción lanzó Myke Towers junto a Juhn?",
+  "optionA": "Bandido",
+  "optionB": "Diosa",
+  "optionC": "LALA",
+  "optionD": "Girl",
+  "correctAnswer": "Bandido"
+ },
+ {
+  "id": 97,
+  "question": "¿Qué álbum lanzó Myke Towers en 2023?",
+  "optionA": "La Vida Es Una",
+  "optionB": "Easy Money Baby",
+  "optionC": "Lyke Mike",
+  "optionD": "Easy Money Baby Reloaded",
+  "correctAnswer": "La Vida Es Una"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué artista colabora con Myke Towers en Mi Droga?",
+  "optionA": "Bad Bunny",
+  "optionB": "Mora",
+  "optionC": "Feid",
+  "optionD": "Quevedo",
+  "correctAnswer": "Bad Bunny"
+ },
+ {
+  "id": 99,
+  "question": "¿Qué canción interpreta Myke Towers junto a Daddy Yankee?",
+  "optionA": "Ulala",
+  "optionB": "Experimento",
+  "optionC": "La Curiosidad",
+  "optionD": "Súbele el Volumen",
+  "correctAnswer": "Ulala"
+ },
+ {
+  "id": 100,
+  "question": "¿Qué artista acompaña a Myke Towers en Playa del Inglés?",
+  "optionA": "Quevedo",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Saiko",
+  "correctAnswer": "Quevedo"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué artista lanzó el álbum Att.?",
+  "optionA": "Young Miko",
+  "optionB": "Villano Antillano",
+  "optionC": "Emilia",
+  "optionD": "Nicki Nicole",
+  "correctAnswer": "Young Miko"
+ },
+ {
+  "id": 102,
+  "question": "¿Qué artista puertorriqueña es conocida por temas como Wiggy y Riri?",
+  "optionA": "Young Miko",
+  "optionB": "Villano Antillano",
+  "optionC": "RaiNao",
+  "optionD": "Chesca",
+  "correctAnswer": "Young Miko"
+ },
+ {
+  "id": 103,
+  "question": "¿Qué artista acompaña a Young Miko en Fina?",
+  "optionA": "Bad Bunny",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Rauw Alejandro",
+  "correctAnswer": "Bad Bunny"
+ },
+ {
+  "id": 104,
+  "question": "¿Qué canción de Young Miko incluye a Villano Antillano?",
+  "optionA": "Vendetta",
+  "optionB": "Wiggy",
+  "optionC": "Riri",
+  "optionD": "Lisa",
+  "correctAnswer": "Vendetta"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué artista colaboró con Young Miko en Dispo?",
+  "optionA": "Karol G",
+  "optionB": "Feid",
+  "optionC": "Emilia",
+  "optionD": "Anitta",
+  "correctAnswer": "Karol G"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué canción lanzó Young Miko junto a Jowell y Randy?",
+  "optionA": "ID",
+  "optionB": "FK",
+  "optionC": "Riri",
+  "optionD": "Wiggy",
+  "correctAnswer": "ID"
+ },
+ {
+  "id": 107,
+  "question": "¿Qué artista colaboró con Young Miko en En Esta Boca?",
+  "optionA": "Kany García",
+  "optionB": "Karol G",
+  "optionC": "Anitta",
+  "optionD": "Bad Gyal",
+  "correctAnswer": "Kany García"
+ },
+ {
+  "id": 108,
+  "question": "¿Qué álbum lanzó Mora antes de Estrella?",
+  "optionA": "Paraíso",
+  "optionB": "Microdosis",
+  "optionC": "Primer Día de Clases",
+  "optionD": "Estrella",
+  "correctAnswer": "Paraíso"
+ },
+ {
+  "id": 109,
+  "question": "¿Qué canción une a Mora y Quevedo?",
+  "optionA": "Tuyo",
+  "optionB": "LACONE",
+  "optionC": "APA",
+  "optionD": "Media Luna",
+  "correctAnswer": "Tuyo"
+ },
+ {
+  "id": 110,
+  "question": "¿Qué artista colabora con Myke Towers en Adivino?",
+  "optionA": "Bad Bunny",
+  "optionB": "Sech",
+  "optionC": "Mora",
+  "optionD": "Quevedo",
+  "correctAnswer": "Bad Bunny"
+ },
+ {
+  "id": 111,
+  "question": "¿Qué canción de Myke Towers fue una de las más escuchadas de 2024 en España?",
+  "optionA": "La Falda",
+  "optionB": "LALA",
+  "optionC": "Diosa",
+  "optionD": "Ulala",
+  "correctAnswer": "La Falda"
+ },
+ {
+  "id": 112,
+  "question": "¿Qué artista colabora con Young Miko en Tempo?",
+  "optionA": "María Becerra",
+  "optionB": "Karol G",
+  "optionC": "Anitta",
+  "optionD": "Emilia",
+  "correctAnswer": "María Becerra"
+ },
+ {
+  "id": 113,
+  "question": "¿Qué canción de Mora contiene la palabra Corazón en el título?",
+  "optionA": "Corazón Partío",
+  "optionB": "Media Luna",
+  "optionC": "Reina",
+  "optionD": "Memorias",
+  "correctAnswer": "Corazón Partío"
+ },
+ {
+  "id": 114,
+  "question": "¿Qué artista aparece junto a Mora en Media Luna?",
+  "optionA": "C. Tangana",
+  "optionB": "Feid",
+  "optionC": "Saiko",
+  "optionD": "Quevedo",
+  "correctAnswer": "C. Tangana"
+ },
+ {
+  "id": 115,
+  "question": "¿Qué canción de Myke Towers pertenece al álbum La Vida Es Una?",
+  "optionA": "Mi Droga",
+  "optionB": "LALA",
+  "optionC": "Diosa",
+  "optionD": "Girl",
+  "correctAnswer": "Mi Droga"
+ },
+ {
+  "id": 116,
+  "question": "¿Qué artista acompaña a Young Miko en Curita?",
+  "optionA": "Dei V",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Quevedo",
+  "correctAnswer": "Dei V"
+ },
+ {
+  "id": 117,
+  "question": "¿Qué artista ha colaborado tanto con Feid como con Bad Bunny y Young Miko?",
+  "optionA": "Mora",
+  "optionB": "Saiko",
+  "optionC": "Ryan Castro",
+  "optionD": "Sech",
+  "correctAnswer": "Mora"
+ },
+ {
+  "id": 118,
+  "question": "¿Qué artista lanzó el álbum Sakura?",
+  "optionA": "Saiko",
+  "optionB": "Quevedo",
+  "optionC": "Mora",
+  "optionD": "Dei V",
+  "correctAnswer": "Saiko"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué canción de Saiko se convirtió en uno de sus primeros éxitos masivos?",
+  "optionA": "Polaris",
+  "optionB": "Supernova",
+  "optionC": "Buenas",
+  "optionD": "Antidepresivos",
+  "correctAnswer": "Supernova"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué artista colaboró con Saiko en Polaris?",
+  "optionA": "Feid",
+  "optionB": "Quevedo",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 121,
+  "question": "¿Qué canción lanzó Saiko junto a Quevedo?",
+  "optionA": "Buenas",
+  "optionB": "Los Gánsteres Lloran",
+  "optionC": "Te Rápido",
+  "optionD": "Antidepresivos",
+  "correctAnswer": "Los Gánsteres Lloran"
+ },
+ {
+  "id": 122,
+  "question": "¿Qué artista lanzó Sayonara en 2024?",
+  "optionA": "Álvaro Díaz",
+  "optionB": "Eladio Carrión",
+  "optionC": "Jhayco",
+  "optionD": "Dei V",
+  "correctAnswer": "Álvaro Díaz"
+ },
+ {
+  "id": 123,
+  "question": "¿Qué canción lanzó Álvaro Díaz junto a Feid?",
+  "optionA": "Llori Pari",
+  "optionB": "Gatitas Sandungueras",
+  "optionC": "Problemón",
+  "optionD": "Yoko",
+  "correctAnswer": "Llori Pari"
+ },
+ {
+  "id": 124,
+  "question": "¿Qué álbum lanzó Álvaro Díaz antes de Sayonara?",
+  "optionA": "Felicilandia",
+  "optionB": "Microdosis",
+  "optionC": "Saturno",
+  "optionD": "Easy Money Baby",
+  "correctAnswer": "Felicilandia"
+ },
+ {
+  "id": 125,
+  "question": "¿Qué artista lanzó Timelezz?",
+  "optionA": "Jhayco",
+  "optionB": "Mora",
+  "optionC": "Feid",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Jhayco"
+ },
+ {
+  "id": 126,
+  "question": "¿Cuál era el nombre artístico anterior de Jhayco?",
+  "optionA": "Jhay Cortez",
+  "optionB": "Jhay El Increíble",
+  "optionC": "J Cortez",
+  "optionD": "Jay C",
+  "correctAnswer": "Jhay Cortez"
+ },
+ {
+  "id": 127,
+  "question": "¿Qué canción lanzó Jhayco junto a Bad Bunny?",
+  "optionA": "Dákiti",
+  "optionB": "512",
+  "optionC": "Normal",
+  "optionD": "Volando",
+  "correctAnswer": "Dákiti"
+ },
+ {
+  "id": 128,
+  "question": "¿Qué canción convirtió a Jhayco en una figura global junto a Bad Bunny?",
+  "optionA": "Dákiti",
+  "optionB": "No Me Conoce",
+  "optionC": "Easy",
+  "optionD": "Christian Dior",
+  "correctAnswer": "Dákiti"
+ },
+ {
+  "id": 129,
+  "question": "¿Qué artista acompaña a Jhayco en No Me Conoce Remix?",
+  "optionA": "J Balvin y Bad Bunny",
+  "optionB": "Feid y Mora",
+  "optionC": "Anuel y Ozuna",
+  "optionD": "Quevedo y Saiko",
+  "correctAnswer": "J Balvin y Bad Bunny"
+ },
+ {
+  "id": 130,
+  "question": "¿Qué álbum lanzó Jhayco en 2023?",
+  "optionA": "Vida Rockstar",
+  "optionB": "Timelezz",
+  "optionC": "Famouz",
+  "optionD": "Le Clique",
+  "correctAnswer": "Vida Rockstar"
+ },
+ {
+  "id": 131,
+  "question": "¿Qué artista lanzó 3MEN2 KBRN?",
+  "optionA": "Eladio Carrión",
+  "optionB": "Anuel AA",
+  "optionC": "Arcángel",
+  "optionD": "Mora",
+  "correctAnswer": "Eladio Carrión"
+ },
+ {
+  "id": 132,
+  "question": "¿Qué canción lanzó Eladio Carrión junto a Bad Bunny?",
+  "optionA": "Coco Chanel",
+  "optionB": "Mbappé",
+  "optionC": "Si La Calle Llama",
+  "optionD": "Sigue Bailándome",
+  "correctAnswer": "Coco Chanel"
+ },
+ {
+  "id": 133,
+  "question": "¿Qué canción de Eladio Carrión hace referencia a un futbolista francés?",
+  "optionA": "Mbappé",
+  "optionB": "Coco Chanel",
+  "optionC": "Tata",
+  "optionD": "Sauce Boy Freestyle",
+  "correctAnswer": "Mbappé"
+ },
+ {
+  "id": 134,
+  "question": "¿Qué álbum lanzó Eladio Carrión en 2024?",
+  "optionA": "Sol María",
+  "optionB": "3MEN2 KBRN",
+  "optionC": "SEN2 KBRN VOL.2",
+  "optionD": "Monarca",
+  "correctAnswer": "Sol María"
+ },
+ {
+  "id": 135,
+  "question": "¿Qué artista colaboró con Eladio Carrión en Coco Chanel?",
+  "optionA": "Bad Bunny",
+  "optionB": "Mora",
+  "optionC": "Feid",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Bad Bunny"
+ },
+ {
+  "id": 136,
+  "question": "¿Qué artista lanzó El Cantante del Ghetto?",
+  "optionA": "Ryan Castro",
+  "optionB": "Blessd",
+  "optionC": "Feid",
+  "optionD": "Maluma",
+  "correctAnswer": "Ryan Castro"
+ },
+ {
+  "id": 137,
+  "question": "¿Qué canción convirtió a Ryan Castro en una figura popular del género?",
+  "optionA": "Mujeriego",
+  "optionB": "Jordan",
+  "optionC": "Monastery",
+  "optionD": "Corazón Roto",
+  "correctAnswer": "Mujeriego"
+ },
+ {
+  "id": 138,
+  "question": "¿Qué artista colaboró con Ryan Castro en Monastery?",
+  "optionA": "Feid",
+  "optionB": "Blessd",
+  "optionC": "Maluma",
+  "optionD": "Sech",
+  "correctAnswer": "Feid"
+ },
+ {
+  "id": 139,
+  "question": "¿Qué canción lanzó Ryan Castro junto a Peso Pluma?",
+  "optionA": "Quema",
+  "optionB": "Jordan",
+  "optionC": "Mujeriego",
+  "optionD": "Monastery",
+  "correctAnswer": "Quema"
+ },
+ {
+  "id": 140,
+  "question": "¿Cuál es el país de origen de Blessd?",
+  "optionA": "Colombia",
+  "optionB": "Puerto Rico",
+  "optionC": "México",
+  "optionD": "Argentina",
+  "correctAnswer": "Colombia"
+ },
+ {
+  "id": 141,
+  "question": "¿Qué canción lanzó Blessd junto a Ryan Castro?",
+  "optionA": "Lejanía",
+  "optionB": "Niña de Mis Sueños",
+  "optionC": "Quien TV",
+  "optionD": "Medallo",
+  "correctAnswer": "Medallo"
+ },
+ {
+  "id": 142,
+  "question": "¿Qué artista acompaña a Blessd en Medallo?",
+  "optionA": "Justin Quiles y Lenny Tavárez",
+  "optionB": "Feid y Mora",
+  "optionC": "Maluma y J Balvin",
+  "optionD": "Ryan Castro y Sech",
+  "correctAnswer": "Justin Quiles y Lenny Tavárez"
+ },
+ {
+  "id": 143,
+  "question": "¿Qué canción lanzó Dei V junto a Karol G?",
+  "optionA": "Gatita Gangster",
+  "optionB": "Sirena",
+  "optionC": "Narcotics",
+  "optionD": "Trending Remix",
+  "correctAnswer": "Gatita Gangster"
+ },
+ {
+  "id": 144,
+  "question": "¿Qué canción de Ryan Castro hace referencia a una estrella del baloncesto?",
+  "optionA": "Jordan",
+  "optionB": "Mujeriego",
+  "optionC": "Quema",
+  "optionD": "Monastery",
+  "correctAnswer": "Jordan"
+ },
+ {
+  "id": 145,
+  "question": "¿Qué artista colaboró con Blessd en Ojos Azules?",
+  "optionA": "Peso Pluma",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Peso Pluma"
+ },
+ {
+  "id": 146,
+  "question": "¿Qué álbum lanzó Blessd en 2024?",
+  "optionA": "Si Sabe",
+  "optionB": "Si Sabe Ferxxo Edition",
+  "optionC": "Siempre Blessd",
+  "optionD": "Hecho en Medellín",
+  "correctAnswer": "Si Sabe"
+ },
+ {
+  "id": 147,
+  "question": "¿Qué artista colaboró con Saiko en Bad Gyal?",
+  "optionA": "JC Reyes",
+  "optionB": "Quevedo",
+  "optionC": "Feid",
+  "optionD": "Mora",
+  "correctAnswer": "JC Reyes"
+ },
+ {
+  "id": 148,
+  "question": "¿Qué artista colaboró con Jhayco en Christian Dior?",
+  "optionA": "Sech",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Sech"
+ },
+ {
+  "id": 149,
+  "question": "¿Qué artista colaboró con Ryan Castro en Corazón Roto Remix?",
+  "optionA": "Jhayco",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Quevedo",
+  "correctAnswer": "Jhayco"
+ },
+ {
+  "id": 150,
+  "question": "¿Qué canción de Blessd incluye a Feid?",
+  "optionA": "Sí Sabe Ferxxo",
+  "optionB": "Medallo",
+  "optionC": "Instagram",
+  "optionD": "AP",
+  "correctAnswer": "Sí Sabe Ferxxo"
+ },
+ {
+  "id": 151,
+  "question": "¿Qué canción de Saiko fue una de las más escuchadas en España en 2024?",
+  "optionA": "Polaris",
+  "optionB": "Supernova",
+  "optionC": "Buenas",
+  "optionD": "Antidepresivos",
+  "correctAnswer": "Polaris"
+ },
+ {
+  "id": 152,
+  "question": "¿Qué artista de este bloque ha colaborado tanto con Feid como con Quevedo?",
+  "optionA": "Saiko",
+  "optionB": "Blessd",
+  "optionC": "Dei V",
+  "optionD": "Ryan Castro",
+  "correctAnswer": "Saiko"
+ },
+ {
+  "id": 153,
+  "question": "¿Qué artista lanzó el álbum Colores?",
+  "optionA": "J Balvin",
+  "optionB": "Maluma",
+  "optionC": "Ozuna",
+  "optionD": "Sech",
+  "correctAnswer": "J Balvin"
+ },
+ {
+  "id": 154,
+  "question": "¿Qué canción de J Balvin se convirtió en un éxito mundial junto a Willy William?",
+  "optionA": "Mi Gente",
+  "optionB": "Ginza",
+  "optionC": "Ay Vamos",
+  "optionD": "Rojo",
+  "correctAnswer": "Mi Gente"
+ },
+ {
+  "id": 155,
+  "question": "¿Qué álbum lanzó J Balvin junto a Bad Bunny?",
+  "optionA": "Oasis",
+  "optionB": "Colores",
+  "optionC": "Vibras",
+  "optionD": "Energía",
+  "correctAnswer": "Oasis"
+ },
+ {
+  "id": 156,
+  "question": "¿Qué canción de Oasis fue una de las más populares?",
+  "optionA": "La Canción",
+  "optionB": "Mojaita",
+  "optionC": "Cuidao por Ahí",
+  "optionD": "Yo Le Llego",
+  "correctAnswer": "La Canción"
+ },
+ {
+  "id": 157,
+  "question": "¿Qué álbum lanzó J Balvin antes de Colores?",
+  "optionA": "Vibras",
+  "optionB": "Energía",
+  "optionC": "Jose",
+  "optionD": "Real",
+  "correctAnswer": "Vibras"
+ },
+ {
+  "id": 158,
+  "question": "¿Qué artista colaboró con J Balvin en Qué Más Pues??",
+  "optionA": "Maria Becerra",
+  "optionB": "Karol G",
+  "optionC": "Rosalía",
+  "optionD": "Anitta",
+  "correctAnswer": "Maria Becerra"
+ },
+ {
+  "id": 159,
+  "question": "¿Qué álbum lanzó J Balvin en 2021?",
+  "optionA": "Jose",
+  "optionB": "Colores",
+  "optionC": "Vibras",
+  "optionD": "Energía",
+  "correctAnswer": "Jose"
+ },
+ {
+  "id": 160,
+  "question": "¿Qué canción de J Balvin incluye a Skrillex?",
+  "optionA": "In Da Getto",
+  "optionB": "Rojo",
+  "optionC": "Azul",
+  "optionD": "Ginza",
+  "correctAnswer": "In Da Getto"
+ },
+ {
+  "id": 161,
+  "question": "¿Qué artista lanzó el álbum Papi Juancho?",
+  "optionA": "Maluma",
+  "optionB": "J Balvin",
+  "optionC": "Ozuna",
+  "optionD": "Sech",
+  "correctAnswer": "Maluma"
+ },
+ {
+  "id": 162,
+  "question": "¿Qué canción lanzó Maluma junto a The Weeknd?",
+  "optionA": "Hawái Remix",
+  "optionB": "Felices los 4",
+  "optionC": "Sobrio",
+  "optionD": "Junio",
+  "correctAnswer": "Hawái Remix"
+ },
+ {
+  "id": 163,
+  "question": "¿Qué canción convirtió a Maluma en un fenómeno global durante la pandemia?",
+  "optionA": "Hawái",
+  "optionB": "Sobrio",
+  "optionC": "ADMV",
+  "optionD": "Junio",
+  "correctAnswer": "Hawái"
+ },
+ {
+  "id": 164,
+  "question": "¿Qué álbum contiene Hawái?",
+  "optionA": "Papi Juancho",
+  "optionB": "11:11",
+  "optionC": "F.A.M.E.",
+  "optionD": "Don Juan",
+  "correctAnswer": "Papi Juancho"
+ },
+ {
+  "id": 165,
+  "question": "¿Qué artista colaboró con Maluma en Según Quién?",
+  "optionA": "Carin León",
+  "optionB": "Peso Pluma",
+  "optionC": "Grupo Frontera",
+  "optionD": "Fuerza Regida",
+  "correctAnswer": "Carin León"
+ },
+ {
+  "id": 166,
+  "question": "¿Qué álbum lanzó Maluma en 2023?",
+  "optionA": "Don Juan",
+  "optionB": "Papi Juancho",
+  "optionC": "11:11",
+  "optionD": "F.A.M.E.",
+  "correctAnswer": "Don Juan"
+ },
+ {
+  "id": 167,
+  "question": "¿Qué canción lanzó Maluma junto a Marc Anthony?",
+  "optionA": "La Fórmula",
+  "optionB": "Hawái",
+  "optionC": "Sobrio",
+  "optionD": "Coco Loco",
+  "correctAnswer": "La Fórmula"
+ },
+ {
+  "id": 168,
+  "question": "¿Qué tema de Maluma hace referencia a una bebida tropical?",
+  "optionA": "Coco Loco",
+  "optionB": "Hawái",
+  "optionC": "Junio",
+  "optionD": "Sobrio",
+  "correctAnswer": "Coco Loco"
+ },
+ {
+  "id": 169,
+  "question": "¿Qué canción de Maluma incluye a Yandel?",
+  "optionA": "Trofeo",
+  "optionB": "Junio",
+  "optionC": "Sobrio",
+  "optionD": "ADMV",
+  "correctAnswer": "Trofeo"
+ },
+ {
+  "id": 170,
+  "question": "¿Qué artista lanzó Ozutochi?",
+  "optionA": "Ozuna",
+  "optionB": "Sech",
+  "optionC": "Maluma",
+  "optionD": "J Balvin",
+  "correctAnswer": "Ozuna"
+ },
+ {
+  "id": 171,
+  "question": "¿Qué canción lanzó Ozuna junto a Feid?",
+  "optionA": "Hey Mor",
+  "optionB": "Caramelo",
+  "optionC": "Del Mar",
+  "optionD": "Se Preparó",
+  "correctAnswer": "Hey Mor"
+ },
+ {
+  "id": 172,
+  "question": "¿Qué canción fue uno de los mayores éxitos de Ozuna en 2020?",
+  "optionA": "Caramelo",
+  "optionB": "Del Mar",
+  "optionC": "Hey Mor",
+  "optionD": "Baila Baila Baila",
+  "correctAnswer": "Caramelo"
+ },
+ {
+  "id": 173,
+  "question": "¿Qué álbum lanzó Ozuna en 2022?",
+  "optionA": "Ozutochi",
+  "optionB": "Nibiru",
+  "optionC": "Aura",
+  "optionD": "ENOC",
+  "correctAnswer": "Ozutochi"
+ },
+ {
+  "id": 174,
+  "question": "¿Qué canción lanzó Ozuna junto a Pedro Capó?",
+  "optionA": "Mar Chiquita",
+  "optionB": "Caramelo",
+  "optionC": "Del Mar",
+  "optionD": "Monotonía",
+  "correctAnswer": "Mar Chiquita"
+ },
+ {
+  "id": 175,
+  "question": "¿Qué álbum lanzó Ozuna en 2024?",
+  "optionA": "Cosmo",
+  "optionB": "Ozutochi",
+  "optionC": "Nibiru",
+  "optionD": "Aura",
+  "correctAnswer": "Cosmo"
+ },
+ {
+  "id": 176,
+  "question": "¿Qué artista colaboró con Ozuna en Monotonía?",
+  "optionA": "Shakira",
+  "optionB": "Karol G",
+  "optionC": "Anitta",
+  "optionD": "Becky G",
+  "correctAnswer": "Shakira"
+ },
+ {
+  "id": 177,
+  "question": "¿Qué artista lanzó el álbum 42?",
+  "optionA": "Sech",
+  "optionB": "Ozuna",
+  "optionC": "Maluma",
+  "optionD": "J Balvin",
+  "correctAnswer": "Sech"
+ },
+ {
+  "id": 178,
+  "question": "¿Qué canción convirtió a Sech en una figura internacional?",
+  "optionA": "Otro Trago",
+  "optionB": "911",
+  "optionC": "Relación",
+  "optionD": "Sal y Perrea",
+  "correctAnswer": "Otro Trago"
+ },
+ {
+  "id": 179,
+  "question": "¿Qué canción de Sech fue especialmente popular en TikTok?",
+  "optionA": "Relación",
+  "optionB": "911",
+  "optionC": "Sal y Perrea",
+  "optionD": "Volando",
+  "correctAnswer": "Relación"
+ },
+ {
+  "id": 180,
+  "question": "¿Qué álbum lanzó Sech en 2021?",
+  "optionA": "42",
+  "optionB": "Sueños",
+  "optionC": "1 of 1",
+  "optionD": "Bahía Ducati",
+  "correctAnswer": "42"
+ },
+ {
+  "id": 181,
+  "question": "¿Qué artista colaboró con Sech en Sal y Perrea?",
+  "optionA": "Daddy Yankee",
+  "optionB": "Wisin",
+  "optionC": "Yandel",
+  "optionD": "Nicky Jam",
+  "correctAnswer": "Daddy Yankee"
+ },
+ {
+  "id": 182,
+  "question": "¿Qué canción de Sech incluye a Rosalía?",
+  "optionA": "Relación Remix",
+  "optionB": "Otro Trago",
+  "optionC": "911",
+  "optionD": "Sal y Perrea",
+  "correctAnswer": "Relación Remix"
+ },
+ {
+  "id": 183,
+  "question": "¿Qué artista colaboró con Sech en 911?",
+  "optionA": "Jhayco",
+  "optionB": "Feid",
+  "optionC": "Mora",
+  "optionD": "Myke Towers",
+  "correctAnswer": "Jhayco"
+ },
+ {
+  "id": 184,
+  "question": "¿Qué artista lanzó el álbum 2000?",
+  "optionA": "Manuel Turizo",
+  "optionB": "Sebastián Yatra",
+  "optionC": "Camilo",
+  "optionD": "Mau y Ricky",
+  "correctAnswer": "Manuel Turizo"
+ },
+ {
+  "id": 185,
+  "question": "¿Qué artista colaboró con Manuel Turizo en El Merengue?",
+  "optionA": "Marshmello",
+  "optionB": "Bizarrap",
+  "optionC": "Tainy",
+  "optionD": "Ovy On The Drums",
+  "correctAnswer": "Marshmello"
+ },
+ {
+  "id": 186,
+  "question": "¿Qué canción lanzó Manuel Turizo junto a Beéle?",
+  "optionA": "Vagabundo",
+  "optionB": "La Bachata",
+  "optionC": "Éxtasis",
+  "optionD": "Culpables",
+  "correctAnswer": "Vagabundo"
+ }
+]

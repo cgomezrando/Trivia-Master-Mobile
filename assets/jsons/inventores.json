@@ -1,0 +1,1082 @@
+[
+ {
+  "id": 1,
+  "question": "¿Quién desarrolló la primera bombilla eléctrica práctica y comercializable?",
+  "optionA": "Thomas Edison",
+  "optionB": "Nikola Tesla",
+  "optionC": "Alessandro Volta",
+  "optionD": "Michael Faraday",
+  "correctAnswer": "Thomas Edison"
+ },
+ {
+  "id": 2,
+  "question": "¿A quién se atribuye la invención del teléfono con la primera patente concedida?",
+  "optionA": "Alexander Graham Bell",
+  "optionB": "Guglielmo Marconi",
+  "optionC": "Samuel Morse",
+  "optionD": "Werner von Siemens",
+  "correctAnswer": "Alexander Graham Bell"
+ },
+ {
+  "id": 3,
+  "question": "¿Quién introdujo en Europa la imprenta de tipos móviles?",
+  "optionA": "Johannes Gutenberg",
+  "optionB": "Aldo Manuzio",
+  "optionC": "William Caxton",
+  "optionD": "Nicolás Copérnico",
+  "correctAnswer": "Johannes Gutenberg"
+ },
+ {
+  "id": 4,
+  "question": "¿Qué industrial popularizó la cadena de montaje en la fabricación de automóviles?",
+  "optionA": "Henry Ford",
+  "optionB": "Ransom Olds",
+  "optionC": "André Citroën",
+  "optionD": "Gottlieb Daimler",
+  "correctAnswer": "Henry Ford"
+ },
+ {
+  "id": 5,
+  "question": "¿Quién construyó el primer automóvil con motor de gasolina considerado práctico?",
+  "optionA": "Karl Benz",
+  "optionB": "Henry Ford",
+  "optionC": "Rudolf Diesel",
+  "optionD": "Étienne Lenoir",
+  "correctAnswer": "Karl Benz"
+ },
+ {
+  "id": 6,
+  "question": "¿Qué genio del Renacimiento dejó cuadernos con diseños de máquinas voladoras?",
+  "optionA": "Leonardo da Vinci",
+  "optionB": "Miguel Ángel",
+  "optionC": "Galileo Galilei",
+  "optionD": "Rafael Sanzio",
+  "correctAnswer": "Leonardo da Vinci"
+ },
+ {
+  "id": 7,
+  "question": "¿Qué ingeniero escocés mejoró la máquina de vapor y la hizo eficiente?",
+  "optionA": "James Watt",
+  "optionB": "Thomas Newcomen",
+  "optionC": "George Stephenson",
+  "optionD": "Richard Arkwright",
+  "correctAnswer": "James Watt"
+ },
+ {
+  "id": 8,
+  "question": "¿Quién logró la primera transmisión de radio a larga distancia?",
+  "optionA": "Guglielmo Marconi",
+  "optionB": "Heinrich Hertz",
+  "optionC": "Lee De Forest",
+  "optionD": "Edouard Branly",
+  "correctAnswer": "Guglielmo Marconi"
+ },
+ {
+  "id": 9,
+  "question": "¿Qué inventor dio nombre al código de puntos y rayas del telégrafo?",
+  "optionA": "Samuel Morse",
+  "optionB": "Charles Wheatstone",
+  "optionC": "Claude Chappe",
+  "optionD": "Alfred Vail",
+  "correctAnswer": "Samuel Morse"
+ },
+ {
+  "id": 10,
+  "question": "¿Qué matemático británico diseñó en el siglo XIX la máquina analítica, precursora del ordenador?",
+  "optionA": "Charles Babbage",
+  "optionB": "Alan Turing",
+  "optionC": "George Boole",
+  "optionD": "John Napier",
+  "correctAnswer": "Charles Babbage"
+ },
+ {
+  "id": 11,
+  "question": "¿Quién está considerada la primera persona que escribió un algoritmo pensado para una máquina?",
+  "optionA": "Ada Lovelace",
+  "optionB": "Grace Hopper",
+  "optionC": "Hedy Lamarr",
+  "optionD": "Marie Curie",
+  "correctAnswer": "Ada Lovelace"
+ },
+ {
+  "id": 12,
+  "question": "¿Quién propuso el sistema que dio origen a la World Wide Web?",
+  "optionA": "Tim Berners-Lee",
+  "optionB": "Vint Cerf",
+  "optionC": "Bill Gates",
+  "optionD": "Steve Wozniak",
+  "correctAnswer": "Tim Berners-Lee"
+ },
+ {
+  "id": 13,
+  "question": "¿Qué hermanos lograron el primer vuelo controlado con un aparato más pesado que el aire?",
+  "optionA": "Los hermanos Wright",
+  "optionB": "Los hermanos Montgolfier",
+  "optionC": "Los hermanos Lumière",
+  "optionD": "Los hermanos Renault",
+  "correctAnswer": "Los hermanos Wright"
+ },
+ {
+  "id": 14,
+  "question": "¿Qué inventor húngaro dio su nombre al bolígrafo en muchos países?",
+  "optionA": "László Bíró",
+  "optionB": "Lewis Waterman",
+  "optionC": "Marcel Bich",
+  "optionD": "George Parker",
+  "correctAnswer": "László Bíró"
+ },
+ {
+  "id": 15,
+  "question": "¿Qué ingeniero suizo inventó el velcro tras observar unos cardos pegados al pelo de su perro?",
+  "optionA": "George de Mestral",
+  "optionB": "Jacques Piccard",
+  "optionC": "Auguste Piccard",
+  "optionD": "Henri Nestlé",
+  "correctAnswer": "George de Mestral"
+ },
+ {
+  "id": 16,
+  "question": "¿Quién creó la cámara de revelado instantáneo conocida como Polaroid?",
+  "optionA": "Edwin Land",
+  "optionB": "George Eastman",
+  "optionC": "Louis Daguerre",
+  "optionD": "Oskar Barnack",
+  "correctAnswer": "Edwin Land"
+ },
+ {
+  "id": 17,
+  "question": "¿Qué químico sueco inventó la dinamita y creó los premios que llevan su apellido?",
+  "optionA": "Alfred Nobel",
+  "optionB": "Jöns Jacob Berzelius",
+  "optionC": "Carl Wilhelm Scheele",
+  "optionD": "Anders Celsius",
+  "correctAnswer": "Alfred Nobel"
+ },
+ {
+  "id": 18,
+  "question": "¿Qué ingeniero desarrolló el primer helicóptero de rotor único viable?",
+  "optionA": "Igor Sikorsky",
+  "optionB": "Juan de la Cierva",
+  "optionC": "Paul Cornu",
+  "optionD": "Louis Blériot",
+  "correctAnswer": "Igor Sikorsky"
+ },
+ {
+  "id": 19,
+  "question": "¿Quién sustituyó los cilindros de Edison por discos planos y creó el gramófono?",
+  "optionA": "Emile Berliner",
+  "optionB": "Charles Cros",
+  "optionC": "Eldridge Johnson",
+  "optionD": "Peter Goldmark",
+  "correctAnswer": "Emile Berliner"
+ },
+ {
+  "id": 20,
+  "question": "¿Qué filósofo y matemático francés construyó una de las primeras calculadoras mecánicas?",
+  "optionA": "Blaise Pascal",
+  "optionB": "René Descartes",
+  "optionC": "Pierre de Fermat",
+  "optionD": "Gottfried Leibniz",
+  "correctAnswer": "Blaise Pascal"
+ },
+ {
+  "id": 21,
+  "question": "¿Quién presentó en 1968 el primer ratón de ordenador en una demostración histórica?",
+  "optionA": "Douglas Engelbart",
+  "optionB": "Alan Kay",
+  "optionC": "Steve Jobs",
+  "optionD": "Dennis Ritchie",
+  "correctAnswer": "Douglas Engelbart"
+ },
+ {
+  "id": 22,
+  "question": "¿Qué informática estadounidense impulsó los primeros compiladores y el lenguaje COBOL?",
+  "optionA": "Grace Hopper",
+  "optionB": "Margaret Hamilton",
+  "optionC": "Katherine Johnson",
+  "optionD": "Barbara Liskov",
+  "correctAnswer": "Grace Hopper"
+ },
+ {
+  "id": 23,
+  "question": "¿Quién patentó el limpiaparabrisas tras ver a los conductores bajarse a limpiar el cristal?",
+  "optionA": "Mary Anderson",
+  "optionB": "Josephine Cochrane",
+  "optionC": "Margaret Knight",
+  "optionD": "Bette Nesmith",
+  "correctAnswer": "Mary Anderson"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué ingeniero descubrió el efecto del microondas al fundírsele una chocolatina en el bolsillo?",
+  "optionA": "Percy Spencer",
+  "optionB": "Willis Carrier",
+  "optionC": "Peter Cooper",
+  "optionD": "Clarence Birdseye",
+  "correctAnswer": "Percy Spencer"
+ },
+ {
+  "id": 25,
+  "question": "¿Quién inventó el freno de seguridad que hizo posible el ascensor moderno?",
+  "optionA": "Elisha Otis",
+  "optionB": "Werner von Siemens",
+  "optionC": "Alexander Miles",
+  "optionD": "Gustave Eiffel",
+  "correctAnswer": "Elisha Otis"
+ },
+ {
+  "id": 26,
+  "question": "¿Quién ideó el mando a distancia inalámbrico para el televisor?",
+  "optionA": "Robert Adler",
+  "optionB": "Philo Farnsworth",
+  "optionC": "John Logie Baird",
+  "optionD": "Vladimir Zworykin",
+  "correctAnswer": "Robert Adler"
+ },
+ {
+  "id": 27,
+  "question": "¿Qué inventor estadounidense patentó una de las primeras máquinas de coser con lanzadera?",
+  "optionA": "Elias Howe",
+  "optionB": "Isaac Singer",
+  "optionC": "Barthélemy Thimonnier",
+  "optionD": "Walter Hunt",
+  "correctAnswer": "Elias Howe"
+ },
+ {
+  "id": 28,
+  "question": "¿Qué ingeniero de Kodak construyó el primer prototipo de cámara digital?",
+  "optionA": "Steven Sasson",
+  "optionB": "George Eastman",
+  "optionC": "Edwin Land",
+  "optionD": "Willard Boyle",
+  "correctAnswer": "Steven Sasson"
+ },
+ {
+  "id": 29,
+  "question": "¿Qué ingeniero alemán dio nombre a un motor que funciona por compresión y sin bujías?",
+  "optionA": "Rudolf Diesel",
+  "optionB": "Nikolaus Otto",
+  "optionC": "Felix Wankel",
+  "optionD": "Robert Bosch",
+  "correctAnswer": "Rudolf Diesel"
+ },
+ {
+  "id": 30,
+  "question": "¿Qué inventor defendió la corriente alterna frente a la corriente continua de Edison?",
+  "optionA": "Nikola Tesla",
+  "optionB": "George Westinghouse",
+  "optionC": "André-Marie Ampère",
+  "optionD": "Charles Steinmetz",
+  "correctAnswer": "Nikola Tesla"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué objeto de limpieza doméstica muy extendido fue inventado por el español Manuel Jalón?",
+  "optionA": "La fregona",
+  "optionB": "El plumero",
+  "optionC": "La aspiradora",
+  "optionD": "El estropajo",
+  "correctAnswer": "La fregona"
+ },
+ {
+  "id": 32,
+  "question": "¿Quién creó el Chupa Chups en los años cincuenta?",
+  "optionA": "Enric Bernat",
+  "optionB": "Josep Ferrer",
+  "optionC": "Rafael Guasch",
+  "optionD": "Salvador Dalí",
+  "correctAnswer": "Enric Bernat"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué artista diseñó el logotipo con forma de margarita del Chupa Chups?",
+  "optionA": "Salvador Dalí",
+  "optionB": "Joan Miró",
+  "optionC": "Pablo Picasso",
+  "optionD": "Antoni Tàpies",
+  "correctAnswer": "Salvador Dalí"
+ },
+ {
+  "id": 34,
+  "question": "¿Qué ingeniero español inventó el autogiro, precursor del helicóptero?",
+  "optionA": "Juan de la Cierva",
+  "optionB": "Leonardo Torres Quevedo",
+  "optionC": "Isaac Peral",
+  "optionD": "Alejandro Goicoechea",
+  "correctAnswer": "Juan de la Cierva"
+ },
+ {
+  "id": 35,
+  "question": "¿Qué marino español construyó a finales del siglo XIX un submarino con propulsión eléctrica?",
+  "optionA": "Isaac Peral",
+  "optionB": "Narciso Monturiol",
+  "optionC": "Cosme García",
+  "optionD": "Blas de Lezo",
+  "correctAnswer": "Isaac Peral"
+ },
+ {
+  "id": 36,
+  "question": "¿A qué español se atribuye la invención del futbolín?",
+  "optionA": "Alejandro Finisterre",
+  "optionB": "Enric Bernat",
+  "optionC": "Manuel Jalón",
+  "optionD": "Juan de la Cierva",
+  "correctAnswer": "Alejandro Finisterre"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué ingeniero cántabro creó el Telekino, un precursor del mando a distancia?",
+  "optionA": "Leonardo Torres Quevedo",
+  "optionB": "Isaac Peral",
+  "optionC": "Juan de la Cierva",
+  "optionD": "Miguel Servet",
+  "correctAnswer": "Leonardo Torres Quevedo"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué tren español de diseño ligero y articulado ideó Alejandro Goicoechea?",
+  "optionA": "El Talgo",
+  "optionB": "El AVE",
+  "optionC": "El Ter",
+  "optionD": "El Tranvía de Sóller",
+  "correctAnswer": "El Talgo"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué producto sanitario de un solo uso, hoy universal, desarrolló también Manuel Jalón?",
+  "optionA": "La jeringuilla desechable",
+  "optionB": "El termómetro digital",
+  "optionC": "La mascarilla quirúrgica",
+  "optionD": "El esparadrapo",
+  "correctAnswer": "La jeringuilla desechable"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué inventó Josephine Cochrane a finales del siglo XIX, harta de que le rompieran la vajilla?",
+  "optionA": "El lavavajillas",
+  "optionB": "La lavadora",
+  "optionC": "El fregadero de acero",
+  "optionD": "El escurreplatos",
+  "correctAnswer": "El lavavajillas"
+ },
+ {
+  "id": 41,
+  "question": "¿Qué producto nació en 3M de un pegamento que se consideró un fracaso por pegar demasiado poco?",
+  "optionA": "Las notas adhesivas Post-it",
+  "optionB": "La cinta aislante",
+  "optionC": "El celofán",
+  "optionD": "La cola blanca",
+  "correctAnswer": "Las notas adhesivas Post-it"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué material antiadherente de las sartenes se descubrió por accidente en un laboratorio?",
+  "optionA": "El teflón",
+  "optionB": "El acero inoxidable",
+  "optionC": "La cerámica esmaltada",
+  "optionD": "El aluminio anodizado",
+  "correctAnswer": "El teflón"
+ },
+ {
+  "id": 43,
+  "question": "¿Qué proceso hizo que el caucho dejara de derretirse con el calor y sirviera para neumáticos?",
+  "optionA": "La vulcanización",
+  "optionB": "La pasteurización",
+  "optionC": "La galvanización",
+  "optionD": "La polimerización",
+  "correctAnswer": "La vulcanización"
+ },
+ {
+  "id": 44,
+  "question": "¿Qué invento chino permitió orientarse en alta mar mucho antes que en Europa?",
+  "optionA": "La brújula",
+  "optionB": "El sextante",
+  "optionC": "El astrolabio",
+  "optionD": "El cronómetro marino",
+  "correctAnswer": "La brújula"
+ },
+ {
+  "id": 45,
+  "question": "¿Cuál de estos inventos NO procede de la China antigua?",
+  "optionA": "El telescopio",
+  "optionB": "El papel",
+  "optionC": "La pólvora",
+  "optionD": "La imprenta de tipos móviles",
+  "correctAnswer": "El telescopio"
+ },
+ {
+  "id": 46,
+  "question": "¿Qué ingeniero desarrolló el aire acondicionado moderno para controlar la humedad de una imprenta?",
+  "optionA": "Willis Carrier",
+  "optionB": "Percy Spencer",
+  "optionC": "Clarence Birdseye",
+  "optionD": "Charles Kettering",
+  "correctAnswer": "Willis Carrier"
+ },
+ {
+  "id": 47,
+  "question": "¿Qué invento sustituyó a los botones y corchetes en la ropa a partir del siglo XX?",
+  "optionA": "La cremallera",
+  "optionB": "El velcro",
+  "optionC": "La hebilla",
+  "optionD": "El imperdible",
+  "correctAnswer": "La cremallera"
+ },
+ {
+  "id": 48,
+  "question": "¿Qué invento cotidiano surgió al buscar una forma de conservar alimentos congelándolos rápidamente?",
+  "optionA": "La congelación rápida de alimentos",
+  "optionB": "La lata de conserva",
+  "optionC": "El envasado al vacío",
+  "optionD": "La pasteurización",
+  "correctAnswer": "La congelación rápida de alimentos"
+ },
+ {
+  "id": 49,
+  "question": "¿Qué escritura permitió leer con el tacto a las personas ciegas?",
+  "optionA": "El sistema braille",
+  "optionB": "El alfabeto Morse",
+  "optionC": "La taquigrafía",
+  "optionD": "El lenguaje de signos",
+  "correctAnswer": "El sistema braille"
+ },
+ {
+  "id": 50,
+  "question": "¿Qué invento del siglo XIX permitió conservar la voz y reproducirla después?",
+  "optionA": "El fonógrafo",
+  "optionB": "El telégrafo",
+  "optionC": "La radio",
+  "optionD": "El altavoz",
+  "correctAnswer": "El fonógrafo"
+ },
+ {
+  "id": 51,
+  "question": "¿Qué invento hizo posible que los edificios crecieran en altura de forma práctica?",
+  "optionA": "El ascensor seguro",
+  "optionB": "El hormigón armado",
+  "optionC": "La grúa torre",
+  "optionD": "El aire acondicionado",
+  "correctAnswer": "El ascensor seguro"
+ },
+ {
+  "id": 52,
+  "question": "¿Qué disposición de teclado se diseñó para evitar que se atascaran los tipos de la máquina de escribir?",
+  "optionA": "QWERTY",
+  "optionB": "Dvorak",
+  "optionC": "AZERTY",
+  "optionD": "Colemak",
+  "correctAnswer": "QWERTY"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué inventó Ladislao José Biro además del bolígrafo de tinta viscosa?",
+  "optionA": "Un sistema de caja de cambios automática",
+  "optionB": "El encendedor de gas",
+  "optionC": "La grapadora moderna",
+  "optionD": "El rotulador fluorescente",
+  "correctAnswer": "Un sistema de caja de cambios automática"
+ },
+ {
+  "id": 54,
+  "question": "¿Qué invento permitió a los barcos localizar obstáculos y costas mediante ecos de sonido?",
+  "optionA": "El sonar",
+  "optionB": "El radar",
+  "optionC": "El girocompás",
+  "optionD": "El telégrafo sin hilos",
+  "correctAnswer": "El sonar"
+ },
+ {
+  "id": 55,
+  "question": "¿Qué sistema de identificación de productos se lee con un haz de luz en la caja del supermercado?",
+  "optionA": "El código de barras",
+  "optionB": "El chip RFID",
+  "optionC": "La banda magnética",
+  "optionD": "El holograma de seguridad",
+  "correctAnswer": "El código de barras"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué invento japonés almacena información en un cuadrado de puntos que se lee con el móvil?",
+  "optionA": "El código QR",
+  "optionB": "El código de barras",
+  "optionC": "El chip NFC",
+  "optionD": "El código Aztec",
+  "correctAnswer": "El código QR"
+ },
+ {
+  "id": 57,
+  "question": "¿Para qué se creó originalmente el horno microondas antes de llegar a las cocinas?",
+  "optionA": "Surgió de la investigación con radares militares",
+  "optionB": "Se diseñó para secar pintura industrial",
+  "optionC": "Se usaba para esterilizar material médico",
+  "optionD": "Servía para calentar el agua de las calderas",
+  "correctAnswer": "Surgió de la investigación con radares militares"
+ },
+ {
+  "id": 58,
+  "question": "¿Qué invento textil revolucionó la producción de ropa al mecanizar el hilado?",
+  "optionA": "La hiladora mecánica",
+  "optionB": "La máquina de coser",
+  "optionC": "El telar manual",
+  "optionD": "La desmotadora de algodón",
+  "correctAnswer": "La hiladora mecánica"
+ },
+ {
+  "id": 59,
+  "question": "¿Qué objeto de escritorio inventó Margaret Knight al idear una máquina para fabricarlo?",
+  "optionA": "La bolsa de papel de fondo plano",
+  "optionB": "El clip sujetapapeles",
+  "optionC": "El sacapuntas",
+  "optionD": "La carpeta de anillas",
+  "correctAnswer": "La bolsa de papel de fondo plano"
+ },
+ {
+  "id": 60,
+  "question": "¿Qué invento permitió que los alimentos duraran meses y cambió la alimentación de los ejércitos?",
+  "optionA": "La conserva en lata",
+  "optionB": "El frigorífico doméstico",
+  "optionC": "El envase de vidrio",
+  "optionD": "La liofilización",
+  "correctAnswer": "La conserva en lata"
+ },
+ {
+  "id": 61,
+  "question": "¿Qué médico británico descubrió la penicilina al encontrar un moho en un cultivo olvidado?",
+  "optionA": "Alexander Fleming",
+  "optionB": "Edward Jenner",
+  "optionC": "Joseph Lister",
+  "optionD": "Robert Koch",
+  "correctAnswer": "Alexander Fleming"
+ },
+ {
+  "id": 62,
+  "question": "¿Quién desarrolló la primera vacuna, usando la viruela de las vacas para proteger a las personas?",
+  "optionA": "Edward Jenner",
+  "optionB": "Louis Pasteur",
+  "optionC": "Jonas Salk",
+  "optionD": "Paul Ehrlich",
+  "correctAnswer": "Edward Jenner"
+ },
+ {
+  "id": 63,
+  "question": "¿Qué instrumento inventó René Laënnec para escuchar el corazón sin pegar la oreja al pecho?",
+  "optionA": "El estetoscopio",
+  "optionB": "El tensiómetro",
+  "optionC": "El electrocardiógrafo",
+  "optionD": "El otoscopio",
+  "correctAnswer": "El estetoscopio"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué físico alemán descubrió los rayos X y obtuvo el primer Nobel de Física?",
+  "optionA": "Wilhelm Röntgen",
+  "optionB": "Max Planck",
+  "optionC": "Heinrich Hertz",
+  "optionD": "Philipp Lenard",
+  "correctAnswer": "Wilhelm Röntgen"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué proceso ideado por Louis Pasteur conserva la leche eliminando microorganismos con calor?",
+  "optionA": "La pasteurización",
+  "optionB": "La esterilización por vapor",
+  "optionC": "La fermentación controlada",
+  "optionD": "La homogeneización",
+  "correctAnswer": "La pasteurización"
+ },
+ {
+  "id": 66,
+  "question": "¿Qué hormona aislada en los años veinte transformó el tratamiento de la diabetes?",
+  "optionA": "La insulina",
+  "optionB": "La adrenalina",
+  "optionC": "La tiroxina",
+  "optionD": "El cortisol",
+  "correctAnswer": "La insulina"
+ },
+ {
+  "id": 67,
+  "question": "¿Qué avance permitió operar a los pacientes sin que sintieran dolor?",
+  "optionA": "La anestesia",
+  "optionB": "La antisepsia",
+  "optionC": "La transfusión de sangre",
+  "optionD": "La radiografía",
+  "correctAnswer": "La anestesia"
+ },
+ {
+  "id": 68,
+  "question": "¿Qué aparato implantable regula los latidos del corazón mediante impulsos eléctricos?",
+  "optionA": "El marcapasos",
+  "optionB": "El desfibrilador externo",
+  "optionC": "El stent coronario",
+  "optionD": "El holter",
+  "correctAnswer": "El marcapasos"
+ },
+ {
+  "id": 69,
+  "question": "¿Qué instrumento permitió ver por primera vez microorganismos y células?",
+  "optionA": "El microscopio",
+  "optionB": "El telescopio",
+  "optionC": "La lupa binocular",
+  "optionD": "El espectroscopio",
+  "correctAnswer": "El microscopio"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué medicamento de uso masivo comercializó Bayer a finales del siglo XIX?",
+  "optionA": "La aspirina",
+  "optionB": "El paracetamol",
+  "optionC": "El ibuprofeno",
+  "optionD": "La morfina",
+  "correctAnswer": "La aspirina"
+ },
+ {
+  "id": 71,
+  "question": "¿Qué técnica de imagen médica no utiliza radiación ionizante sino campos magnéticos?",
+  "optionA": "La resonancia magnética",
+  "optionB": "La radiografía",
+  "optionC": "El TAC",
+  "optionD": "La mamografía",
+  "correctAnswer": "La resonancia magnética"
+ },
+ {
+  "id": 72,
+  "question": "¿Qué invento óptico corrige la vista y se popularizó en Europa a partir del siglo XIII?",
+  "optionA": "Las gafas",
+  "optionB": "Las lentes de contacto",
+  "optionC": "El monóculo de cristal tallado",
+  "optionD": "El catalejo",
+  "correctAnswer": "Las gafas"
+ },
+ {
+  "id": 73,
+  "question": "¿Qué introdujo Joseph Lister en los quirófanos para reducir las muertes por infección?",
+  "optionA": "El uso de antisépticos",
+  "optionB": "El lavado con agua fría",
+  "optionC": "La luz eléctrica",
+  "optionD": "El instrumental de acero inoxidable",
+  "correctAnswer": "El uso de antisépticos"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué estructura del ADN describieron Watson y Crick apoyándose en el trabajo de Rosalind Franklin?",
+  "optionA": "La doble hélice",
+  "optionB": "La cadena ramificada",
+  "optionC": "La hoja plegada",
+  "optionD": "La triple espiral",
+  "correctAnswer": "La doble hélice"
+ },
+ {
+  "id": 75,
+  "question": "¿Qué aparato mide la temperatura y fue perfeccionado por Fahrenheit con mercurio?",
+  "optionA": "El termómetro",
+  "optionB": "El barómetro",
+  "optionC": "El higrómetro",
+  "optionD": "El manómetro",
+  "correctAnswer": "El termómetro"
+ },
+ {
+  "id": 76,
+  "question": "¿Qué medio de transporte lograron elevar los hermanos Montgolfier en 1783?",
+  "optionA": "El globo aerostático",
+  "optionB": "El dirigible",
+  "optionC": "El planeador",
+  "optionD": "El paracaídas",
+  "correctAnswer": "El globo aerostático"
+ },
+ {
+  "id": 77,
+  "question": "¿Qué ingeniero británico impulsó la locomotora de vapor y la primera línea férrea de pasajeros?",
+  "optionA": "George Stephenson",
+  "optionB": "Isambard Brunel",
+  "optionC": "Richard Trevithick",
+  "optionD": "James Watt",
+  "correctAnswer": "George Stephenson"
+ },
+ {
+  "id": 78,
+  "question": "¿Qué inventó John Boyd Dunlop para mejorar la comodidad de la bicicleta de su hijo?",
+  "optionA": "El neumático con cámara de aire",
+  "optionB": "El freno de disco",
+  "optionC": "El sillín de muelles",
+  "optionD": "El cambio de marchas",
+  "correctAnswer": "El neumático con cámara de aire"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué dispositivo de seguridad de tres puntos regaló Volvo al mundo renunciando a la patente?",
+  "optionA": "El cinturón de seguridad",
+  "optionB": "El airbag",
+  "optionC": "El reposacabezas",
+  "optionD": "El freno ABS",
+  "correctAnswer": "El cinturón de seguridad"
+ },
+ {
+  "id": 80,
+  "question": "¿Qué invento regula el tráfico en los cruces y existía ya antes del automóvil?",
+  "optionA": "El semáforo",
+  "optionB": "El paso de cebra",
+  "optionC": "La rotonda",
+  "optionD": "El radar de velocidad",
+  "correctAnswer": "El semáforo"
+ },
+ {
+  "id": 81,
+  "question": "¿Qué vehículo de dos ruedas se popularizó en el siglo XIX con el nombre de velocípedo?",
+  "optionA": "La bicicleta",
+  "optionB": "La motocicleta",
+  "optionC": "El patinete",
+  "optionD": "El triciclo",
+  "correctAnswer": "La bicicleta"
+ },
+ {
+  "id": 82,
+  "question": "¿Qué principio físico permite que un cohete avance en el vacío del espacio?",
+  "optionA": "La acción y reacción",
+  "optionB": "La sustentación del ala",
+  "optionC": "El empuje de Arquímedes",
+  "optionD": "La fuerza centrífuga",
+  "correctAnswer": "La acción y reacción"
+ },
+ {
+  "id": 83,
+  "question": "¿Qué invento sustituyó a las velas en los barcos y aceleró el comercio del siglo XIX?",
+  "optionA": "El motor de vapor marino",
+  "optionB": "La hélice de bronce",
+  "optionC": "El timón compensado",
+  "optionD": "El casco de acero",
+  "correctAnswer": "El motor de vapor marino"
+ },
+ {
+  "id": 84,
+  "question": "¿Qué sistema de navegación por satélite indica la posición en cualquier punto del planeta?",
+  "optionA": "El GPS",
+  "optionB": "El radar",
+  "optionC": "El sonar",
+  "optionD": "El giroscopio",
+  "correctAnswer": "El GPS"
+ },
+ {
+  "id": 85,
+  "question": "¿Qué invento hizo que viajar en avión fuera cómodo a gran altitud?",
+  "optionA": "La cabina presurizada",
+  "optionB": "El tren de aterrizaje retráctil",
+  "optionC": "El piloto automático",
+  "optionD": "La turbina de hélice",
+  "correctAnswer": "La cabina presurizada"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué tipo de motor sustituyó a la hélice en la aviación comercial rápida?",
+  "optionA": "El motor a reacción",
+  "optionB": "El motor rotativo",
+  "optionC": "El motor diésel",
+  "optionD": "El motor eléctrico",
+  "correctAnswer": "El motor a reacción"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué invento del siglo XX permitió congelar y transportar alimentos por todo el mundo?",
+  "optionA": "El contenedor frigorífico",
+  "optionB": "El palé de madera",
+  "optionC": "El camión articulado",
+  "optionD": "La grúa portuaria",
+  "correctAnswer": "El contenedor frigorífico"
+ },
+ {
+  "id": 88,
+  "question": "¿Qué invento aparentemente simple redujo drásticamente el coste del transporte marítimo de mercancías?",
+  "optionA": "El contenedor estandarizado",
+  "optionB": "El motor diésel marino",
+  "optionC": "El canal de Panamá",
+  "optionD": "El radar de navegación",
+  "correctAnswer": "El contenedor estandarizado"
+ },
+ {
+  "id": 89,
+  "question": "¿Qué invento permite ver el interior del cuerpo sin abrirlo y se usó por primera vez en una mano?",
+  "optionA": "La radiografía",
+  "optionB": "La ecografía",
+  "optionC": "La endoscopia",
+  "optionD": "La resonancia",
+  "correctAnswer": "La radiografía"
+ },
+ {
+  "id": 90,
+  "question": "¿Qué dispositivo convierte la luz solar directamente en electricidad?",
+  "optionA": "La célula fotovoltaica",
+  "optionB": "El colector térmico",
+  "optionC": "La turbina eólica",
+  "optionD": "La pila de combustible",
+  "correctAnswer": "La célula fotovoltaica"
+ },
+ {
+  "id": 91,
+  "question": "¿Qué componente sustituyó a las válvulas de vacío y permitió miniaturizar la electrónica?",
+  "optionA": "El transistor",
+  "optionB": "El condensador",
+  "optionC": "La resistencia",
+  "optionD": "El relé",
+  "correctAnswer": "El transistor"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué invento reúne miles de transistores en una sola pastilla de silicio?",
+  "optionA": "El circuito integrado",
+  "optionB": "La placa base",
+  "optionC": "El disco duro",
+  "optionD": "La fuente de alimentación",
+  "correctAnswer": "El circuito integrado"
+ },
+ {
+  "id": 93,
+  "question": "¿Qué red militar y universitaria estadounidense fue el origen de internet?",
+  "optionA": "ARPANET",
+  "optionB": "ETHERNET",
+  "optionC": "USENET",
+  "optionD": "MILNET",
+  "correctAnswer": "ARPANET"
+ },
+ {
+  "id": 94,
+  "question": "¿Quién eligió la arroba como separador en las direcciones de correo electrónico?",
+  "optionA": "Ray Tomlinson",
+  "optionB": "Vint Cerf",
+  "optionC": "Tim Berners-Lee",
+  "optionD": "Robert Kahn",
+  "correctAnswer": "Ray Tomlinson"
+ },
+ {
+  "id": 95,
+  "question": "¿Quién realizó la primera llamada desde un teléfono móvil en plena calle en 1973?",
+  "optionA": "Martin Cooper",
+  "optionB": "Steve Jobs",
+  "optionC": "Jack Kilby",
+  "optionD": "Bjarne Stroustrup",
+  "correctAnswer": "Martin Cooper"
+ },
+ {
+  "id": 96,
+  "question": "¿De dónde viene el nombre de la tecnología Bluetooth?",
+  "optionA": "De un rey vikingo que unificó tribus",
+  "optionB": "Del color del primer prototipo",
+  "optionC": "De un personaje de cómic",
+  "optionD": "De las siglas de sus creadores",
+  "correctAnswer": "De un rey vikingo que unificó tribus"
+ },
+ {
+  "id": 97,
+  "question": "¿Qué finlandés creó el núcleo del sistema operativo Linux siendo estudiante?",
+  "optionA": "Linus Torvalds",
+  "optionB": "Richard Stallman",
+  "optionC": "Ken Thompson",
+  "optionD": "Guido van Rossum",
+  "correctAnswer": "Linus Torvalds"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué programador neerlandés creó el lenguaje Python?",
+  "optionA": "Guido van Rossum",
+  "optionB": "James Gosling",
+  "optionC": "Bjarne Stroustrup",
+  "optionD": "Dennis Ritchie",
+  "correctAnswer": "Guido van Rossum"
+ },
+ {
+  "id": 99,
+  "question": "¿Qué conector estandarizó la conexión de periféricos y acabó con los puertos serie y paralelo?",
+  "optionA": "El USB",
+  "optionB": "El HDMI",
+  "optionC": "El jack de 3,5 mm",
+  "optionD": "El puerto Ethernet",
+  "correctAnswer": "El USB"
+ },
+ {
+  "id": 100,
+  "question": "¿Qué icono de guardar sigue representando un dispositivo que casi nadie usa ya?",
+  "optionA": "El disquete",
+  "optionB": "El CD-ROM",
+  "optionC": "La cinta de casete",
+  "optionD": "El disco duro externo",
+  "correctAnswer": "El disquete"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué ordenador personal lanzado en 1984 popularizó el ratón y las ventanas en el gran público?",
+  "optionA": "El Macintosh",
+  "optionB": "El IBM PC",
+  "optionC": "El Commodore 64",
+  "optionD": "El Spectrum",
+  "correctAnswer": "El Macintosh"
+ },
+ {
+  "id": 102,
+  "question": "¿Qué tecnología inalámbrica conecta los dispositivos de casa a internet sin cables?",
+  "optionA": "El wifi",
+  "optionB": "El infrarrojo",
+  "optionC": "El NFC",
+  "optionD": "El satélite",
+  "correctAnswer": "El wifi"
+ },
+ {
+  "id": 103,
+  "question": "¿En qué se basa la actriz Hedy Lamarr para figurar en la historia de la tecnología?",
+  "optionA": "Coideó un sistema de saltos de frecuencia",
+  "optionB": "Fabricó la primera cámara de cine sonoro",
+  "optionC": "Diseñó el primer transistor",
+  "optionD": "Patentó el primer altavoz portátil",
+  "correctAnswer": "Coideó un sistema de saltos de frecuencia"
+ },
+ {
+  "id": 104,
+  "question": "¿Qué invento del siglo XIX transmitía imágenes por cable y es anterior al teléfono?",
+  "optionA": "El fax",
+  "optionB": "La televisión",
+  "optionC": "El telégrafo óptico",
+  "optionD": "El fonógrafo",
+  "correctAnswer": "El fax"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué formato sustituyó al vinilo y al casete como soporte musical dominante en los noventa?",
+  "optionA": "El disco compacto",
+  "optionB": "El minidisc",
+  "optionC": "La cinta DAT",
+  "optionD": "El cartucho de ocho pistas",
+  "correctAnswer": "El disco compacto"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué invento permitió proyectar imágenes en movimiento ante un público?",
+  "optionA": "El cinematógrafo",
+  "optionB": "La linterna mágica",
+  "optionC": "El zoótropo",
+  "optionD": "El estereoscopio",
+  "correctAnswer": "El cinematógrafo"
+ },
+ {
+  "id": 107,
+  "question": "¿Qué hermanos franceses presentaron las primeras proyecciones públicas de cine?",
+  "optionA": "Los hermanos Lumière",
+  "optionB": "Los hermanos Pathé",
+  "optionC": "Los hermanos Méliès",
+  "optionD": "Los hermanos Gaumont",
+  "correctAnswer": "Los hermanos Lumière"
+ },
+ {
+  "id": 108,
+  "question": "¿Qué aparato doméstico transformó el ocio familiar a partir de mediados del siglo XX?",
+  "optionA": "El televisor",
+  "optionB": "El tocadiscos",
+  "optionC": "El proyector de diapositivas",
+  "optionD": "La radio de galena",
+  "correctAnswer": "El televisor"
+ },
+ {
+  "id": 109,
+  "question": "¿Qué invento permitió grabar programas de televisión en casa antes del streaming?",
+  "optionA": "El vídeo doméstico VHS",
+  "optionB": "El DVD grabador",
+  "optionC": "El disco duro multimedia",
+  "optionD": "El decodificador digital",
+  "correctAnswer": "El vídeo doméstico VHS"
+ },
+ {
+  "id": 110,
+  "question": "¿Qué documento legal protege un invento y da a su autor un derecho exclusivo temporal?",
+  "optionA": "La patente",
+  "optionB": "La marca registrada",
+  "optionC": "El copyright",
+  "optionD": "La licencia de uso",
+  "correctAnswer": "La patente"
+ },
+ {
+  "id": 111,
+  "question": "¿A quién se atribuye la exclamación 'Eureka' al descubrir el principio del empuje?",
+  "optionA": "Arquímedes",
+  "optionB": "Pitágoras",
+  "optionC": "Euclides",
+  "optionD": "Tales de Mileto",
+  "correctAnswer": "Arquímedes"
+ },
+ {
+  "id": 112,
+  "question": "¿Cuál de estos inventos es el más antiguo?",
+  "optionA": "La rueda",
+  "optionB": "El papel",
+  "optionC": "La brújula",
+  "optionD": "El vidrio soplado",
+  "correctAnswer": "La rueda"
+ },
+ {
+  "id": 113,
+  "question": "¿Cuál de estos inventos llegó antes?",
+  "optionA": "El telégrafo",
+  "optionB": "El teléfono",
+  "optionC": "La radio",
+  "optionD": "La televisión",
+  "correctAnswer": "El telégrafo"
+ },
+ {
+  "id": 114,
+  "question": "¿En qué siglo comenzó la Revolución Industrial?",
+  "optionA": "En el siglo XVIII",
+  "optionB": "En el siglo XX",
+  "optionC": "En el siglo XIX",
+  "optionD": "En el siglo XIII",
+  "correctAnswer": "En el siglo XVIII"
+ },
+ {
+  "id": 115,
+  "question": "¿Qué invento hizo posible la difusión masiva de libros y del conocimiento en Europa?",
+  "optionA": "La imprenta",
+  "optionB": "El pergamino",
+  "optionC": "La biblioteca pública",
+  "optionD": "La escritura gótica",
+  "correctAnswer": "La imprenta"
+ },
+ {
+  "id": 116,
+  "question": "¿Qué invento se considera clave para que existan los ordenadores portátiles y los móviles?",
+  "optionA": "La batería recargable de litio",
+  "optionB": "El altavoz piezoeléctrico",
+  "optionC": "La pantalla de tubo",
+  "optionD": "El disco óptico",
+  "correctAnswer": "La batería recargable de litio"
+ },
+ {
+  "id": 117,
+  "question": "¿Qué dispositivo inventó Alessandro Volta y dio nombre a una unidad eléctrica?",
+  "optionA": "La pila eléctrica",
+  "optionB": "El motor eléctrico",
+  "optionC": "El transformador",
+  "optionD": "La dinamo",
+  "correctAnswer": "La pila eléctrica"
+ },
+ {
+  "id": 118,
+  "question": "¿Qué invento de Michael Faraday está en la base de todos los generadores eléctricos?",
+  "optionA": "La inducción electromagnética",
+  "optionB": "El interruptor de palanca",
+  "optionC": "El fusible",
+  "optionD": "El pararrayos",
+  "correctAnswer": "La inducción electromagnética"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué instrumento inventó Benjamin Franklin para proteger los edificios de las tormentas?",
+  "optionA": "El pararrayos",
+  "optionB": "El barómetro",
+  "optionC": "La veleta metálica",
+  "optionD": "El anemómetro",
+  "correctAnswer": "El pararrayos"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué luz artificial sustituyó a la bombilla incandescente por consumir mucho menos?",
+  "optionA": "El LED",
+  "optionB": "El tubo de neón",
+  "optionC": "La lámpara de arco",
+  "optionD": "El foco halógeno",
+  "correctAnswer": "El LED"
+ }
+]

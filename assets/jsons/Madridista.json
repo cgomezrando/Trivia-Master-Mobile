@@ -1,0 +1,3413 @@
+[
+ {
+  "id": 1,
+  "question": "¿Quién es el máximo goleador histórico del Real Madrid?",
+  "optionA": "Raúl González",
+  "optionB": "Karim Benzema",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 2,
+  "question": "¿Qué leyenda del Real Madrid es conocida como La Saeta Rubia?",
+  "optionA": "Puskás",
+  "optionB": "Raúl",
+  "optionC": "Alfredo Di Stéfano",
+  "optionD": "Butragueño",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 3,
+  "question": "¿Quién marcó el gol de la Décima en Lisboa?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Gareth Bale",
+  "optionC": "Sergio Ramos",
+  "optionD": "Karim Benzema",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 4,
+  "question": "¿Quién es conocido como El Eterno Capitán?",
+  "optionA": "Raúl González",
+  "optionB": "Fernando Hierro",
+  "optionC": "Iker Casillas",
+  "optionD": "Sergio Ramos",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 5,
+  "question": "¿Quién marcó la volea histórica en la final de Glasgow 2002?",
+  "optionA": "Raúl",
+  "optionB": "Zidane",
+  "optionC": "Figo",
+  "optionD": "Morientes",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 6,
+  "question": "¿Qué portero es conocido como San Iker?",
+  "optionA": "Keylor Navas",
+  "optionB": "Thibaut Courtois",
+  "optionC": "Iker Casillas",
+  "optionD": "Diego López",
+  "correctAnswer": "Iker Casillas"
+ },
+ {
+  "id": 7,
+  "question": "¿Quién fue el presidente que impulsó la era de los Galácticos?",
+  "optionA": "Ramón Calderón",
+  "optionB": "Florentino Pérez",
+  "optionC": "Lorenzo Sanz",
+  "optionD": "Santiago Bernabéu",
+  "correctAnswer": "Florentino Pérez"
+ },
+ {
+  "id": 8,
+  "question": "¿Qué jugador era conocido como El Buitre?",
+  "optionA": "Míchel",
+  "optionB": "Butragueño",
+  "optionC": "Sanchís",
+  "optionD": "Martín Vázquez",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 9,
+  "question": "¿Quién es el jugador con más partidos en la historia del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Sergio Ramos",
+  "optionD": "Luka Modrić",
+  "correctAnswer": "Luka Modrić"
+ },
+ {
+  "id": 10,
+  "question": "¿Qué delantero mexicano brilló en los años 80 con el Real Madrid?",
+  "optionA": "Chicharito",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Javier Aguirre",
+  "optionD": "Cuauhtémoc Blanco",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 11,
+  "question": "¿Quién marcó un triplete en la final de la Copa de Europa de 1960?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 12,
+  "question": "¿Qué extremo español ganó seis Copas de Europa con el Real Madrid?",
+  "optionA": "Amancio",
+  "optionB": "Pirri",
+  "optionC": "Gento",
+  "optionD": "Juanito",
+  "correctAnswer": "Gento"
+ },
+ {
+  "id": 13,
+  "question": "¿Quién es el máximo asistente histórico del Real Madrid?",
+  "optionA": "Modrić",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Karim Benzema",
+  "optionD": "Marcelo",
+  "correctAnswer": "Karim Benzema"
+ },
+ {
+  "id": 14,
+  "question": "¿Qué entrenador conquistó tres Champions consecutivas entre 2016 y 2018?",
+  "optionA": "Ancelotti",
+  "optionB": "Mourinho",
+  "optionC": "Zidane",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 15,
+  "question": "¿Quién marcó el gol decisivo en la final de la Champions 2022?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Benzema",
+  "optionC": "Rodrygo",
+  "optionD": "Modrić",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 16,
+  "question": "¿Qué brasileño fue elegido mejor jugador del mundo jugando en el Real Madrid en 2002?",
+  "optionA": "Robinho",
+  "optionB": "Kaká",
+  "optionC": "Ronaldo",
+  "optionD": "Marcelo",
+  "correctAnswer": "Ronaldo"
+ },
+ {
+  "id": 17,
+  "question": "¿Quién levantó la Séptima como capitán?",
+  "optionA": "Hierro",
+  "optionB": "Raúl",
+  "optionC": "Sanchís",
+  "optionD": "Redondo",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 18,
+  "question": "¿Qué jugador galés marcó en dos finales de Champions para el Real Madrid?",
+  "optionA": "Giggs",
+  "optionB": "Bale",
+  "optionC": "Ramsey",
+  "optionD": "Bellamy",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 19,
+  "question": "¿Quién fue el entrenador de la Décima?",
+  "optionA": "Mourinho",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Benítez",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 20,
+  "question": "¿Qué jugador francés ganó el Balón de Oro en 2022 como madridista?",
+  "optionA": "Mbappé",
+  "optionB": "Varane",
+  "optionC": "Benzema",
+  "optionD": "Zidane",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 21,
+  "question": "¿Quién marcó más goles en Clásicos para el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Di Stéfano",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 22,
+  "question": "¿Qué jugador argentino fue clave en la Quinta del Buitre?",
+  "optionA": "Redondo",
+  "optionB": "Valdano",
+  "optionC": "Di María",
+  "optionD": "Higuaín",
+  "correctAnswer": "Valdano"
+ },
+ {
+  "id": 23,
+  "question": "¿Quién es considerado por muchos el mejor jugador de la historia del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Di Stéfano",
+  "optionD": "Puskás",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué defensa marcó el penalti decisivo de la Undécima?",
+  "optionA": "Marcelo",
+  "optionB": "Pepe",
+  "optionC": "Ramos",
+  "optionD": "Carvajal",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 25,
+  "question": "¿Qué croata ganó el Balón de Oro en 2018?",
+  "optionA": "Rakitić",
+  "optionB": "Perišić",
+  "optionC": "Modrić",
+  "optionD": "Kovačić",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 26,
+  "question": "¿Qué jugador portugués llevó el dorsal 7 durante una de las etapas más exitosas del club?",
+  "optionA": "Pepe",
+  "optionB": "Figo",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Coentrão",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 27,
+  "question": "¿Quién es conocido por muchos aficionados como el Rey del Madridismo?",
+  "optionA": "Raúl González",
+  "optionB": "Alfredo Di Stéfano",
+  "optionC": "Sergio Ramos",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 28,
+  "question": "¿Quién fue el primer capitán en levantar una Copa de Europa con el Real Madrid?",
+  "optionA": "Miguel Muñoz",
+  "optionB": "Zárraga",
+  "optionC": "Di Stéfano",
+  "optionD": "Gento",
+  "correctAnswer": "Zárraga"
+ },
+ {
+  "id": 29,
+  "question": "¿Qué jugador es conocido como El Ángel de Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Amancio",
+  "optionD": "Santillana",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 30,
+  "question": "¿Quién marcó el gol que dio la Novena al Real Madrid en 2002?",
+  "optionA": "Raúl",
+  "optionB": "Zidane",
+  "optionC": "Morientes",
+  "optionD": "McManaman",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué entrenador conquistó la Octava en París?",
+  "optionA": "Del Bosque",
+  "optionB": "Hiddink",
+  "optionC": "Heynckes",
+  "optionD": "Capello",
+  "correctAnswer": "Del Bosque"
+ },
+ {
+  "id": 32,
+  "question": "¿Quién marcó el primer gol del Real Madrid en una final de Champions del siglo XXI?",
+  "optionA": "Raúl",
+  "optionB": "Morientes",
+  "optionC": "McManaman",
+  "optionD": "Roberto Carlos",
+  "correctAnswer": "Morientes"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué brasileño fue lateral izquierdo durante más de una década en el club?",
+  "optionA": "Marcelo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Danilo",
+  "optionD": "Cicinho",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 34,
+  "question": "¿Quién es el máximo goleador español de la historia del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Santillana",
+  "optionC": "Butragueño",
+  "optionD": "Pirri",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 35,
+  "question": "¿Qué jugador marcó el famoso gol del tacón ante el Valencia en 2014?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Isco",
+  "optionD": "James Rodríguez",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 36,
+  "question": "¿Quién fue el capitán del Real Madrid durante gran parte de la década de los 80?",
+  "optionA": "Sanchís",
+  "optionB": "Juanito",
+  "optionC": "Camacho",
+  "optionD": "Santillana",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué jugador ganó el Balón de Oro en 1957 y 1959 como madridista?",
+  "optionA": "Kopa",
+  "optionB": "Di Stéfano",
+  "optionC": "Puskás",
+  "optionD": "Gento",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué delantero francés se convirtió en capitán tras la salida de Sergio Ramos?",
+  "optionA": "Mbappé",
+  "optionB": "Benzema",
+  "optionC": "Varane",
+  "optionD": "Mendy",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué jugador fue conocido por celebrar señalando al cielo en honor a su abuelo?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl",
+  "optionC": "Benzema",
+  "optionD": "Vinícius Jr.",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué futbolista argentino fue apodado El Príncipe?",
+  "optionA": "Valdano",
+  "optionB": "Redondo",
+  "optionC": "Higuaín",
+  "optionD": "Di María",
+  "correctAnswer": "Redondo"
+ },
+ {
+  "id": 41,
+  "question": "¿Quién marcó en las finales de Champions de 2014 y 2018?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Gareth Bale",
+  "optionC": "Sergio Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Gareth Bale"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué jugador es el máximo goleador histórico de la selección española y leyenda del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Hierro",
+  "optionD": "Santillana",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 43,
+  "question": "¿Qué entrenador regresó al Real Madrid en 2021 para iniciar su segunda etapa?",
+  "optionA": "Mourinho",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Benítez",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 44,
+  "question": "¿Quién es considerado el mejor lateral izquierdo de la historia del Real Madrid por muchos aficionados?",
+  "optionA": "Marcelo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Camacho",
+  "optionD": "Mendy",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 45,
+  "question": "¿Qué jugador marcó más de 300 goles en LaLiga con el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Di Stéfano",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 46,
+  "question": "¿Quién fue el primer entrenador en ganar la Champions como jugador y entrenador del Real Madrid?",
+  "optionA": "Ancelotti",
+  "optionB": "Del Bosque",
+  "optionC": "Zidane",
+  "optionD": "Miguel Muñoz",
+  "correctAnswer": "Miguel Muñoz"
+ },
+ {
+  "id": 47,
+  "question": "¿Qué jugador marcó el penalti definitivo de la Décima?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Marcelo",
+  "optionD": "Di María",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 48,
+  "question": "¿Quién es el jugador extranjero con más partidos en la historia del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Modrić",
+  "optionC": "Marcelo",
+  "optionD": "Benzema",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 49,
+  "question": "¿Qué jugador era conocido por besar el escudo tras marcar en los Clásicos?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 50,
+  "question": "¿Qué guardameta fue decisivo en la final de Champions de 2022?",
+  "optionA": "Casillas",
+  "optionB": "Keylor Navas",
+  "optionC": "Courtois",
+  "optionD": "Lunin",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 51,
+  "question": "¿Qué jugador ganó cinco Champions y seis Ligas con el Real Madrid en los años 50 y 60?",
+  "optionA": "Di Stéfano",
+  "optionB": "Puskás",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Gento"
+ },
+ {
+  "id": 52,
+  "question": "¿Quién marcó el famoso gol del silencio en el Camp Nou?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl",
+  "optionC": "Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué delantero francés terminó siendo el segundo máximo goleador histórico del club?",
+  "optionA": "Anelka",
+  "optionB": "Benzema",
+  "optionC": "Mbappé",
+  "optionD": "Kopa",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 54,
+  "question": "¿Qué jugador ganó el Balón de Oro en 1958 siendo futbolista del Real Madrid?",
+  "optionA": "Kopa",
+  "optionB": "Di Stéfano",
+  "optionC": "Puskás",
+  "optionD": "Gento",
+  "correctAnswer": "Kopa"
+ },
+ {
+  "id": 55,
+  "question": "¿Quién es considerado el mejor capitán de la era moderna del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Sergio Ramos",
+  "optionD": "Hierro",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué presidente da nombre al estadio del Real Madrid?",
+  "optionA": "Florentino Pérez",
+  "optionB": "Santiago Bernabéu",
+  "optionC": "Ramón Mendoza",
+  "optionD": "Lorenzo Sanz",
+  "correctAnswer": "Santiago Bernabéu"
+ },
+ {
+  "id": 57,
+  "question": "¿Quién fue el primer gran ídolo de la afición madridista en los años 50?",
+  "optionA": "Gento",
+  "optionB": "Puskás",
+  "optionC": "Di Stéfano",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 58,
+  "question": "¿Qué jugador es conocido por su celebración del corazón con las manos?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Raúl",
+  "optionD": "Vinícius Jr.",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 59,
+  "question": "¿Quién marcó el gol decisivo de la Séptima ante la Juventus?",
+  "optionA": "Mijatović",
+  "optionB": "Raúl",
+  "optionC": "Morientes",
+  "optionD": "Hierro",
+  "correctAnswer": "Mijatović"
+ },
+ {
+  "id": 60,
+  "question": "¿Qué jugador es considerado el mejor mediocentro defensivo de la historia reciente del club?",
+  "optionA": "Xabi Alonso",
+  "optionB": "Redondo",
+  "optionC": "Casemiro",
+  "optionD": "Makelele",
+  "correctAnswer": "Casemiro"
+ },
+ {
+  "id": 61,
+  "question": "¿Quién fue el entrenador de la Séptima?",
+  "optionA": "Capello",
+  "optionB": "Hiddink",
+  "optionC": "Heynckes",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Heynckes"
+ },
+ {
+  "id": 62,
+  "question": "¿Qué jugador argentino destacó por su elegancia y visión de juego en los 90?",
+  "optionA": "Valdano",
+  "optionB": "Redondo",
+  "optionC": "Di María",
+  "optionD": "Higuaín",
+  "correctAnswer": "Redondo"
+ },
+ {
+  "id": 63,
+  "question": "¿Quién marcó un hat-trick en el Camp Nou en la temporada 2012-13?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Higuaín",
+  "optionD": "Di María",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué jugador fue conocido como El Cañoncito Pum?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Santillana",
+  "optionD": "Puskás",
+  "correctAnswer": "Santillana"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué defensa brasileño destacó por sus lanzamientos de falta?",
+  "optionA": "Marcelo",
+  "optionB": "Militão",
+  "optionC": "Roberto Carlos",
+  "optionD": "Danilo",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 66,
+  "question": "¿Quién fue el máximo goleador de la Champions 2013-14?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Messi",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 67,
+  "question": "¿Qué jugador levantó la Champions de 2024 como capitán?",
+  "optionA": "Carvajal",
+  "optionB": "Modrić",
+  "optionC": "Nacho",
+  "optionD": "Courtois",
+  "correctAnswer": "Nacho"
+ },
+ {
+  "id": 68,
+  "question": "¿Qué jugador es el máximo goleador histórico de las finales de Champions con el Real Madrid?",
+  "optionA": "Di Stéfano",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Puskás",
+  "optionD": "Raúl",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 69,
+  "question": "¿Quién fue conocido como El Ferrari Blanco?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Bale",
+  "optionD": "Raúl",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué jugador ganó más Ligas con el Real Madrid en el siglo XXI?",
+  "optionA": "Marcelo",
+  "optionB": "Modrić",
+  "optionC": "Benzema",
+  "optionD": "Carvajal",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 71,
+  "question": "¿Quién marcó el primer gol del Real Madrid en la final de la Décima?",
+  "optionA": "Ramos",
+  "optionB": "Bale",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Ninguno",
+  "correctAnswer": "Ninguno"
+ },
+ {
+  "id": 72,
+  "question": "¿Qué jugador fue conocido como El Halcón por su velocidad?",
+  "optionA": "Juanito",
+  "optionB": "Amancio",
+  "optionC": "Míchel",
+  "optionD": "Raúl",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 73,
+  "question": "¿Quién fue el héroe de la final de Champions 2022 con numerosas paradas?",
+  "optionA": "Courtois",
+  "optionB": "Militão",
+  "optionC": "Alaba",
+  "optionD": "Carvajal",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué jugador marcó el gol del empate en el minuto 93 de Lisboa?",
+  "optionA": "Bale",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 75,
+  "question": "¿Qué entrenador ha ganado más Champions con el Real Madrid?",
+  "optionA": "Miguel Muñoz",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 76,
+  "question": "¿Qué jugador es el máximo goleador histórico en finales de Copa de Europa para el Real Madrid?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Raúl",
+  "correctAnswer": "Puskás"
+ },
+ {
+  "id": 77,
+  "question": "¿Quién fue el primer galáctico fichado por Florentino Pérez en 2000?",
+  "optionA": "Figo",
+  "optionB": "Zidane",
+  "optionC": "Ronaldo",
+  "optionD": "Beckham",
+  "correctAnswer": "Figo"
+ },
+ {
+  "id": 78,
+  "question": "¿Qué jugador portugués marcó más de 450 goles con el Real Madrid?",
+  "optionA": "Pepe",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Figo",
+  "optionD": "Coentrão",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué capitán levantó la Duodécima en Cardiff?",
+  "optionA": "Marcelo",
+  "optionB": "Sergio Ramos",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Modrić",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 80,
+  "question": "¿Quién fue el entrenador de la Quinta del Buitre durante su etapa más exitosa?",
+  "optionA": "Molowny",
+  "optionB": "Beenhakker",
+  "optionC": "Toshack",
+  "optionD": "Capello",
+  "correctAnswer": "Beenhakker"
+ },
+ {
+  "id": 81,
+  "question": "¿Qué jugador ganó el Balón de Oro de 2018 siendo futbolista del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Modrić",
+  "optionD": "Ramos",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 82,
+  "question": "¿Quién es considerado el mejor portero de la historia del Real Madrid?",
+  "optionA": "Courtois",
+  "optionB": "Casillas",
+  "optionC": "Buyo",
+  "optionD": "Navas",
+  "correctAnswer": "Casillas"
+ },
+ {
+  "id": 83,
+  "question": "¿Qué jugador fue conocido por el dorsal 7 antes de Cristiano Ronaldo?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Juanito",
+  "optionD": "Santillana",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 84,
+  "question": "¿Qué jugador inglés formó parte de los Galácticos?",
+  "optionA": "Owen",
+  "optionB": "Beckham",
+  "optionC": "Woodgate",
+  "optionD": "McManaman",
+  "correctAnswer": "Beckham"
+ },
+ {
+  "id": 85,
+  "question": "¿Quién es para muchos aficionados el símbolo eterno del madridismo moderno?",
+  "optionA": "Raúl González",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Iker Casillas",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué jugador marcó el gol que dio la Octava al Real Madrid en París?",
+  "optionA": "Raúl",
+  "optionB": "Morientes",
+  "optionC": "McManaman",
+  "optionD": "Redondo",
+  "correctAnswer": "McManaman"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué defensa español es considerado una leyenda por su liderazgo y carácter competitivo?",
+  "optionA": "Nacho",
+  "optionB": "Sergio Ramos",
+  "optionC": "Arbeloa",
+  "optionD": "Helguera",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 88,
+  "question": "¿Quién marcó más goles en una sola edición de la Champions League?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Raúl",
+  "optionD": "Van Nistelrooy",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 89,
+  "question": "¿Qué jugador alemán ganó el Balón de Oro siendo futbolista del Real Madrid?",
+  "optionA": "Kroos",
+  "optionB": "Netzer",
+  "optionC": "Breitner",
+  "optionD": "Ninguno de ellos",
+  "correctAnswer": "Ninguno de ellos"
+ },
+ {
+  "id": 90,
+  "question": "¿Qué delantero argentino ganó una Champions con el Real Madrid en 2014?",
+  "optionA": "Higuaín",
+  "optionB": "Di María",
+  "optionC": "Saviola",
+  "optionD": "Ninguno de ellos",
+  "correctAnswer": "Di María"
+ },
+ {
+  "id": 91,
+  "question": "¿Quién fue elegido MVP de la final de la Décima?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di María",
+  "optionC": "Sergio Ramos",
+  "optionD": "Bale",
+  "correctAnswer": "Di María"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué jugador es conocido por la celebración del 'calma, calma' en el Camp Nou?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl",
+  "optionC": "Sergio Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 93,
+  "question": "¿Quién fue el máximo goleador de la Quinta del Buitre?",
+  "optionA": "Butragueño",
+  "optionB": "Míchel",
+  "optionC": "Hugo Sánchez",
+  "optionD": "Sanchís",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 94,
+  "question": "¿Qué jugador francés formó una dupla legendaria con Cristiano Ronaldo?",
+  "optionA": "Benzema",
+  "optionB": "Anelka",
+  "optionC": "Varane",
+  "optionD": "Mendy",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 95,
+  "question": "¿Qué entrenador ganó la Champions con el Real Madrid en 2022 y 2024?",
+  "optionA": "Zidane",
+  "optionB": "Mourinho",
+  "optionC": "Ancelotti",
+  "optionD": "Benítez",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 96,
+  "question": "¿Quién fue el primer capitán en levantar la Décima?",
+  "optionA": "Casillas",
+  "optionB": "Sergio Ramos",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Marcelo",
+  "correctAnswer": "Casillas"
+ },
+ {
+  "id": 97,
+  "question": "¿Qué jugador ganó cinco Champions consecutivas con diferentes generaciones del Real Madrid?",
+  "optionA": "Marcelo",
+  "optionB": "Modrić",
+  "optionC": "Carvajal",
+  "optionD": "Benzema",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué brasileño formó parte del famoso tridente BBC?",
+  "optionA": "Marcelo",
+  "optionB": "Casemiro",
+  "optionC": "Ninguno",
+  "optionD": "Robinho",
+  "correctAnswer": "Ninguno"
+ },
+ {
+  "id": 99,
+  "question": "¿Qué jugador marcó un doblete en la final de Cardiff 2017?",
+  "optionA": "Bale",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Isco",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 100,
+  "question": "¿Quién fue conocido como el Kaiser de Camas?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Raúl",
+  "optionC": "Hierro",
+  "optionD": "Nacho",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué jugador marcó el gol del 0-3 en la final de Lisboa?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Marcelo",
+  "optionD": "Ramos",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 102,
+  "question": "¿Quién fue el líder ofensivo del Real Madrid durante los años 2009-2018?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Higuaín",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 103,
+  "question": "¿Qué futbolista ganó más Mundiales de Clubes con el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Modrić",
+  "optionC": "Carvajal",
+  "optionD": "Marcelo",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 104,
+  "question": "¿Quién fue el gran socio de Cristiano Ronaldo en ataque durante más temporadas?",
+  "optionA": "Bale",
+  "optionB": "Benzema",
+  "optionC": "Isco",
+  "optionD": "Di María",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué jugador marcó el gol decisivo de la final de Champions de 2000?",
+  "optionA": "Raúl",
+  "optionB": "Morientes",
+  "optionC": "McManaman",
+  "optionD": "Helguera",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué jugador fue apodado El Faraón por la afición madridista?",
+  "optionA": "Ramos",
+  "optionB": "Hierro",
+  "optionC": "Redondo",
+  "optionD": "Raúl",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 107,
+  "question": "¿Quién fue el jugador más determinante en las remontadas europeas de 2022?",
+  "optionA": "Vinícius",
+  "optionB": "Modrić",
+  "optionC": "Benzema",
+  "optionD": "Rodrygo",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 108,
+  "question": "¿Qué futbolista marcó tres goles en la final de la Copa de Europa de 1960?",
+  "optionA": "Di Stéfano",
+  "optionB": "Puskás",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 109,
+  "question": "¿Quién fue el primer galáctico en ganar el Balón de Oro como jugador del Real Madrid?",
+  "optionA": "Ronaldo",
+  "optionB": "Figo",
+  "optionC": "Zidane",
+  "optionD": "Owen",
+  "correctAnswer": "Ronaldo"
+ },
+ {
+  "id": 110,
+  "question": "¿Qué jugador es considerado el mejor lateral derecho de la historia reciente del club?",
+  "optionA": "Arbeloa",
+  "optionB": "Carvajal",
+  "optionC": "Salgado",
+  "optionD": "Odriozola",
+  "correctAnswer": "Carvajal"
+ },
+ {
+  "id": 111,
+  "question": "¿Quién fue el gran símbolo del Real Madrid entre la salida de Di Stéfano y la llegada de Raúl?",
+  "optionA": "Juanito",
+  "optionB": "Santillana",
+  "optionC": "Butragueño",
+  "optionD": "Camacho",
+  "correctAnswer": "Juanito"
+ },
+ {
+  "id": 112,
+  "question": "¿Qué leyenda madridista es considerada por muchos como el auténtico Rey del Madridismo?",
+  "optionA": "Raúl González",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 113,
+  "question": "¿Quién fue el primer jugador del Real Madrid en ganar un Balón de Oro?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Kopa",
+  "optionD": "Gento",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 114,
+  "question": "¿Qué jugador fue apodado El Tiburón por su instinto goleador?",
+  "optionA": "Santillana",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Raúl",
+  "optionD": "Morientes",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 115,
+  "question": "¿Quién fue el héroe de la tanda de penaltis en la Undécima?",
+  "optionA": "Casemiro",
+  "optionB": "Navas",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Sergio Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 116,
+  "question": "¿Qué futbolista ha ganado más Champions League con el Real Madrid?",
+  "optionA": "Gento",
+  "optionB": "Modrić",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Marcelo",
+  "correctAnswer": "Gento"
+ },
+ {
+  "id": 117,
+  "question": "¿Qué jugador fue conocido por la frase Nunca dejes de creer?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Raúl",
+  "optionC": "Casillas",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 118,
+  "question": "¿Quién fue el entrenador de la Novena?",
+  "optionA": "Vicente del Bosque",
+  "optionB": "Capello",
+  "optionC": "Queiroz",
+  "optionD": "Heynckes",
+  "correctAnswer": "Vicente del Bosque"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué jugador marcó el gol decisivo contra el Manchester City en la remontada de 2022?",
+  "optionA": "Benzema",
+  "optionB": "Rodrygo",
+  "optionC": "Vinícius",
+  "optionD": "Modrić",
+  "correctAnswer": "Rodrygo"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué jugador brasileño destacó por su velocidad y potencia en la banda izquierda?",
+  "optionA": "Marcelo",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Roberto Carlos",
+  "optionD": "Robinho",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 121,
+  "question": "¿Quién marcó el gol del empate ante el Atlético en la final de Milán 2016?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Ramos",
+  "optionD": "Marcelo",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 122,
+  "question": "¿Qué futbolista es conocido como El Señor de las Finales?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di Stéfano",
+  "optionC": "Raúl",
+  "optionD": "Zidane",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 123,
+  "question": "¿Quién fue el mejor asistente del Real Madrid durante la era BBC?",
+  "optionA": "Benzema",
+  "optionB": "Marcelo",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Modrić",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 124,
+  "question": "¿Qué jugador fue capitán del Real Madrid y de la selección española campeona del mundo?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Hierro",
+  "optionD": "Ramos",
+  "correctAnswer": "Casillas"
+ },
+ {
+  "id": 125,
+  "question": "¿Qué jugador formó junto a Cristiano y Bale el famoso tridente BBC?",
+  "optionA": "Benzema",
+  "optionB": "Isco",
+  "optionC": "James",
+  "optionD": "Di María",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 126,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en los años 80?",
+  "optionA": "Santillana",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Butragueño",
+  "optionD": "Juanito",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 127,
+  "question": "¿Qué jugador marcó en las finales de Champions de 2014, 2016 y 2017?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Ramos",
+  "optionD": "Bale",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 128,
+  "question": "¿Quién fue el gran líder del centro del campo durante la era de las cinco Champions?",
+  "optionA": "Kroos",
+  "optionB": "Modrić",
+  "optionC": "Casemiro",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 129,
+  "question": "¿Qué jugador es considerado el mejor delantero centro de la historia reciente del club?",
+  "optionA": "Morientes",
+  "optionB": "Higuaín",
+  "optionC": "Benzema",
+  "optionD": "Van Nistelrooy",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 130,
+  "question": "¿Quién ganó el Balón de Oro de 2022 como jugador del Real Madrid?",
+  "optionA": "Modrić",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Benzema",
+  "optionD": "Courtois",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 131,
+  "question": "¿Qué jugador es conocido por su histórica remontada ante el Wolfsburgo en 2016?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 132,
+  "question": "¿Quién fue el primer gran goleador de la era moderna antes de Raúl?",
+  "optionA": "Santillana",
+  "optionB": "Juanito",
+  "optionC": "Butragueño",
+  "optionD": "Hugo Sánchez",
+  "correctAnswer": "Santillana"
+ },
+ {
+  "id": 133,
+  "question": "¿Qué defensa marcó más de 100 goles con el Real Madrid?",
+  "optionA": "Hierro",
+  "optionB": "Ramos",
+  "optionC": "Marcelo",
+  "optionD": "Roberto Carlos",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 134,
+  "question": "¿Quién fue el MVP de la final de Champions de 2022?",
+  "optionA": "Benzema",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Courtois",
+  "optionD": "Modrić",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 135,
+  "question": "¿Qué jugador fue el primer madridista en superar los 300 goles oficiales?",
+  "optionA": "Santillana",
+  "optionB": "Raúl",
+  "optionC": "Di Stéfano",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 136,
+  "question": "¿Quién fue conocido como El Buitre Blanco?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Santillana",
+  "optionD": "Míchel",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 137,
+  "question": "¿Qué jugador ganó más títulos oficiales con el Real Madrid durante la década de 2010?",
+  "optionA": "Marcelo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Modrić",
+  "optionD": "Ramos",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 138,
+  "question": "¿Quién es considerado el arquitecto del Real Madrid moderno como presidente?",
+  "optionA": "Santiago Bernabéu",
+  "optionB": "Florentino Pérez",
+  "optionC": "Lorenzo Sanz",
+  "optionD": "Ramón Mendoza",
+  "correctAnswer": "Florentino Pérez"
+ },
+ {
+  "id": 139,
+  "question": "¿Qué figura representa mejor el concepto de Rey del Madridismo para varias generaciones de aficionados?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Alfredo Di Stéfano",
+  "optionD": "Sergio Ramos",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 140,
+  "question": "¿Quién fue el máximo goleador del Real Madrid durante la década de los 90?",
+  "optionA": "Raúl González",
+  "optionB": "Butragueño",
+  "optionC": "Mijatović",
+  "optionD": "Morientes",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 141,
+  "question": "¿Quién fue el capitán del Real Madrid cuando ganó la Octava?",
+  "optionA": "Hierro",
+  "optionB": "Raúl",
+  "optionC": "Redondo",
+  "optionD": "Salgado",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 142,
+  "question": "¿Qué jugador marcó el gol número 1000 del Real Madrid en Copa de Europa?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Sergio Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 143,
+  "question": "¿Quién fue el primer entrenador en conquistar cinco Copas de Europa con el Real Madrid?",
+  "optionA": "Miguel Muñoz",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Bernabéu",
+  "correctAnswer": "Miguel Muñoz"
+ },
+ {
+  "id": 144,
+  "question": "¿Qué jugador fue conocido como El Siete Blanco?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Butragueño",
+  "optionD": "Juanito",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 145,
+  "question": "¿Quién ganó el premio The Best de la FIFA siendo jugador del Real Madrid en 2016 y 2017?",
+  "optionA": "Modrić",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 146,
+  "question": "¿Qué jugador fue apodado El Galgo de Cádiz?",
+  "optionA": "Lucas Vázquez",
+  "optionB": "Juanito",
+  "optionC": "Míchel",
+  "optionD": "Amancio",
+  "correctAnswer": "Juanito"
+ },
+ {
+  "id": 147,
+  "question": "¿Quién fue el portero titular de la Séptima?",
+  "optionA": "Casillas",
+  "optionB": "Illgner",
+  "optionC": "Buyo",
+  "optionD": "Cañizares",
+  "correctAnswer": "Illgner"
+ },
+ {
+  "id": 148,
+  "question": "¿Qué jugador marcó el gol de la victoria en la final de la Intercontinental de 2002?",
+  "optionA": "Ronaldo",
+  "optionB": "Raúl",
+  "optionC": "Roberto Carlos",
+  "optionD": "Figo",
+  "correctAnswer": "Ronaldo"
+ },
+ {
+  "id": 149,
+  "question": "¿Quién fue el líder de la defensa madridista durante la conquista de la Séptima, Octava y Novena?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Hierro",
+  "optionC": "Helguera",
+  "optionD": "Sanchís",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 150,
+  "question": "¿Quién fue el máximo goleador de la Champions League 2021-22?",
+  "optionA": "Benzema",
+  "optionB": "Lewandowski",
+  "optionC": "Mbappé",
+  "optionD": "Salah",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 151,
+  "question": "¿Qué jugador marcó más goles de cabeza en la historia reciente del club?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ramos",
+  "optionC": "Benzema",
+  "optionD": "Morientes",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 152,
+  "question": "¿Quién fue el capitán del Real Madrid durante la conquista de la Decimotercera?",
+  "optionA": "Marcelo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Modrić",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 153,
+  "question": "¿Qué jugador es considerado el mejor centrocampista ofensivo de la historia del Real Madrid?",
+  "optionA": "Zidane",
+  "optionB": "Modrić",
+  "optionC": "Kroos",
+  "optionD": "Guti",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 154,
+  "question": "¿Quién fue el goleador de la final de la Séptima?",
+  "optionA": "Raúl",
+  "optionB": "Mijatović",
+  "optionC": "Morientes",
+  "optionD": "Hierro",
+  "correctAnswer": "Mijatović"
+ },
+ {
+  "id": 155,
+  "question": "¿Qué jugador fue conocido como El Príncipe de Chamartín?",
+  "optionA": "Butragueño",
+  "optionB": "Raúl",
+  "optionC": "Redondo",
+  "optionD": "Guti",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 156,
+  "question": "¿Quién ganó más Pichichis como jugador del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di Stéfano",
+  "optionC": "Hugo Sánchez",
+  "optionD": "Raúl",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 157,
+  "question": "¿Qué jugador marcó el gol del 2-1 en la final de Lisboa?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Marcelo",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 158,
+  "question": "¿Quién fue el entrenador que devolvió al Real Madrid a la élite europea en 1998?",
+  "optionA": "Heynckes",
+  "optionB": "Del Bosque",
+  "optionC": "Capello",
+  "optionD": "Toshack",
+  "correctAnswer": "Heynckes"
+ },
+ {
+  "id": 159,
+  "question": "¿Qué jugador fue famoso por su dorsal 5 y elegancia en el centro del campo?",
+  "optionA": "Zidane",
+  "optionB": "Redondo",
+  "optionC": "Cannavaro",
+  "optionD": "Varane",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 160,
+  "question": "¿Qué jugador fue el gran referente ofensivo antes de la llegada de Cristiano Ronaldo?",
+  "optionA": "Raúl",
+  "optionB": "Van Nistelrooy",
+  "optionC": "Ronaldo",
+  "optionD": "Robinho",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 161,
+  "question": "¿Quién marcó el último penalti de la final de Milán 2016?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ramos",
+  "optionC": "Marcelo",
+  "optionD": "Bale",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 162,
+  "question": "¿Quién fue el primer jugador del Real Madrid en superar los 200 goles oficiales?",
+  "optionA": "Di Stéfano",
+  "optionB": "Puskás",
+  "optionC": "Santillana",
+  "optionD": "Raúl",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 163,
+  "question": "¿Qué jugador es considerado el símbolo de la cantera madridista?",
+  "optionA": "Raúl González",
+  "optionB": "Butragueño",
+  "optionC": "Casillas",
+  "optionD": "Guti",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 164,
+  "question": "¿Quién representa mejor la unión entre historia, títulos y grandeza del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 165,
+  "question": "¿Qué jugador marcó más goles en la historia de la Copa de Europa con el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Di Stéfano",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 166,
+  "question": "¿Quién fue el gran líder del vestuario durante la era de las tres Champions consecutivas?",
+  "optionA": "Marcelo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Modrić",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 167,
+  "question": "¿Qué jugador anotó un hat-trick ante el Atlético de Madrid en semifinales de Champions 2017?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 168,
+  "question": "¿Quién fue el capitán del Real Madrid en la final de la Novena?",
+  "optionA": "Hierro",
+  "optionB": "Raúl",
+  "optionC": "Redondo",
+  "optionD": "Helguera",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 169,
+  "question": "¿Qué jugador fue conocido como El Mago por su visión y pases imposibles?",
+  "optionA": "Guti",
+  "optionB": "Modrić",
+  "optionC": "Özil",
+  "optionD": "Zidane",
+  "correctAnswer": "Guti"
+ },
+ {
+  "id": 170,
+  "question": "¿Quién marcó el gol que aseguró la Decimocuarta en París 2022?",
+  "optionA": "Rodrygo",
+  "optionB": "Valverde",
+  "optionC": "Vinícius Jr.",
+  "optionD": "Benzema",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 171,
+  "question": "¿Qué jugador español ganó más títulos con el Real Madrid hasta 2024?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Nacho",
+  "optionC": "Carvajal",
+  "optionD": "Casillas",
+  "correctAnswer": "Nacho"
+ },
+ {
+  "id": 172,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2021-22?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Rodrygo",
+  "optionC": "Benzema",
+  "optionD": "Modrić",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 173,
+  "question": "¿Qué jugador fue apodado El Matador durante los años 90?",
+  "optionA": "Raúl",
+  "optionB": "Mijatović",
+  "optionC": "Morientes",
+  "optionD": "Suker",
+  "correctAnswer": "Suker"
+ },
+ {
+  "id": 174,
+  "question": "¿Quién fue el entrenador del Real Madrid en la final de la Octava?",
+  "optionA": "Del Bosque",
+  "optionB": "Heynckes",
+  "optionC": "Capello",
+  "optionD": "Toshack",
+  "correctAnswer": "Del Bosque"
+ },
+ {
+  "id": 175,
+  "question": "¿Qué jugador marcó más goles en una temporada de Champions League?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Messi",
+  "optionD": "Lewandowski",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 176,
+  "question": "¿Quién fue el referente ofensivo del Real Madrid durante la Quinta del Buitre?",
+  "optionA": "Míchel",
+  "optionB": "Butragueño",
+  "optionC": "Sanchís",
+  "optionD": "Martín Vázquez",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 177,
+  "question": "¿Qué jugador alemán formó un centro del campo legendario junto a Modrić y Casemiro?",
+  "optionA": "Khedira",
+  "optionB": "Kroos",
+  "optionC": "Özil",
+  "optionD": "Can",
+  "correctAnswer": "Kroos"
+ },
+ {
+  "id": 178,
+  "question": "¿Quién marcó el gol de la victoria ante el Barcelona en la final de Copa de 2011?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di María",
+  "optionC": "Benzema",
+  "optionD": "Özil",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 179,
+  "question": "¿Qué jugador fue considerado el heredero natural de Raúl en la delantera madridista?",
+  "optionA": "Morata",
+  "optionB": "Higuaín",
+  "optionC": "Benzema",
+  "optionD": "Ninguno",
+  "correctAnswer": "Ninguno"
+ },
+ {
+  "id": 180,
+  "question": "¿Quién fue el gran héroe de la final de la Champions 2024 contra el Borussia Dortmund?",
+  "optionA": "Bellingham",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Courtois",
+  "optionD": "Carvajal",
+  "correctAnswer": "Carvajal"
+ },
+ {
+  "id": 181,
+  "question": "¿Qué jugador marcó más goles de falta directa con el Real Madrid en el siglo XXI?",
+  "optionA": "Beckham",
+  "optionB": "Roberto Carlos",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 182,
+  "question": "¿Quién fue el capitán del Real Madrid cuando ganó la Decimocuarta?",
+  "optionA": "Benzema",
+  "optionB": "Marcelo",
+  "optionC": "Modrić",
+  "optionD": "Nacho",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 183,
+  "question": "¿Qué jugador fue apodado El Búfalo por su potencia física?",
+  "optionA": "Bale",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Morientes",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 184,
+  "question": "¿Quién marcó el último gol del Real Madrid en la final de Lisboa 2014?",
+  "optionA": "Bale",
+  "optionB": "Marcelo",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 185,
+  "question": "¿Qué jugador es considerado por muchos el mejor fichaje de Florentino Pérez?",
+  "optionA": "Figo",
+  "optionB": "Zidane",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 186,
+  "question": "¿Quién fue el primer madridista en ganar el Balón de Oro en el siglo XXI?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Cannavaro",
+  "optionD": "Modrić",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 187,
+  "question": "¿Qué jugador formó parte de la famosa Quinta del Buitre?",
+  "optionA": "Raúl",
+  "optionB": "Míchel",
+  "optionC": "Redondo",
+  "optionD": "Hierro",
+  "correctAnswer": "Míchel"
+ },
+ {
+  "id": 188,
+  "question": "¿Quién marcó el gol decisivo en la final de Copa del Rey 2014 frente al Barcelona?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Di María",
+  "optionD": "Benzema",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 189,
+  "question": "¿Quién fue el entrenador del Real Madrid durante la famosa Liga de los Récords de 2011-12?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Mourinho",
+  "optionD": "Pellegrini",
+  "correctAnswer": "Mourinho"
+ },
+ {
+  "id": 190,
+  "question": "¿Qué jugador fue el máximo asistente de la Liga de los Récords 2011-12?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Özil",
+  "optionC": "Di María",
+  "optionD": "Benzema",
+  "correctAnswer": "Özil"
+ },
+ {
+  "id": 191,
+  "question": "¿Qué jugador marcó más goles en eliminatorias de Champions para el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Vinícius Jr.",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 192,
+  "question": "¿Quién encarna mejor el espíritu histórico y ganador del Real Madrid según la mayoría de historiadores del club?",
+  "optionA": "Raúl González",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 193,
+  "question": "¿Qué jugador disputó más Clásicos oficiales con el Real Madrid hasta 2024?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Raúl González",
+  "optionC": "Manolo Sanchís",
+  "optionD": "Karim Benzema",
+  "correctAnswer": "Manolo Sanchís"
+ },
+ {
+  "id": 194,
+  "question": "¿Quién fue el máximo goleador de la Quinta del Buitre en competiciones europeas?",
+  "optionA": "Butragueño",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Míchel",
+  "optionD": "Santillana",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 195,
+  "question": "¿Qué jugador marcó un hat-trick contra el Wolfsburgo en Champions 2016?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 196,
+  "question": "¿Quién fue el entrenador del Real Madrid cuando ganó la Liga de los Récords con 100 puntos?",
+  "optionA": "Ancelotti",
+  "optionB": "Mourinho",
+  "optionC": "Zidane",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Mourinho"
+ },
+ {
+  "id": 197,
+  "question": "¿Qué jugador fue conocido como El 7 de España?",
+  "optionA": "Butragueño",
+  "optionB": "Juanito",
+  "optionC": "Raúl González",
+  "optionD": "Santillana",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 198,
+  "question": "¿Quién marcó el primer gol del Real Madrid en la final de Lisboa 2014?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Bale",
+  "optionC": "Marcelo",
+  "optionD": "Nadie",
+  "correctAnswer": "Nadie"
+ },
+ {
+  "id": 199,
+  "question": "¿Qué defensa anotó el primer gol de la final de Champions 2024?",
+  "optionA": "Rüdiger",
+  "optionB": "Militão",
+  "optionC": "Carvajal",
+  "optionD": "Nacho",
+  "correctAnswer": "Carvajal"
+ },
+ {
+  "id": 200,
+  "question": "¿Quién fue el mejor jugador de la final de Glasgow 2002?",
+  "optionA": "Raúl",
+  "optionB": "Zidane",
+  "optionC": "Roberto Carlos",
+  "optionD": "Figo",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 201,
+  "question": "¿Qué jugador ganó más Champions League como capitán del Real Madrid?",
+  "optionA": "Marcelo",
+  "optionB": "Sergio Ramos",
+  "optionC": "Casillas",
+  "optionD": "Raúl",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 202,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2017-18?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Asensio",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 203,
+  "question": "¿Qué jugador fue apodado El Cañón de Bernabéu?",
+  "optionA": "Hugo Sánchez",
+  "optionB": "Santillana",
+  "optionC": "Puskás",
+  "optionD": "Raúl",
+  "correctAnswer": "Puskás"
+ },
+ {
+  "id": 204,
+  "question": "¿Quién marcó el gol que inició la remontada ante el PSG en 2022?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Benzema",
+  "optionC": "Modrić",
+  "optionD": "Rodrygo",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 205,
+  "question": "¿Qué jugador fue elegido mejor futbolista de Europa en 2018?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Modrić",
+  "optionC": "Ramos",
+  "optionD": "Bale",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 206,
+  "question": "¿Quién fue el capitán del Real Madrid durante la conquista de la Séptima?",
+  "optionA": "Hierro",
+  "optionB": "Raúl",
+  "optionC": "Sanchís",
+  "optionD": "Redondo",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 207,
+  "question": "¿Qué jugador es considerado el mejor fichaje de la era Galáctica?",
+  "optionA": "Figo",
+  "optionB": "Zidane",
+  "optionC": "Ronaldo",
+  "optionD": "Beckham",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 208,
+  "question": "¿Quién marcó el gol decisivo en la final de Champions de 1998?",
+  "optionA": "Raúl",
+  "optionB": "Mijatović",
+  "optionC": "Morientes",
+  "optionD": "Seedorf",
+  "correctAnswer": "Mijatović"
+ },
+ {
+  "id": 209,
+  "question": "¿Qué jugador fue conocido por su famosa celebración besando el anillo de casado?",
+  "optionA": "Raúl",
+  "optionB": "Guti",
+  "optionC": "Hierro",
+  "optionD": "Casillas",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 210,
+  "question": "¿Quién fue el máximo asistente del Real Madrid durante la temporada 2021-22?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Modrić",
+  "optionC": "Benzema",
+  "optionD": "Kroos",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 211,
+  "question": "¿Qué jugador marcó más goles de penalti en la historia del club?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Raúl",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 212,
+  "question": "¿Quién ganó la primera Champions League del Real Madrid en el siglo XXI como entrenador?",
+  "optionA": "Del Bosque",
+  "optionB": "Capello",
+  "optionC": "Heynckes",
+  "optionD": "Mourinho",
+  "correctAnswer": "Del Bosque"
+ },
+ {
+  "id": 213,
+  "question": "¿Qué jugador fue conocido como El Ferrari de Madeira?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Figo",
+  "optionC": "Pepe",
+  "optionD": "Coentrão",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 214,
+  "question": "¿Quién marcó el gol del 4-1 en la final de Lisboa?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Marcelo",
+  "optionC": "Bale",
+  "optionD": "Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 215,
+  "question": "¿Qué jugador fue el máximo goleador del Real Madrid en la década de los 50?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 216,
+  "question": "¿Quién fue el primer capitán en levantar la Champions League moderna con el Real Madrid?",
+  "optionA": "Hierro",
+  "optionB": "Sanchís",
+  "optionC": "Raúl",
+  "optionD": "Casillas",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 217,
+  "question": "¿Qué jugador fue el máximo asistente de Cristiano Ronaldo en el Real Madrid?",
+  "optionA": "Marcelo",
+  "optionB": "Benzema",
+  "optionC": "Özil",
+  "optionD": "Di María",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 218,
+  "question": "¿Quién marcó el gol de la victoria contra el Bayern en semifinales de Champions 2018?",
+  "optionA": "Benzema",
+  "optionB": "Ramos",
+  "optionC": "Marcelo",
+  "optionD": "Asensio",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 219,
+  "question": "¿Qué jugador ganó más Balones de Oro jugando para el Real Madrid?",
+  "optionA": "Di Stéfano",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Modrić",
+  "optionD": "Ronaldo",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 220,
+  "question": "¿Quién fue el gran referente madridista entre Di Stéfano y la Quinta del Buitre?",
+  "optionA": "Juanito",
+  "optionB": "Santillana",
+  "optionC": "Pirri",
+  "optionD": "Camacho",
+  "correctAnswer": "Santillana"
+ },
+ {
+  "id": 221,
+  "question": "¿Qué jugador es considerado el mejor capitán de la historia reciente del Real Madrid?",
+  "optionA": "Casillas",
+  "optionB": "Raúl",
+  "optionC": "Sergio Ramos",
+  "optionD": "Nacho",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 222,
+  "question": "¿Qué leyenda simboliza mejor la esencia histórica del madridismo ganador?",
+  "optionA": "Raúl González",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 223,
+  "question": "¿Quién fue el primer gran capitán de la era moderna del Real Madrid?",
+  "optionA": "Sanchís",
+  "optionB": "Raúl",
+  "optionC": "Hierro",
+  "optionD": "Casillas",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 224,
+  "question": "¿Qué jugador ganó cinco Copas de Europa consecutivas con el Real Madrid en los años 50?",
+  "optionA": "Di Stéfano",
+  "optionB": "Puskás",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 225,
+  "question": "¿Qué jugador fue apodado El Buitre del Bernabéu?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Santillana",
+  "optionD": "Juanito",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 226,
+  "question": "¿Qué jugador es considerado el mejor lateral izquierdo ofensivo de la historia del club?",
+  "optionA": "Marcelo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Camacho",
+  "optionD": "Mendy",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 227,
+  "question": "¿Qué jugador marcó el primer gol de la final de Cardiff 2017?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Casemiro",
+  "optionC": "Benzema",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 228,
+  "question": "¿Quién fue el máximo asistente del Real Madrid durante la era de Mourinho?",
+  "optionA": "Özil",
+  "optionB": "Di María",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Özil"
+ },
+ {
+  "id": 229,
+  "question": "¿Quién fue el entrenador del Real Madrid durante la conquista de la Novena?",
+  "optionA": "Capello",
+  "optionB": "Del Bosque",
+  "optionC": "Heynckes",
+  "optionD": "Queiroz",
+  "correctAnswer": "Del Bosque"
+ },
+ {
+  "id": 230,
+  "question": "¿Qué jugador fue elegido MVP de la Champions League 2021-22?",
+  "optionA": "Courtois",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Benzema",
+  "optionD": "Modrić",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 231,
+  "question": "¿Qué jugador fue apodado El Kaiser de Camas?",
+  "optionA": "Hierro",
+  "optionB": "Ramos",
+  "optionC": "Nacho",
+  "optionD": "Pepe",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 232,
+  "question": "¿Quién fue el héroe de la remontada ante el PSG en 2022 con un hat-trick?",
+  "optionA": "Rodrygo",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Benzema",
+  "optionD": "Modrić",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 233,
+  "question": "¿Qué jugador es considerado la mayor leyenda de la cantera madridista?",
+  "optionA": "Casillas",
+  "optionB": "Raúl",
+  "optionC": "Butragueño",
+  "optionD": "Guti",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 234,
+  "question": "¿Quién marcó más goles en finales con el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di Stéfano",
+  "optionC": "Puskás",
+  "optionD": "Raúl",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 235,
+  "question": "¿Qué jugador fue el gran socio de Raúl en ataque a finales de los 90?",
+  "optionA": "Morientes",
+  "optionB": "Mijatović",
+  "optionC": "Suker",
+  "optionD": "Redondo",
+  "correctAnswer": "Morientes"
+ },
+ {
+  "id": 236,
+  "question": "¿Quién fue el entrenador de la Decimocuarta?",
+  "optionA": "Zidane",
+  "optionB": "Ancelotti",
+  "optionC": "Mourinho",
+  "optionD": "Benítez",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 237,
+  "question": "¿Qué jugador fue conocido por su potencia física y velocidad en la banda derecha?",
+  "optionA": "Bale",
+  "optionB": "Figo",
+  "optionC": "Beckham",
+  "optionD": "Robben",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 238,
+  "question": "¿Quién levantó la Decimotercera como capitán?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Marcelo",
+  "optionC": "Ramos",
+  "optionD": "Modrić",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 239,
+  "question": "¿Qué jugador marcó el famoso gol de chilena en la final de Kiev 2018?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 240,
+  "question": "¿Qué jugador es considerado el mejor mediapunta de la historia del club?",
+  "optionA": "Zidane",
+  "optionB": "Guti",
+  "optionC": "Özil",
+  "optionD": "Modrić",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 241,
+  "question": "¿Qué jugador fue conocido como El Gran Capitán?",
+  "optionA": "Raúl",
+  "optionB": "Sanchís",
+  "optionC": "Hierro",
+  "optionD": "Casillas",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 242,
+  "question": "¿Qué figura es considerada por la mayoría de historiadores como el auténtico Rey del Madridismo?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 243,
+  "question": "¿Qué jugador fue el máximo goleador del Real Madrid en la temporada 2011-12?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Higuaín",
+  "optionD": "Kaká",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 244,
+  "question": "¿Quién marcó el gol de la victoria en el Camp Nou en la Liga de los Récords?",
+  "optionA": "Özil",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Khedira",
+  "optionD": "Di María",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 245,
+  "question": "¿Qué jugador fue conocido como El Buitre por su inteligencia dentro del área?",
+  "optionA": "Raúl",
+  "optionB": "Butragueño",
+  "optionC": "Santillana",
+  "optionD": "Juanito",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 246,
+  "question": "¿Quién fue el portero titular en la conquista de la Novena?",
+  "optionA": "Casillas",
+  "optionB": "César",
+  "optionC": "Illgner",
+  "optionD": "Buyo",
+  "correctAnswer": "César"
+ },
+ {
+  "id": 247,
+  "question": "¿Qué jugador marcó el primer gol del Real Madrid en la final de Champions de 2017?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Casemiro",
+  "optionC": "Benzema",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 248,
+  "question": "¿Quién fue el gran líder de la defensa madridista en los años 80?",
+  "optionA": "Camacho",
+  "optionB": "Hierro",
+  "optionC": "Sanchís",
+  "optionD": "Chendo",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 249,
+  "question": "¿Qué jugador ganó cuatro Balones de Oro consecutivos siendo futbolista del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di Stéfano",
+  "optionC": "Ronaldo",
+  "optionD": "Modrić",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 250,
+  "question": "¿Quién fue el entrenador de la Quinta del Buitre durante la conquista de cinco Ligas consecutivas?",
+  "optionA": "Molowny",
+  "optionB": "Beenhakker",
+  "optionC": "Toshack",
+  "optionD": "Capello",
+  "correctAnswer": "Beenhakker"
+ },
+ {
+  "id": 251,
+  "question": "¿Qué jugador fue apodado El Ángel de Madrid por la afición?",
+  "optionA": "Juanito",
+  "optionB": "Amancio",
+  "optionC": "Raúl",
+  "optionD": "Pirri",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 252,
+  "question": "¿Quién marcó el gol decisivo ante la Juventus en la final de Cardiff?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Casemiro",
+  "optionC": "Asensio",
+  "optionD": "Bale",
+  "correctAnswer": "Asensio"
+ },
+ {
+  "id": 253,
+  "question": "¿Qué jugador ha ganado más partidos oficiales con el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Modrić",
+  "optionD": "Sanchís",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 254,
+  "question": "¿Qué jugador fue famoso por sus lanzamientos imposibles desde la banda izquierda?",
+  "optionA": "Marcelo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Camacho",
+  "optionD": "Mendy",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 255,
+  "question": "¿Quién marcó el gol del 2-0 en la final de Champions de 2000?",
+  "optionA": "Morientes",
+  "optionB": "McManaman",
+  "optionC": "Raúl",
+  "optionD": "Helguera",
+  "correctAnswer": "McManaman"
+ },
+ {
+  "id": 256,
+  "question": "¿Qué jugador fue considerado el heredero del dorsal 7 de Raúl?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Robinho",
+  "optionC": "Bale",
+  "optionD": "Ronaldo",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 257,
+  "question": "¿Quién fue el capitán del Real Madrid durante la mayor parte de la era Galáctica?",
+  "optionA": "Casillas",
+  "optionB": "Raúl",
+  "optionC": "Hierro",
+  "optionD": "Guti",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 258,
+  "question": "¿Qué jugador fue conocido como El Fenómeno?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Raúl",
+  "optionD": "Van Nistelrooy",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 259,
+  "question": "¿Quién marcó el gol que cerró la final de la Duodécima?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Asensio",
+  "optionC": "Casemiro",
+  "optionD": "Benzema",
+  "correctAnswer": "Asensio"
+ },
+ {
+  "id": 260,
+  "question": "¿Qué jugador fue el gran referente del madridismo en los años 70?",
+  "optionA": "Pirri",
+  "optionB": "Juanito",
+  "optionC": "Santillana",
+  "optionD": "Camacho",
+  "correctAnswer": "Pirri"
+ },
+ {
+  "id": 261,
+  "question": "¿Quién fue elegido mejor jugador de la final de Champions de 2024?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Carvajal",
+  "optionC": "Courtois",
+  "optionD": "Bellingham",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 262,
+  "question": "¿Qué jugador marcó más goles en una temporada oficial con el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Hugo Sánchez",
+  "optionD": "Raúl",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 263,
+  "question": "¿Quién fue el entrenador de la Decimoquinta?",
+  "optionA": "Zidane",
+  "optionB": "Ancelotti",
+  "optionC": "Mourinho",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 264,
+  "question": "¿Quién marcó el gol número 100 del Real Madrid en finales europeas?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bale",
+  "optionC": "Ramos",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 265,
+  "question": "¿Qué jugador fue conocido como El Caballero Blanco?",
+  "optionA": "Pirri",
+  "optionB": "Raúl",
+  "optionC": "Butragueño",
+  "optionD": "Camacho",
+  "correctAnswer": "Pirri"
+ },
+ {
+  "id": 266,
+  "question": "¿Qué jugador representa mejor el madridismo moderno surgido de la cantera?",
+  "optionA": "Casillas",
+  "optionB": "Raúl",
+  "optionC": "Guti",
+  "optionD": "Nacho",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 267,
+  "question": "¿Quién es considerado por la mayoría de aficionados e historiadores como el Rey del Madridismo?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 268,
+  "question": "¿Qué jugador fue el primer madridista en ganar el premio FIFA World Player?",
+  "optionA": "Raúl",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Zidane",
+  "optionD": "Figo",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 269,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la Champions 2016-17?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 270,
+  "question": "¿Qué jugador marcó el famoso gol de la cuchara ante el Atlético de Madrid en Champions?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Modrić",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 271,
+  "question": "¿Quién fue el entrenador del Real Madrid cuando ganó la Intercontinental de 2002?",
+  "optionA": "Del Bosque",
+  "optionB": "Queiroz",
+  "optionC": "Capello",
+  "optionD": "Heynckes",
+  "correctAnswer": "Del Bosque"
+ },
+ {
+  "id": 272,
+  "question": "¿Qué jugador fue conocido como El Mariscal?",
+  "optionA": "Hierro",
+  "optionB": "Ramos",
+  "optionC": "Pepe",
+  "optionD": "Sanchís",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 273,
+  "question": "¿Quién marcó el gol de la victoria en la final de la Séptima?",
+  "optionA": "Mijatović",
+  "optionB": "Raúl",
+  "optionC": "Morientes",
+  "optionD": "Seedorf",
+  "correctAnswer": "Mijatović"
+ },
+ {
+  "id": 274,
+  "question": "¿Qué jugador ganó más Champions League como futbolista del Real Madrid en el siglo XXI?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Marcelo",
+  "optionC": "Modrić",
+  "optionD": "Carvajal",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 275,
+  "question": "¿Quién fue el primer entrenador extranjero en ganar una Copa de Europa con el Real Madrid?",
+  "optionA": "Mourinho",
+  "optionB": "Heynckes",
+  "optionC": "Ancelotti",
+  "optionD": "Hiddink",
+  "correctAnswer": "Heynckes"
+ },
+ {
+  "id": 276,
+  "question": "¿Qué jugador fue elegido mejor jugador de Europa en 2022?",
+  "optionA": "Courtois",
+  "optionB": "Modrić",
+  "optionC": "Vinícius Jr.",
+  "optionD": "Benzema",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 277,
+  "question": "¿Quién fue el máximo asistente del Real Madrid en la temporada 2016-17?",
+  "optionA": "Kroos",
+  "optionB": "Marcelo",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Modrić",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 278,
+  "question": "¿Qué jugador marcó más goles en derbis madrileños oficiales con el Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Santillana",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 279,
+  "question": "¿Quién fue el capitán del Real Madrid cuando ganó la Copa de Europa de 1966?",
+  "optionA": "Gento",
+  "optionB": "Pirri",
+  "optionC": "Amancio",
+  "optionD": "Zoco",
+  "correctAnswer": "Gento"
+ },
+ {
+  "id": 280,
+  "question": "¿Qué jugador marcó el gol número 500 del Real Madrid en Champions League?",
+  "optionA": "Raúl",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Benzema",
+  "optionD": "Ramos",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 281,
+  "question": "¿Quién fue el gran referente ofensivo del Real Madrid durante los años 60?",
+  "optionA": "Gento",
+  "optionB": "Amancio",
+  "optionC": "Pirri",
+  "optionD": "Velázquez",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 282,
+  "question": "¿Qué jugador ganó el Balón de Oro de 2006 siendo futbolista del Real Madrid?",
+  "optionA": "Ronaldo",
+  "optionB": "Beckham",
+  "optionC": "Cannavaro",
+  "optionD": "Raúl",
+  "correctAnswer": "Cannavaro"
+ },
+ {
+  "id": 283,
+  "question": "¿Qué jugador fue conocido como El Gitano por su origen y talento?",
+  "optionA": "Amancio",
+  "optionB": "Juanito",
+  "optionC": "Pirri",
+  "optionD": "Santillana",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 284,
+  "question": "¿Quién fue el entrenador de la Undécima?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Benítez",
+  "optionD": "Mourinho",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 285,
+  "question": "¿Qué jugador fue el máximo goleador de la Champions 2017-18?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 286,
+  "question": "¿Qué jugador marcó más goles de cabeza en finales para el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ramos",
+  "optionC": "Santillana",
+  "optionD": "Bale",
+  "correctAnswer": "Santillana"
+ },
+ {
+  "id": 287,
+  "question": "¿Quién fue el primer capitán de la era Galáctica?",
+  "optionA": "Hierro",
+  "optionB": "Raúl",
+  "optionC": "Casillas",
+  "optionD": "Salgado",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 288,
+  "question": "¿Qué jugador fue elegido mejor portero del mundo tras ganar la Champions 2022?",
+  "optionA": "Casillas",
+  "optionB": "Courtois",
+  "optionC": "Navas",
+  "optionD": "Lunin",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 289,
+  "question": "¿Quién marcó el gol decisivo en la final de la Copa del Rey 2011?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Benzema",
+  "optionC": "Di María",
+  "optionD": "Özil",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 290,
+  "question": "¿Qué jugador es considerado el mejor extranjero de la historia del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di Stéfano",
+  "optionC": "Modrić",
+  "optionD": "Puskás",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 291,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2023-24?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Rodrygo",
+  "optionC": "Bellingham",
+  "optionD": "Joselu",
+  "correctAnswer": "Bellingham"
+ },
+ {
+  "id": 292,
+  "question": "¿Qué jugador fue conocido por su elegancia y control absoluto del juego?",
+  "optionA": "Redondo",
+  "optionB": "Modrić",
+  "optionC": "Kroos",
+  "optionD": "Zidane",
+  "correctAnswer": "Redondo"
+ },
+ {
+  "id": 293,
+  "question": "¿Quién levantó la Decimoquinta Champions como capitán?",
+  "optionA": "Nacho",
+  "optionB": "Carvajal",
+  "optionC": "Modrić",
+  "optionD": "Courtois",
+  "correctAnswer": "Nacho"
+ },
+ {
+  "id": 294,
+  "question": "¿Qué jugador representa mejor el espíritu competitivo del Real Madrid en el siglo XXI?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Sergio Ramos",
+  "optionC": "Raúl",
+  "optionD": "Casillas",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 295,
+  "question": "¿Quién es considerado el gran arquitecto deportivo de la historia del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Santiago Bernabéu",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 296,
+  "question": "¿Qué jugador marcó el primer gol del Real Madrid en una final de Copa de Europa?",
+  "optionA": "Di Stéfano",
+  "optionB": "Gento",
+  "optionC": "Rial",
+  "optionD": "Puskás",
+  "correctAnswer": "Rial"
+ },
+ {
+  "id": 297,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2002-03?",
+  "optionA": "Raúl",
+  "optionB": "Ronaldo",
+  "optionC": "Morientes",
+  "optionD": "Figo",
+  "correctAnswer": "Ronaldo"
+ },
+ {
+  "id": 298,
+  "question": "¿Qué jugador fue apodado El Maestro por su inteligencia táctica?",
+  "optionA": "Modrić",
+  "optionB": "Kroos",
+  "optionC": "Redondo",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Redondo"
+ },
+ {
+  "id": 299,
+  "question": "¿Quién fue el entrenador del Real Madrid durante la conquista de la Sexta Copa de Europa?",
+  "optionA": "Miguel Muñoz",
+  "optionB": "Mourinho",
+  "optionC": "Ancelotti",
+  "optionD": "Heynckes",
+  "correctAnswer": "Miguel Muñoz"
+ },
+ {
+  "id": 300,
+  "question": "¿Qué jugador marcó el gol de la victoria en la final de la Copa de Europa de 1966?",
+  "optionA": "Amancio",
+  "optionB": "Serena",
+  "optionC": "Pirri",
+  "optionD": "Gento",
+  "correctAnswer": "Serena"
+ },
+ {
+  "id": 301,
+  "question": "¿Qué jugador fue conocido como El Zorro del Área?",
+  "optionA": "Raúl",
+  "optionB": "Santillana",
+  "optionC": "Hugo Sánchez",
+  "optionD": "Morientes",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 302,
+  "question": "¿Qué jugador fue capitán del Real Madrid durante más temporadas consecutivas?",
+  "optionA": "Raúl",
+  "optionB": "Sanchís",
+  "optionC": "Hierro",
+  "optionD": "Ramos",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 303,
+  "question": "¿Quién fue el héroe de la semifinal contra el Manchester City en 2022?",
+  "optionA": "Vinícius",
+  "optionB": "Rodrygo",
+  "optionC": "Benzema",
+  "optionD": "Modrić",
+  "correctAnswer": "Rodrygo"
+ },
+ {
+  "id": 304,
+  "question": "¿Quién fue el primer capitán extranjero del Real Madrid en el siglo XXI?",
+  "optionA": "Marcelo",
+  "optionB": "Modrić",
+  "optionC": "Pepe",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Marcelo"
+ },
+ {
+  "id": 305,
+  "question": "¿Qué jugador es considerado el mejor centrocampista de la historia del Real Madrid?",
+  "optionA": "Modrić",
+  "optionB": "Zidane",
+  "optionC": "Redondo",
+  "optionD": "Kroos",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 306,
+  "question": "¿Qué jugador fue conocido como El Muro de Bruselas?",
+  "optionA": "Courtois",
+  "optionB": "Casillas",
+  "optionC": "Navas",
+  "optionD": "Buyo",
+  "correctAnswer": "Courtois"
+ },
+ {
+  "id": 307,
+  "question": "¿Qué jugador fue el gran referente del madridismo durante los años 50 y 60?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Gento",
+  "optionD": "Kopa",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 308,
+  "question": "¿Qué jugador marcó el gol de la victoria en la final de Champions de 2024?",
+  "optionA": "Carvajal",
+  "optionB": "Vinícius Jr.",
+  "optionC": "Bellingham",
+  "optionD": "Rodrygo",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 309,
+  "question": "¿Quién es considerado el mejor jugador de la historia del Real Madrid por número de goles y títulos europeos?",
+  "optionA": "Di Stéfano",
+  "optionB": "Raúl",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Benzema",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 310,
+  "question": "¿Qué jugador fue el máximo asistente de la era Cristiano Ronaldo?",
+  "optionA": "Marcelo",
+  "optionB": "Benzema",
+  "optionC": "Özil",
+  "optionD": "Di María",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 311,
+  "question": "¿Quién fue el capitán del Real Madrid en la final de Champions 2022?",
+  "optionA": "Marcelo",
+  "optionB": "Benzema",
+  "optionC": "Modrić",
+  "optionD": "Nacho",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 312,
+  "question": "¿Qué jugador fue conocido como El Señor de Chamartín?",
+  "optionA": "Di Stéfano",
+  "optionB": "Raúl",
+  "optionC": "Bernabéu",
+  "optionD": "Pirri",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 313,
+  "question": "¿Quién fue el entrenador de la Duodécima y la Decimotercera?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Mourinho",
+  "optionD": "Benítez",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 314,
+  "question": "¿Qué jugador tiene más goles en finales de Champions League con el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Puskás",
+  "optionC": "Di Stéfano",
+  "optionD": "Raúl",
+  "correctAnswer": "Di Stéfano"
+ },
+ {
+  "id": 315,
+  "question": "¿Quién fue el gran líder del centro del campo durante la era de los Galácticos?",
+  "optionA": "Figo",
+  "optionB": "Zidane",
+  "optionC": "Beckham",
+  "optionD": "Guti",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 316,
+  "question": "¿Qué figura es considerada el padre del madridismo ganador?",
+  "optionA": "Florentino Pérez",
+  "optionB": "Raúl González",
+  "optionC": "Santiago Bernabéu",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 317,
+  "question": "¿Qué jugador marcó el primer gol del Real Madrid en la final de la Champions 2018?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Isco",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 318,
+  "question": "¿Quién fue el máximo goleador de la Liga española en la temporada 2014-15 jugando para el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Messi",
+  "optionC": "Benzema",
+  "optionD": "Neymar",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 319,
+  "question": "¿Qué jugador fue conocido como El Pirata del Bernabéu?",
+  "optionA": "Pirri",
+  "optionB": "Juanito",
+  "optionC": "Guti",
+  "optionD": "Santillana",
+  "correctAnswer": "Pirri"
+ },
+ {
+  "id": 320,
+  "question": "¿Quién fue el entrenador del Real Madrid cuando ganó la Liga 2019-20?",
+  "optionA": "Ancelotti",
+  "optionB": "Mourinho",
+  "optionC": "Zidane",
+  "optionD": "Lopetegui",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 321,
+  "question": "¿Qué jugador fue el máximo goleador del Real Madrid en la década de 2010?",
+  "optionA": "Benzema",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Higuaín",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 322,
+  "question": "¿Qué jugador marcó el gol decisivo ante el Chelsea en los cuartos de Champions 2022?",
+  "optionA": "Benzema",
+  "optionB": "Modrić",
+  "optionC": "Rodrygo",
+  "optionD": "Vinícius Jr.",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 323,
+  "question": "¿Quién es considerado el mejor defensa central de la historia del Real Madrid?",
+  "optionA": "Hierro",
+  "optionB": "Ramos",
+  "optionC": "Sanchís",
+  "optionD": "Pepe",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 324,
+  "question": "¿Qué jugador fue conocido por su elegancia y precisión en los pases largos?",
+  "optionA": "Kroos",
+  "optionB": "Modrić",
+  "optionC": "Redondo",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Kroos"
+ },
+ {
+  "id": 325,
+  "question": "¿Quién representa mejor el legado histórico del Real Madrid según la mayoría de aficionados?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Santiago Bernabéu",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 326,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2022-23?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Rodrygo",
+  "optionC": "Karim Benzema",
+  "optionD": "Modrić",
+  "correctAnswer": "Karim Benzema"
+ },
+ {
+  "id": 327,
+  "question": "¿Qué jugador fue conocido como El Ingeniero del Centro del Campo?",
+  "optionA": "Kroos",
+  "optionB": "Modrić",
+  "optionC": "Redondo",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Kroos"
+ },
+ {
+  "id": 328,
+  "question": "¿Quién fue el entrenador del Real Madrid en la final de Champions 2017?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Mourinho",
+  "optionD": "Benítez",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 329,
+  "question": "¿Qué jugador marcó el primer gol de la final de la Decimocuarta?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Benzema",
+  "optionC": "Rodrygo",
+  "optionD": "Nadie, fue el único gol",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 330,
+  "question": "¿Quién es considerado el mejor delantero español de la historia del Real Madrid?",
+  "optionA": "Raúl González",
+  "optionB": "Santillana",
+  "optionC": "Butragueño",
+  "optionD": "Amancio",
+  "correctAnswer": "Raúl González"
+ },
+ {
+  "id": 331,
+  "question": "¿Qué jugador fue el capitán de la selección española campeona del mundo y leyenda madridista?",
+  "optionA": "Raúl",
+  "optionB": "Sergio Ramos",
+  "optionC": "Iker Casillas",
+  "optionD": "Fernando Hierro",
+  "correctAnswer": "Iker Casillas"
+ },
+ {
+  "id": 332,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la Champions 2023-24?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Bellingham",
+  "optionC": "Rodrygo",
+  "optionD": "Joselu",
+  "correctAnswer": "Vinícius Jr."
+ },
+ {
+  "id": 333,
+  "question": "¿Quién es considerado la mayor leyenda competitiva de la historia del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Sergio Ramos",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 334,
+  "question": "¿Qué jugador fue el máximo goleador del Real Madrid en la temporada 2007-08?",
+  "optionA": "Raúl",
+  "optionB": "Van Nistelrooy",
+  "optionC": "Robinho",
+  "optionD": "Higuaín",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 335,
+  "question": "¿Quién fue el entrenador que conquistó la Liga de 2006-07 con la famosa remontada final?",
+  "optionA": "Capello",
+  "optionB": "Del Bosque",
+  "optionC": "Schuster",
+  "optionD": "Queiroz",
+  "correctAnswer": "Capello"
+ },
+ {
+  "id": 336,
+  "question": "¿Qué jugador fue conocido como El Ángel Rubio?",
+  "optionA": "Amancio",
+  "optionB": "Butragueño",
+  "optionC": "Raúl",
+  "optionD": "Pirri",
+  "correctAnswer": "Amancio"
+ },
+ {
+  "id": 337,
+  "question": "¿Quién marcó el gol decisivo ante el Bayern en la semifinal de Champions 2024?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Joselu",
+  "optionC": "Rodrygo",
+  "optionD": "Bellingham",
+  "correctAnswer": "Joselu"
+ },
+ {
+  "id": 338,
+  "question": "¿Qué jugador tiene más victorias en la historia del Real Madrid?",
+  "optionA": "Modrić",
+  "optionB": "Marcelo",
+  "optionC": "Benzema",
+  "optionD": "Raúl",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 339,
+  "question": "¿Quién fue el capitán del Real Madrid durante la conquista de la Liga 2006-07?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Guti",
+  "optionD": "Cannavaro",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 340,
+  "question": "¿Qué jugador fue conocido como El Buitre de los Remates Imposibles?",
+  "optionA": "Santillana",
+  "optionB": "Butragueño",
+  "optionC": "Raúl",
+  "optionD": "Morientes",
+  "correctAnswer": "Butragueño"
+ },
+ {
+  "id": 341,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 1999-2000?",
+  "optionA": "Raúl",
+  "optionB": "Morientes",
+  "optionC": "Anelka",
+  "optionD": "McManaman",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 342,
+  "question": "¿Qué jugador fue elegido mejor jugador joven del Mundial 2018 siendo madridista?",
+  "optionA": "Vinícius Jr.",
+  "optionB": "Asensio",
+  "optionC": "Ninguno",
+  "optionD": "Valverde",
+  "correctAnswer": "Ninguno"
+ },
+ {
+  "id": 343,
+  "question": "¿Quién marcó el gol del empate en la final de la Décima?",
+  "optionA": "Sergio Ramos",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bale",
+  "optionD": "Marcelo",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 344,
+  "question": "¿Qué jugador es considerado el mejor mediocentro organizador de la historia reciente del club?",
+  "optionA": "Modrić",
+  "optionB": "Kroos",
+  "optionC": "Redondo",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Kroos"
+ },
+ {
+  "id": 345,
+  "question": "¿Qué jugador fue apodado El Guerrero de Camas?",
+  "optionA": "Ramos",
+  "optionB": "Nacho",
+  "optionC": "Hierro",
+  "optionD": "Pepe",
+  "correctAnswer": "Ramos"
+ },
+ {
+  "id": 346,
+  "question": "¿Quién fue el capitán del Real Madrid cuando ganó la Liga 2016-17?",
+  "optionA": "Marcelo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Sergio Ramos",
+  "optionD": "Modrić",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 347,
+  "question": "¿Qué jugador marcó el gol de la victoria en la final de la Copa del Rey 2014?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Di María",
+  "optionC": "Bale",
+  "optionD": "Benzema",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 348,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 1989-90?",
+  "optionA": "Butragueño",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Míchel",
+  "optionD": "Martín Vázquez",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 349,
+  "question": "¿Qué jugador fue conocido por su elegancia y clase como central?",
+  "optionA": "Hierro",
+  "optionB": "Varane",
+  "optionC": "Sanchís",
+  "optionD": "Alaba",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 350,
+  "question": "¿Qué jugador ganó más títulos de Liga con el Real Madrid en el siglo XXI?",
+  "optionA": "Marcelo",
+  "optionB": "Modrić",
+  "optionC": "Nacho",
+  "optionD": "Carvajal",
+  "correctAnswer": "Nacho"
+ },
+ {
+  "id": 351,
+  "question": "¿Quién fue el entrenador del Real Madrid durante la conquista de la Decimoquinta?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Mourinho",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 352,
+  "question": "¿Qué jugador fue apodado El Profesor por su inteligencia táctica?",
+  "optionA": "Kroos",
+  "optionB": "Modrić",
+  "optionC": "Del Bosque",
+  "optionD": "Redondo",
+  "correctAnswer": "Kroos"
+ },
+ {
+  "id": 353,
+  "question": "¿Quién marcó el gol decisivo ante el Atlético en la final de Champions 2016?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ramos",
+  "optionC": "Bale",
+  "optionD": "Marcelo",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 354,
+  "question": "¿Qué jugador es considerado el mejor capitán de cantera de la historia del Real Madrid?",
+  "optionA": "Raúl",
+  "optionB": "Casillas",
+  "optionC": "Nacho",
+  "optionD": "Guti",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 355,
+  "question": "¿Quién fue el gran líder emocional del Real Madrid durante la década de 2010?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Sergio Ramos",
+  "optionC": "Modrić",
+  "optionD": "Marcelo",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 356,
+  "question": "¿Quién representa mejor el concepto de grandeza eterna del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Raúl González",
+  "optionC": "Santiago Bernabéu",
+  "optionD": "Alfredo Di Stéfano",
+  "correctAnswer": "Alfredo Di Stéfano"
+ },
+ {
+  "id": 357,
+  "question": "¿Qué jugador marcó el primer gol de la era Zidane como entrenador en una final de Champions?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Sergio Ramos",
+  "optionC": "Bale",
+  "optionD": "Casemiro",
+  "correctAnswer": "Sergio Ramos"
+ },
+ {
+  "id": 358,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2008-09?",
+  "optionA": "Raúl",
+  "optionB": "Higuaín",
+  "optionC": "Robben",
+  "optionD": "Van Nistelrooy",
+  "correctAnswer": "Higuaín"
+ },
+ {
+  "id": 359,
+  "question": "¿Qué jugador fue conocido como El Maestro del Bernabéu?",
+  "optionA": "Zidane",
+  "optionB": "Modrić",
+  "optionC": "Redondo",
+  "optionD": "Guti",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 360,
+  "question": "¿Quién fue el entrenador que conquistó la Liga 2023-24?",
+  "optionA": "Ancelotti",
+  "optionB": "Zidane",
+  "optionC": "Mourinho",
+  "optionD": "Xabi Alonso",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 361,
+  "question": "¿Quién fue el máximo goleador del Real Madrid en la Copa de Europa de 1959-60?",
+  "optionA": "Puskás",
+  "optionB": "Di Stéfano",
+  "optionC": "Gento",
+  "optionD": "Del Sol",
+  "correctAnswer": "Puskás"
+ },
+ {
+  "id": 362,
+  "question": "¿Qué jugador es considerado el mejor lanzador de faltas de la historia del Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Roberto Carlos",
+  "optionC": "Beckham",
+  "optionD": "Puskás",
+  "correctAnswer": "Roberto Carlos"
+ },
+ {
+  "id": 363,
+  "question": "¿Quién fue el capitán del Real Madrid durante la conquista de la Liga 1994-95?",
+  "optionA": "Sanchís",
+  "optionB": "Hierro",
+  "optionC": "Redondo",
+  "optionD": "Amavisca",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 364,
+  "question": "¿Qué jugador marcó más goles en la historia del Santiago Bernabéu?",
+  "optionA": "Raúl",
+  "optionB": "Benzema",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Di Stéfano",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 365,
+  "question": "¿Qué jugador fue conocido como El Orgullo de Chamartín?",
+  "optionA": "Raúl",
+  "optionB": "Di Stéfano",
+  "optionC": "Pirri",
+  "optionD": "Juanito",
+  "correctAnswer": "Pirri"
+ },
+ {
+  "id": 366,
+  "question": "¿Quién fue el héroe de la final de la Champions de 2002?",
+  "optionA": "Raúl",
+  "optionB": "Zidane",
+  "optionC": "Morientes",
+  "optionD": "McManaman",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 367,
+  "question": "¿Qué jugador ganó más partidos de Champions con el Real Madrid?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Modrić",
+  "optionC": "Benzema",
+  "optionD": "Casillas",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 368,
+  "question": "¿Quién fue el entrenador del Real Madrid durante la conquista de la Liga 2016-17?",
+  "optionA": "Mourinho",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Benítez",
+  "correctAnswer": "Zidane"
+ },
+ {
+  "id": 369,
+  "question": "¿Qué jugador fue conocido como El Cañonero Mexicano?",
+  "optionA": "Chicharito",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Guardado",
+  "optionD": "Blanco",
+  "correctAnswer": "Hugo Sánchez"
+ },
+ {
+  "id": 370,
+  "question": "¿Qué jugador fue el máximo goleador del Real Madrid en la década de los 2000?",
+  "optionA": "Raúl",
+  "optionB": "Ronaldo",
+  "optionC": "Van Nistelrooy",
+  "optionD": "Higuaín",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 371,
+  "question": "¿Quién fue el primer capitán en levantar una Champions League en el nuevo formato?",
+  "optionA": "Hierro",
+  "optionB": "Sanchís",
+  "optionC": "Raúl",
+  "optionD": "Casillas",
+  "correctAnswer": "Sanchís"
+ },
+ {
+  "id": 372,
+  "question": "¿Qué jugador fue conocido por sus pases imposibles y visión de juego única?",
+  "optionA": "Guti",
+  "optionB": "Modrić",
+  "optionC": "Kroos",
+  "optionD": "Özil",
+  "correctAnswer": "Guti"
+ },
+ {
+  "id": 373,
+  "question": "¿Qué jugador fue considerado el mejor rematador de cabeza de la historia del club?",
+  "optionA": "Santillana",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Ramos",
+  "optionD": "Morientes",
+  "correctAnswer": "Santillana"
+ },
+ {
+  "id": 374,
+  "question": "¿Qué jugador ganó más Supercopas de Europa con el Real Madrid?",
+  "optionA": "Modrić",
+  "optionB": "Marcelo",
+  "optionC": "Carvajal",
+  "optionD": "Nacho",
+  "correctAnswer": "Modrić"
+ },
+ {
+  "id": 375,
+  "question": "¿Quién fue el entrenador durante la conquista de la Liga 2021-22?",
+  "optionA": "Zidane",
+  "optionB": "Ancelotti",
+  "optionC": "Lopetegui",
+  "optionD": "Solari",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 376,
+  "question": "¿Qué jugador fue conocido como El Kaiser Blanco?",
+  "optionA": "Ramos",
+  "optionB": "Hierro",
+  "optionC": "Sanchís",
+  "optionD": "Pepe",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 377,
+  "question": "¿Qué jugador marcó el gol de la victoria ante el Atlético en la final de Lisboa?",
+  "optionA": "Bale",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Marcelo",
+  "optionD": "Ramos",
+  "correctAnswer": "Bale"
+ },
+ {
+  "id": 378,
+  "question": "¿Quién fue el capitán del Real Madrid durante la temporada 2023-24?",
+  "optionA": "Nacho",
+  "optionB": "Modrić",
+  "optionC": "Carvajal",
+  "optionD": "Courtois",
+  "correctAnswer": "Nacho"
+ },
+ {
+  "id": 379,
+  "question": "¿Qué jugador fue considerado el corazón competitivo del Real Madrid durante los años 2010?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Ramos",
+  "optionC": "Modrić",
+  "optionD": "Marcelo",
+  "correctAnswer": "Ramos"
+ }
+]

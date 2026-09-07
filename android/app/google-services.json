@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297294877365",
+    "project_id": "trivia-master-48ll8w",
+    "storage_bucket": "trivia-master-48ll8w.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297294877365:android:c8bb47751a42f76c56a4fc",
+        "android_client_info": {
+          "package_name": "com.cgr.triviamaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq_zQzhi7-qDD74Lovd4ahbqPR3IqcC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297294877365:android:1afe3a44f5bb16ff56a4fc",
+        "android_client_info": {
+          "package_name": "com.cgr.triviamastermobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq_zQzhi7-qDD74Lovd4ahbqPR3IqcC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

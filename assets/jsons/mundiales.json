@@ -1,0 +1,3458 @@
+[
+ {
+  "id": 1,
+  "question": "¿Qué selección ganó el Mundial de Catar 2022 tras derrotar a Francia en la final?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Croacia",
+  "optionD": "Marruecos",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 2,
+  "question": "¿Qué selección derrotó a Inglaterra en semifinales antes de disputar la final del Mundial de Rusia 2018?",
+  "optionA": "Bélgica",
+  "optionB": "Inglaterra",
+  "optionC": "Croacia",
+  "optionD": "Uruguay",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 3,
+  "question": "¿Qué jugador marcó el único gol de la final del Mundial de Sudáfrica 2010 entre España y Países Bajos?",
+  "optionA": "David Villa",
+  "optionB": "Xavi Hernández",
+  "optionC": "Andrés Iniesta",
+  "optionD": "Fernando Torres",
+  "correctAnswer": "Andrés Iniesta"
+ },
+ {
+  "id": 4,
+  "question": "¿Qué jugador italiano ganó el Balón de Oro tras conquistar el Mundial de Alemania 2006?",
+  "optionA": "Andrea Pirlo",
+  "optionB": "Fabio Cannavaro",
+  "optionC": "Gianluigi Buffon",
+  "optionD": "Francesco Totti",
+  "correctAnswer": "Fabio Cannavaro"
+ },
+ {
+  "id": 5,
+  "question": "¿Quién fue el máximo goleador del Mundial de Corea-Japón 2002?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldinho",
+  "optionC": "Ronaldo Nazário",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 6,
+  "question": "¿Qué selección perdió por 3-0 la final del Mundial de Francia 1998 frente a la anfitriona?",
+  "optionA": "Italia",
+  "optionB": "Brasil",
+  "optionC": "Croacia",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 7,
+  "question": "¿Qué selección ganó el Mundial de Estados Unidos 1994 tras vencer a Italia en los penaltis?",
+  "optionA": "Brasil",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Argentina",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 8,
+  "question": "¿Qué selección ganó el Mundial de Italia 1990 derrotando a Argentina en la final?",
+  "optionA": "Argentina",
+  "optionB": "Alemania",
+  "optionC": "Italia",
+  "optionD": "Brasil",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 9,
+  "question": "¿Quién es el máximo goleador de la historia de los Mundiales con 16 goles?",
+  "optionA": "Ronaldo Nazário",
+  "optionB": "Lionel Messi",
+  "optionC": "Miroslav Klose",
+  "optionD": "Gerd Müller",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 10,
+  "question": "¿Qué jugador marcó 8 goles y ganó la Bota de Oro del Mundial de Corea-Japón 2002?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Ronaldinho",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 11,
+  "question": "¿Quién ganó la Bota de Oro del Mundial de Brasil 2014 tras marcar 6 goles?",
+  "optionA": "Lionel Messi",
+  "optionB": "Thomas Müller",
+  "optionC": "James Rodríguez",
+  "optionD": "Neymar",
+  "correctAnswer": "James Rodríguez"
+ },
+ {
+  "id": 12,
+  "question": "¿Quién ganó la Bota de Oro del Mundial de Rusia 2018?",
+  "optionA": "Harry Kane",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Antoine Griezmann",
+  "optionD": "Romelu Lukaku",
+  "correctAnswer": "Harry Kane"
+ },
+ {
+  "id": 13,
+  "question": "¿Quién ganó la Bota de Oro del Mundial de Catar 2022?",
+  "optionA": "Lionel Messi",
+  "optionB": "Julián Álvarez",
+  "optionC": "Kylian Mbappé",
+  "optionD": "Olivier Giroud",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 14,
+  "question": "¿Qué jugador posee el récord de más goles en una sola edición de un Mundial con 13 tantos?",
+  "optionA": "Just Fontaine",
+  "optionB": "Pelé",
+  "optionC": "Ronaldo Nazário",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Just Fontaine"
+ },
+ {
+  "id": 15,
+  "question": "¿Qué selección ha ganado más Copas del Mundo masculinas hasta 2022?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Italia",
+  "optionD": "Brasil",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 16,
+  "question": "¿Qué selección se proclamó campeona del Mundial de Brasil 2014?",
+  "optionA": "Argentina",
+  "optionB": "Alemania",
+  "optionC": "Países Bajos",
+  "optionD": "Brasil",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 17,
+  "question": "¿Qué selección se proclamó campeona del Mundial de Rusia 2018?",
+  "optionA": "Croacia",
+  "optionB": "Francia",
+  "optionC": "Bélgica",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 18,
+  "question": "¿Qué selección protagonizó la histórica victoria por 7-1 frente a Brasil en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 19,
+  "question": "¿Qué selección derrotó a Arabia Saudí por 8-0 en la fase de grupos del Mundial de Corea-Japón 2002?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Francia",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 20,
+  "question": "¿Qué selección perdió la final del Mundial de Brasil 2014 tras recibir un gol en la prórroga?",
+  "optionA": "Brasil",
+  "optionB": "Países Bajos",
+  "optionC": "Argentina",
+  "optionD": "Francia",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 21,
+  "question": "¿Qué selección perdió la final del Mundial de Catar 2022 en la tanda de penaltis?",
+  "optionA": "Croacia",
+  "optionB": "Francia",
+  "optionC": "Marruecos",
+  "optionD": "Brasil",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 22,
+  "question": "¿Qué jugador marcó un hat-trick en la final del Mundial de Catar 2022 entre Argentina y Francia?",
+  "optionA": "Lionel Messi",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Olivier Giroud",
+  "optionD": "Julián Álvarez",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 23,
+  "question": "¿Qué jugador posee el récord de más partidos disputados en la historia de los Mundiales?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Lionel Messi",
+  "optionC": "Paolo Maldini",
+  "optionD": "Lothar Matthäus",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué jugador disputó cinco Mundiales consecutivos entre 2002 y 2018 con la selección de México?",
+  "optionA": "Gianluigi Buffon",
+  "optionB": "Rafael Márquez",
+  "optionC": "Lionel Messi",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Rafael Márquez"
+ },
+ {
+  "id": 25,
+  "question": "¿Qué jugador disputó cinco Mundiales con la selección de Portugal entre 2006 y 2022?",
+  "optionA": "Luís Figo",
+  "optionB": "Pepe",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Rui Costa",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 26,
+  "question": "¿Qué selección eliminó a España en los octavos de final del Mundial de Catar 2022?",
+  "optionA": "Marruecos",
+  "optionB": "Francia",
+  "optionC": "Croacia",
+  "optionD": "Japón",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 27,
+  "question": "¿Qué selección eliminó a Brasil en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Argentina",
+  "optionB": "Francia",
+  "optionC": "Croacia",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 28,
+  "question": "¿Qué selección protagonizó la gran sorpresa del Mundial de Catar 2022 al convertirse en la primera africana en alcanzar unas semifinales?",
+  "optionA": "Japón",
+  "optionB": "Marruecos",
+  "optionC": "Australia",
+  "optionD": "Corea del Sur",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 29,
+  "question": "¿Qué selección ganó el Mundial de Alemania 2006 tras derrotar a Francia en la tanda de penaltis?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Brasil",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 30,
+  "question": "¿Qué jugador falló el penal decisivo de Italia en la final del Mundial de Estados Unidos 1994?",
+  "optionA": "Roberto Baggio",
+  "optionB": "Paolo Maldini",
+  "optionC": "Franco Baresi",
+  "optionD": "Demetrio Albertini",
+  "correctAnswer": "Roberto Baggio"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué selección ganó la tanda de penaltis de la final del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Croacia",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 32,
+  "question": "¿Qué selección ha disputado más finales de la Copa del Mundo masculina hasta 2022?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Italia",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué selección se proclamó campeona del Mundial de Corea-Japón 2002?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Francia",
+  "optionD": "Italia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 34,
+  "question": "¿Qué selección se proclamó campeona del Mundial de Alemania 2006?",
+  "optionA": "Alemania",
+  "optionB": "Italia",
+  "optionC": "Francia",
+  "optionD": "Brasil",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 35,
+  "question": "¿Qué selección se proclamó campeona del Mundial de Sudáfrica 2010?",
+  "optionA": "Países Bajos",
+  "optionB": "España",
+  "optionC": "Alemania",
+  "optionD": "Uruguay",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 36,
+  "question": "¿Qué país se convirtió en el primero en organizar tres Copas del Mundo masculinas al albergar también el Mundial de 2026?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "México",
+  "optionD": "Brasil",
+  "correctAnswer": "México"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué Mundial fue el primero de la historia celebrado en Asia?",
+  "optionA": "Corea-Japón 2002",
+  "optionB": "Catar 2022",
+  "optionC": "Sudáfrica 2010",
+  "optionD": "Rusia 2018",
+  "correctAnswer": "Corea-Japón 2002"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué Mundial fue el primero de la historia celebrado en África?",
+  "optionA": "Marruecos 1986",
+  "optionB": "Sudáfrica 2010",
+  "optionC": "Egipto 1990",
+  "optionD": "Túnez 1998",
+  "correctAnswer": "Sudáfrica 2010"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué selección ganó de forma consecutiva la Eurocopa 2008, el Mundial 2010 y la Eurocopa 2012?",
+  "optionA": "Alemania",
+  "optionB": "España",
+  "optionC": "Italia",
+  "optionD": "Francia",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Catar 2022?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Lionel Messi",
+  "optionC": "Luka Modrić",
+  "optionD": "Antoine Griezmann",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 41,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Rusia 2018?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Antoine Griezmann",
+  "optionC": "Luka Modrić",
+  "optionD": "Eden Hazard",
+  "correctAnswer": "Luka Modrić"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Brasil 2014?",
+  "optionA": "Thomas Müller",
+  "optionB": "Lionel Messi",
+  "optionC": "Arjen Robben",
+  "optionD": "Neymar",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 43,
+  "question": "¿Qué partido tiene el récord de más goles en una fase final de la Copa del Mundo con un total de 12 tantos anotados?",
+  "optionA": "Austria-Hungría",
+  "optionB": "Austria-Suiza",
+  "optionC": "Brasil-Polonia",
+  "optionD": "Francia-Paraguay",
+  "correctAnswer": "Austria-Suiza"
+ },
+ {
+  "id": 44,
+  "question": "¿Cuál de estos partidos terminó con una de las mayores goleadas registradas en la historia de los Mundiales con un marcador de 10-1?",
+  "optionA": "Hungría-El Salvador",
+  "optionB": "Alemania-Arabia Saudí",
+  "optionC": "Brasil-Chile",
+  "optionD": "Argentina-México",
+  "correctAnswer": "Hungría-El Salvador"
+ },
+ {
+  "id": 45,
+  "question": "¿Qué portero ganó el Guante de Oro del Mundial de Catar 2022?",
+  "optionA": "Hugo Lloris",
+  "optionB": "Yassine Bono",
+  "optionC": "Emiliano Martínez",
+  "optionD": "Dominik Livaković",
+  "correctAnswer": "Emiliano Martínez"
+ },
+ {
+  "id": 46,
+  "question": "¿Qué selección eliminó a Portugal en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Marruecos",
+  "optionC": "Croacia",
+  "optionD": "Brasil",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 47,
+  "question": "¿Qué jugador ganó el premio al Mejor Joven del Mundial de Catar 2022?",
+  "optionA": "Jamal Musiala",
+  "optionB": "Jude Bellingham",
+  "optionC": "Gavi",
+  "optionD": "Enzo Fernández",
+  "correctAnswer": "Enzo Fernández"
+ },
+ {
+  "id": 48,
+  "question": "¿Qué selección eliminó a Brasil en los cuartos de final del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Bélgica",
+  "optionC": "Inglaterra",
+  "optionD": "Croacia",
+  "correctAnswer": "Bélgica"
+ },
+ {
+  "id": 49,
+  "question": "¿Qué selección alcanzó por primera vez una final mundialista en el Mundial de Rusia 2018?",
+  "optionA": "Bélgica",
+  "optionB": "Croacia",
+  "optionC": "Marruecos",
+  "optionD": "Dinamarca",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 50,
+  "question": "¿Qué jugador marcó el único gol de Croacia en la final del Mundial de Rusia 2018?",
+  "optionA": "Ivan Perišić",
+  "optionB": "Luka Modrić",
+  "optionC": "Mario Mandžukić",
+  "optionD": "Ivan Rakitić",
+  "correctAnswer": "Ivan Perišić"
+ },
+ {
+  "id": 51,
+  "question": "¿Qué jugador marcó el gol de la victoria de Alemania en la final del Mundial de Brasil 2014 contra Argentina?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Toni Kroos",
+  "optionC": "Mario Götze",
+  "optionD": "Mesut Özil",
+  "correctAnswer": "Mario Götze"
+ },
+ {
+  "id": 52,
+  "question": "¿Qué selección terminó en tercera posición en el Mundial de Brasil 2014?",
+  "optionA": "Países Bajos",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Colombia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué selección eliminó a Costa Rica en los cuartos de final del Mundial de Brasil 2014?",
+  "optionA": "Países Bajos",
+  "optionB": "Argentina",
+  "optionC": "Alemania",
+  "optionD": "Bélgica",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 54,
+  "question": "¿Quién ganó el Balón de Oro del Mundial de Sudáfrica 2010?",
+  "optionA": "Andrés Iniesta",
+  "optionB": "Xavi Hernández",
+  "optionC": "Diego Forlán",
+  "optionD": "Wesley Sneijder",
+  "correctAnswer": "Diego Forlán"
+ },
+ {
+  "id": 55,
+  "question": "¿Qué selección derrotó a España en su primer partido del Mundial de Sudáfrica 2010?",
+  "optionA": "Chile",
+  "optionB": "Suiza",
+  "optionC": "Honduras",
+  "optionD": "Portugal",
+  "correctAnswer": "Suiza"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué selección terminó en tercera posición en el Mundial de Sudáfrica 2010?",
+  "optionA": "Alemania",
+  "optionB": "Uruguay",
+  "optionC": "Países Bajos",
+  "optionD": "Ghana",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 57,
+  "question": "¿Quién ganó la Bota de Oro del Mundial de Sudáfrica 2010?",
+  "optionA": "David Villa",
+  "optionB": "Thomas Müller",
+  "optionC": "Wesley Sneijder",
+  "optionD": "Diego Forlán",
+  "correctAnswer": "Thomas Müller"
+ },
+ {
+  "id": 58,
+  "question": "¿Qué jugador francés fue expulsado en la final del Mundial de Alemania 2006 tras un cabezazo a Marco Materazzi?",
+  "optionA": "Thierry Henry",
+  "optionB": "Zinedine Zidane",
+  "optionC": "Patrick Vieira",
+  "optionD": "Franck Ribéry",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 59,
+  "question": "¿Qué selección derrotó Italia en la final del Mundial de Alemania 2006 antes de caer en los penaltis?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "Portugal",
+  "optionD": "Brasil",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 60,
+  "question": "¿Qué selección sorprendió al mundo alcanzando las semifinales del Mundial de Corea-Japón 2002 como país anfitrión?",
+  "optionA": "Japón",
+  "optionB": "Corea del Sur",
+  "optionC": "China",
+  "optionD": "Arabia Saudí",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 61,
+  "question": "¿Qué jugador marcó los dos goles de Brasil en la final del Mundial de Corea-Japón 2002 frente a Alemania?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldinho",
+  "optionC": "Ronaldo Nazário",
+  "optionD": "Cafú",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 62,
+  "question": "¿Qué selección perdió la final del Mundial de Corea-Japón 2002 contra Brasil?",
+  "optionA": "Alemania",
+  "optionB": "Turquía",
+  "optionC": "España",
+  "optionD": "Corea del Sur",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 63,
+  "question": "¿Qué jugador francés marcó dos goles de cabeza en la final del Mundial de Francia 1998 frente a Brasil?",
+  "optionA": "Thierry Henry",
+  "optionB": "Zinedine Zidane",
+  "optionC": "Emmanuel Petit",
+  "optionD": "Youri Djorkaeff",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué selección terminó en tercera posición en el Mundial de Francia 1998?",
+  "optionA": "Países Bajos",
+  "optionB": "Croacia",
+  "optionC": "Alemania",
+  "optionD": "Dinamarca",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué jugador ganó la Bota de Oro del Mundial de Francia 1998?",
+  "optionA": "Ronaldo Nazário",
+  "optionB": "Gabriel Batistuta",
+  "optionC": "Davor Šuker",
+  "optionD": "Zinedine Zidane",
+  "correctAnswer": "Davor Šuker"
+ },
+ {
+  "id": 66,
+  "question": "¿Qué jugador compartió la Bota de Oro del Mundial de Estados Unidos 1994 tras marcar seis goles?",
+  "optionA": "Hristo Stoichkov",
+  "optionB": "Romário",
+  "optionC": "Roberto Baggio",
+  "optionD": "Jürgen Klinsmann",
+  "correctAnswer": "Hristo Stoichkov"
+ },
+ {
+  "id": 67,
+  "question": "¿Qué jugador marcó el único gol de la final del Mundial de Italia 1990 entre Alemania y Argentina?",
+  "optionA": "Lothar Matthäus",
+  "optionB": "Rudi Völler",
+  "optionC": "Andreas Brehme",
+  "optionD": "Jürgen Klinsmann",
+  "correctAnswer": "Andreas Brehme"
+ },
+ {
+  "id": 68,
+  "question": "¿Contra qué selección ganó Alemania la final del Mundial de Italia 1990?",
+  "optionA": "Argentina",
+  "optionB": "Italia",
+  "optionC": "Inglaterra",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 69,
+  "question": "¿Qué selección es la única que ha participado en todas las ediciones de la Copa del Mundo hasta Catar 2022?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Italia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué jugador posee el récord absoluto de goles marcados en una sola edición de la Copa del Mundo con 13 tantos?",
+  "optionA": "Pelé",
+  "optionB": "Just Fontaine",
+  "optionC": "Ronaldo Nazário",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Just Fontaine"
+ },
+ {
+  "id": 71,
+  "question": "¿Qué Mundial registró el promedio de goles por partido más bajo de la historia?",
+  "optionA": "Italia 1990",
+  "optionB": "Estados Unidos 1994",
+  "optionC": "Francia 1998",
+  "optionD": "Corea-Japón 2002",
+  "correctAnswer": "Italia 1990"
+ },
+ {
+  "id": 72,
+  "question": "¿Quién es el máximo goleador histórico de Alemania en los Mundiales?",
+  "optionA": "Gerd Müller",
+  "optionB": "Miroslav Klose",
+  "optionC": "Jürgen Klinsmann",
+  "optionD": "Karl-Heinz Rummenigge",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 73,
+  "question": "¿Quién es el máximo goleador histórico de Argentina en los Mundiales?",
+  "optionA": "Gabriel Batistuta",
+  "optionB": "Diego Maradona",
+  "optionC": "Lionel Messi",
+  "optionD": "Mario Kempes",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué jugador ha disputado más partidos en la historia de los Mundiales?",
+  "optionA": "Lothar Matthäus",
+  "optionB": "Miroslav Klose",
+  "optionC": "Lionel Messi",
+  "optionD": "Paolo Maldini",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 75,
+  "question": "¿Qué portero posee el récord de más porterías a cero en la historia de los Mundiales?",
+  "optionA": "Manuel Neuer",
+  "optionB": "Gianluigi Buffon",
+  "optionC": "Peter Shilton",
+  "optionD": "Gordon Banks",
+  "correctAnswer": "Peter Shilton"
+ },
+ {
+  "id": 76,
+  "question": "¿Qué selección ha ganado más títulos de la Copa del Mundo masculina?",
+  "optionA": "Alemania",
+  "optionB": "Italia",
+  "optionC": "Argentina",
+  "optionD": "Brasil",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 77,
+  "question": "¿Qué jugador se convirtió en el primero en marcar en cinco ediciones distintas de la Copa del Mundo masculina?",
+  "optionA": "Lionel Messi",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Pelé",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 78,
+  "question": "¿Qué jugador portugués marcó un hat-trick frente a España en el Mundial de Rusia 2018?",
+  "optionA": "Nani",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Bruno Fernandes",
+  "optionD": "João Félix",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué selección eliminó a Italia en la fase de grupos del Mundial de Sudáfrica 2010 al derrotarla por 3-2 en el último partido?",
+  "optionA": "Paraguay",
+  "optionB": "Eslovaquia",
+  "optionC": "Nueva Zelanda",
+  "optionD": "Japón",
+  "correctAnswer": "Eslovaquia"
+ },
+ {
+  "id": 80,
+  "question": "¿Qué selección eliminó a Alemania en la fase de grupos del Mundial de Rusia 2018 al derrotarla en la última jornada?",
+  "optionA": "Suecia",
+  "optionB": "México",
+  "optionC": "Corea del Sur",
+  "optionD": "Serbia",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 81,
+  "question": "¿Qué selección eliminó a Alemania en la fase de grupos del Mundial de Catar 2022 al terminar por delante de ella en el grupo?",
+  "optionA": "Japón",
+  "optionB": "España",
+  "optionC": "Costa Rica",
+  "optionD": "Marruecos",
+  "correctAnswer": "Japón"
+ },
+ {
+  "id": 82,
+  "question": "¿Qué portero ganó el Guante de Oro del Mundial de Brasil 2014?",
+  "optionA": "Manuel Neuer",
+  "optionB": "Sergio Romero",
+  "optionC": "Guillermo Ochoa",
+  "optionD": "Keylor Navas",
+  "correctAnswer": "Manuel Neuer"
+ },
+ {
+  "id": 83,
+  "question": "¿Qué portero ganó el Guante de Oro del Mundial de Rusia 2018?",
+  "optionA": "Thibaut Courtois",
+  "optionB": "Hugo Lloris",
+  "optionC": "Jordan Pickford",
+  "optionD": "Danijel Subašić",
+  "correctAnswer": "Thibaut Courtois"
+ },
+ {
+  "id": 84,
+  "question": "¿Qué selección terminó en tercera posición en el Mundial de Catar 2022 tras derrotar a Marruecos en el partido por el tercer puesto?",
+  "optionA": "Marruecos",
+  "optionB": "Croacia",
+  "optionC": "Francia",
+  "optionD": "Portugal",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 85,
+  "question": "¿Qué jugador marcó el primer gol de la final del Mundial de Catar 2022 entre Argentina y Francia?",
+  "optionA": "Lionel Messi",
+  "optionB": "Ángel Di María",
+  "optionC": "Julián Álvarez",
+  "optionD": "Kylian Mbappé",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué jugador croata ganó el Balón de Bronce del Mundial de Catar 2022?",
+  "optionA": "Marcelo Brozović",
+  "optionB": "Luka Modrić",
+  "optionC": "Joško Gvardiol",
+  "optionD": "Ivan Perišić",
+  "correctAnswer": "Luka Modrić"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué selección africana se convirtió en la primera de la historia en alcanzar unas semifinales mundialistas en Catar 2022?",
+  "optionA": "Senegal",
+  "optionB": "Marruecos",
+  "optionC": "Ghana",
+  "optionD": "Camerún",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 88,
+  "question": "¿Qué dos jugadores marcaron para Francia en la final del Mundial de Rusia 2018 contra Croacia?",
+  "optionA": "Paul Pogba y Kylian Mbappé",
+  "optionB": "Antoine Griezmann y Kylian Mbappé",
+  "optionC": "Paul Pogba y Antoine Griezmann",
+  "optionD": "Antoine Griezmann y Olivier Giroud",
+  "correctAnswer": "Paul Pogba y Kylian Mbappé"
+ },
+ {
+  "id": 89,
+  "question": "¿Qué portero ruso se convirtió en héroe nacional al eliminar a España en la tanda de penaltis del Mundial de Rusia 2018?",
+  "optionA": "Igor Akinfeev",
+  "optionB": "Matvei Safonov",
+  "optionC": "Andrey Lunev",
+  "optionD": "Guilherme Marinato",
+  "correctAnswer": "Igor Akinfeev"
+ },
+ {
+  "id": 90,
+  "question": "¿Qué selección eliminó a Alemania en la fase de grupos del Mundial de Rusia 2018 con un gol en el tiempo añadido?",
+  "optionA": "Suecia",
+  "optionB": "México",
+  "optionC": "Corea del Sur",
+  "optionD": "Serbia",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 91,
+  "question": "¿Qué jugador francés ganó el premio al Mejor Jugador Joven del Mundial de Rusia 2018?",
+  "optionA": "Paul Pogba",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Ousmane Dembélé",
+  "optionD": "Lucas Hernández",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué dos selecciones derrotaron a España en la fase de grupos del Mundial de Brasil 2014, provocando la eliminación del campeón vigente?",
+  "optionA": "Chile y Países Bajos",
+  "optionB": "Chile y Australia",
+  "optionC": "Países Bajos y Australia",
+  "optionD": "Chile y Costa Rica",
+  "correctAnswer": "Chile y Países Bajos"
+ },
+ {
+  "id": 93,
+  "question": "¿Qué selección sorprendió al mundo alcanzando los cuartos de final del Mundial de Brasil 2014 tras ganar el llamado 'grupo de la muerte'?",
+  "optionA": "Costa Rica",
+  "optionB": "Grecia",
+  "optionC": "Argelia",
+  "optionD": "Honduras",
+  "correctAnswer": "Costa Rica"
+ },
+ {
+  "id": 94,
+  "question": "¿Qué selección fue eliminada por Argentina en las semifinales del Mundial de Brasil 2014 tras una tanda de penaltis?",
+  "optionA": "Brasil",
+  "optionB": "Bélgica",
+  "optionC": "Países Bajos",
+  "optionD": "Colombia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 95,
+  "question": "¿Qué selección eliminó a Brasil en los cuartos de final del Mundial de Sudáfrica 2010 después de remontar el partido?",
+  "optionA": "Alemania",
+  "optionB": "Países Bajos",
+  "optionC": "Uruguay",
+  "optionD": "España",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 96,
+  "question": "¿Qué jugador fue el máximo goleador de España en el Mundial de Sudáfrica 2010?",
+  "optionA": "David Villa",
+  "optionB": "Fernando Torres",
+  "optionC": "Andrés Iniesta",
+  "optionD": "Xavi Hernández",
+  "correctAnswer": "David Villa"
+ },
+ {
+  "id": 97,
+  "question": "¿Qué selección perdió contra España en las semifinales del Mundial de Sudáfrica 2010?",
+  "optionA": "Alemania",
+  "optionB": "Uruguay",
+  "optionC": "Paraguay",
+  "optionD": "Argentina",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué país organizó el primer Mundial celebrado en África, en 2010?",
+  "optionA": "Egipto",
+  "optionB": "Sudáfrica",
+  "optionC": "Marruecos",
+  "optionD": "Nigeria",
+  "correctAnswer": "Sudáfrica"
+ },
+ {
+  "id": 99,
+  "question": "¿Qué selección africana llegó más lejos en el Mundial de Sudáfrica 2010 al alcanzar los cuartos de final?",
+  "optionA": "Camerún",
+  "optionB": "Ghana",
+  "optionC": "Costa de Marfil",
+  "optionD": "Argelia",
+  "correctAnswer": "Ghana"
+ },
+ {
+  "id": 100,
+  "question": "¿Qué selección eliminó a la anfitriona Alemania en las semifinales del Mundial de Alemania 2006?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Portugal",
+  "optionD": "Argentina",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Alemania 2006 a pesar de no conquistar el título?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Fabio Cannavaro",
+  "optionC": "Andrea Pirlo",
+  "optionD": "Gianluigi Buffon",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 102,
+  "question": "¿Qué selección eliminó a Brasil en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "Italia",
+  "optionD": "Portugal",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 103,
+  "question": "¿Qué portero italiano fue elegido mejor guardameta del Mundial de Alemania 2006?",
+  "optionA": "Gianluigi Buffon",
+  "optionB": "Angelo Peruzzi",
+  "optionC": "Marco Amelia",
+  "optionD": "Francesco Toldo",
+  "correctAnswer": "Gianluigi Buffon"
+ },
+ {
+  "id": 104,
+  "question": "¿Qué selección perdió contra Alemania el partido por el tercer puesto del Mundial de Alemania 2006?",
+  "optionA": "Portugal",
+  "optionB": "Francia",
+  "optionC": "Ucrania",
+  "optionD": "Argentina",
+  "correctAnswer": "Portugal"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué selección eliminó a España en los cuartos de final del Mundial de Corea-Japón 2002?",
+  "optionA": "Alemania",
+  "optionB": "Corea del Sur",
+  "optionC": "Brasil",
+  "optionD": "Turquía",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué selección terminó en tercera posición en el Mundial de Corea-Japón 2002?",
+  "optionA": "Corea del Sur",
+  "optionB": "Turquía",
+  "optionC": "España",
+  "optionD": "Estados Unidos",
+  "correctAnswer": "Turquía"
+ },
+ {
+  "id": 107,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Corea-Japón 2002 pese a perder la final?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Oliver Kahn",
+  "optionD": "Ronaldinho",
+  "correctAnswer": "Oliver Kahn"
+ },
+ {
+  "id": 108,
+  "question": "¿Qué portero alemán fue una de las grandes figuras del Mundial de Corea-Japón 2002?",
+  "optionA": "Jens Lehmann",
+  "optionB": "Oliver Kahn",
+  "optionC": "Robert Enke",
+  "optionD": "Tim Wiese",
+  "correctAnswer": "Oliver Kahn"
+ },
+ {
+  "id": 109,
+  "question": "¿Qué jugador marcó el tercer gol de Francia en la final del Mundial de Francia 1998 frente a Brasil?",
+  "optionA": "Thierry Henry",
+  "optionB": "Emmanuel Petit",
+  "optionC": "Youri Djorkaeff",
+  "optionD": "Didier Deschamps",
+  "correctAnswer": "Emmanuel Petit"
+ },
+ {
+  "id": 110,
+  "question": "¿Qué selección eliminó a Argentina en los cuartos de final del Mundial de Francia 1998 gracias a un gol memorable de Dennis Bergkamp?",
+  "optionA": "Países Bajos",
+  "optionB": "Brasil",
+  "optionC": "Croacia",
+  "optionD": "Francia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 111,
+  "question": "¿Qué jugador argentino fue expulsado frente a Inglaterra en los octavos de final del Mundial de Francia 1998?",
+  "optionA": "Gabriel Batistuta",
+  "optionB": "Diego Simeone",
+  "optionC": "Ariel Ortega",
+  "optionD": "Juan Sebastián Verón",
+  "correctAnswer": "Ariel Ortega"
+ },
+ {
+  "id": 112,
+  "question": "¿Qué selección perdió contra Francia en las semifinales del Mundial de Francia 1998?",
+  "optionA": "Croacia",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 113,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Estados Unidos 1994?",
+  "optionA": "Romário",
+  "optionB": "Roberto Baggio",
+  "optionC": "Hristo Stoichkov",
+  "optionD": "Paolo Maldini",
+  "correctAnswer": "Romário"
+ },
+ {
+  "id": 114,
+  "question": "¿Qué selección eliminó a España en los cuartos de final del Mundial de Estados Unidos 1994?",
+  "optionA": "Italia",
+  "optionB": "Brasil",
+  "optionC": "Bulgaria",
+  "optionD": "Alemania",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 115,
+  "question": "¿Qué selección sorprendió al mundo alcanzando las semifinales del Mundial de Estados Unidos 1994 tras eliminar a Alemania?",
+  "optionA": "Rumanía",
+  "optionB": "Bulgaria",
+  "optionC": "Suecia",
+  "optionD": "Nigeria",
+  "correctAnswer": "Bulgaria"
+ },
+ {
+  "id": 116,
+  "question": "¿Qué selección perdió la final del Mundial de Estados Unidos 1994 en la tanda de penaltis frente a Brasil?",
+  "optionA": "Alemania",
+  "optionB": "Italia",
+  "optionC": "Argentina",
+  "optionD": "Suecia",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 117,
+  "question": "¿Qué jugador fue la gran figura ofensiva de Brasil durante el Mundial de Estados Unidos 1994?",
+  "optionA": "Bebeto",
+  "optionB": "Romário",
+  "optionC": "Dunga",
+  "optionD": "Raí",
+  "correctAnswer": "Romário"
+ },
+ {
+  "id": 118,
+  "question": "¿Qué selección eliminó a la anfitriona Italia en las semifinales del Mundial de Italia 1990?",
+  "optionA": "Argentina",
+  "optionB": "Alemania",
+  "optionC": "Inglaterra",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué jugador inglés falló uno de los penaltis decisivos en la semifinal del Mundial de Italia 1990 contra Alemania?",
+  "optionA": "Gary Lineker",
+  "optionB": "Chris Waddle",
+  "optionC": "Paul Gascoigne",
+  "optionD": "Peter Beardsley",
+  "correctAnswer": "Chris Waddle"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué jugador italiano ganó la Bota de Oro del Mundial de Italia 1990 tras marcar seis goles?",
+  "optionA": "Roberto Baggio",
+  "optionB": "Salvatore Schillaci",
+  "optionC": "Gianluca Vialli",
+  "optionD": "Roberto Mancini",
+  "correctAnswer": "Salvatore Schillaci"
+ },
+ {
+  "id": 121,
+  "question": "¿Qué selección perdió la final del Mundial de Italia 1990 frente a Alemania?",
+  "optionA": "Italia",
+  "optionB": "Argentina",
+  "optionC": "Inglaterra",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 122,
+  "question": "¿Qué selección permaneció invicta en la fase de grupos de los Mundiales entre 1998 y 2022 durante una racha histórica de 24 años?",
+  "optionA": "Brasil",
+  "optionB": "Alemania",
+  "optionC": "Argentina",
+  "optionD": "Francia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 123,
+  "question": "¿Qué jugador posee el récord de más victorias en la historia de los Mundiales hasta Catar 2022?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Lionel Messi",
+  "optionC": "Cafú",
+  "optionD": "Gerd Müller",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 124,
+  "question": "¿Qué selección disputó tres finales consecutivas de la Copa del Mundo entre 1994 y 2002?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Italia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 125,
+  "question": "¿Qué selección ha disputado más partidos en la historia de los Mundiales hasta Catar 2022?",
+  "optionA": "Brasil",
+  "optionB": "Alemania",
+  "optionC": "Argentina",
+  "optionD": "Italia",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 126,
+  "question": "¿Qué selección europea ganó por primera vez una Copa del Mundo fuera de Europa al conquistar el Mundial de Sudáfrica 2010?",
+  "optionA": "Italia",
+  "optionB": "Francia",
+  "optionC": "Alemania",
+  "optionD": "España",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 127,
+  "question": "¿Qué jugador marcó el segundo gol de Argentina en la final del Mundial de Catar 2022 frente a Francia?",
+  "optionA": "Lionel Messi",
+  "optionB": "Ángel Di María",
+  "optionC": "Julián Álvarez",
+  "optionD": "Alexis Mac Allister",
+  "correctAnswer": "Ángel Di María"
+ },
+ {
+  "id": 128,
+  "question": "¿Qué jugador francés marcó tres goles en la final del Mundial de Catar 2022 contra Argentina?",
+  "optionA": "Antoine Griezmann",
+  "optionB": "Olivier Giroud",
+  "optionC": "Kylian Mbappé",
+  "optionD": "Ousmane Dembélé",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 129,
+  "question": "¿En qué ronda se enfrentaron Argentina y Países Bajos en el Mundial de Catar 2022?",
+  "optionA": "Octavos de final",
+  "optionB": "Cuartos de final",
+  "optionC": "Semifinales",
+  "optionD": "Final",
+  "correctAnswer": "Cuartos de final"
+ },
+ {
+  "id": 130,
+  "question": "¿Qué portero argentino detuvo dos penaltis en la tanda frente a Países Bajos en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Franco Armani",
+  "optionB": "Emiliano Martínez",
+  "optionC": "Gerónimo Rulli",
+  "optionD": "Sergio Romero",
+  "correctAnswer": "Emiliano Martínez"
+ },
+ {
+  "id": 131,
+  "question": "¿Cómo fue eliminada España por Marruecos en los octavos de final del Mundial de Catar 2022?",
+  "optionA": "Prórroga",
+  "optionB": "Penaltis",
+  "optionC": "Gol de oro",
+  "optionD": "Gol de plata",
+  "correctAnswer": "Penaltis"
+ },
+ {
+  "id": 132,
+  "question": "¿Qué jugador marcó el único gol de la victoria de Marruecos sobre Portugal en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Hakim Ziyech",
+  "optionB": "Youssef En-Nesyri",
+  "optionC": "Sofiane Boufal",
+  "optionD": "Azzedine Ounahi",
+  "correctAnswer": "Youssef En-Nesyri"
+ },
+ {
+  "id": 133,
+  "question": "¿Qué jugador marcó el gol de Brasil en la prórroga contra Croacia en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Richarlison",
+  "optionB": "Neymar",
+  "optionC": "Vinícius Júnior",
+  "optionD": "Lucas Paquetá",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 134,
+  "question": "¿Qué portero croata fue decisivo en la tanda de penaltis que eliminó a Brasil en el Mundial de Catar 2022?",
+  "optionA": "Dominik Livaković",
+  "optionB": "Luka Modrić",
+  "optionC": "Ivan Perišić",
+  "optionD": "Marcelo Brozović",
+  "correctAnswer": "Dominik Livaković"
+ },
+ {
+  "id": 135,
+  "question": "¿Cuántos goles marcó Alemania antes del descanso en la histórica victoria por 7-1 frente a Brasil en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6",
+  "correctAnswer": "5"
+ },
+ {
+  "id": 136,
+  "question": "¿Qué jugador marcó el primer gol de Alemania en la histórica victoria por 7-1 frente a Brasil en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Thomas Müller",
+  "optionC": "Toni Kroos",
+  "optionD": "André Schürrle",
+  "correctAnswer": "Thomas Müller"
+ },
+ {
+  "id": 137,
+  "question": "¿Qué jugador superó a Ronaldo Nazário como máximo goleador histórico de los Mundiales durante el Mundial de Brasil 2014?",
+  "optionA": "Thomas Müller",
+  "optionB": "Miroslav Klose",
+  "optionC": "Lukas Podolski",
+  "optionD": "Mesut Özil",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 138,
+  "question": "¿Cuál fue el resultado final del partido entre Países Bajos y España en la fase de grupos del Mundial de Brasil 2014?",
+  "optionA": "4-0",
+  "optionB": "5-1",
+  "optionC": "3-0",
+  "optionD": "4-1",
+  "correctAnswer": "5-1"
+ },
+ {
+  "id": 139,
+  "question": "¿Qué jugador neerlandés marcó el famoso gol de cabeza tras una espectacular vaselina ante España en el Mundial de Brasil 2014?",
+  "optionA": "Arjen Robben",
+  "optionB": "Wesley Sneijder",
+  "optionC": "Robin van Persie",
+  "optionD": "Dirk Kuyt",
+  "correctAnswer": "Robin van Persie"
+ },
+ {
+  "id": 140,
+  "question": "¿Qué ocurrió con España tras perder contra Chile en la fase de grupos del Mundial de Brasil 2014?",
+  "optionA": "Pasó como segunda de grupo",
+  "optionB": "Quedó eliminada",
+  "optionC": "Disputó un repechaje",
+  "optionD": "Terminó como líder de grupo",
+  "correctAnswer": "Quedó eliminada"
+ },
+ {
+  "id": 141,
+  "question": "¿Qué grupo ganó Costa Rica en el Mundial de Brasil 2014 por delante de Uruguay, Italia e Inglaterra?",
+  "optionA": "Grupo B",
+  "optionB": "Grupo C",
+  "optionC": "Grupo D",
+  "optionD": "Grupo H",
+  "correctAnswer": "Grupo D"
+ },
+ {
+  "id": 142,
+  "question": "¿Qué jugador dio la asistencia a Mario Götze en el gol decisivo de la final del Mundial de Brasil 2014?",
+  "optionA": "Toni Kroos",
+  "optionB": "André Schürrle",
+  "optionC": "Thomas Müller",
+  "optionD": "Mesut Özil",
+  "correctAnswer": "André Schürrle"
+ },
+ {
+  "id": 143,
+  "question": "¿Qué jugador neerlandés fue expulsado en la final del Mundial de Sudáfrica 2010 frente a España?",
+  "optionA": "Robin van Persie",
+  "optionB": "John Heitinga",
+  "optionC": "Wesley Sneijder",
+  "optionD": "Dirk Kuyt",
+  "correctAnswer": "John Heitinga"
+ },
+ {
+  "id": 144,
+  "question": "¿Qué portero uruguayo detuvo el penal decisivo en la tanda contra Ghana en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Fernando Muslera",
+  "optionB": "Luis Suárez",
+  "optionC": "Diego Forlán",
+  "optionD": "Sebastián Abreu",
+  "correctAnswer": "Fernando Muslera"
+ },
+ {
+  "id": 145,
+  "question": "¿Qué jugador ghanés falló el penalti en el último minuto de la prórroga contra Uruguay en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Asamoah Gyan",
+  "optionB": "Stephen Appiah",
+  "optionC": "Kevin-Prince Boateng",
+  "optionD": "Sulley Muntari",
+  "correctAnswer": "Asamoah Gyan"
+ },
+ {
+  "id": 146,
+  "question": "¿Cuál fue el resultado del partido entre Alemania y Argentina en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "3-0",
+  "optionB": "4-0",
+  "optionC": "5-0",
+  "optionD": "4-1",
+  "correctAnswer": "4-0"
+ },
+ {
+  "id": 147,
+  "question": "¿Qué selección remontó para derrotar a Brasil por 2-1 en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Brasil",
+  "optionB": "Países Bajos",
+  "optionC": "Ninguna, ganó Brasil",
+  "optionD": "Empataron",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 148,
+  "question": "¿Qué jugador francés marcó el primer gol de la final del Mundial de Alemania 2006 contra Italia?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Thierry Henry",
+  "optionC": "Franck Ribéry",
+  "optionD": "Patrick Vieira",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 149,
+  "question": "¿Qué jugador italiano marcó el gol del empate en la final del Mundial de Alemania 2006 frente a Francia?",
+  "optionA": "Andrea Pirlo",
+  "optionB": "Marco Materazzi",
+  "optionC": "Francesco Totti",
+  "optionD": "Luca Toni",
+  "correctAnswer": "Marco Materazzi"
+ },
+ {
+  "id": 150,
+  "question": "¿Qué jugador marcó el segundo gol de Italia en la semifinal del Mundial de Alemania 2006 frente a Alemania?",
+  "optionA": "Andrea Pirlo",
+  "optionB": "Alessandro Del Piero",
+  "optionC": "Luca Toni",
+  "optionD": "Alberto Gilardino",
+  "correctAnswer": "Alessandro Del Piero"
+ },
+ {
+  "id": 151,
+  "question": "¿Qué jugador marcó el único gol de Francia en la victoria sobre Brasil en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Thierry Henry",
+  "optionB": "Zinedine Zidane",
+  "optionC": "Franck Ribéry",
+  "optionD": "Patrick Vieira",
+  "correctAnswer": "Thierry Henry"
+ },
+ {
+  "id": 152,
+  "question": "¿Cómo fue eliminada España por Corea del Sur en los cuartos de final del Mundial de Corea-Japón 2002?",
+  "optionA": "En la prórroga",
+  "optionB": "En los penaltis",
+  "optionC": "Con gol de oro",
+  "optionD": "Por sorteo",
+  "correctAnswer": "En los penaltis"
+ },
+ {
+  "id": 153,
+  "question": "¿Qué jugador marcó el gol más rápido de la historia de los Mundiales en el partido por el tercer puesto del Mundial de Corea-Japón 2002?",
+  "optionA": "Hakan Şükür",
+  "optionB": "Hasan Şaş",
+  "optionC": "İlhan Mansız",
+  "optionD": "Emre Belözoğlu",
+  "correctAnswer": "Hakan Şükür"
+ },
+ {
+  "id": 154,
+  "question": "¿Qué ocurrió en el partido inaugural del Mundial de Corea-Japón 2002 entre Francia y Senegal?",
+  "optionA": "Ganó Francia",
+  "optionB": "Empataron",
+  "optionC": "Ganó Senegal",
+  "optionD": "Se suspendió",
+  "correctAnswer": "Ganó Senegal"
+ },
+ {
+  "id": 155,
+  "question": "¿Qué jugador argentino marcó de libre directo en el memorable partido entre Argentina e Inglaterra del Mundial de Francia 1998?",
+  "optionA": "Gabriel Batistuta",
+  "optionB": "Juan Sebastián Verón",
+  "optionC": "Javier Zanetti",
+  "optionD": "Ariel Ortega",
+  "correctAnswer": "Javier Zanetti"
+ },
+ {
+  "id": 156,
+  "question": "¿Qué jugador inglés fue expulsado frente a Argentina en los octavos de final del Mundial de Francia 1998?",
+  "optionA": "David Beckham",
+  "optionB": "Paul Scholes",
+  "optionC": "Michael Owen",
+  "optionD": "Alan Shearer",
+  "correctAnswer": "David Beckham"
+ },
+ {
+  "id": 157,
+  "question": "¿Qué jugador francés marcó los dos goles de Francia en la semifinal contra Croacia del Mundial de Francia 1998?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Lilian Thuram",
+  "optionC": "Thierry Henry",
+  "optionD": "Emmanuel Petit",
+  "correctAnswer": "Lilian Thuram"
+ },
+ {
+  "id": 158,
+  "question": "¿Cómo se decidió la semifinal entre Brasil y Países Bajos en el Mundial de Francia 1998?",
+  "optionA": "Prórroga",
+  "optionB": "Penaltis",
+  "optionC": "Gol de oro",
+  "optionD": "Partido de desempate",
+  "correctAnswer": "Penaltis"
+ },
+ {
+  "id": 159,
+  "question": "¿Cómo se decidió la final del Mundial de Estados Unidos 1994 entre Brasil e Italia?",
+  "optionA": "Prórroga",
+  "optionB": "Penaltis",
+  "optionC": "Gol de oro",
+  "optionD": "Partido de desempate",
+  "correctAnswer": "Penaltis"
+ },
+ {
+  "id": 160,
+  "question": "¿Qué jugador marcó el único gol de la semifinal entre Brasil y Suecia en el Mundial de Estados Unidos 1994?",
+  "optionA": "Romário",
+  "optionB": "Bebeto",
+  "optionC": "Dunga",
+  "optionD": "Raí",
+  "correctAnswer": "Romário"
+ },
+ {
+  "id": 161,
+  "question": "¿Qué selección protagonizó una de las mayores sorpresas del Mundial de Estados Unidos 1994 al eliminar a Alemania en cuartos de final?",
+  "optionA": "Bulgaria",
+  "optionB": "Suecia",
+  "optionC": "Rumanía",
+  "optionD": "Nigeria",
+  "correctAnswer": "Bulgaria"
+ },
+ {
+  "id": 162,
+  "question": "¿Qué selección eliminó a Argentina en los octavos de final del Mundial de Estados Unidos 1994?",
+  "optionA": "Brasil",
+  "optionB": "Rumanía",
+  "optionC": "Suecia",
+  "optionD": "Bulgaria",
+  "correctAnswer": "Rumanía"
+ },
+ {
+  "id": 163,
+  "question": "¿Qué jugador marcó el penalti que dio a Alemania la victoria en la final del Mundial de Italia 1990 frente a Argentina?",
+  "optionA": "Lothar Matthäus",
+  "optionB": "Andreas Brehme",
+  "optionC": "Rudi Völler",
+  "optionD": "Jürgen Klinsmann",
+  "correctAnswer": "Andreas Brehme"
+ },
+ {
+  "id": 164,
+  "question": "¿Qué selección africana alcanzó por primera vez los cuartos de final de un Mundial en Italia 1990?",
+  "optionA": "Nigeria",
+  "optionB": "Camerún",
+  "optionC": "Marruecos",
+  "optionD": "Argelia",
+  "correctAnswer": "Camerún"
+ },
+ {
+  "id": 165,
+  "question": "¿Qué ocurrió en el partido inaugural del Mundial de Italia 1990 entre Camerún y Argentina?",
+  "optionA": "Ganó Argentina",
+  "optionB": "Empataron",
+  "optionC": "Ganó Camerún",
+  "optionD": "Se suspendió",
+  "correctAnswer": "Ganó Camerún"
+ },
+ {
+  "id": 166,
+  "question": "¿Con qué edad marcó Roger Milla en el Mundial de Estados Unidos 1994, estableciendo un récord histórico?",
+  "optionA": "38 años",
+  "optionB": "40 años",
+  "optionC": "42 años",
+  "optionD": "44 años",
+  "correctAnswer": "42 años"
+ },
+ {
+  "id": 167,
+  "question": "¿Qué jugador había marcado en cuatro Mundiales diferentes antes de que Lionel Messi y Cristiano Ronaldo alcanzaran ese registro?",
+  "optionA": "Pelé",
+  "optionB": "Uwe Seeler",
+  "optionC": "Miroslav Klose",
+  "optionD": "Ronaldo Nazário",
+  "correctAnswer": "Uwe Seeler"
+ },
+ {
+  "id": 168,
+  "question": "¿Qué selección permaneció invicta durante todo el Mundial de Sudáfrica 2010 pero no logró proclamarse campeona?",
+  "optionA": "Alemania",
+  "optionB": "Uruguay",
+  "optionC": "Países Bajos",
+  "optionD": "Paraguay",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 169,
+  "question": "¿Qué jugador acumuló más minutos disputados en la historia de los Mundiales hasta Catar 2022?",
+  "optionA": "Paolo Maldini",
+  "optionB": "Lionel Messi",
+  "optionC": "Lothar Matthäus",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 170,
+  "question": "¿Qué selección ganó el Mundial de Sudáfrica 2010 sin perder ningún partido durante el torneo?",
+  "optionA": "España",
+  "optionB": "Alemania",
+  "optionC": "Países Bajos",
+  "optionD": "Uruguay",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 171,
+  "question": "¿Contra qué selección disputó Lionel Messi su primera final mundialista en el Mundial de Brasil 2014?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "Países Bajos",
+  "optionD": "Brasil",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 172,
+  "question": "¿En qué Mundial marcó Lionel Messi por primera vez en una fase eliminatoria?",
+  "optionA": "Alemania 2006",
+  "optionB": "Sudáfrica 2010",
+  "optionC": "Brasil 2014",
+  "optionD": "Catar 2022",
+  "correctAnswer": "Catar 2022"
+ },
+ {
+  "id": 173,
+  "question": "¿Cuántos goles marcó Lionel Messi en el Mundial de Catar 2022?",
+  "optionA": "5",
+  "optionB": "6",
+  "optionC": "7",
+  "optionD": "8",
+  "correctAnswer": "7"
+ },
+ {
+  "id": 174,
+  "question": "¿Qué selección derrotó a Argentina en su primer partido del Mundial de Catar 2022?",
+  "optionA": "México",
+  "optionB": "Polonia",
+  "optionC": "Arabia Saudí",
+  "optionD": "Australia",
+  "correctAnswer": "Arabia Saudí"
+ },
+ {
+  "id": 175,
+  "question": "¿Qué jugador marcó junto a Lionel Messi para Argentina en la final del Mundial de Catar 2022?",
+  "optionA": "Julián Álvarez",
+  "optionB": "Enzo Fernández",
+  "optionC": "Ángel Di María",
+  "optionD": "Lautaro Martínez",
+  "correctAnswer": "Ángel Di María"
+ },
+ {
+  "id": 176,
+  "question": "¿Cuántos goles marcó Kylian Mbappé en la final del Mundial de Catar 2022 frente a Argentina?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "1",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 177,
+  "question": "¿Qué premio ganó Kylian Mbappé en el Mundial de Rusia 2018?",
+  "optionA": "Balón de Oro",
+  "optionB": "Mejor Jugador Joven",
+  "optionC": "Bota de Oro",
+  "optionD": "Guante de Oro",
+  "correctAnswer": "Mejor Jugador Joven"
+ },
+ {
+  "id": 178,
+  "question": "¿Contra qué selección marcó Kylian Mbappé un doblete en los octavos de final del Mundial de Rusia 2018?",
+  "optionA": "Argentina",
+  "optionB": "Uruguay",
+  "optionC": "Croacia",
+  "optionD": "Bélgica",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 179,
+  "question": "¿Contra qué selección marcó Cristiano Ronaldo un hat-trick en la fase de grupos del Mundial de Rusia 2018?",
+  "optionA": "Marruecos",
+  "optionB": "España",
+  "optionC": "Irán",
+  "optionD": "Uruguay",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 180,
+  "question": "¿En qué Mundial marcó Cristiano Ronaldo su primer gol en una Copa del Mundo?",
+  "optionA": "Alemania 2006",
+  "optionB": "Sudáfrica 2010",
+  "optionC": "Brasil 2014",
+  "optionD": "Rusia 2018",
+  "correctAnswer": "Alemania 2006"
+ },
+ {
+  "id": 181,
+  "question": "¿Qué selección recibió el último gol mundialista de Miroslav Klose, con el que superó el récord histórico de Ronaldo Nazário?",
+  "optionA": "Brasil",
+  "optionB": "Argentina",
+  "optionC": "Inglaterra",
+  "optionD": "Ghana",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 182,
+  "question": "¿En qué Mundial superó Miroslav Klose el récord de Ronaldo Nazário como máximo goleador histórico de la Copa del Mundo?",
+  "optionA": "Alemania 2006",
+  "optionB": "Sudáfrica 2010",
+  "optionC": "Brasil 2014",
+  "optionD": "Rusia 2018",
+  "correctAnswer": "Brasil 2014"
+ },
+ {
+  "id": 183,
+  "question": "¿Contra qué selección marcó Ronaldo Nazário los dos goles de la final del Mundial de Corea-Japón 2002?",
+  "optionA": "Turquía",
+  "optionB": "Alemania",
+  "optionC": "Corea del Sur",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 184,
+  "question": "¿Cuántos goles marcó Ronaldo Nazário en el Mundial de Corea-Japón 2002?",
+  "optionA": "6",
+  "optionB": "7",
+  "optionC": "8",
+  "optionD": "9",
+  "correctAnswer": "8"
+ },
+ {
+  "id": 185,
+  "question": "¿Contra qué selección marcó James Rodríguez el gol que posteriormente ganó el Premio Puskás tras el Mundial de Brasil 2014?",
+  "optionA": "Brasil",
+  "optionB": "Grecia",
+  "optionC": "Uruguay",
+  "optionD": "Japón",
+  "correctAnswer": "Uruguay"
+ },
+ {
+  "id": 186,
+  "question": "¿Cuántos goles marcó James Rodríguez en el Mundial de Brasil 2014 para ganar la Bota de Oro?",
+  "optionA": "5",
+  "optionB": "6",
+  "optionC": "7",
+  "optionD": "8",
+  "correctAnswer": "7"
+ },
+ {
+  "id": 187,
+  "question": "¿Qué premio individual ganó Luka Modrić en el Mundial de Rusia 2018?",
+  "optionA": "Bota de Oro",
+  "optionB": "Balón de Oro",
+  "optionC": "Mejor Jugador Joven",
+  "optionD": "Guante de Oro",
+  "correctAnswer": "Balón de Oro"
+ },
+ {
+  "id": 188,
+  "question": "¿Qué selección derrotó a Croacia en la final del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Bélgica",
+  "optionC": "Inglaterra",
+  "optionD": "Argentina",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 189,
+  "question": "¿Qué premio ganó Diego Forlán tras el Mundial de Sudáfrica 2010?",
+  "optionA": "Bota de Oro",
+  "optionB": "Balón de Oro",
+  "optionC": "Mejor Jugador Joven",
+  "optionD": "Guante de Oro",
+  "correctAnswer": "Balón de Oro"
+ },
+ {
+  "id": 190,
+  "question": "¿Qué selección eliminó a Uruguay en las semifinales del Mundial de Sudáfrica 2010?",
+  "optionA": "España",
+  "optionB": "Alemania",
+  "optionC": "Países Bajos",
+  "optionD": "Brasil",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 191,
+  "question": "¿Cuántos goles marcó Thomas Müller en el Mundial de Sudáfrica 2010 para ganar la Bota de Oro?",
+  "optionA": "4",
+  "optionB": "5",
+  "optionC": "6",
+  "optionD": "7",
+  "correctAnswer": "5"
+ },
+ {
+  "id": 192,
+  "question": "¿Qué combinación de premios ganó Thomas Müller en el Mundial de Sudáfrica 2010?",
+  "optionA": "Balón de Oro y Bota de Oro",
+  "optionB": "Guante de Oro y Mejor Joven",
+  "optionC": "Bota de Oro y Mejor Jugador Joven",
+  "optionD": "Balón de Plata y Bota de Oro",
+  "correctAnswer": "Bota de Oro y Mejor Jugador Joven"
+ },
+ {
+  "id": 193,
+  "question": "¿Qué premio ganó Oliver Kahn en el Mundial de Corea-Japón 2002 pese a no conquistar el título?",
+  "optionA": "Mejor Portero",
+  "optionB": "Balón de Oro",
+  "optionC": "Bota de Oro",
+  "optionD": "Mejor Jugador Joven",
+  "correctAnswer": "Balón de Oro"
+ },
+ {
+  "id": 194,
+  "question": "¿Qué selección derrotó a Alemania en la final del Mundial de Corea-Japón 2002?",
+  "optionA": "Brasil",
+  "optionB": "Turquía",
+  "optionC": "España",
+  "optionD": "Corea del Sur",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 195,
+  "question": "¿Qué selección eliminó a Camerún en los cuartos de final del Mundial de Italia 1990 después de una prórroga dramática?",
+  "optionA": "Inglaterra",
+  "optionB": "Alemania",
+  "optionC": "Argentina",
+  "optionD": "Italia",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 196,
+  "question": "¿Qué celebración hizo famosa Roger Milla durante el Mundial de Italia 1990?",
+  "optionA": "Salto mortal",
+  "optionB": "Baile junto al banderín de córner",
+  "optionC": "Deslizamiento de rodillas",
+  "optionD": "Giro completo sobre sí mismo",
+  "correctAnswer": "Baile junto al banderín de córner"
+ },
+ {
+  "id": 197,
+  "question": "¿Cuántos segundos tardó Hakan Şükür en marcar el gol más rápido de la historia de los Mundiales?",
+  "optionA": "9 segundos",
+  "optionB": "10,8 segundos",
+  "optionC": "12 segundos",
+  "optionD": "14 segundos",
+  "correctAnswer": "10,8 segundos"
+ },
+ {
+  "id": 198,
+  "question": "¿Contra qué selección marcó Hakan Şükür el gol más rápido de la historia de los Mundiales en 2002?",
+  "optionA": "Japón",
+  "optionB": "Corea del Sur",
+  "optionC": "Brasil",
+  "optionD": "Senegal",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 199,
+  "question": "¿Qué jugador marcó dos goles para Alemania en la histórica victoria por 7-1 frente a Brasil en el Mundial de Brasil 2014?",
+  "optionA": "Thomas Müller",
+  "optionB": "Miroslav Klose",
+  "optionC": "Toni Kroos",
+  "optionD": "Philipp Lahm",
+  "correctAnswer": "Toni Kroos"
+ },
+ {
+  "id": 200,
+  "question": "¿Quién era el seleccionador de Alemania cuando conquistó el Mundial de Brasil 2014?",
+  "optionA": "Joachim Löw",
+  "optionB": "Hansi Flick",
+  "optionC": "Jürgen Klinsmann",
+  "optionD": "Julian Nagelsmann",
+  "correctAnswer": "Joachim Löw"
+ },
+ {
+  "id": 201,
+  "question": "¿Qué jugador brasileño se perdió la semifinal del Mundial de Brasil 2014 contra Alemania debido a una lesión sufrida en cuartos de final?",
+  "optionA": "Oscar",
+  "optionB": "Neymar",
+  "optionC": "Hulk",
+  "optionD": "Fred",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 202,
+  "question": "¿Qué jugador marcó el único gol de Brasil en la derrota por 7-1 ante Alemania en el Mundial de Brasil 2014?",
+  "optionA": "Fred",
+  "optionB": "Hulk",
+  "optionC": "Oscar",
+  "optionD": "David Luiz",
+  "correctAnswer": "Oscar"
+ },
+ {
+  "id": 203,
+  "question": "¿Qué selección eliminó a Paraguay en los cuartos de final del Mundial de Sudáfrica 2010 antes de enfrentarse a Alemania en semifinales?",
+  "optionA": "Alemania",
+  "optionB": "España",
+  "optionC": "Países Bajos",
+  "optionD": "Uruguay",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 204,
+  "question": "¿Quién fue el capitán de España en la final del Mundial de Sudáfrica 2010?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Carles Puyol",
+  "optionC": "Iker Casillas",
+  "optionD": "Andrés Iniesta",
+  "correctAnswer": "Iker Casillas"
+ },
+ {
+  "id": 205,
+  "question": "¿A qué jugador neerlandés realizó Iker Casillas su parada más famosa en la final del Mundial de Sudáfrica 2010?",
+  "optionA": "Wesley Sneijder",
+  "optionB": "Arjen Robben",
+  "optionC": "Robin van Persie",
+  "optionD": "Dirk Kuyt",
+  "correctAnswer": "Arjen Robben"
+ },
+ {
+  "id": 206,
+  "question": "¿Qué premio ganó Iker Casillas tras conquistar el Mundial de Sudáfrica 2010?",
+  "optionA": "Guante de Oro",
+  "optionB": "Balón de Oro",
+  "optionC": "Mejor Jugador Joven",
+  "optionD": "Bota de Oro",
+  "correctAnswer": "Guante de Oro"
+ },
+ {
+  "id": 207,
+  "question": "¿Qué jugador francés fue expulsado durante la fase de grupos del Mundial de Francia 1998 tras una agresión a un rival saudí?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Marcel Desailly",
+  "optionC": "Laurent Blanc",
+  "optionD": "Lilian Thuram",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 208,
+  "question": "¿Qué selección fue derrotada por Francia en las semifinales del Mundial de Francia 1998?",
+  "optionA": "Croacia",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 209,
+  "question": "¿Qué jugador fue el máximo goleador de Croacia en el Mundial de Francia 1998?",
+  "optionA": "Zvonimir Boban",
+  "optionB": "Davor Šuker",
+  "optionC": "Robert Jarni",
+  "optionD": "Robert Prosinečki",
+  "correctAnswer": "Davor Šuker"
+ },
+ {
+  "id": 210,
+  "question": "¿Qué puesto consiguió Croacia en su primer Mundial como nación independiente en Francia 1998?",
+  "optionA": "Campeón",
+  "optionB": "Subcampeón",
+  "optionC": "Tercer puesto",
+  "optionD": "Cuarto puesto",
+  "correctAnswer": "Tercer puesto"
+ },
+ {
+  "id": 211,
+  "question": "¿Qué jugador marcó el penalti definitivo que dio a Italia el título del Mundial de Alemania 2006 frente a Francia?",
+  "optionA": "Andrea Pirlo",
+  "optionB": "Fabio Grosso",
+  "optionC": "Alessandro Del Piero",
+  "optionD": "Francesco Totti",
+  "correctAnswer": "Fabio Grosso"
+ },
+ {
+  "id": 212,
+  "question": "¿Qué instrumento se hizo mundialmente famoso durante el Mundial de Sudáfrica 2010?",
+  "optionA": "Tambor africano",
+  "optionB": "Vuvuzela",
+  "optionC": "Maracas",
+  "optionD": "Corneta",
+  "correctAnswer": "Vuvuzela"
+ },
+ {
+  "id": 213,
+  "question": "¿Qué país árabe organizó por primera vez una Copa del Mundo masculina en 2022?",
+  "optionA": "Marruecos",
+  "optionB": "Arabia Saudí",
+  "optionC": "Catar",
+  "optionD": "Emiratos Árabes Unidos",
+  "correctAnswer": "Catar"
+ },
+ {
+  "id": 214,
+  "question": "¿Qué selección encadenó la mayor racha de victorias consecutivas en Mundiales entre 2002 y 2006?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Argentina",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 215,
+  "question": "¿Qué selección permaneció invicta durante 24 partidos consecutivos en Mundiales entre 1998 y 2022?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Francia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 216,
+  "question": "¿Qué jugador fue el más joven en marcar en un Mundial desde 1990 hasta la irrupción de Kylian Mbappé?",
+  "optionA": "Michael Owen",
+  "optionB": "Pelé",
+  "optionC": "Kylian Mbappé",
+  "optionD": "Lionel Messi",
+  "correctAnswer": "Michael Owen"
+ },
+ {
+  "id": 217,
+  "question": "¿Qué selección ha marcado más goles en la historia de la Copa del Mundo masculina?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Italia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 218,
+  "question": "¿Qué jugador marcó el gol que abrió el marcador para Argentina frente a México en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Julián Álvarez",
+  "optionB": "Lionel Messi",
+  "optionC": "Enzo Fernández",
+  "optionD": "Alexis Mac Allister",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 219,
+  "question": "¿Quién fue el máximo goleador de Francia en el Mundial de Catar 2022?",
+  "optionA": "Olivier Giroud",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Antoine Griezmann",
+  "optionD": "Ousmane Dembélé",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 220,
+  "question": "¿Qué selección derrotó a Francia en la final del Mundial de Catar 2022?",
+  "optionA": "Argentina",
+  "optionB": "Croacia",
+  "optionC": "Marruecos",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 221,
+  "question": "¿Qué selección puso fin al histórico recorrido de Marruecos en las semifinales del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Croacia",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 222,
+  "question": "¿Qué selección eliminó a Croacia en las semifinales del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Marruecos",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 223,
+  "question": "¿Qué dos selecciones derrotó Japón en la fase de grupos del Mundial de Catar 2022 para acabar como líder de grupo?",
+  "optionA": "España y Alemania",
+  "optionB": "Francia y Bélgica",
+  "optionC": "Brasil y Portugal",
+  "optionD": "Argentina y Croacia",
+  "correctAnswer": "España y Alemania"
+ },
+ {
+  "id": 224,
+  "question": "¿En qué fase fue eliminada Alemania en el Mundial de Catar 2022?",
+  "optionA": "Octavos de final",
+  "optionB": "Cuartos de final",
+  "optionC": "Fase de grupos",
+  "optionD": "Semifinales",
+  "correctAnswer": "Fase de grupos"
+ },
+ {
+  "id": 225,
+  "question": "¿Qué selección fue una de las principales responsables de la eliminación de Bélgica en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Croacia",
+  "optionB": "Marruecos",
+  "optionC": "Canadá",
+  "optionD": "Túnez",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 226,
+  "question": "¿Qué selección eliminó a Inglaterra en las semifinales del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Bélgica",
+  "optionD": "Suecia",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 227,
+  "question": "¿Qué selección eliminó a Rusia en los cuartos de final del Mundial de Rusia 2018?",
+  "optionA": "Croacia",
+  "optionB": "Francia",
+  "optionC": "España",
+  "optionD": "Bélgica",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 228,
+  "question": "¿Quién fue el máximo goleador de Brasil en el Mundial de Rusia 2018?",
+  "optionA": "Neymar",
+  "optionB": "Philippe Coutinho",
+  "optionC": "Roberto Firmino",
+  "optionD": "Gabriel Jesus",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 229,
+  "question": "¿Qué selección eliminó a Suecia en los cuartos de final del Mundial de Rusia 2018?",
+  "optionA": "Inglaterra",
+  "optionB": "Bélgica",
+  "optionC": "Croacia",
+  "optionD": "Francia",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 230,
+  "question": "¿Qué selección eliminó a Colombia en los octavos de final del Mundial de Rusia 2018 tras una tanda de penaltis?",
+  "optionA": "Inglaterra",
+  "optionB": "Bélgica",
+  "optionC": "Suecia",
+  "optionD": "Suiza",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 231,
+  "question": "¿Qué selección campeona del mundo fue derrotada por México en la fase de grupos del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Alemania",
+  "optionC": "Italia",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 232,
+  "question": "¿Qué selección eliminó a Alemania en las semifinales de la Eurocopa 2016 dos años después de conquistar el Mundial de Brasil 2014?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "España",
+  "optionD": "Portugal",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 233,
+  "question": "¿Qué jugador ganó el Balón de Oro del Mundial de Brasil 2014 pese a perder la final contra Alemania?",
+  "optionA": "Lionel Messi",
+  "optionB": "Javier Mascherano",
+  "optionC": "Ángel Di María",
+  "optionD": "Gonzalo Higuaín",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 234,
+  "question": "¿Qué jugador marcó el famoso gol de volea contra Uruguay en los octavos de final del Mundial de Brasil 2014, ganador posterior del Premio Puskás?",
+  "optionA": "Juan Cuadrado",
+  "optionB": "James Rodríguez",
+  "optionC": "Radamel Falcao",
+  "optionD": "Fredy Guarín",
+  "correctAnswer": "James Rodríguez"
+ },
+ {
+  "id": 235,
+  "question": "¿Qué jugador neerlandés marcó el gol decisivo en la remontada de Países Bajos contra Brasil en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Wesley Sneijder",
+  "optionB": "Arjen Robben",
+  "optionC": "Dirk Kuyt",
+  "optionD": "Robin van Persie",
+  "correctAnswer": "Wesley Sneijder"
+ },
+ {
+  "id": 236,
+  "question": "¿Qué selección eliminó a Ghana en los cuartos de final del Mundial de Sudáfrica 2010 tras una dramática tanda de penaltis?",
+  "optionA": "Uruguay",
+  "optionB": "Alemania",
+  "optionC": "Países Bajos",
+  "optionD": "Paraguay",
+  "correctAnswer": "Uruguay"
+ },
+ {
+  "id": 237,
+  "question": "¿Qué selección eliminó a Alemania en las semifinales del Mundial de Sudáfrica 2010?",
+  "optionA": "España",
+  "optionB": "Países Bajos",
+  "optionC": "Uruguay",
+  "optionD": "Argentina",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 238,
+  "question": "¿Quién fue el máximo goleador de Países Bajos en el Mundial de Sudáfrica 2010?",
+  "optionA": "Arjen Robben",
+  "optionB": "Wesley Sneijder",
+  "optionC": "Dirk Kuyt",
+  "optionD": "Robin van Persie",
+  "correctAnswer": "Wesley Sneijder"
+ },
+ {
+  "id": 239,
+  "question": "¿Quién fue el máximo goleador de Uruguay en el Mundial de Sudáfrica 2010?",
+  "optionA": "Edinson Cavani",
+  "optionB": "Diego Forlán",
+  "optionC": "Luis Suárez",
+  "optionD": "Diego Lugano",
+  "correctAnswer": "Diego Forlán"
+ },
+ {
+  "id": 240,
+  "question": "¿En qué posición terminó Italia en su grupo durante el Mundial de Sudáfrica 2010, quedando eliminada como campeona vigente?",
+  "optionA": "1.ª",
+  "optionB": "2.ª",
+  "optionC": "3.ª",
+  "optionD": "4.ª",
+  "correctAnswer": "4.ª"
+ },
+ {
+  "id": 241,
+  "question": "¿En qué posición terminó Francia en su grupo durante el Mundial de Sudáfrica 2010, quedando eliminada en la primera fase?",
+  "optionA": "1.ª",
+  "optionB": "2.ª",
+  "optionC": "3.ª",
+  "optionD": "4.ª",
+  "correctAnswer": "4.ª"
+ },
+ {
+  "id": 242,
+  "question": "¿Qué jugador alemán fue el máximo goleador de su selección en el Mundial de Alemania 2006?",
+  "optionA": "Michael Ballack",
+  "optionB": "Miroslav Klose",
+  "optionC": "Lukas Podolski",
+  "optionD": "Bastian Schweinsteiger",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 243,
+  "question": "¿Qué selección eliminó a Portugal en las semifinales del Mundial de Alemania 2006?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Brasil",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 244,
+  "question": "¿Hasta qué ronda llegó Ucrania en su primera participación mundialista tras la independencia, en el Mundial de Alemania 2006?",
+  "optionA": "Octavos de final",
+  "optionB": "Cuartos de final",
+  "optionC": "Semifinales",
+  "optionD": "Final",
+  "correctAnswer": "Cuartos de final"
+ },
+ {
+  "id": 245,
+  "question": "¿Qué selección eliminó a Ghana en los octavos de final del Mundial de Alemania 2006?",
+  "optionA": "Brasil",
+  "optionB": "España",
+  "optionC": "Italia",
+  "optionD": "Francia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 246,
+  "question": "¿Qué selección eliminó a Corea del Sur en las semifinales del Mundial de Corea-Japón 2002?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Turquía",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 247,
+  "question": "¿Qué puesto consiguió Turquía en el Mundial de Corea-Japón 2002, el mejor resultado de su historia?",
+  "optionA": "Campeón",
+  "optionB": "Subcampeón",
+  "optionC": "Tercer puesto",
+  "optionD": "Cuarto puesto",
+  "correctAnswer": "Tercer puesto"
+ },
+ {
+  "id": 248,
+  "question": "¿Hasta qué ronda llegó Estados Unidos en el Mundial de Corea-Japón 2002?",
+  "optionA": "Octavos de final",
+  "optionB": "Cuartos de final",
+  "optionC": "Semifinales",
+  "optionD": "Final",
+  "correctAnswer": "Cuartos de final"
+ },
+ {
+  "id": 249,
+  "question": "¿Qué selección campeona del mundo fue derrotada por Senegal en el partido inaugural del Mundial de Corea-Japón 2002?",
+  "optionA": "Francia",
+  "optionB": "Brasil",
+  "optionC": "Alemania",
+  "optionD": "Argentina",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 250,
+  "question": "¿Qué selección eliminó a Irlanda en los octavos de final del Mundial de Corea-Japón 2002 tras una tanda de penaltis?",
+  "optionA": "España",
+  "optionB": "Alemania",
+  "optionC": "Corea del Sur",
+  "optionD": "México",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 251,
+  "question": "¿Qué selección derrotó a Dinamarca por 4-1 en los cuartos de final del Mundial de Francia 1998?",
+  "optionA": "Brasil",
+  "optionB": "Francia",
+  "optionC": "Países Bajos",
+  "optionD": "Croacia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 252,
+  "question": "¿Qué jugador marcó el gol decisivo para Países Bajos frente a Argentina en los cuartos de final del Mundial de Francia 1998?",
+  "optionA": "Dennis Bergkamp",
+  "optionB": "Patrick Kluivert",
+  "optionC": "Phillip Cocu",
+  "optionD": "Marc Overmars",
+  "correctAnswer": "Dennis Bergkamp"
+ },
+ {
+  "id": 253,
+  "question": "¿Qué jugador inglés marcó un gol histórico con solo 18 años frente a Argentina en el Mundial de Francia 1998?",
+  "optionA": "David Beckham",
+  "optionB": "Michael Owen",
+  "optionC": "Paul Scholes",
+  "optionD": "Alan Shearer",
+  "correctAnswer": "Michael Owen"
+ },
+ {
+  "id": 254,
+  "question": "¿Qué selección eliminó a Alemania con una contundente victoria por 3-0 en los cuartos de final del Mundial de Francia 1998?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Países Bajos",
+  "optionD": "Argentina",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 255,
+  "question": "¿Qué selección eliminó a Rumanía en los cuartos de final del Mundial de Estados Unidos 1994?",
+  "optionA": "Suecia",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Bulgaria",
+  "correctAnswer": "Suecia"
+ },
+ {
+  "id": 256,
+  "question": "¿Qué puesto consiguió Suecia en el Mundial de Estados Unidos 1994?",
+  "optionA": "Campeón",
+  "optionB": "Subcampeón",
+  "optionC": "Tercer puesto",
+  "optionD": "Cuarto puesto",
+  "correctAnswer": "Tercer puesto"
+ },
+ {
+  "id": 257,
+  "question": "¿Qué jugador fue la gran estrella de Camerún durante el Mundial de Italia 1990?",
+  "optionA": "Samuel Eto'o",
+  "optionB": "Roger Milla",
+  "optionC": "Rigobert Song",
+  "optionD": "François Omam-Biyik",
+  "correctAnswer": "Roger Milla"
+ },
+ {
+  "id": 258,
+  "question": "¿Qué jugador inglés lloró tras recibir una tarjeta amarilla en las semifinales del Mundial de Italia 1990 al saber que se perdería una posible final?",
+  "optionA": "Gary Lineker",
+  "optionB": "Chris Waddle",
+  "optionC": "Paul Gascoigne",
+  "optionD": "David Platt",
+  "correctAnswer": "Paul Gascoigne"
+ },
+ {
+  "id": 259,
+  "question": "¿Qué jugador igualó el récord argentino de participaciones en finales mundialistas al disputar la final del Mundial de Catar 2022?",
+  "optionA": "Diego Maradona",
+  "optionB": "Lionel Messi",
+  "optionC": "Gabriel Batistuta",
+  "optionD": "Mario Kempes",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 260,
+  "question": "¿Qué selección recibió dos goles de Lionel Messi durante las fases eliminatorias del Mundial de Catar 2022?",
+  "optionA": "Australia",
+  "optionB": "Países Bajos",
+  "optionC": "Croacia",
+  "optionD": "Croacia y Países Bajos",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 261,
+  "question": "¿Qué jugador argentino marcó dos goles en la semifinal contra Croacia en el Mundial de Catar 2022?",
+  "optionA": "Lionel Messi",
+  "optionB": "Julián Álvarez",
+  "optionC": "Lautaro Martínez",
+  "optionD": "Ángel Di María",
+  "correctAnswer": "Julián Álvarez"
+ },
+ {
+  "id": 262,
+  "question": "¿Qué delantero superó a Thierry Henry como máximo goleador histórico de Francia durante el Mundial de Catar 2022?",
+  "optionA": "Olivier Giroud",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Karim Benzema",
+  "optionD": "Antoine Griezmann",
+  "correctAnswer": "Olivier Giroud"
+ },
+ {
+  "id": 263,
+  "question": "¿Qué portero fue decisivo para Marruecos en la tanda de penaltis contra España en el Mundial de Catar 2022?",
+  "optionA": "Yassine Bono",
+  "optionB": "Munir Mohamedi",
+  "optionC": "Ahmed Reda Tagnaouti",
+  "optionD": "Anas Zniti",
+  "correctAnswer": "Yassine Bono"
+ },
+ {
+  "id": 264,
+  "question": "¿Contra qué selección ganó Croacia en la tanda de penaltis de los octavos de final del Mundial de Catar 2022?",
+  "optionA": "Japón",
+  "optionB": "España",
+  "optionC": "Brasil",
+  "optionD": "Marruecos",
+  "correctAnswer": "Japón"
+ },
+ {
+  "id": 265,
+  "question": "¿En qué posición terminó Japón la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Primera",
+  "optionB": "Segunda",
+  "optionC": "Tercera",
+  "optionD": "Cuarta",
+  "correctAnswer": "Primera"
+ },
+ {
+  "id": 266,
+  "question": "¿Cuántos puntos sumó Alemania en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6",
+  "correctAnswer": "4"
+ },
+ {
+  "id": 267,
+  "question": "¿Contra qué selección marcó Canadá su primer gol en una Copa del Mundo desde 1986 durante el Mundial de Catar 2022?",
+  "optionA": "Marruecos",
+  "optionB": "Bélgica",
+  "optionC": "Croacia",
+  "optionD": "Canadá no marcó ningún gol",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 268,
+  "question": "¿Qué selección eliminó a Francia en los octavos de final de la Eurocopa 2020 disputada en 2021, tres años después de ganar el Mundial de Rusia 2018?",
+  "optionA": "España",
+  "optionB": "Suiza",
+  "optionC": "Bélgica",
+  "optionD": "Italia",
+  "correctAnswer": "Suiza"
+ },
+ {
+  "id": 269,
+  "question": "¿Qué jugador belga ganó el Balón de Plata del Mundial de Rusia 2018?",
+  "optionA": "Eden Hazard",
+  "optionB": "Kevin De Bruyne",
+  "optionC": "Romelu Lukaku",
+  "optionD": "Thibaut Courtois",
+  "correctAnswer": "Eden Hazard"
+ },
+ {
+  "id": 270,
+  "question": "¿Quién fue el máximo goleador de Inglaterra en el Mundial de Rusia 2018?",
+  "optionA": "Raheem Sterling",
+  "optionB": "Harry Kane",
+  "optionC": "Jesse Lingard",
+  "optionD": "Marcus Rashford",
+  "correctAnswer": "Harry Kane"
+ },
+ {
+  "id": 271,
+  "question": "¿Qué selección eliminó a México en los octavos de final del Mundial de Rusia 2018?",
+  "optionA": "Brasil",
+  "optionB": "Bélgica",
+  "optionC": "Suecia",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 272,
+  "question": "¿Qué selección eliminó a Dinamarca en los octavos de final del Mundial de Rusia 2018 tras una tanda de penaltis?",
+  "optionA": "Croacia",
+  "optionB": "Rusia",
+  "optionC": "España",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 273,
+  "question": "¿Qué jugador colombiano marcó el empate en el tiempo añadido frente a Inglaterra en los octavos de final del Mundial de Rusia 2018?",
+  "optionA": "Radamel Falcao",
+  "optionB": "James Rodríguez",
+  "optionC": "Yerry Mina",
+  "optionD": "Juan Cuadrado",
+  "correctAnswer": "Yerry Mina"
+ },
+ {
+  "id": 274,
+  "question": "¿Qué jugador alemán ganó la Bota de Plata del Mundial de Brasil 2014?",
+  "optionA": "Thomas Müller",
+  "optionB": "Miroslav Klose",
+  "optionC": "Mario Götze",
+  "optionD": "Toni Kroos",
+  "correctAnswer": "Thomas Müller"
+ },
+ {
+  "id": 275,
+  "question": "¿Quién fue el máximo goleador del Mundial de Brasil 2014?",
+  "optionA": "Neymar",
+  "optionB": "James Rodríguez",
+  "optionC": "Lionel Messi",
+  "optionD": "Thomas Müller",
+  "correctAnswer": "James Rodríguez"
+ },
+ {
+  "id": 276,
+  "question": "¿Qué selección eliminó a Grecia en los octavos de final del Mundial de Brasil 2014 tras una tanda de penaltis?",
+  "optionA": "Costa Rica",
+  "optionB": "Países Bajos",
+  "optionC": "México",
+  "optionD": "Colombia",
+  "correctAnswer": "Costa Rica"
+ },
+ {
+  "id": 277,
+  "question": "¿Qué portero neerlandés introdujo Louis van Gaal exclusivamente para la tanda de penaltis contra Costa Rica en el Mundial de Brasil 2014?",
+  "optionA": "Tim Krul",
+  "optionB": "Jasper Cillessen",
+  "optionC": "Michel Vorm",
+  "optionD": "Maarten Stekelenburg",
+  "correctAnswer": "Tim Krul"
+ },
+ {
+  "id": 278,
+  "question": "¿Qué selección eliminó a México en los octavos de final del Mundial de Brasil 2014 con una remontada en los últimos minutos?",
+  "optionA": "Brasil",
+  "optionB": "Países Bajos",
+  "optionC": "Colombia",
+  "optionD": "Alemania",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 279,
+  "question": "¿Qué jugador chileno estrelló un disparo en el larguero en la prórroga contra Brasil en los octavos de final del Mundial de Brasil 2014?",
+  "optionA": "Arturo Vidal",
+  "optionB": "Alexis Sánchez",
+  "optionC": "Mauricio Pinilla",
+  "optionD": "Charles Aránguiz",
+  "correctAnswer": "Mauricio Pinilla"
+ },
+ {
+  "id": 280,
+  "question": "¿Qué delantero uruguayo fue sancionado durante el Mundial de Brasil 2014 por morder a Giorgio Chiellini?",
+  "optionA": "Edinson Cavani",
+  "optionB": "Diego Forlán",
+  "optionC": "Luis Suárez",
+  "optionD": "Christian Stuani",
+  "correctAnswer": "Luis Suárez"
+ },
+ {
+  "id": 281,
+  "question": "¿Qué dos selecciones contribuyeron decisivamente a la eliminación de Italia en la fase de grupos del Mundial de Brasil 2014?",
+  "optionA": "Uruguay y Costa Rica",
+  "optionB": "Inglaterra y Uruguay",
+  "optionC": "Costa Rica e Inglaterra",
+  "optionD": "Costa Rica y Países Bajos",
+  "correctAnswer": "Uruguay y Costa Rica"
+ },
+ {
+  "id": 282,
+  "question": "¿En qué fase fue eliminada Inglaterra en el Mundial de Brasil 2014?",
+  "optionA": "Fase de grupos",
+  "optionB": "Octavos de final",
+  "optionC": "Cuartos de final",
+  "optionD": "Semifinales",
+  "correctAnswer": "Fase de grupos"
+ },
+ {
+  "id": 283,
+  "question": "¿Qué selección terminó segunda en el grupo de España durante el Mundial de Sudáfrica 2010?",
+  "optionA": "Chile",
+  "optionB": "Suiza",
+  "optionC": "Honduras",
+  "optionD": "Portugal",
+  "correctAnswer": "Chile"
+ },
+ {
+  "id": 284,
+  "question": "¿Qué jugador neerlandés ganó el Balón de Plata del Mundial de Sudáfrica 2010?",
+  "optionA": "Arjen Robben",
+  "optionB": "Wesley Sneijder",
+  "optionC": "Robin van Persie",
+  "optionD": "Dirk Kuyt",
+  "correctAnswer": "Wesley Sneijder"
+ },
+ {
+  "id": 285,
+  "question": "¿Qué jugador alemán ganó el premio al Mejor Jugador Joven del Mundial de Sudáfrica 2010?",
+  "optionA": "Mesut Özil",
+  "optionB": "Thomas Müller",
+  "optionC": "Sami Khedira",
+  "optionD": "Manuel Neuer",
+  "correctAnswer": "Thomas Müller"
+ },
+ {
+  "id": 286,
+  "question": "¿Qué selección eliminó a Estados Unidos en los octavos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Ghana",
+  "optionB": "Uruguay",
+  "optionC": "Alemania",
+  "optionD": "Serbia",
+  "correctAnswer": "Ghana"
+ },
+ {
+  "id": 287,
+  "question": "¿Qué jugador marcó el gol de la victoria de Estados Unidos frente a Argelia en el tiempo añadido de la fase de grupos del Mundial de Sudáfrica 2010?",
+  "optionA": "Landon Donovan",
+  "optionB": "Clint Dempsey",
+  "optionC": "Michael Bradley",
+  "optionD": "Jozy Altidore",
+  "correctAnswer": "Landon Donovan"
+ },
+ {
+  "id": 288,
+  "question": "¿Qué selección eliminó a Australia en los octavos de final del Mundial de Alemania 2006?",
+  "optionA": "Italia",
+  "optionB": "Alemania",
+  "optionC": "Ucrania",
+  "optionD": "Suiza",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 289,
+  "question": "¿Qué selección eliminó a Ucrania en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Alemania",
+  "optionB": "Italia",
+  "optionC": "Francia",
+  "optionD": "Portugal",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 290,
+  "question": "¿Qué selección derrotó a Francia en la final del Mundial de Alemania 2006?",
+  "optionA": "Alemania",
+  "optionB": "Italia",
+  "optionC": "Portugal",
+  "optionD": "Brasil",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 291,
+  "question": "¿Qué jugador fue la principal estrella ofensiva de Portugal durante el Mundial de Alemania 2006?",
+  "optionA": "Deco",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Pauleta",
+  "optionD": "Luís Figo",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 292,
+  "question": "¿Qué selección africana alcanzó por primera vez los octavos de final de una Copa del Mundo en el Mundial de Alemania 2006?",
+  "optionA": "Ghana",
+  "optionB": "Togo",
+  "optionC": "Angola",
+  "optionD": "Costa de Marfil",
+  "correctAnswer": "Ghana"
+ },
+ {
+  "id": 293,
+  "question": "¿Qué jugador fue el máximo goleador de Alemania en el Mundial de Corea-Japón 2002?",
+  "optionA": "Oliver Neuville",
+  "optionB": "Michael Ballack",
+  "optionC": "Miroslav Klose",
+  "optionD": "Oliver Bierhoff",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 294,
+  "question": "¿Qué selección eliminó a Turquía en las semifinales del Mundial de Corea-Japón 2002?",
+  "optionA": "Brasil",
+  "optionB": "Alemania",
+  "optionC": "Corea del Sur",
+  "optionD": "España",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 295,
+  "question": "¿Qué selección eliminó a Senegal en los cuartos de final del Mundial de Corea-Japón 2002?",
+  "optionA": "Turquía",
+  "optionB": "Brasil",
+  "optionC": "Alemania",
+  "optionD": "Suecia",
+  "correctAnswer": "Turquía"
+ },
+ {
+  "id": 296,
+  "question": "¿Qué jugador fue la principal figura de Irlanda en el Mundial de Corea-Japón 2002?",
+  "optionA": "Roy Keane",
+  "optionB": "Damien Duff",
+  "optionC": "Robbie Keane",
+  "optionD": "Shay Given",
+  "correctAnswer": "Robbie Keane"
+ },
+ {
+  "id": 297,
+  "question": "¿Qué selección eliminó a Países Bajos en las semifinales del Mundial de Francia 1998?",
+  "optionA": "Brasil",
+  "optionB": "Francia",
+  "optionC": "Croacia",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 298,
+  "question": "¿Qué selección se convirtió en la primera campeona del mundo europea en conquistar un Mundial disputado en África?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "España",
+  "optionD": "Alemania",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 299,
+  "question": "¿Qué selección empató 2-2 con Argentina antes de caer en la tanda de penaltis de los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Croacia",
+  "optionB": "Francia",
+  "optionC": "Países Bajos",
+  "optionD": "Australia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 300,
+  "question": "¿Qué jugador francés igualó el récord de goles en una final mundialista al marcar un hat-trick en la final del Mundial de Catar 2022?",
+  "optionA": "Olivier Giroud",
+  "optionB": "Karim Benzema",
+  "optionC": "Kylian Mbappé",
+  "optionD": "Antoine Griezmann",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 301,
+  "question": "¿Qué selección eliminó a Inglaterra en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Marruecos",
+  "optionC": "Argentina",
+  "optionD": "Portugal",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 302,
+  "question": "¿Qué jugador inglés falló un penalti decisivo contra Francia en los cuartos de final del Mundial de Catar 2022?",
+  "optionA": "Harry Kane",
+  "optionB": "Jude Bellingham",
+  "optionC": "Bukayo Saka",
+  "optionD": "Marcus Rashford",
+  "correctAnswer": "Harry Kane"
+ },
+ {
+  "id": 303,
+  "question": "¿Qué delantero portugués marcó un hat-trick contra Suiza en los octavos de final del Mundial de Catar 2022?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Gonçalo Ramos",
+  "optionC": "João Félix",
+  "optionD": "Bruno Fernandes",
+  "correctAnswer": "Gonçalo Ramos"
+ },
+ {
+  "id": 304,
+  "question": "¿Quién fue el máximo goleador de Brasil en el Mundial de Catar 2022?",
+  "optionA": "Neymar",
+  "optionB": "Richarlison",
+  "optionC": "Vinícius Júnior",
+  "optionD": "Casemiro",
+  "correctAnswer": "Richarlison"
+ },
+ {
+  "id": 305,
+  "question": "¿Qué portero croata fue una de las grandes revelaciones del Mundial de Catar 2022 gracias a sus actuaciones en las tandas de penaltis?",
+  "optionA": "Danijel Subašić",
+  "optionB": "Dominik Livaković",
+  "optionC": "Stipe Pletikosa",
+  "optionD": "Lovre Kalinić",
+  "correctAnswer": "Dominik Livaković"
+ },
+ {
+  "id": 306,
+  "question": "¿Qué selección derrotó a España por 2-1 en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Alemania",
+  "optionB": "Japón",
+  "optionC": "Marruecos",
+  "optionD": "Costa Rica",
+  "correctAnswer": "Japón"
+ },
+ {
+  "id": 307,
+  "question": "¿Qué selección derrotó a Alemania en su primer partido del Mundial de Catar 2022?",
+  "optionA": "España",
+  "optionB": "Japón",
+  "optionC": "Costa Rica",
+  "optionD": "Marruecos",
+  "correctAnswer": "Japón"
+ },
+ {
+  "id": 308,
+  "question": "¿Qué jugador fue el capitán de Bélgica durante el Mundial de Catar 2022?",
+  "optionA": "Romelu Lukaku",
+  "optionB": "Eden Hazard",
+  "optionC": "Kevin De Bruyne",
+  "optionD": "Thibaut Courtois",
+  "correctAnswer": "Kevin De Bruyne"
+ },
+ {
+  "id": 309,
+  "question": "¿En qué estadio se disputó la final del Mundial de Catar 2022 entre Argentina y Francia?",
+  "optionA": "Al Bayt Stadium",
+  "optionB": "Lusail Stadium",
+  "optionC": "Education City Stadium",
+  "optionD": "Khalifa International Stadium",
+  "correctAnswer": "Lusail Stadium"
+ },
+ {
+  "id": 310,
+  "question": "¿Qué selección eliminó a Argentina en los octavos de final del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Bélgica",
+  "optionC": "Croacia",
+  "optionD": "Uruguay",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 311,
+  "question": "¿Qué defensa francés marcó un gol en la final del Mundial de Rusia 2018 contra Croacia?",
+  "optionA": "Raphaël Varane",
+  "optionB": "Samuel Umtiti",
+  "optionC": "Lucas Hernández",
+  "optionD": "Benjamin Pavard",
+  "correctAnswer": "Raphaël Varane"
+ },
+ {
+  "id": 312,
+  "question": "¿Qué ciudad acogió la final del Mundial de Rusia 2018 entre Francia y Croacia?",
+  "optionA": "San Petersburgo",
+  "optionB": "Moscú",
+  "optionC": "Kazán",
+  "optionD": "Sochi",
+  "correctAnswer": "Moscú"
+ },
+ {
+  "id": 313,
+  "question": "¿Qué jugador colombiano lesionó a Neymar en los cuartos de final del Mundial de Brasil 2014, dejándolo fuera del resto del torneo?",
+  "optionA": "Mario Yepes",
+  "optionB": "Juan Camilo Zúñiga",
+  "optionC": "Pablo Armero",
+  "optionD": "Juan Cuadrado",
+  "correctAnswer": "Juan Camilo Zúñiga"
+ },
+ {
+  "id": 314,
+  "question": "¿Qué selección ganó el partido por el tercer puesto del Mundial de Brasil 2014?",
+  "optionA": "Brasil",
+  "optionB": "Países Bajos",
+  "optionC": "Argentina",
+  "optionD": "Colombia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 315,
+  "question": "¿Qué delantero argentino desperdició una de las ocasiones más claras de la final del Mundial de Brasil 2014 frente a Alemania?",
+  "optionA": "Sergio Agüero",
+  "optionB": "Gonzalo Higuaín",
+  "optionC": "Ezequiel Lavezzi",
+  "optionD": "Rodrigo Palacio",
+  "correctAnswer": "Gonzalo Higuaín"
+ },
+ {
+  "id": 316,
+  "question": "¿Qué jugador neerlandés marcó cinco goles en el Mundial de Brasil 2014?",
+  "optionA": "Robin van Persie",
+  "optionB": "Arjen Robben",
+  "optionC": "Wesley Sneijder",
+  "optionD": "Memphis Depay",
+  "correctAnswer": "Arjen Robben"
+ },
+ {
+  "id": 317,
+  "question": "¿Qué portero fue una de las grandes revelaciones del Mundial de Brasil 2014 liderando a Costa Rica hasta los cuartos de final?",
+  "optionA": "Keylor Navas",
+  "optionB": "Patrick Pemberton",
+  "optionC": "Daniel Cambronero",
+  "optionD": "Esteban Alvarado",
+  "correctAnswer": "Keylor Navas"
+ },
+ {
+  "id": 318,
+  "question": "¿Contra qué selección protagonizó Luis Suárez el famoso mordisco a Giorgio Chiellini durante el Mundial de Brasil 2014?",
+  "optionA": "Italia",
+  "optionB": "Inglaterra",
+  "optionC": "Costa Rica",
+  "optionD": "Francia",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 319,
+  "question": "¿Qué selección eliminó a Portugal en los octavos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "España",
+  "optionB": "Alemania",
+  "optionC": "Paraguay",
+  "optionD": "Países Bajos",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 320,
+  "question": "¿Qué selección derrotó a Argentina por 4-0 en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Alemania",
+  "optionB": "España",
+  "optionC": "Brasil",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 321,
+  "question": "¿Qué jugador español falló un penalti en los cuartos de final contra Paraguay antes de que España terminara ganando el partido en el Mundial de Sudáfrica 2010?",
+  "optionA": "David Villa",
+  "optionB": "Xabi Alonso",
+  "optionC": "Andrés Iniesta",
+  "optionD": "Fernando Torres",
+  "correctAnswer": "Xabi Alonso"
+ },
+ {
+  "id": 322,
+  "question": "¿Qué selección anfitriona se convirtió en la primera organizadora de un Mundial en quedar eliminada en la fase de grupos?",
+  "optionA": "Sudáfrica",
+  "optionB": "Corea del Sur",
+  "optionC": "Japón",
+  "optionD": "México",
+  "correctAnswer": "Sudáfrica"
+ },
+ {
+  "id": 323,
+  "question": "¿Qué jugador alemán marcó el gol del empate frente a Argentina en los cuartos de final del Mundial de Alemania 2006 antes de la tanda de penaltis?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Michael Ballack",
+  "optionC": "Lukas Podolski",
+  "optionD": "Bernd Schneider",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 324,
+  "question": "¿Qué portero alemán detuvo dos penaltis en la tanda contra Argentina en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Oliver Kahn",
+  "optionB": "Jens Lehmann",
+  "optionC": "Manuel Neuer",
+  "optionD": "René Adler",
+  "correctAnswer": "Jens Lehmann"
+ },
+ {
+  "id": 325,
+  "question": "¿Qué jugador francés dio la asistencia a Thierry Henry en el gol que eliminó a Brasil en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Franck Ribéry",
+  "optionC": "Patrick Vieira",
+  "optionD": "Claude Makélélé",
+  "correctAnswer": "Zinedine Zidane"
+ },
+ {
+  "id": 326,
+  "question": "¿Qué selección eliminó a Portugal en la fase de grupos del Mundial de Corea-Japón 2002?",
+  "optionA": "Corea del Sur",
+  "optionB": "Estados Unidos",
+  "optionC": "Polonia",
+  "optionD": "Japón",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 327,
+  "question": "¿Qué selección derrotó a Corea del Sur en el partido por el tercer puesto del Mundial de Corea-Japón 2002?",
+  "optionA": "Turquía",
+  "optionB": "Brasil",
+  "optionC": "Alemania",
+  "optionD": "España",
+  "correctAnswer": "Turquía"
+ },
+ {
+  "id": 328,
+  "question": "¿Qué selección eliminó a Suecia en los octavos de final del Mundial de Corea-Japón 2002 gracias a un gol de oro?",
+  "optionA": "Senegal",
+  "optionB": "Turquía",
+  "optionC": "Japón",
+  "optionD": "Estados Unidos",
+  "correctAnswer": "Senegal"
+ },
+ {
+  "id": 329,
+  "question": "¿Qué selección eliminó a México en los octavos de final del Mundial de Corea-Japón 2002?",
+  "optionA": "Estados Unidos",
+  "optionB": "Alemania",
+  "optionC": "Corea del Sur",
+  "optionD": "Italia",
+  "correctAnswer": "Estados Unidos"
+ },
+ {
+  "id": 330,
+  "question": "¿Qué selección fue la primera en ganar Copas del Mundo en tres continentes diferentes?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Italia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 331,
+  "question": "¿Contra qué selección marcó Lionel Messi su primer gol en el Mundial de Catar 2022?",
+  "optionA": "México",
+  "optionB": "Arabia Saudí",
+  "optionC": "Polonia",
+  "optionD": "Australia",
+  "correctAnswer": "Arabia Saudí"
+ },
+ {
+  "id": 332,
+  "question": "¿Cómo marcó Lionel Messi su primer gol en el Mundial de Catar 2022 frente a Arabia Saudí?",
+  "optionA": "De falta directa",
+  "optionB": "De jugada",
+  "optionC": "De penalti",
+  "optionD": "De cabeza",
+  "correctAnswer": "De penalti"
+ },
+ {
+  "id": 333,
+  "question": "¿Qué selección empató 3-3 con Argentina en la final del Mundial de Catar 2022 antes de caer en los penaltis?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Países Bajos",
+  "optionD": "Brasil",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 334,
+  "question": "¿Qué jugador marcó el último penalti de Argentina en la tanda decisiva de la final del Mundial de Catar 2022?",
+  "optionA": "Lionel Messi",
+  "optionB": "Paulo Dybala",
+  "optionC": "Gonzalo Montiel",
+  "optionD": "Leandro Paredes",
+  "correctAnswer": "Gonzalo Montiel"
+ },
+ {
+  "id": 335,
+  "question": "¿Qué jugador francés marcó dos penaltis durante la final del Mundial de Catar 2022 frente a Argentina?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Antoine Griezmann",
+  "optionC": "Olivier Giroud",
+  "optionD": "Kingsley Coman",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 336,
+  "question": "¿Qué jugador francés falló un penalti en la tanda decisiva de la final del Mundial de Catar 2022?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Randal Kolo Muani",
+  "optionC": "Kingsley Coman",
+  "optionD": "Antoine Griezmann",
+  "correctAnswer": "Kingsley Coman"
+ },
+ {
+  "id": 337,
+  "question": "¿Qué jugador marroquí fue incluido en el once ideal de la FIFA tras el Mundial de Catar 2022?",
+  "optionA": "Azzedine Ounahi",
+  "optionB": "Yassine Bono",
+  "optionC": "Achraf Hakimi",
+  "optionD": "Hakim Ziyech",
+  "correctAnswer": "Achraf Hakimi"
+ },
+ {
+  "id": 338,
+  "question": "¿Qué selección derrotó a Croacia en el partido por el tercer puesto del Mundial de Catar 2022?",
+  "optionA": "Marruecos",
+  "optionB": "Francia",
+  "optionC": "Brasil",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 339,
+  "question": "¿Qué selección terminó primera de grupo por delante de España y Alemania en el Mundial de Catar 2022?",
+  "optionA": "Japón",
+  "optionB": "España",
+  "optionC": "Alemania",
+  "optionD": "Costa Rica",
+  "correctAnswer": "Japón"
+ },
+ {
+  "id": 340,
+  "question": "¿Qué resultado obtuvo Alemania frente a España en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Victoria",
+  "optionB": "Empate",
+  "optionC": "Derrota",
+  "optionD": "No se enfrentaron",
+  "correctAnswer": "Empate"
+ },
+ {
+  "id": 341,
+  "question": "¿Qué jugador español ganó el premio Golden Boy en 2022 tras disputar el Mundial de Catar?",
+  "optionA": "Pedri",
+  "optionB": "Gavi",
+  "optionC": "Nico Williams",
+  "optionD": "Alejandro Balde",
+  "correctAnswer": "Gavi"
+ },
+ {
+  "id": 342,
+  "question": "¿Quién fue el capitán de Brasil durante el Mundial de Catar 2022?",
+  "optionA": "Neymar",
+  "optionB": "Thiago Silva",
+  "optionC": "Casemiro",
+  "optionD": "Marquinhos",
+  "correctAnswer": "Thiago Silva"
+ },
+ {
+  "id": 343,
+  "question": "¿Quién fue el máximo goleador de Portugal en el Mundial de Catar 2022?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Bruno Fernandes",
+  "optionC": "Gonçalo Ramos",
+  "optionD": "João Félix",
+  "correctAnswer": "Gonçalo Ramos"
+ },
+ {
+  "id": 344,
+  "question": "¿Quién fue el máximo goleador de Inglaterra en el Mundial de Catar 2022?",
+  "optionA": "Harry Kane",
+  "optionB": "Bukayo Saka",
+  "optionC": "Marcus Rashford",
+  "optionD": "Jude Bellingham",
+  "correctAnswer": "Harry Kane"
+ },
+ {
+  "id": 345,
+  "question": "¿Qué selección eliminó a Bélgica en las semifinales del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Inglaterra",
+  "optionD": "Brasil",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 346,
+  "question": "¿Qué jugador marcó el único gol de la semifinal entre Francia y Bélgica en el Mundial de Rusia 2018?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Paul Pogba",
+  "optionC": "Samuel Umtiti",
+  "optionD": "Antoine Griezmann",
+  "correctAnswer": "Samuel Umtiti"
+ },
+ {
+  "id": 347,
+  "question": "¿Qué dos selecciones eliminaron matemáticamente a Egipto en la fase de grupos del Mundial de Rusia 2018?",
+  "optionA": "Rusia y Uruguay",
+  "optionB": "Rusia y Arabia Saudí",
+  "optionC": "Uruguay y Arabia Saudí",
+  "optionD": "Rusia y Marruecos",
+  "correctAnswer": "Rusia y Uruguay"
+ },
+ {
+  "id": 348,
+  "question": "¿Qué jugador ruso marcó cuatro goles durante el Mundial de Rusia 2018?",
+  "optionA": "Alan Dzagoev",
+  "optionB": "Denis Cheryshev",
+  "optionC": "Artem Dzyuba",
+  "optionD": "Aleksandr Golovin",
+  "correctAnswer": "Denis Cheryshev"
+ },
+ {
+  "id": 349,
+  "question": "¿Qué selección eliminó a Francia en los cuartos de final del Mundial de Brasil 2014?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Argentina",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 350,
+  "question": "¿Qué defensa alemán marcó el único gol del partido entre Alemania y Francia en los cuartos de final del Mundial de Brasil 2014?",
+  "optionA": "Mats Hummels",
+  "optionB": "Jerome Boateng",
+  "optionC": "Per Mertesacker",
+  "optionD": "Philipp Lahm",
+  "correctAnswer": "Mats Hummels"
+ },
+ {
+  "id": 351,
+  "question": "¿Qué selección derrotó a Argentina en la final del Mundial de Brasil 2014?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Países Bajos",
+  "optionD": "Francia",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 352,
+  "question": "¿Qué portero argentino fue una de las figuras del Mundial de Brasil 2014 gracias a sus actuaciones en las tandas de penaltis?",
+  "optionA": "Mariano Andújar",
+  "optionB": "Sergio Romero",
+  "optionC": "Willy Caballero",
+  "optionD": "Franco Armani",
+  "correctAnswer": "Sergio Romero"
+ },
+ {
+  "id": 353,
+  "question": "¿Qué selección eliminó a Países Bajos en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Francia",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 354,
+  "question": "¿Qué jugador marcó el único gol de España en la semifinal del Mundial de Sudáfrica 2010 frente a Alemania?",
+  "optionA": "David Villa",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Carles Puyol",
+  "optionD": "Fernando Torres",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 355,
+  "question": "¿Qué jugador uruguayo ganó el Balón de Bronce del Mundial de Sudáfrica 2010?",
+  "optionA": "Diego Forlán",
+  "optionB": "Luis Suárez",
+  "optionC": "Edinson Cavani",
+  "optionD": "Diego Lugano",
+  "correctAnswer": "Diego Forlán"
+ },
+ {
+  "id": 356,
+  "question": "¿Quién fue el máximo goleador de Alemania en el Mundial de Sudáfrica 2010?",
+  "optionA": "Miroslav Klose",
+  "optionB": "Mesut Özil",
+  "optionC": "Thomas Müller",
+  "optionD": "Lukas Podolski",
+  "correctAnswer": "Thomas Müller"
+ },
+ {
+  "id": 357,
+  "question": "¿Qué jugador dio la asistencia a Fabio Grosso en el primer gol de Italia contra Alemania en las semifinales del Mundial de Alemania 2006?",
+  "optionA": "Andrea Pirlo",
+  "optionB": "Francesco Totti",
+  "optionC": "Alessandro Del Piero",
+  "optionD": "Gennaro Gattuso",
+  "correctAnswer": "Andrea Pirlo"
+ },
+ {
+  "id": 358,
+  "question": "¿Qué selección eliminó a España en los octavos de final del Mundial de Alemania 2006?",
+  "optionA": "Brasil",
+  "optionB": "Francia",
+  "optionC": "Portugal",
+  "optionD": "Italia",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 359,
+  "question": "¿Quién fue el máximo goleador de Brasil en el Mundial de Alemania 2006?",
+  "optionA": "Adriano",
+  "optionB": "Ronaldo Nazário",
+  "optionC": "Kaká",
+  "optionD": "Ronaldinho",
+  "correctAnswer": "Adriano"
+ },
+ {
+  "id": 360,
+  "question": "¿Qué selección eliminó a Estados Unidos en los cuartos de final del Mundial de Corea-Japón 2002?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Corea del Sur",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 361,
+  "question": "¿Cómo se resolvió el enfrentamiento entre Francia e Italia en los cuartos de final del Mundial de Francia 1998?",
+  "optionA": "Prórroga",
+  "optionB": "Penaltis",
+  "optionC": "Gol de oro",
+  "optionD": "Partido de desempate",
+  "correctAnswer": "Penaltis"
+ },
+ {
+  "id": 362,
+  "question": "¿Qué selección derrotó a Croacia en el partido por el tercer puesto del Mundial de Francia 1998?",
+  "optionA": "Países Bajos",
+  "optionB": "Francia",
+  "optionC": "Alemania",
+  "optionD": "Argentina",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 363,
+  "question": "¿Qué selección alcanzó más semifinales consecutivas entre los Mundiales de 2002 y 2014?",
+  "optionA": "Brasil",
+  "optionB": "Alemania",
+  "optionC": "Argentina",
+  "optionD": "Francia",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 364,
+  "question": "¿Qué jugador marcó el gol que dio la victoria a Argentina frente a Australia en los octavos de final del Mundial de Catar 2022?",
+  "optionA": "Lionel Messi",
+  "optionB": "Julián Álvarez",
+  "optionC": "Enzo Fernández",
+  "optionD": "Ángel Di María",
+  "correctAnswer": "Julián Álvarez"
+ },
+ {
+  "id": 365,
+  "question": "¿Qué selección fue rival de Argentina en las semifinales del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Brasil",
+  "optionD": "Marruecos",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 366,
+  "question": "¿Qué jugador francés tuvo la gran ocasión de marcar el gol de la victoria en el último minuto de la prórroga de la final del Mundial de Catar 2022?",
+  "optionA": "Kylian Mbappé",
+  "optionB": "Randal Kolo Muani",
+  "optionC": "Olivier Giroud",
+  "optionD": "Kingsley Coman",
+  "correctAnswer": "Randal Kolo Muani"
+ },
+ {
+  "id": 367,
+  "question": "¿Qué selección eliminó a Marruecos en las semifinales del Mundial de Catar 2022?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Croacia",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 368,
+  "question": "¿Qué centrocampista marroquí fue una de las grandes revelaciones del Mundial de Catar 2022?",
+  "optionA": "Azzedine Ounahi",
+  "optionB": "Sofyan Amrabat",
+  "optionC": "Hakim Ziyech",
+  "optionD": "Abdelhamid Sabiri",
+  "correctAnswer": "Azzedine Ounahi"
+ },
+ {
+  "id": 369,
+  "question": "¿Cuántos goles marcó España frente a Costa Rica en su debut en el Mundial de Catar 2022?",
+  "optionA": "5",
+  "optionB": "6",
+  "optionC": "7",
+  "optionD": "8",
+  "correctAnswer": "7"
+ },
+ {
+  "id": 370,
+  "question": "¿Quién fue el máximo goleador de España en el Mundial de Catar 2022?",
+  "optionA": "Álvaro Morata",
+  "optionB": "Ferran Torres",
+  "optionC": "Marco Asensio",
+  "optionD": "Gavi",
+  "correctAnswer": "Álvaro Morata"
+ },
+ {
+  "id": 371,
+  "question": "¿Qué jugador alemán marcó el gol del empate contra España en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Thomas Müller",
+  "optionB": "Niclas Füllkrug",
+  "optionC": "Jamal Musiala",
+  "optionD": "Kai Havertz",
+  "correctAnswer": "Niclas Füllkrug"
+ },
+ {
+  "id": 372,
+  "question": "¿Qué selección eliminó a Japón en los octavos de final del Mundial de Catar 2022 tras una tanda de penaltis?",
+  "optionA": "Croacia",
+  "optionB": "Brasil",
+  "optionC": "Marruecos",
+  "optionD": "España",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 373,
+  "question": "¿Qué dos selecciones contribuyeron decisivamente a la eliminación de Bélgica en la fase de grupos del Mundial de Catar 2022?",
+  "optionA": "Marruecos y Croacia",
+  "optionB": "Canadá y Marruecos",
+  "optionC": "Croacia y Canadá",
+  "optionD": "Marruecos y España",
+  "correctAnswer": "Marruecos y Croacia"
+ },
+ {
+  "id": 374,
+  "question": "¿Qué jugador francés marcó en la final del Mundial de Rusia 2018 con solo 19 años?",
+  "optionA": "Paul Pogba",
+  "optionB": "Kylian Mbappé",
+  "optionC": "Antoine Griezmann",
+  "optionD": "Lucas Hernández",
+  "correctAnswer": "Kylian Mbappé"
+ },
+ {
+  "id": 375,
+  "question": "¿Qué selección eliminó a Uruguay en los cuartos de final del Mundial de Rusia 2018?",
+  "optionA": "Francia",
+  "optionB": "Brasil",
+  "optionC": "Bélgica",
+  "optionD": "Croacia",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 376,
+  "question": "¿Qué jugador fue el máximo goleador de la selección anfitriona en el Mundial de Rusia 2018?",
+  "optionA": "Artem Dzyuba",
+  "optionB": "Denis Cheryshev",
+  "optionC": "Aleksandr Golovin",
+  "optionD": "Alan Dzagoev",
+  "correctAnswer": "Artem Dzyuba"
+ },
+ {
+  "id": 377,
+  "question": "¿Quién marcó el segundo gol de Alemania en la histórica victoria por 7-1 frente a Brasil en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "Thomas Müller",
+  "optionB": "Miroslav Klose",
+  "optionC": "Toni Kroos",
+  "optionD": "Sami Khedira",
+  "correctAnswer": "Miroslav Klose"
+ },
+ {
+  "id": 378,
+  "question": "¿Quién fue el capitán de Brasil en la histórica derrota por 7-1 frente a Alemania en las semifinales del Mundial de Brasil 2014?",
+  "optionA": "Neymar",
+  "optionB": "Thiago Silva",
+  "optionC": "David Luiz",
+  "optionD": "Julio César",
+  "correctAnswer": "David Luiz"
+ },
+ {
+  "id": 379,
+  "question": "¿Qué defensa italiano fue mordido por Luis Suárez durante el Mundial de Brasil 2014?",
+  "optionA": "Leonardo Bonucci",
+  "optionB": "Giorgio Chiellini",
+  "optionC": "Andrea Barzagli",
+  "optionD": "Matteo Darmian",
+  "correctAnswer": "Giorgio Chiellini"
+ },
+ {
+  "id": 380,
+  "question": "¿Qué jugador neerlandés tuvo la ocasión más clara frente a Iker Casillas en la final del Mundial de Sudáfrica 2010?",
+  "optionA": "Dirk Kuyt",
+  "optionB": "Wesley Sneijder",
+  "optionC": "Arjen Robben",
+  "optionD": "Mark van Bommel",
+  "correctAnswer": "Arjen Robben"
+ },
+ {
+  "id": 381,
+  "question": "¿Qué jugador uruguayo evitó un gol de Ghana con una mano sobre la línea en los cuartos de final del Mundial de Sudáfrica 2010?",
+  "optionA": "Diego Forlán",
+  "optionB": "Diego Lugano",
+  "optionC": "Luis Suárez",
+  "optionD": "Edinson Cavani",
+  "correctAnswer": "Luis Suárez"
+ },
+ {
+  "id": 382,
+  "question": "¿Qué delantero francés fue el máximo goleador de Francia durante el Mundial de Alemania 2006?",
+  "optionA": "Zinedine Zidane",
+  "optionB": "Thierry Henry",
+  "optionC": "Franck Ribéry",
+  "optionD": "David Trezeguet",
+  "correctAnswer": "Thierry Henry"
+ },
+ {
+  "id": 383,
+  "question": "¿Qué jugador marcó el gol de Argentina frente a Alemania en los cuartos de final del Mundial de Alemania 2006?",
+  "optionA": "Roberto Ayala",
+  "optionB": "Hernán Crespo",
+  "optionC": "Carlos Tévez",
+  "optionD": "Juan Román Riquelme",
+  "correctAnswer": "Roberto Ayala"
+ },
+ {
+  "id": 384,
+  "question": "¿Qué defensa francés marcó el gol de oro que eliminó a Paraguay en los octavos de final del Mundial de Francia 1998?",
+  "optionA": "Laurent Blanc",
+  "optionB": "Marcel Desailly",
+  "optionC": "Lilian Thuram",
+  "optionD": "Bixente Lizarazu",
+  "correctAnswer": "Laurent Blanc"
+ }
+]

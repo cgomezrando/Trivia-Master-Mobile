@@ -1,0 +1,3642 @@
+[
+ {
+  "id": 1,
+  "subject": "Lionel Messi",
+  "question": "¿Cuántos Balones de Oro había ganado Messi cuando dejó el FC Barcelona en 2021?",
+  "optionA": "5",
+  "optionB": "6",
+  "optionC": "7",
+  "optionD": "8",
+  "correctAnswer": "7"
+ },
+ {
+  "id": 2,
+  "subject": "Cristiano Ronaldo",
+  "question": "¿Con qué club ganó Cristiano Ronaldo su primera Champions League?",
+  "optionA": "Juventus",
+  "optionB": "Manchester United",
+  "optionC": "Real Madrid",
+  "optionD": "Sporting CP",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 3,
+  "subject": "Diego Maradona",
+  "question": "¿En qué club europeo jugó Maradona durante la década de 1990?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Napoli",
+  "optionD": "Inter",
+  "correctAnswer": "Napoli"
+ },
+ {
+  "id": 4,
+  "subject": "Pelé",
+  "question": "¿Qué premio recibió Pelé de la FIFA en 2000 compartido con Maradona?",
+  "optionA": "Mejor Entrenador",
+  "optionB": "Jugador del Siglo",
+  "optionC": "Balón de Oro Honorífico",
+  "optionD": "Premio Fair Play",
+  "correctAnswer": "Jugador del Siglo"
+ },
+ {
+  "id": 5,
+  "subject": "Zinedine Zidane",
+  "question": "¿Con qué club ganó Zidane la Champions League de 2002?",
+  "optionA": "Juventus",
+  "optionB": "Real Madrid",
+  "optionC": "Bordeaux",
+  "optionD": "Marsella",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 6,
+  "subject": "Ronaldo Nazário",
+  "question": "¿Qué selección ganó el Mundial de 2002 con Ronaldo como máximo goleador?",
+  "optionA": "Alemania",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Francia",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 7,
+  "subject": "Johan Cruyff",
+  "question": "¿Qué club entrenó Cruyff durante gran parte de la década de 1990?",
+  "optionA": "Ajax",
+  "optionB": "Barcelona",
+  "optionC": "Feyenoord",
+  "optionD": "PSV",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 8,
+  "subject": "Ronaldinho",
+  "question": "¿Con qué club ganó Ronaldinho la Champions League en 2006?",
+  "optionA": "PSG",
+  "optionB": "Milan",
+  "optionC": "Barcelona",
+  "optionD": "Gremio",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 9,
+  "subject": "Andrés Iniesta",
+  "question": "¿Contra qué selección marcó Iniesta el gol decisivo del Mundial 2010?",
+  "optionA": "Alemania",
+  "optionB": "Brasil",
+  "optionC": "Países Bajos",
+  "optionD": "Francia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 10,
+  "subject": "Xavi Hernández",
+  "question": "¿Con qué club ganó Xavi cuatro Champions League como jugador?",
+  "optionA": "Al Sadd",
+  "optionB": "Barcelona",
+  "optionC": "Valencia",
+  "optionD": "Sevilla",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 11,
+  "subject": "Franz Beckenbauer",
+  "question": "¿Qué selección dirigió Beckenbauer cuando ganó el Mundial de 1990?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 12,
+  "subject": "Paolo Maldini",
+  "question": "¿Con qué club ganó Maldini la Champions League de 2007?",
+  "optionA": "Juventus",
+  "optionB": "Inter",
+  "optionC": "Milan",
+  "optionD": "Roma",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 13,
+  "subject": "Michel Platini",
+  "question": "¿Qué organización presidió Platini entre 2007 y 2015?",
+  "optionA": "FIFA",
+  "optionB": "UEFA",
+  "optionC": "Federación Francesa",
+  "optionD": "ECA",
+  "correctAnswer": "UEFA"
+ },
+ {
+  "id": 14,
+  "subject": "Marco van Basten",
+  "question": "¿Qué club entrenó Van Basten entre 2004 y 2008?",
+  "optionA": "PSV",
+  "optionB": "Ajax",
+  "optionC": "Selección de Países Bajos",
+  "optionD": "Feyenoord",
+  "correctAnswer": "Selección de Países Bajos"
+ },
+ {
+  "id": 15,
+  "subject": "Roberto Baggio",
+  "question": "¿Con qué club italiano jugó Roberto Baggio durante los años 90?",
+  "optionA": "Lazio",
+  "optionB": "Roma",
+  "optionC": "Juventus",
+  "optionD": "Napoli",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 16,
+  "subject": "Thierry Henry",
+  "question": "¿Con qué club ganó Henry la Champions League como jugador?",
+  "optionA": "Arsenal",
+  "optionB": "Juventus",
+  "optionC": "Barcelona",
+  "optionD": "Mónaco",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 17,
+  "subject": "Neymar",
+  "question": "¿Desde qué club fichó Neymar por el Barcelona en 2013?",
+  "optionA": "Flamengo",
+  "optionB": "Santos",
+  "optionC": "Palmeiras",
+  "optionD": "São Paulo",
+  "correctAnswer": "Santos"
+ },
+ {
+  "id": 18,
+  "subject": "Kylian Mbappé",
+  "question": "¿Con qué club ganó Mbappé su primera Ligue 1?",
+  "optionA": "PSG",
+  "optionB": "Lille",
+  "optionC": "Mónaco",
+  "optionD": "Lyon",
+  "correctAnswer": "Mónaco"
+ },
+ {
+  "id": 19,
+  "subject": "Luka Modrić",
+  "question": "¿En qué año ganó Modrić el Balón de Oro?",
+  "optionA": "2016",
+  "optionB": "2017",
+  "optionC": "2018",
+  "optionD": "2019",
+  "correctAnswer": "2018"
+ },
+ {
+  "id": 20,
+  "subject": "Sergio Ramos",
+  "question": "¿Qué club fichó a Sergio Ramos en 2005?",
+  "optionA": "Atlético",
+  "optionB": "Valencia",
+  "optionC": "Real Madrid",
+  "optionD": "Barcelona",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 21,
+  "subject": "Gianluigi Buffon",
+  "question": "¿Desde qué club llegó Buffon a la Juventus?",
+  "optionA": "Lazio",
+  "optionB": "Parma",
+  "optionC": "Fiorentina",
+  "optionD": "Sampdoria",
+  "correctAnswer": "Parma"
+ },
+ {
+  "id": 22,
+  "subject": "Manuel Neuer",
+  "question": "¿Con qué club ganó Neuer su primera Champions League?",
+  "optionA": "Schalke 04",
+  "optionB": "Bayern Múnich",
+  "optionC": "Hamburgo",
+  "optionD": "Dortmund",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 23,
+  "subject": "Rivaldo",
+  "question": "¿En qué club jugaba Rivaldo cuando ganó el Balón de Oro de 1999?",
+  "optionA": "Deportivo",
+  "optionB": "Milan",
+  "optionC": "Barcelona",
+  "optionD": "Palmeiras",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 24,
+  "subject": "Kaká",
+  "question": "¿Con qué club ganó Kaká el Balón de Oro de 2007?",
+  "optionA": "Real Madrid",
+  "optionB": "São Paulo",
+  "optionC": "Milan",
+  "optionD": "Orlando City",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 25,
+  "subject": "Luis Suárez",
+  "question": "¿Con qué selección ganó Luis Suárez la Copa América 2011?",
+  "optionA": "Argentina",
+  "optionB": "Chile",
+  "optionC": "Colombia",
+  "optionD": "Uruguay",
+  "correctAnswer": "Uruguay"
+ },
+ {
+  "id": 26,
+  "subject": "Robert Lewandowski",
+  "question": "¿Con qué club ganó Lewandowski la Champions League de 2020?",
+  "optionA": "Dortmund",
+  "optionB": "Bayern Múnich",
+  "optionC": "Barcelona",
+  "optionD": "Lech Poznań",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 27,
+  "subject": "Karim Benzema",
+  "question": "¿En qué año ganó Benzema el Balón de Oro?",
+  "optionA": "2020",
+  "optionB": "2021",
+  "optionC": "2022",
+  "optionD": "2023",
+  "correctAnswer": "2022"
+ },
+ {
+  "id": 28,
+  "subject": "Raúl González",
+  "question": "¿Qué club fichó a Raúl tras su salida del Real Madrid en 2010?",
+  "optionA": "Al Sadd",
+  "optionB": "Schalke 04",
+  "optionC": "New York Cosmos",
+  "optionD": "Villarreal",
+  "correctAnswer": "Schalke 04"
+ },
+ {
+  "id": 29,
+  "subject": "David Beckham",
+  "question": "¿Con qué selección disputó Beckham tres Mundiales consecutivos?",
+  "optionA": "Escocia",
+  "optionB": "Inglaterra",
+  "optionC": "Gales",
+  "optionD": "Irlanda",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 30,
+  "subject": "Ryan Giggs",
+  "question": "¿Con qué club desarrolló Ryan Giggs toda su carrera profesional?",
+  "optionA": "Liverpool",
+  "optionB": "Manchester United",
+  "optionC": "Leeds United",
+  "optionD": "Everton",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 31,
+  "subject": "Paul Scholes",
+  "question": "¿Cuántas Champions League ganó Scholes con el Manchester United?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "2"
+ },
+ {
+  "id": 32,
+  "subject": "Wayne Rooney",
+  "question": "¿Qué club vendió a Rooney al Manchester United en 2004?",
+  "optionA": "Liverpool",
+  "optionB": "Everton",
+  "optionC": "Leeds",
+  "optionD": "Newcastle",
+  "correctAnswer": "Everton"
+ },
+ {
+  "id": 33,
+  "subject": "Steven Gerrard",
+  "question": "¿Qué club derrotó Steven Gerrard el Liverpool en la final de la Champions de 2005?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Barcelona",
+  "optionD": "Arsenal",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 34,
+  "subject": "Frank Lampard",
+  "question": "¿Con qué club ganó Lampard la Champions League de 2012?",
+  "optionA": "West Ham",
+  "optionB": "Manchester City",
+  "optionC": "Chelsea",
+  "optionD": "Derby County",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 35,
+  "subject": "Patrick Vieira",
+  "question": "¿Con qué selección ganó Vieira el Mundial de 1998?",
+  "optionA": "Italia",
+  "optionB": "Francia",
+  "optionC": "Portugal",
+  "optionD": "Bélgica",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 36,
+  "subject": "Didier Drogba",
+  "question": "¿Contra qué club marcó Drogba en la final de la Champions de 2012?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Barcelona",
+  "optionC": "Real Madrid",
+  "optionD": "Benfica",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 37,
+  "subject": "Samuel Eto'o",
+  "question": "Sobre Samuel Eto'o: ¿con qué club ganó Eto'o dos Champions League consecutivas (2009 y 2010)?",
+  "optionA": "Barcelona e Inter",
+  "optionB": "Inter y Chelsea",
+  "optionC": "Barcelona y Chelsea",
+  "optionD": "Mallorca e Inter",
+  "correctAnswer": "Barcelona e Inter"
+ },
+ {
+  "id": 38,
+  "subject": "Mohamed Salah",
+  "question": "¿Desde qué club llegó Salah al Liverpool?",
+  "optionA": "Roma",
+  "optionB": "Chelsea",
+  "optionC": "Basilea",
+  "optionD": "Fiorentina",
+  "correctAnswer": "Roma"
+ },
+ {
+  "id": 39,
+  "subject": "Kevin De Bruyne",
+  "question": "¿Con qué club alemán destacó Kevin De Bruyne antes de fichar por el Manchester City?",
+  "optionA": "Dortmund",
+  "optionB": "Wolfsburgo",
+  "optionC": "Schalke 04",
+  "optionD": "Leipzig",
+  "correctAnswer": "Wolfsburgo"
+ },
+ {
+  "id": 40,
+  "subject": "Virgil van Dijk",
+  "question": "¿Desde qué club fichó Van Dijk por el Liverpool?",
+  "optionA": "Celtic",
+  "optionB": "Southampton",
+  "optionC": "Ajax",
+  "optionD": "PSV",
+  "correctAnswer": "Southampton"
+ },
+ {
+  "id": 41,
+  "subject": "Erling Haaland",
+  "question": "¿Qué club vendió Haaland al Manchester City?",
+  "optionA": "Molde",
+  "optionB": "Salzburgo",
+  "optionC": "Dortmund",
+  "optionD": "Leipzig",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 42,
+  "subject": "Harry Kane",
+  "question": "¿Qué club fichó a Kane en 2023?",
+  "optionA": "Manchester United",
+  "optionB": "Bayern Múnich",
+  "optionC": "Real Madrid",
+  "optionD": "PSG",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 43,
+  "subject": "Thomas Müller",
+  "question": "Sobre Thomas Müller: ¿con qué club ha desarrollado prácticamente toda su carrera?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Stuttgart",
+  "optionC": "Dortmund",
+  "optionD": "Hamburgo",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 44,
+  "subject": "Philipp Lahm",
+  "question": "¿Con qué selección ganó Lahm el Mundial de 2014?",
+  "optionA": "Alemania",
+  "optionB": "Países Bajos",
+  "optionC": "Francia",
+  "optionD": "España",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 45,
+  "subject": "Bastian Schweinsteiger",
+  "question": "¿Qué club fichó a Schweinsteiger tras salir del Bayern?",
+  "optionA": "Arsenal",
+  "optionB": "Manchester United",
+  "optionC": "Chelsea",
+  "optionD": "Juventus",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 46,
+  "subject": "Miroslav Klose",
+  "question": "¿Qué récord estableció Klose en el Mundial 2014?",
+  "optionA": "Más asistencias",
+  "optionB": "Más goles en Mundiales",
+  "optionC": "Más partidos",
+  "optionD": "Más finales",
+  "correctAnswer": "Más goles en Mundiales"
+ },
+ {
+  "id": 47,
+  "subject": "Luís Figo",
+  "question": "¿Qué club fichó a Figo en el polémico traspaso de 2000?",
+  "optionA": "Milan",
+  "optionB": "Real Madrid",
+  "optionC": "Inter",
+  "optionD": "Juventus",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 48,
+  "subject": "Pavel Nedvěd",
+  "question": "¿Con qué club ganó Nedvěd el Balón de Oro de 2003?",
+  "optionA": "Lazio",
+  "optionB": "Juventus",
+  "optionC": "Sparta Praga",
+  "optionD": "Milan",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 49,
+  "subject": "John Terry",
+  "question": "¿Qué club representó Terry durante la mayor parte de su carrera?",
+  "optionA": "Chelsea",
+  "optionB": "Aston Villa",
+  "optionC": "West Ham",
+  "optionD": "Fulham",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 50,
+  "subject": "Rio Ferdinand",
+  "question": "¿Qué club pagó un récord británico para fichar a Ferdinand en 2002?",
+  "optionA": "Arsenal",
+  "optionB": "Liverpool",
+  "optionC": "Manchester United",
+  "optionD": "Chelsea",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 51,
+  "subject": "Dani Alves",
+  "question": "¿Con qué club ganó Dani Alves más títulos oficiales?",
+  "optionA": "Juventus",
+  "optionB": "PSG",
+  "optionC": "Barcelona",
+  "optionD": "Sevilla",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 52,
+  "subject": "Marcelo",
+  "question": "¿Qué dorsal hizo famoso Marcelo durante la mayor parte de su etapa en el Real Madrid?",
+  "optionA": "3",
+  "optionB": "6",
+  "optionC": "12",
+  "optionD": "15",
+  "correctAnswer": "12"
+ },
+ {
+  "id": 53,
+  "subject": "Cafú",
+  "question": "¿Con qué selección ganó Cafú dos Mundiales como jugador?",
+  "optionA": "Argentina",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 54,
+  "subject": "Roberto Carlos",
+  "question": "¿Con qué club ganó Roberto Carlos tres Champions League?",
+  "optionA": "Inter",
+  "optionB": "Fenerbahçe",
+  "optionC": "Real Madrid",
+  "optionD": "Palmeiras",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 55,
+  "subject": "Javier Zanetti",
+  "question": "¿Qué club capitaneó Javier Zanetti durante gran parte de su carrera?",
+  "optionA": "Lazio",
+  "optionB": "Inter",
+  "optionC": "Roma",
+  "optionD": "Milan",
+  "correctAnswer": "Inter"
+ },
+ {
+  "id": 56,
+  "subject": "Andrea Pirlo",
+  "question": "¿Con qué club ganó Andrea Pirlo su última Serie A como jugador?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Brescia",
+  "optionD": "Inter",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 57,
+  "subject": "Clarence Seedorf",
+  "question": "¿Con cuántos clubes distintos ganó Clarence Seedorf la Champions League?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "5",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 58,
+  "subject": "Dennis Bergkamp",
+  "question": "¿En qué club inglés se convirtió Dennis Bergkamp en una leyenda?",
+  "optionA": "Chelsea",
+  "optionB": "Tottenham",
+  "optionC": "Arsenal",
+  "optionD": "Liverpool",
+  "correctAnswer": "Arsenal"
+ },
+ {
+  "id": 59,
+  "subject": "Arjen Robben",
+  "question": "¿Qué club derrotó el Bayern en la final de la Champions 2013, con gol decisivo de Robben?",
+  "optionA": "Dortmund",
+  "optionB": "Real Madrid",
+  "optionC": "Chelsea",
+  "optionD": "Barcelona",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 60,
+  "subject": "Wesley Sneijder",
+  "question": "¿Con qué club ganó Wesley Sneijder el triplete de 2010?",
+  "optionA": "Ajax",
+  "optionB": "Real Madrid",
+  "optionC": "Inter",
+  "optionD": "Milan",
+  "correctAnswer": "Inter"
+ },
+ {
+  "id": 61,
+  "subject": "Robin van Persie",
+  "question": "¿Qué club fichó a Van Persie procedente del Arsenal?",
+  "optionA": "Chelsea",
+  "optionB": "Manchester United",
+  "optionC": "Liverpool",
+  "optionD": "Tottenham",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 62,
+  "subject": "Ruud van Nistelrooy",
+  "question": "¿Qué club fichó a Van Nistelrooy desde el PSV?",
+  "optionA": "Arsenal",
+  "optionB": "Manchester United",
+  "optionC": "Chelsea",
+  "optionD": "Newcastle",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 63,
+  "subject": "Fabio Cannavaro",
+  "question": "¿Qué premio individual ganó Cannavaro en 2006?",
+  "optionA": "Bota de Oro",
+  "optionB": "Balón de Oro",
+  "optionC": "The Best",
+  "optionD": "Golden Boy",
+  "correctAnswer": "Balón de Oro"
+ },
+ {
+  "id": 64,
+  "subject": "Alessandro Del Piero",
+  "question": "¿Con qué club disputó Alessandro Del Piero la mayor parte de su carrera?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Roma",
+  "optionD": "Lazio",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 65,
+  "subject": "Francesco Totti",
+  "question": "¿Qué club representó Francesco Totti durante toda su carrera profesional?",
+  "optionA": "Lazio",
+  "optionB": "Fiorentina",
+  "optionC": "Roma",
+  "optionD": "Napoli",
+  "correctAnswer": "Roma"
+ },
+ {
+  "id": 66,
+  "subject": "Christian Vieri",
+  "question": "¿Con qué club marcó Christian Vieri más goles en Serie A?",
+  "optionA": "Juventus",
+  "optionB": "Inter",
+  "optionC": "Milan",
+  "optionD": "Lazio",
+  "correctAnswer": "Inter"
+ },
+ {
+  "id": 67,
+  "subject": "Alessandro Nesta",
+  "question": "¿Con qué club ganó Alessandro Nesta dos Champions League?",
+  "optionA": "Lazio",
+  "optionB": "Milan",
+  "optionC": "Inter",
+  "optionD": "Roma",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 68,
+  "subject": "Giorgio Chiellini",
+  "question": "¿Qué club estadounidense fue el último de la carrera de Chiellini?",
+  "optionA": "Inter Miami",
+  "optionB": "LA Galaxy",
+  "optionC": "New York City FC",
+  "optionD": "Chicago Fire",
+  "correctAnswer": "LA Galaxy"
+ },
+ {
+  "id": 69,
+  "subject": "Toni Kroos",
+  "question": "¿Desde qué club llegó Kroos al Real Madrid?",
+  "optionA": "Dortmund",
+  "optionB": "Bayern Múnich",
+  "optionC": "Leverkusen",
+  "optionD": "Schalke",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 70,
+  "subject": "Mesut Özil",
+  "question": "¿Con qué selección ganó Mesut Özil el Mundial de 2014?",
+  "optionA": "Alemania",
+  "optionB": "Turquía",
+  "optionC": "Francia",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 71,
+  "subject": "Joshua Kimmich",
+  "question": "¿Con qué club ganó Joshua Kimmich la Champions League de 2020?",
+  "optionA": "Leipzig",
+  "optionB": "Bayern Múnich",
+  "optionC": "Stuttgart",
+  "optionD": "Leverkusen",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 72,
+  "subject": "Rodri",
+  "question": "¿Qué premio ganó Rodri en la Eurocopa 2024?",
+  "optionA": "Máximo goleador",
+  "optionB": "Mejor portero",
+  "optionC": "Mejor jugador",
+  "optionD": "Mejor joven",
+  "correctAnswer": "Mejor jugador"
+ },
+ {
+  "id": 73,
+  "subject": "Jude Bellingham",
+  "question": "¿Desde qué club fichó el Real Madrid a Bellingham?",
+  "optionA": "Birmingham City",
+  "optionB": "Dortmund",
+  "optionC": "Liverpool",
+  "optionD": "Sunderland",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 74,
+  "subject": "Antoine Griezmann",
+  "question": "¿Con qué club ganó Griezmann la Europa League de 2018?",
+  "optionA": "Real Sociedad",
+  "optionB": "Atlético de Madrid",
+  "optionC": "Barcelona",
+  "optionD": "Marsella",
+  "correctAnswer": "Atlético de Madrid"
+ },
+ {
+  "id": 75,
+  "subject": "N'Golo Kanté",
+  "question": "¿Con qué selección ganó Kanté el Mundial de 2018?",
+  "optionA": "Bélgica",
+  "optionB": "Francia",
+  "optionC": "Inglaterra",
+  "optionD": "Portugal",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 76,
+  "subject": "Franck Ribéry",
+  "question": "¿Con qué club ganó Franck Ribéry el triplete de 2013?",
+  "optionA": "Marsella",
+  "optionB": "Bayern Múnich",
+  "optionC": "Lyon",
+  "optionD": "Fiorentina",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 77,
+  "subject": "Zlatan Ibrahimović",
+  "question": "¿Con qué club ganó Zlatan Ibrahimović su última Serie A?",
+  "optionA": "Inter",
+  "optionB": "Juventus",
+  "optionC": "Milan",
+  "optionD": "Roma",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 78,
+  "subject": "Henrik Larsson",
+  "question": "¿Con qué club escocés se convirtió Henrik Larsson en leyenda?",
+  "optionA": "Rangers",
+  "optionB": "Hearts",
+  "optionC": "Celtic",
+  "optionD": "Aberdeen",
+  "correctAnswer": "Celtic"
+ },
+ {
+  "id": 79,
+  "subject": "Peter Schmeichel",
+  "question": "¿Con qué club ganó Peter Schmeichel la Champions League de 1999?",
+  "optionA": "Manchester United",
+  "optionB": "Brøndby",
+  "optionC": "Sporting CP",
+  "optionD": "Aston Villa",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 80,
+  "subject": "Alan Shearer",
+  "question": "¿Qué club pagó Alan Shearer un récord británico para ficharlo en 1996?",
+  "optionA": "Liverpool",
+  "optionB": "Newcastle United",
+  "optionC": "Arsenal",
+  "optionD": "Chelsea",
+  "correctAnswer": "Newcastle United"
+ },
+ {
+  "id": 81,
+  "subject": "Eric Cantona",
+  "question": "¿Con qué club inglés ganó Eric Cantona cuatro Premier League en los años 90?",
+  "optionA": "Leeds United",
+  "optionB": "Manchester United",
+  "optionC": "Liverpool",
+  "optionD": "Arsenal",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 82,
+  "subject": "Thiago Silva",
+  "question": "¿Con qué club ganó Thiago Silva la Champions League de 2021?",
+  "optionA": "PSG",
+  "optionB": "Milan",
+  "optionC": "Chelsea",
+  "optionD": "Fluminense",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 83,
+  "subject": "Fernando Redondo",
+  "question": "¿Qué club fichó a Redondo desde el Tenerife en 1994?",
+  "optionA": "Barcelona",
+  "optionB": "Valencia",
+  "optionC": "Real Madrid",
+  "optionD": "Sevilla",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 84,
+  "subject": "Juan Román Riquelme",
+  "question": "¿Con qué club alcanzó Juan Román Riquelme las semifinales de la Champions League en 2006?",
+  "optionA": "Boca Juniors",
+  "optionB": "Villarreal",
+  "optionC": "Barcelona",
+  "optionD": "Valencia",
+  "correctAnswer": "Villarreal"
+ },
+ {
+  "id": 85,
+  "subject": "Gabriel Batistuta",
+  "question": "¿Con qué club ganó Gabriel Batistuta la Serie A en 2001?",
+  "optionA": "Fiorentina",
+  "optionB": "Roma",
+  "optionC": "Inter",
+  "optionD": "Lazio",
+  "correctAnswer": "Roma"
+ },
+ {
+  "id": 86,
+  "subject": "Ángel Di María",
+  "question": "¿Qué selección ganó el Mundial de 2022 con Di María como titular?",
+  "optionA": "Francia",
+  "optionB": "Argentina",
+  "optionC": "Brasil",
+  "optionD": "Croacia",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 87,
+  "subject": "Carlos Tevez",
+  "question": "¿Con qué club ganó Carlos Tevez la Champions League de 2008?",
+  "optionA": "Juventus",
+  "optionB": "Manchester City",
+  "optionC": "Manchester United",
+  "optionD": "Boca Juniors",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 88,
+  "subject": "Kun Agüero",
+  "question": "¿Con qué club se convirtió Kun Agüero en máximo goleador histórico?",
+  "optionA": "Independiente",
+  "optionB": "Atlético de Madrid",
+  "optionC": "Manchester City",
+  "optionD": "Barcelona",
+  "correctAnswer": "Manchester City"
+ },
+ {
+  "id": 89,
+  "subject": "Alexis Sánchez",
+  "question": "¿Con qué selección ganó Alexis Sánchez dos Copas América consecutivas?",
+  "optionA": "Colombia",
+  "optionB": "Uruguay",
+  "optionC": "Chile",
+  "optionD": "Paraguay",
+  "correctAnswer": "Chile"
+ },
+ {
+  "id": 90,
+  "subject": "James Rodríguez",
+  "question": "Sobre James Rodríguez: ¿en qué Mundial se dio a conocer ganando la Bota de Oro?",
+  "optionA": "2010",
+  "optionB": "2014",
+  "optionC": "2018",
+  "optionD": "2022",
+  "correctAnswer": "2014"
+ },
+ {
+  "id": 91,
+  "subject": "Radamel Falcao",
+  "question": "¿Con qué club ganó Radamel Falcao la Europa League en 2011 y 2012 consecutivamente?",
+  "optionA": "Porto y Atlético de Madrid",
+  "optionB": "Mónaco y Porto",
+  "optionC": "Atlético y Chelsea",
+  "optionD": "Porto y Mónaco",
+  "correctAnswer": "Porto y Atlético de Madrid"
+ },
+ {
+  "id": 92,
+  "subject": "Rafael Márquez",
+  "question": "¿Con qué club ganó Rafael Márquez dos Champions League?",
+  "optionA": "Mónaco",
+  "optionB": "Barcelona",
+  "optionC": "León",
+  "optionD": "Atlas",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 93,
+  "subject": "Sadio Mané",
+  "question": "¿Con qué club ganó Sadio Mané la Champions League de 2019?",
+  "optionA": "Southampton",
+  "optionB": "Liverpool",
+  "optionC": "Bayern Múnich",
+  "optionD": "Salzburgo",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 94,
+  "subject": "Yaya Touré",
+  "question": "¿Con qué club ganó Yaya Touré la Champions League de 2009?",
+  "optionA": "Olympiacos",
+  "optionB": "Barcelona",
+  "optionC": "Manchester City",
+  "optionD": "Mónaco",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 95,
+  "subject": "Jay-Jay Okocha",
+  "question": "¿En qué club inglés destacó Jay-Jay Okocha entre 2002 y 2006?",
+  "optionA": "Arsenal",
+  "optionB": "Bolton Wanderers",
+  "optionC": "Everton",
+  "optionD": "Blackburn",
+  "correctAnswer": "Bolton Wanderers"
+ },
+ {
+  "id": 96,
+  "subject": "Achraf Hakimi",
+  "question": "¿Con qué selección alcanzó Achraf Hakimi las semifinales del Mundial 2022?",
+  "optionA": "Argelia",
+  "optionB": "Marruecos",
+  "optionC": "Túnez",
+  "optionD": "Egipto",
+  "correctAnswer": "Marruecos"
+ },
+ {
+  "id": 97,
+  "subject": "Son Heung-min",
+  "question": "¿Con qué club alcanzó Son Heung-min la final de la Champions League de 2019?",
+  "optionA": "Tottenham Hotspur",
+  "optionB": "Manchester United",
+  "optionC": "Bayer Leverkusen",
+  "optionD": "Hamburgo",
+  "correctAnswer": "Tottenham Hotspur"
+ },
+ {
+  "id": 98,
+  "subject": "Gareth Bale",
+  "question": "¿Contra qué club marcó Bale su famosa chilena en la final de la Champions 2018?",
+  "optionA": "Atlético de Madrid",
+  "optionB": "Liverpool",
+  "optionC": "Juventus",
+  "optionD": "Bayern Múnich",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 99,
+  "subject": "Alex Ferguson",
+  "question": "¿Con qué club ganó Ferguson la Champions League de 1999?",
+  "optionA": "Aberdeen",
+  "optionB": "Manchester United",
+  "optionC": "Rangers",
+  "optionD": "Arsenal",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 100,
+  "subject": "Pep Guardiola",
+  "question": "¿Qué club dirigía Guardiola cuando ganó su primera Champions League como entrenador?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Manchester City",
+  "optionC": "Barcelona",
+  "optionD": "Al Ahli",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 101,
+  "subject": "Carlo Ancelotti",
+  "question": "¿Con qué club ganó Ancelotti su primera Champions League como entrenador?",
+  "optionA": "Juventus",
+  "optionB": "Milan",
+  "optionC": "Real Madrid",
+  "optionD": "Parma",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 102,
+  "subject": "José Mourinho",
+  "question": "¿Qué equipo entrenaba Mourinho cuando ganó su primera Champions League?",
+  "optionA": "Benfica",
+  "optionB": "Chelsea",
+  "optionC": "Porto",
+  "optionD": "Inter",
+  "correctAnswer": "Porto"
+ },
+ {
+  "id": 103,
+  "subject": "Arrigo Sacchi",
+  "question": "¿Qué selección dirigió Sacchi en el Mundial de 1994?",
+  "optionA": "Italia",
+  "optionB": "España",
+  "optionC": "Francia",
+  "optionD": "Alemania",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 104,
+  "subject": "Johan Cruyff",
+  "question": "¿Qué club entrenó Cruyff durante la mayor parte de los años 90?",
+  "optionA": "Ajax",
+  "optionB": "Feyenoord",
+  "optionC": "Barcelona",
+  "optionD": "PSV",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 105,
+  "subject": "Vicente del Bosque",
+  "question": "¿Con qué selección ganó Vicente del Bosque el Mundial de 2010?",
+  "optionA": "España",
+  "optionB": "Portugal",
+  "optionC": "Alemania",
+  "optionD": "Francia",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 106,
+  "subject": "Marcello Lippi",
+  "question": "¿Qué selección ganó el Mundial de 2006 con Lippi como seleccionador?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Brasil",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 107,
+  "subject": "Zinedine Zidane",
+  "question": "¿Cuántas Champions League consecutivas ganó Zidane como entrenador del Real Madrid?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "5",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 108,
+  "subject": "Jürgen Klopp",
+  "question": "¿Con qué club ganó Klopp la Champions League de 2019?",
+  "optionA": "Dortmund",
+  "optionB": "Liverpool",
+  "optionC": "Mainz",
+  "optionD": "Leipzig",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 109,
+  "subject": "Arsène Wenger",
+  "question": "¿Qué club entrenó Wenger durante más de dos décadas?",
+  "optionA": "Mónaco",
+  "optionB": "Arsenal",
+  "optionC": "PSG",
+  "optionD": "Lyon",
+  "correctAnswer": "Arsenal"
+ },
+ {
+  "id": 110,
+  "subject": "Louis van Gaal",
+  "question": "¿Con qué selección terminó Louis van Gaal tercero en el Mundial de 2014?",
+  "optionA": "Países Bajos",
+  "optionB": "Bélgica",
+  "optionC": "Alemania",
+  "optionD": "Portugal",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 111,
+  "subject": "Fabio Capello",
+  "question": "¿Qué selección dirigió Fabio Capello en el Mundial de 2010?",
+  "optionA": "Italia",
+  "optionB": "Rusia",
+  "optionC": "Inglaterra",
+  "optionD": "España",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 112,
+  "subject": "Guus Hiddink",
+  "question": "¿Qué selección sorprendió Guus Hiddink alcanzando las semifinales del Mundial 2002?",
+  "optionA": "Japón",
+  "optionB": "Corea del Sur",
+  "optionC": "Australia",
+  "optionD": "Turquía",
+  "correctAnswer": "Corea del Sur"
+ },
+ {
+  "id": 113,
+  "subject": "Diego Simeone",
+  "question": "Sobre Diego Simeone: ¿qué club dirige desde 2011?",
+  "optionA": "River Plate",
+  "optionB": "Atlético de Madrid",
+  "optionC": "Sevilla",
+  "optionD": "Valencia",
+  "correctAnswer": "Atlético de Madrid"
+ },
+ {
+  "id": 114,
+  "subject": "Luis Enrique",
+  "question": "¿Con qué club ganó Luis Enrique el triplete de 2015 como entrenador?",
+  "optionA": "Barcelona",
+  "optionB": "Roma",
+  "optionC": "Celta",
+  "optionD": "PSG",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 115,
+  "subject": "Roberto Mancini",
+  "question": "¿Con qué selección ganó Roberto Mancini la Eurocopa 2020 bajo su dirección?",
+  "optionA": "Italia",
+  "optionB": "Inglaterra",
+  "optionC": "España",
+  "optionD": "Portugal",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 116,
+  "subject": "Antonio Conte",
+  "question": "¿Con qué club ganó Antonio Conte la Premier League en 2017?",
+  "optionA": "Tottenham",
+  "optionB": "Chelsea",
+  "optionC": "Arsenal",
+  "optionD": "Liverpool",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 117,
+  "subject": "Thomas Tuchel",
+  "question": "¿Con qué club ganó Thomas Tuchel la Champions League de 2021?",
+  "optionA": "PSG",
+  "optionB": "Bayern",
+  "optionC": "Chelsea",
+  "optionD": "Dortmund",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 118,
+  "subject": "Hansi Flick",
+  "question": "¿Qué club logró el sextete en 2020 con Flick como entrenador?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Barcelona",
+  "optionC": "Manchester City",
+  "optionD": "Dortmund",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 119,
+  "subject": "Joachim Löw",
+  "question": "¿Con qué selección ganó Joachim Löw el Mundial de 2014?",
+  "optionA": "Argentina",
+  "optionB": "Alemania",
+  "optionC": "Brasil",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 120,
+  "subject": "Didier Deschamps",
+  "question": "¿Con qué selección ganó Didier Deschamps el Mundial de 2018?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Bélgica",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 121,
+  "subject": "Rafael Benítez",
+  "question": "¿Qué club dirigía Benítez en la final de Champions de 2005?",
+  "optionA": "Valencia",
+  "optionB": "Liverpool",
+  "optionC": "Chelsea",
+  "optionD": "Napoli",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 122,
+  "subject": "Unai Emery",
+  "question": "¿Con qué club ganó Unai Emery la Conference League de 2023?",
+  "optionA": "Villarreal",
+  "optionB": "Aston Villa",
+  "optionC": "Sevilla",
+  "optionD": "Arsenal",
+  "correctAnswer": "Aston Villa"
+ },
+ {
+  "id": 123,
+  "subject": "Manuel Pellegrini",
+  "question": "¿Qué club inglés entrenó Manuel Pellegrini entre 2013 y 2016?",
+  "optionA": "Chelsea",
+  "optionB": "Liverpool",
+  "optionC": "Manchester City",
+  "optionD": "Everton",
+  "correctAnswer": "Manchester City"
+ },
+ {
+  "id": 124,
+  "subject": "Jupp Heynckes",
+  "question": "¿Con qué club ganó Jupp Heynckes el triplete de 2013?",
+  "optionA": "Real Madrid",
+  "optionB": "Bayer Leverkusen",
+  "optionC": "Bayern Múnich",
+  "optionD": "Schalke 04",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 125,
+  "subject": "Fernando Santos",
+  "question": "¿Con qué selección ganó Fernando Santos la Eurocopa 2016 bajo su dirección?",
+  "optionA": "España",
+  "optionB": "Francia",
+  "optionC": "Portugal",
+  "optionD": "Italia",
+  "correctAnswer": "Portugal"
+ },
+ {
+  "id": 126,
+  "subject": "Tite",
+  "question": "¿Qué selección dirigió Tite en los Mundiales de 2018 y 2022?",
+  "optionA": "Argentina",
+  "optionB": "Brasil",
+  "optionC": "Colombia",
+  "optionD": "Uruguay",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 127,
+  "subject": "Jorge Jesus",
+  "question": "¿Con qué club ganó Jorge Jesus la Copa Libertadores de 2019?",
+  "optionA": "Palmeiras",
+  "optionB": "Flamengo",
+  "optionC": "Santos",
+  "optionD": "Fluminense",
+  "correctAnswer": "Flamengo"
+ },
+ {
+  "id": 128,
+  "subject": "Mikel Arteta",
+  "question": "Sobre Mikel Arteta: ¿qué club dirige desde finales de 2019?",
+  "optionA": "Everton",
+  "optionB": "Manchester City",
+  "optionC": "Arsenal",
+  "optionD": "Real Sociedad",
+  "correctAnswer": "Arsenal"
+ },
+ {
+  "id": 129,
+  "subject": "Xabi Alonso",
+  "question": "¿Qué club llevó Xabi Alonso al título de Bundesliga en 2024?",
+  "optionA": "Dortmund",
+  "optionB": "Leverkusen",
+  "optionC": "Bayern Múnich",
+  "optionD": "Leipzig",
+  "correctAnswer": "Leverkusen"
+ },
+ {
+  "id": 130,
+  "subject": "Luciano Spalletti",
+  "question": "¿Qué club rompió Luciano Spalletti una sequía de más de 30 años ganando la Serie A en 2023?",
+  "optionA": "Roma",
+  "optionB": "Lazio",
+  "optionC": "Napoli",
+  "optionD": "Fiorentina",
+  "correctAnswer": "Napoli"
+ },
+ {
+  "id": 131,
+  "subject": "Claudio Ranieri",
+  "question": "¿Qué club protagonizó Claudio Ranieri una de las mayores sorpresas ganando la Premier League 2015-16?",
+  "optionA": "West Ham",
+  "optionB": "Leicester City",
+  "optionC": "Everton",
+  "optionD": "Aston Villa",
+  "correctAnswer": "Leicester City"
+ },
+ {
+  "id": 132,
+  "subject": "Mauricio Pochettino",
+  "question": "¿Con qué club alcanzó Mauricio Pochettino la final de la Champions League de 2019?",
+  "optionA": "PSG",
+  "optionB": "Tottenham Hotspur",
+  "optionC": "Chelsea",
+  "optionD": "Southampton",
+  "correctAnswer": "Tottenham Hotspur"
+ },
+ {
+  "id": 133,
+  "subject": "David Moyes",
+  "question": "¿Con qué club ganó David Moyes la Conference League de 2023 bajo su dirección?",
+  "optionA": "Everton",
+  "optionB": "West Ham United",
+  "optionC": "Sunderland",
+  "optionD": "Leicester City",
+  "correctAnswer": "West Ham United"
+ },
+ {
+  "id": 134,
+  "subject": "Eddie Howe",
+  "question": "¿Qué club clasificó Eddie Howe para la Champions League 2023-24 tras décadas de ausencia?",
+  "optionA": "Aston Villa",
+  "optionB": "Newcastle United",
+  "optionC": "Leeds United",
+  "optionD": "Nottingham Forest",
+  "correctAnswer": "Newcastle United"
+ },
+ {
+  "id": 135,
+  "subject": "Roberto De Zerbi",
+  "question": "¿Qué club inglés dirigió Roberto De Zerbi entre 2022 y 2024 ganándose una gran reputación?",
+  "optionA": "Fulham",
+  "optionB": "Brighton",
+  "optionC": "Crystal Palace",
+  "optionD": "Brentford",
+  "correctAnswer": "Brighton"
+ },
+ {
+  "id": 136,
+  "subject": "Roy Hodgson",
+  "question": "¿Qué selección llevó Roy Hodgson a los cuartos de final de la Eurocopa 2012?",
+  "optionA": "Suecia",
+  "optionB": "Inglaterra",
+  "optionC": "Dinamarca",
+  "optionD": "Escocia",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 137,
+  "subject": "Marcelo Bielsa",
+  "question": "Sobre Marcelo Bielsa: ¿qué selección dirige desde 2023?",
+  "optionA": "Chile",
+  "optionB": "Uruguay",
+  "optionC": "Paraguay",
+  "optionD": "México",
+  "correctAnswer": "Uruguay"
+ },
+ {
+  "id": 138,
+  "subject": "Jorge Sampaoli",
+  "question": "¿Con qué selección ganó Jorge Sampaoli la Copa América 2015?",
+  "optionA": "Argentina",
+  "optionB": "Chile",
+  "optionC": "Colombia",
+  "optionD": "Perú",
+  "correctAnswer": "Chile"
+ },
+ {
+  "id": 139,
+  "subject": "Gerardo Martino",
+  "question": "¿Qué selección dirigió Gerardo Martino en el Mundial de 2022?",
+  "optionA": "México",
+  "optionB": "Paraguay",
+  "optionC": "Estados Unidos",
+  "optionD": "Costa Rica",
+  "correctAnswer": "México"
+ },
+ {
+  "id": 140,
+  "subject": "Javier Aguirre",
+  "question": "¿Qué selección dirigió Javier Aguirre en el Mundial de 2010?",
+  "optionA": "Honduras",
+  "optionB": "México",
+  "optionC": "Costa Rica",
+  "optionD": "Ecuador",
+  "correctAnswer": "México"
+ },
+ {
+  "id": 141,
+  "subject": "Carlos Bianchi",
+  "question": "¿Con qué club ganó Carlos Bianchi varias Copas Libertadores entre 2000 y 2003?",
+  "optionA": "River Plate",
+  "optionB": "Boca Juniors",
+  "optionC": "Vélez Sarsfield",
+  "optionD": "Racing Club",
+  "correctAnswer": "Boca Juniors"
+ },
+ {
+  "id": 142,
+  "subject": "Ramón Díaz",
+  "question": "Sobre Ramón Díaz: ¿con qué club argentino está más identificado como entrenador?",
+  "optionA": "San Lorenzo",
+  "optionB": "River Plate",
+  "optionC": "Independiente",
+  "optionD": "Rosario Central",
+  "correctAnswer": "River Plate"
+ },
+ {
+  "id": 143,
+  "subject": "Mircea Lucescu",
+  "question": "¿Qué club ucraniano entrenó Mircea Lucescu durante gran parte de los años 2000?",
+  "optionA": "Dinamo Kiev",
+  "optionB": "Shakhtar Donetsk",
+  "optionC": "Dnipro",
+  "optionD": "Metalist Kharkiv",
+  "correctAnswer": "Shakhtar Donetsk"
+ },
+ {
+  "id": 144,
+  "subject": "Fatih Terim",
+  "question": "¿Qué club turco entrenó Fatih Terim en varias etapas y con el que ganó la Copa UEFA 2000?",
+  "optionA": "Fenerbahçe",
+  "optionB": "Besiktas",
+  "optionC": "Galatasaray",
+  "optionD": "Trabzonspor",
+  "correctAnswer": "Galatasaray"
+ },
+ {
+  "id": 145,
+  "subject": "Frank Rijkaard",
+  "question": "¿Qué club dirigía Frank Rijkaard cuando ganó la Champions League de 2006?",
+  "optionA": "Ajax",
+  "optionB": "Milan",
+  "optionC": "Barcelona",
+  "optionD": "PSV",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 146,
+  "subject": "Ronald Koeman",
+  "question": "¿Qué selección dirigió Ronald Koeman entre 2018 y 2020 antes de volver en 2023?",
+  "optionA": "Bélgica",
+  "optionB": "Países Bajos",
+  "optionC": "Dinamarca",
+  "optionD": "Suecia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 147,
+  "subject": "Erik ten Hag",
+  "question": "¿Desde qué club llegó Erik ten Hag al Manchester United en 2022?",
+  "optionA": "PSV",
+  "optionB": "Feyenoord",
+  "optionC": "Ajax",
+  "optionD": "AZ Alkmaar",
+  "correctAnswer": "Ajax"
+ },
+ {
+  "id": 148,
+  "subject": "Massimiliano Allegri",
+  "question": "¿Con qué club ganó Massimiliano Allegri cinco Serie A consecutivas entre 2015 y 2019?",
+  "optionA": "Milan",
+  "optionB": "Inter",
+  "optionC": "Juventus",
+  "optionD": "Roma",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 149,
+  "subject": "Real Madrid",
+  "question": "¿Qué club derrotó el Real Madrid en semifinales de la Champions League 2012?",
+  "optionA": "Chelsea",
+  "optionB": "Bayern Múnich",
+  "optionC": "Barcelona",
+  "optionD": "Dortmund",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 150,
+  "subject": "FC Barcelona",
+  "question": "¿Qué entrenador dirigía al Barcelona cuando ganó el sextete en 2009?",
+  "optionA": "Rijkaard",
+  "optionB": "Guardiola",
+  "optionC": "Luis Enrique",
+  "optionD": "Xavi",
+  "correctAnswer": "Guardiola"
+ },
+ {
+  "id": 151,
+  "subject": "Bayern Múnich",
+  "question": "¿Contra qué club ganó el Bayern la final de la Champions League 2013?",
+  "optionA": "Real Madrid",
+  "optionB": "Chelsea",
+  "optionC": "Dortmund",
+  "optionD": "Inter",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 152,
+  "subject": "Manchester United",
+  "question": "¿Qué equipo venció al Manchester United en la final de la Champions League 2009?",
+  "optionA": "Milan",
+  "optionB": "Barcelona",
+  "optionC": "Chelsea",
+  "optionD": "Inter",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 153,
+  "subject": "Chelsea",
+  "question": "¿Contra qué equipo ganó Chelsea su primera Champions League en 2012?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Barcelona",
+  "optionC": "Real Madrid",
+  "optionD": "Benfica",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 154,
+  "subject": "Liverpool",
+  "question": "¿Qué equipo remontó Liverpool en la final de Champions 2005?",
+  "optionA": "Juventus",
+  "optionB": "Milan",
+  "optionC": "Arsenal",
+  "optionD": "Inter",
+  "correctAnswer": "Milan"
+ },
+ {
+  "id": 155,
+  "subject": "AC Milan",
+  "question": "¿Qué equipo derrotó Milan en la final de Champions 2007?",
+  "optionA": "Liverpool",
+  "optionB": "Arsenal",
+  "optionC": "Barcelona",
+  "optionD": "Manchester United",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 156,
+  "subject": "Arsenal",
+  "question": "¿Contra qué equipo perdió Arsenal la final de Champions League 2006?",
+  "optionA": "Milan",
+  "optionB": "Barcelona",
+  "optionC": "Chelsea",
+  "optionD": "Inter",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 157,
+  "subject": "Juventus",
+  "question": "¿Qué club eliminó a Juventus en la final de Champions League 2015?",
+  "optionA": "Barcelona",
+  "optionB": "Real Madrid",
+  "optionC": "Bayern",
+  "optionD": "Atlético",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 158,
+  "subject": "PSG",
+  "question": "¿Contra qué club perdió PSG la final de Champions League 2020?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Chelsea",
+  "optionC": "Liverpool",
+  "optionD": "Real Madrid",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 159,
+  "subject": "Atlético de Madrid",
+  "question": "¿Qué rival derrotó al Atlético en las finales de Champions 2014 y 2016?",
+  "optionA": "Barcelona",
+  "optionB": "Bayern",
+  "optionC": "Real Madrid",
+  "optionD": "Chelsea",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 160,
+  "subject": "Inter de Milán",
+  "question": "¿Qué entrenador dirigía al Inter cuando ganó el triplete de 2010?",
+  "optionA": "Mancini",
+  "optionB": "Mourinho",
+  "optionC": "Conte",
+  "optionD": "Spalletti",
+  "correctAnswer": "Mourinho"
+ },
+ {
+  "id": 161,
+  "subject": "Borussia Dortmund",
+  "question": "¿Qué jugador marcó el gol decisivo del Bayern ante Dortmund en la final de 2013?",
+  "optionA": "Müller",
+  "optionB": "Robben",
+  "optionC": "Ribéry",
+  "optionD": "Mandžukić",
+  "correctAnswer": "Robben"
+ },
+ {
+  "id": 162,
+  "subject": "Manchester City",
+  "question": "¿Contra qué club ganó el City su primera Champions League?",
+  "optionA": "Inter",
+  "optionB": "Bayern",
+  "optionC": "PSG",
+  "optionD": "Chelsea",
+  "correctAnswer": "Inter"
+ },
+ {
+  "id": 163,
+  "subject": "Benfica",
+  "question": "¿En qué país compite Benfica?",
+  "optionA": "España",
+  "optionB": "Portugal",
+  "optionC": "Francia",
+  "optionD": "Italia",
+  "correctAnswer": "Portugal"
+ },
+ {
+  "id": 164,
+  "subject": "Porto",
+  "question": "¿Qué entrenador ganó la Champions League de 2004 con Porto?",
+  "optionA": "Villas-Boas",
+  "optionB": "Mourinho",
+  "optionC": "Conceição",
+  "optionD": "Jesualdo Ferreira",
+  "correctAnswer": "Mourinho"
+ },
+ {
+  "id": 165,
+  "subject": "Sevilla",
+  "question": "¿Qué competición ganó Sevilla siete veces entre 2006 y 2023?",
+  "optionA": "Champions",
+  "optionB": "Copa del Rey",
+  "optionC": "Europa League",
+  "optionD": "Supercopa UEFA",
+  "correctAnswer": "Europa League"
+ },
+ {
+  "id": 166,
+  "subject": "Ajax",
+  "question": "¿Qué club eliminó al Ajax en las semifinales de la Champions League 2019?",
+  "optionA": "Liverpool",
+  "optionB": "Tottenham",
+  "optionC": "Juventus",
+  "optionD": "Barcelona",
+  "correctAnswer": "Tottenham"
+ },
+ {
+  "id": 167,
+  "subject": "Tottenham Hotspur",
+  "question": "¿Contra qué club perdió Tottenham la final de la Champions League 2019?",
+  "optionA": "Chelsea",
+  "optionB": "Manchester City",
+  "optionC": "Liverpool",
+  "optionD": "Bayern",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 168,
+  "subject": "Valencia",
+  "question": "¿Contra qué club perdió Valencia la final de la Champions League 2001?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Real Madrid",
+  "optionC": "Manchester United",
+  "optionD": "Milan",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 169,
+  "subject": "Villarreal",
+  "question": "¿Qué entrenador dirigía al Villarreal cuando ganó la Europa League 2021?",
+  "optionA": "Marcelino",
+  "optionB": "Emery",
+  "optionC": "Pellegrini",
+  "optionD": "Setién",
+  "correctAnswer": "Emery"
+ },
+ {
+  "id": 170,
+  "subject": "Napoli",
+  "question": "¿Qué entrenador llevó al Napoli al título de Serie A en 2023?",
+  "optionA": "Sarri",
+  "optionB": "Spalletti",
+  "optionC": "Benítez",
+  "optionD": "Mazzarri",
+  "correctAnswer": "Spalletti"
+ },
+ {
+  "id": 171,
+  "subject": "Bayer Leverkusen",
+  "question": "¿Qué competición ganó Leverkusen por primera vez en 2024 bajo Xabi Alonso?",
+  "optionA": "Champions",
+  "optionB": "Bundesliga",
+  "optionC": "Copa de Alemania",
+  "optionD": "Europa League",
+  "correctAnswer": "Bundesliga"
+ },
+ {
+  "id": 172,
+  "subject": "Olympique de Lyon",
+  "question": "¿Qué competición ganó Lyon siete temporadas consecutivas hasta 2008?",
+  "optionA": "Copa de Francia",
+  "optionB": "Ligue 1",
+  "optionC": "Europa League",
+  "optionD": "Copa de la Liga",
+  "correctAnswer": "Ligue 1"
+ },
+ {
+  "id": 173,
+  "subject": "Schalke 04",
+  "question": "¿Qué club eliminó al Schalke en semifinales de la Champions 2011?",
+  "optionA": "Barcelona",
+  "optionB": "Manchester United",
+  "optionC": "Inter",
+  "optionD": "Chelsea",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 174,
+  "subject": "Shakhtar Donetsk",
+  "question": "¿Qué competición europea ganó Shakhtar en 2009?",
+  "optionA": "Champions League",
+  "optionB": "Europa League/Copa UEFA",
+  "optionC": "Recopa",
+  "optionD": "Conference League",
+  "correctAnswer": "Europa League/Copa UEFA"
+ },
+ {
+  "id": 175,
+  "subject": "Zenit San Petersburgo",
+  "question": "¿Qué club derrotó Zenit en la final de la Copa UEFA 2008?",
+  "optionA": "Rangers",
+  "optionB": "Bayern",
+  "optionC": "Werder Bremen",
+  "optionD": "Sporting",
+  "correctAnswer": "Rangers"
+ },
+ {
+  "id": 176,
+  "subject": "Sporting CP",
+  "question": "¿Qué delantero portugués se formó en Sporting antes de fichar por el Manchester United?",
+  "optionA": "Nani",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Quaresma",
+  "optionD": "João Moutinho",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 177,
+  "subject": "Lazio",
+  "question": "¿Qué entrenador llevó a Lazio al título de Serie A en 2000?",
+  "optionA": "Eriksson",
+  "optionB": "Mancini",
+  "optionC": "Inzaghi",
+  "optionD": "Zoff",
+  "correctAnswer": "Eriksson"
+ },
+ {
+  "id": 178,
+  "subject": "RB Leipzig",
+  "question": "¿Qué entrenador llevó a Leipzig a las semifinales de la Champions 2020?",
+  "optionA": "Nagelsmann",
+  "optionB": "Rose",
+  "optionC": "Rangnick",
+  "optionD": "Hasenhüttl",
+  "correctAnswer": "Nagelsmann"
+ },
+ {
+  "id": 179,
+  "subject": "Olympique de Marsella",
+  "question": "¿Contra qué club perdió Marsella la final de la Europa League 2018?",
+  "optionA": "Atlético de Madrid",
+  "optionB": "Arsenal",
+  "optionC": "Chelsea",
+  "optionD": "Sevilla",
+  "correctAnswer": "Atlético de Madrid"
+ },
+ {
+  "id": 180,
+  "subject": "Celtic",
+  "question": "¿En qué ciudad juega como local el Celtic?",
+  "optionA": "Glasgow",
+  "optionB": "Edimburgo",
+  "optionC": "Aberdeen",
+  "optionD": "Dundee",
+  "correctAnswer": "Glasgow"
+ },
+ {
+  "id": 181,
+  "subject": "Rangers",
+  "question": "¿Qué competición europea disputó Rangers en la final de 2022?",
+  "optionA": "Champions",
+  "optionB": "Europa League",
+  "optionC": "Conference",
+  "optionD": "Supercopa",
+  "correctAnswer": "Europa League"
+ },
+ {
+  "id": 182,
+  "subject": "Fenerbahçe",
+  "question": "¿En qué país compite Fenerbahçe?",
+  "optionA": "Grecia",
+  "optionB": "Turquía",
+  "optionC": "Bulgaria",
+  "optionD": "Rumanía",
+  "correctAnswer": "Turquía"
+ },
+ {
+  "id": 183,
+  "subject": "Galatasaray",
+  "question": "¿Qué competición europea ganó Galatasaray en 2000?",
+  "optionA": "Champions",
+  "optionB": "Europa League/Copa UEFA",
+  "optionC": "Recopa",
+  "optionD": "Conference",
+  "correctAnswer": "Europa League/Copa UEFA"
+ },
+ {
+  "id": 184,
+  "subject": "PSV Eindhoven",
+  "question": "¿Qué jugador neerlandés regresó PSV Eindhoven al PSV tras triunfar en Manchester United?",
+  "optionA": "Van Persie",
+  "optionB": "Memphis Depay",
+  "optionC": "Ruud van Nistelrooy",
+  "optionD": "Blind",
+  "correctAnswer": "Memphis Depay"
+ },
+ {
+  "id": 185,
+  "subject": "AS Monaco",
+  "question": "¿Qué joven estrella lideró al Mónaco hasta semifinales de Champions 2017?",
+  "optionA": "Mbappé",
+  "optionB": "Falcao",
+  "optionC": "Bernardo Silva",
+  "optionD": "Fabinho",
+  "correctAnswer": "Mbappé"
+ },
+ {
+  "id": 186,
+  "subject": "Wolfsburgo",
+  "question": "¿Qué jugador fue figura del Wolfsburgo antes de fichar por Manchester City?",
+  "optionA": "Kroos",
+  "optionB": "De Bruyne",
+  "optionC": "Reus",
+  "optionD": "Gündogan",
+  "correctAnswer": "De Bruyne"
+ },
+ {
+  "id": 187,
+  "subject": "Atalanta",
+  "question": "¿Qué entrenador transformó al Atalanta en habitual de Champions?",
+  "optionA": "Conte",
+  "optionB": "Gasperini",
+  "optionC": "Pioli",
+  "optionD": "Italiano",
+  "correctAnswer": "Gasperini"
+ },
+ {
+  "id": 188,
+  "subject": "Fiorentina",
+  "question": "Sobre Fiorentina: ¿qué delantero argentino fue icono histórico del club en los 90 y 2000?",
+  "optionA": "Crespo",
+  "optionB": "Batistuta",
+  "optionC": "Milito",
+  "optionD": "Tevez",
+  "correctAnswer": "Batistuta"
+ },
+ {
+  "id": 189,
+  "subject": "Newcastle United",
+  "question": "¿Qué competición volvió a disputar Newcastle en 2023 tras 20 años?",
+  "optionA": "Europa League",
+  "optionB": "Champions League",
+  "optionC": "Conference League",
+  "optionD": "Recopa",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 190,
+  "subject": "Club Brugge",
+  "question": "¿En qué país compite Club Brugge?",
+  "optionA": "Países Bajos",
+  "optionB": "Bélgica",
+  "optionC": "Francia",
+  "optionD": "Luxemburgo",
+  "correctAnswer": "Bélgica"
+ },
+ {
+  "id": 191,
+  "subject": "Anderlecht",
+  "question": "¿Qué país representa Anderlecht en competiciones UEFA?",
+  "optionA": "Bélgica",
+  "optionB": "Países Bajos",
+  "optionC": "Francia",
+  "optionD": "Alemania",
+  "correctAnswer": "Bélgica"
+ },
+ {
+  "id": 192,
+  "subject": "Dinamo Kiev",
+  "question": "¿Qué legendario entrenador está asociado al éxito moderno del Dinamo Kiev?",
+  "optionA": "Lucescu",
+  "optionB": "Lobanovskyi",
+  "optionC": "Rebrov",
+  "optionD": "Shevchenko",
+  "correctAnswer": "Lobanovskyi"
+ },
+ {
+  "id": 193,
+  "subject": "Basilea",
+  "question": "¿Qué club eliminó Basilea en octavos de Champions 2012?",
+  "optionA": "Bayern",
+  "optionB": "Manchester United",
+  "optionC": "Barcelona",
+  "optionD": "Inter",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 194,
+  "subject": "Red Bull Salzburg",
+  "question": "¿Qué delantero noruego brilló en Salzburgo antes de ir al Dortmund?",
+  "optionA": "Sørloth",
+  "optionB": "Haaland",
+  "optionC": "King",
+  "optionD": "Højlund",
+  "correctAnswer": "Haaland"
+ },
+ {
+  "id": 195,
+  "subject": "CSKA Moscú",
+  "question": "¿Qué competición europea ganó CSKA en 2005?",
+  "optionA": "Champions",
+  "optionB": "Europa League/Copa UEFA",
+  "optionC": "Recopa",
+  "optionD": "Conference",
+  "correctAnswer": "Europa League/Copa UEFA"
+ },
+ {
+  "id": 196,
+  "subject": "Olympiacos",
+  "question": "¿En qué país compite Olympiacos?",
+  "optionA": "Turquía",
+  "optionB": "Grecia",
+  "optionC": "Chipre",
+  "optionD": "Serbia",
+  "correctAnswer": "Grecia"
+ },
+ {
+  "id": 197,
+  "subject": "Besiktas",
+  "question": "¿En qué ciudad juega habitualmente Besiktas?",
+  "optionA": "Ankara",
+  "optionB": "Esmirna",
+  "optionC": "Estambul",
+  "optionD": "Bursa",
+  "correctAnswer": "Estambul"
+ },
+ {
+  "id": 198,
+  "subject": "Santiago Bernabéu",
+  "question": "¿Qué club juega habitualmente en el Santiago Bernabéu?",
+  "optionA": "Atlético",
+  "optionB": "Real Madrid",
+  "optionC": "Getafe",
+  "optionD": "Rayo Vallecano",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 199,
+  "subject": "Camp Nou",
+  "question": "¿En qué ciudad se encuentra el Camp Nou?",
+  "optionA": "Valencia",
+  "optionB": "Barcelona",
+  "optionC": "Madrid",
+  "optionD": "Sevilla",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 200,
+  "subject": "Wembley",
+  "question": "¿Qué selección juega habitualmente sus partidos importantes en Wembley?",
+  "optionA": "Escocia",
+  "optionB": "Inglaterra",
+  "optionC": "Gales",
+  "optionD": "Irlanda",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 201,
+  "subject": "Old Trafford",
+  "question": "¿Qué club tiene Old Trafford como estadio?",
+  "optionA": "Liverpool",
+  "optionB": "Manchester United",
+  "optionC": "Everton",
+  "optionD": "Manchester City",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 202,
+  "subject": "San Siro",
+  "question": "¿Qué dos clubes comparten tradicionalmente San Siro?",
+  "optionA": "Roma y Lazio",
+  "optionB": "Milan e Inter",
+  "optionC": "Juventus y Torino",
+  "optionD": "Sampdoria y Genoa",
+  "correctAnswer": "Milan e Inter"
+ },
+ {
+  "id": 203,
+  "subject": "Anfield",
+  "question": "¿Qué club juega en Anfield?",
+  "optionA": "Everton",
+  "optionB": "Liverpool",
+  "optionC": "Celtic",
+  "optionD": "Leeds",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 204,
+  "subject": "Allianz Arena",
+  "question": "¿Qué club utiliza principalmente el Allianz Arena?",
+  "optionA": "Dortmund",
+  "optionB": "Bayern Múnich",
+  "optionC": "Leverkusen",
+  "optionD": "Schalke",
+  "correctAnswer": "Bayern Múnich"
+ },
+ {
+  "id": 205,
+  "subject": "Signal Iduna Park",
+  "question": "¿Qué club juega en el Signal Iduna Park?",
+  "optionA": "Bayern",
+  "optionB": "Dortmund",
+  "optionC": "Leipzig",
+  "optionD": "Wolfsburgo",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 206,
+  "subject": "Parc des Princes",
+  "question": "¿Qué club juega en el Parc des Princes?",
+  "optionA": "Marsella",
+  "optionB": "PSG",
+  "optionC": "Mónaco",
+  "optionD": "Lyon",
+  "correctAnswer": "PSG"
+ },
+ {
+  "id": 207,
+  "subject": "Estadio Azteca",
+  "question": "¿En qué ciudad está el Estadio Azteca?",
+  "optionA": "Guadalajara",
+  "optionB": "Monterrey",
+  "optionC": "Ciudad de México",
+  "optionD": "Puebla",
+  "correctAnswer": "Ciudad de México"
+ },
+ {
+  "id": 208,
+  "subject": "Maracaná",
+  "question": "¿En qué ciudad se encuentra el Maracaná?",
+  "optionA": "São Paulo",
+  "optionB": "Río de Janeiro",
+  "optionC": "Brasilia",
+  "optionD": "Salvador",
+  "correctAnswer": "Río de Janeiro"
+ },
+ {
+  "id": 209,
+  "subject": "La Bombonera",
+  "question": "¿Qué club juega en La Bombonera?",
+  "optionA": "River Plate",
+  "optionB": "Boca Juniors",
+  "optionC": "Racing",
+  "optionD": "Independiente",
+  "correctAnswer": "Boca Juniors"
+ },
+ {
+  "id": 210,
+  "subject": "Monumental (River)",
+  "question": "¿Qué club juega en el Monumental de Buenos Aires?",
+  "optionA": "Boca",
+  "optionB": "San Lorenzo",
+  "optionC": "River Plate",
+  "optionD": "Vélez",
+  "correctAnswer": "River Plate"
+ },
+ {
+  "id": 211,
+  "subject": "Stade de France",
+  "question": "¿En qué ciudad se encuentra el Stade de France?",
+  "optionA": "Lyon",
+  "optionB": "Marsella",
+  "optionC": "Saint-Denis",
+  "optionD": "Lille",
+  "correctAnswer": "Saint-Denis"
+ },
+ {
+  "id": 212,
+  "subject": "Emirates Stadium",
+  "question": "¿Qué club juega en el Emirates Stadium?",
+  "optionA": "Chelsea",
+  "optionB": "Arsenal",
+  "optionC": "Tottenham",
+  "optionD": "West Ham",
+  "correctAnswer": "Arsenal"
+ },
+ {
+  "id": 213,
+  "subject": "Etihad Stadium",
+  "question": "¿Qué club juega en el Etihad Stadium?",
+  "optionA": "Manchester United",
+  "optionB": "Manchester City",
+  "optionC": "Leeds",
+  "optionD": "Newcastle",
+  "correctAnswer": "Manchester City"
+ },
+ {
+  "id": 214,
+  "subject": "Stamford Bridge",
+  "question": "¿Qué club juega en Stamford Bridge?",
+  "optionA": "Fulham",
+  "optionB": "Chelsea",
+  "optionC": "Arsenal",
+  "optionD": "Tottenham",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 215,
+  "subject": "San Mamés",
+  "question": "¿Qué club juega en San Mamés?",
+  "optionA": "Real Sociedad",
+  "optionB": "Athletic Club",
+  "optionC": "Osasuna",
+  "optionD": "Alavés",
+  "correctAnswer": "Athletic Club"
+ },
+ {
+  "id": 216,
+  "subject": "Mestalla",
+  "question": "¿Qué club juega en Mestalla?",
+  "optionA": "Villarreal",
+  "optionB": "Valencia CF",
+  "optionC": "Levante",
+  "optionD": "Elche",
+  "correctAnswer": "Valencia CF"
+ },
+ {
+  "id": 217,
+  "subject": "Estádio da Luz",
+  "question": "¿Qué club juega en el Estádio da Luz?",
+  "optionA": "Porto",
+  "optionB": "Benfica",
+  "optionC": "Sporting",
+  "optionD": "Braga",
+  "correctAnswer": "Benfica"
+ },
+ {
+  "id": 218,
+  "subject": "Estádio do Dragão",
+  "question": "¿Qué club juega en el Dragão?",
+  "optionA": "Benfica",
+  "optionB": "Sporting",
+  "optionC": "Porto",
+  "optionD": "Braga",
+  "correctAnswer": "Porto"
+ },
+ {
+  "id": 219,
+  "subject": "Johan Cruyff Arena",
+  "question": "¿Qué club juega en la Johan Cruyff Arena?",
+  "optionA": "PSV",
+  "optionB": "Feyenoord",
+  "optionC": "Ajax",
+  "optionD": "AZ Alkmaar",
+  "correctAnswer": "Ajax"
+ },
+ {
+  "id": 220,
+  "subject": "Ibrox",
+  "question": "¿Qué club juega en Ibrox?",
+  "optionA": "Celtic",
+  "optionB": "Rangers",
+  "optionC": "Hibernian",
+  "optionD": "Hearts",
+  "correctAnswer": "Rangers"
+ },
+ {
+  "id": 221,
+  "subject": "Lionel Messi",
+  "question": "¿Con qué selección ganó Messi la Copa América de 2021?",
+  "optionA": "Brasil",
+  "optionB": "Argentina",
+  "optionC": "Uruguay",
+  "optionD": "Chile",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 222,
+  "subject": "Cristiano Ronaldo",
+  "question": "¿Qué dorsal hizo famoso Cristiano Ronaldo durante la mayor parte de su carrera?",
+  "optionA": "7",
+  "optionB": "9",
+  "optionC": "10",
+  "optionD": "11",
+  "correctAnswer": "7"
+ },
+ {
+  "id": 223,
+  "subject": "Diego Maradona",
+  "question": "¿En qué club argentino jugó Maradona tras su etapa en Sevilla?",
+  "optionA": "River Plate",
+  "optionB": "Boca Juniors",
+  "optionC": "Independiente",
+  "optionD": "Racing Club",
+  "correctAnswer": "Boca Juniors"
+ },
+ {
+  "id": 224,
+  "subject": "Pelé",
+  "question": "¿Qué reconocimiento compartió Pelé con Maradona en el año 2000?",
+  "optionA": "Balón de Oro Honorífico",
+  "optionB": "Jugador del Siglo FIFA",
+  "optionC": "Premio Laureus",
+  "optionD": "Premio Fair Play",
+  "correctAnswer": "Jugador del Siglo FIFA"
+ },
+ {
+  "id": 225,
+  "subject": "Ronaldo Nazário",
+  "question": "¿Con qué club ganó Ronaldo su primera Liga española?",
+  "optionA": "Barcelona",
+  "optionB": "Inter",
+  "optionC": "Real Madrid",
+  "optionD": "Milan",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 226,
+  "subject": "Johan Cruyff",
+  "question": "¿Qué estadio del Ajax lleva actualmente el nombre de Cruyff?",
+  "optionA": "De Kuip",
+  "optionB": "Philips Stadion",
+  "optionC": "Johan Cruyff Arena",
+  "optionD": "Olympisch Stadion",
+  "correctAnswer": "Johan Cruyff Arena"
+ },
+ {
+  "id": 227,
+  "subject": "Ronaldinho",
+  "question": "¿Con qué selección ganó Ronaldinho el Mundial de 2002?",
+  "optionA": "Argentina",
+  "optionB": "Uruguay",
+  "optionC": "Brasil",
+  "optionD": "Portugal",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 228,
+  "subject": "Andrés Iniesta",
+  "question": "¿Con qué club japonés jugó Iniesta tras dejar el Barcelona?",
+  "optionA": "Urawa Reds",
+  "optionB": "Kashima Antlers",
+  "optionC": "Vissel Kobe",
+  "optionD": "Yokohama Marinos",
+  "correctAnswer": "Vissel Kobe"
+ },
+ {
+  "id": 229,
+  "subject": "Xavi Hernández",
+  "question": "¿Qué club entrenó Xavi antes de regresar al FC Barcelona como técnico?",
+  "optionA": "Al Hilal",
+  "optionB": "Al Nassr",
+  "optionC": "Al Sadd",
+  "optionD": "Al Ain",
+  "correctAnswer": "Al Sadd"
+ },
+ {
+  "id": 230,
+  "subject": "Marco van Basten",
+  "question": "¿Qué selección entrenó Van Basten entre 2004 y 2008?",
+  "optionA": "Bélgica",
+  "optionB": "Alemania",
+  "optionC": "Países Bajos",
+  "optionD": "Dinamarca",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 231,
+  "subject": "Roberto Baggio",
+  "question": "¿Con qué club italiano terminó Roberto Baggio su carrera profesional en 2004?",
+  "optionA": "Juventus",
+  "optionB": "Bologna",
+  "optionC": "Inter",
+  "optionD": "Brescia",
+  "correctAnswer": "Brescia"
+ },
+ {
+  "id": 232,
+  "subject": "Neymar",
+  "question": "¿Con qué selección ganó Neymar la medalla de oro olímpica en 2016?",
+  "optionA": "Argentina",
+  "optionB": "España",
+  "optionC": "Brasil",
+  "optionD": "México",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 233,
+  "subject": "Kylian Mbappé",
+  "question": "Sobre Kylian Mbappé: ¿qué selección derrotó Francia en la final del Mundial de 2022?",
+  "optionA": "Croacia",
+  "optionB": "Marruecos",
+  "optionC": "Argentina",
+  "optionD": "Brasil",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 234,
+  "subject": "Luka Modrić",
+  "question": "¿Con qué selección alcanzó Modrić la final del Mundial de 2018?",
+  "optionA": "Serbia",
+  "optionB": "Eslovenia",
+  "optionC": "Croacia",
+  "optionD": "Bosnia",
+  "correctAnswer": "Croacia"
+ },
+ {
+  "id": 235,
+  "subject": "Sergio Ramos",
+  "question": "¿Qué selección ganó el Mundial de 2010 con Sergio Ramos como titular?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "España",
+  "optionD": "Italia",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 236,
+  "subject": "Gianluigi Buffon",
+  "question": "¿Qué selección ganó el Mundial de 2006 con Buffon como portero titular?",
+  "optionA": "Francia",
+  "optionB": "Italia",
+  "optionC": "Alemania",
+  "optionD": "Brasil",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 237,
+  "subject": "Rivaldo",
+  "question": "¿Qué selección ganó el Mundial de 2002 con Rivaldo como una de sus figuras?",
+  "optionA": "Argentina",
+  "optionB": "Francia",
+  "optionC": "Brasil",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 238,
+  "subject": "Kaká",
+  "question": "¿Qué premio individual ganó Kaká en 2007?",
+  "optionA": "Bota de Oro",
+  "optionB": "Balón de Oro",
+  "optionC": "Golden Boy",
+  "optionD": "Premio Puskás",
+  "correctAnswer": "Balón de Oro"
+ },
+ {
+  "id": 239,
+  "subject": "Luis Suárez",
+  "question": "¿Con qué club ganó Luis Suárez la Champions League de 2015?",
+  "optionA": "Liverpool",
+  "optionB": "Ajax",
+  "optionC": "Barcelona",
+  "optionD": "Atlético de Madrid",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 240,
+  "subject": "Robert Lewandowski",
+  "question": "¿Con qué selección juega internacionalmente Lewandowski?",
+  "optionA": "República Checa",
+  "optionB": "Eslovaquia",
+  "optionC": "Polonia",
+  "optionD": "Hungría",
+  "correctAnswer": "Polonia"
+ },
+ {
+  "id": 241,
+  "subject": "Karim Benzema",
+  "question": "¿Con qué club ganó Benzema cinco Champions League?",
+  "optionA": "Lyon",
+  "optionB": "Milan",
+  "optionC": "Real Madrid",
+  "optionD": "PSG",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 242,
+  "subject": "Raúl González",
+  "question": "¿Qué club alemán fichó a Raúl en 2010?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Schalke 04",
+  "optionC": "Hamburgo",
+  "optionD": "Dortmund",
+  "correctAnswer": "Schalke 04"
+ },
+ {
+  "id": 243,
+  "subject": "Ryan Giggs",
+  "question": "¿Con qué club ganó Giggs la Champions League de 2008?",
+  "optionA": "Liverpool",
+  "optionB": "Arsenal",
+  "optionC": "Manchester United",
+  "optionD": "Chelsea",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 244,
+  "subject": "Wayne Rooney",
+  "question": "¿Qué club fichó a Rooney en 2004?",
+  "optionA": "Liverpool",
+  "optionB": "Everton",
+  "optionC": "Leeds United",
+  "optionD": "Newcastle United",
+  "correctAnswer": "Everton"
+ },
+ {
+  "id": 245,
+  "subject": "Samuel Eto'o",
+  "question": "Sobre Samuel Eto'o: ¿con qué club ganó Eto'o el triplete de 2010?",
+  "optionA": "Barcelona",
+  "optionB": "Chelsea",
+  "optionC": "Inter de Milán",
+  "optionD": "Mallorca",
+  "correctAnswer": "Inter de Milán"
+ },
+ {
+  "id": 246,
+  "subject": "Cafú",
+  "question": "¿Con qué selección ganó Cafú los Mundiales de 1994 y 2002?",
+  "optionA": "Argentina",
+  "optionB": "Brasil",
+  "optionC": "Italia",
+  "optionD": "Alemania",
+  "correctAnswer": "Brasil"
+ },
+ {
+  "id": 247,
+  "subject": "Andrea Pirlo",
+  "question": "¿Con qué club ganó Andrea Pirlo sus últimas cuatro Serie A consecutivas?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Brescia",
+  "optionD": "Inter",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 248,
+  "subject": "Wesley Sneijder",
+  "question": "¿Con qué club ganó Wesley Sneijder el triplete en 2010?",
+  "optionA": "Ajax",
+  "optionB": "Real Madrid",
+  "optionC": "Inter de Milán",
+  "optionD": "Milan",
+  "correctAnswer": "Inter de Milán"
+ },
+ {
+  "id": 249,
+  "subject": "Rodri",
+  "question": "¿Qué selección ganó la Eurocopa 2024 con Rodri como figura clave?",
+  "optionA": "Francia",
+  "optionB": "Inglaterra",
+  "optionC": "España",
+  "optionD": "Alemania",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 250,
+  "subject": "James Rodríguez",
+  "question": "¿En qué Mundial ganó James la Bota de Oro?",
+  "optionA": "2010",
+  "optionB": "2014",
+  "optionC": "2018",
+  "optionD": "2022",
+  "correctAnswer": "2014"
+ },
+ {
+  "id": 251,
+  "subject": "Radamel Falcao",
+  "question": "¿Con qué club ganó Falcao la Europa League de 2012?",
+  "optionA": "Porto",
+  "optionB": "Atlético de Madrid",
+  "optionC": "Mónaco",
+  "optionD": "Chelsea",
+  "correctAnswer": "Atlético de Madrid"
+ },
+ {
+  "id": 252,
+  "subject": "Carlo Ancelotti",
+  "question": "¿Qué club dirigía Ancelotti cuando ganó la Champions League de 2022?",
+  "optionA": "Milan",
+  "optionB": "Chelsea",
+  "optionC": "Real Madrid",
+  "optionD": "PSG",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 253,
+  "subject": "José Mourinho",
+  "question": "¿Con qué club ganó Mourinho la Champions League de 2010?",
+  "optionA": "Chelsea",
+  "optionB": "Porto",
+  "optionC": "Inter de Milán",
+  "optionD": "Real Madrid",
+  "correctAnswer": "Inter de Milán"
+ },
+ {
+  "id": 254,
+  "subject": "Johan Cruyff",
+  "question": "¿Qué club ganó cuatro Ligas consecutivas bajo Cruyff entre 1991 y 1994?",
+  "optionA": "Ajax",
+  "optionB": "Barcelona",
+  "optionC": "PSV",
+  "optionD": "Feyenoord",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 255,
+  "subject": "Vicente del Bosque",
+  "question": "¿Qué selección ganó la Eurocopa 2012 con Del Bosque?",
+  "optionA": "Alemania",
+  "optionB": "España",
+  "optionC": "Italia",
+  "optionD": "Francia",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 256,
+  "subject": "Marcello Lippi",
+  "question": "¿Qué club italiano dirigió Marcello Lippi durante gran parte de su carrera?",
+  "optionA": "Milan",
+  "optionB": "Juventus",
+  "optionC": "Roma",
+  "optionD": "Lazio",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 257,
+  "subject": "Zinedine Zidane",
+  "question": "¿En qué año ganó Zidane su primera Champions como entrenador?",
+  "optionA": "2014",
+  "optionB": "2015",
+  "optionC": "2016",
+  "optionD": "2017",
+  "correctAnswer": "2016"
+ },
+ {
+  "id": 258,
+  "subject": "Jürgen Klopp",
+  "question": "¿Qué club dirigía Klopp antes de fichar por el Liverpool?",
+  "optionA": "Bayern Múnich",
+  "optionB": "Dortmund",
+  "optionC": "Mainz 05",
+  "optionD": "Schalke 04",
+  "correctAnswer": "Dortmund"
+ },
+ {
+  "id": 259,
+  "subject": "Arsène Wenger",
+  "question": "¿Qué club dirigió Wenger antes de llegar al Arsenal?",
+  "optionA": "Lyon",
+  "optionB": "PSG",
+  "optionC": "Mónaco",
+  "optionD": "Marsella",
+  "correctAnswer": "Mónaco"
+ },
+ {
+  "id": 260,
+  "subject": "Louis van Gaal",
+  "question": "¿Qué selección dirigió Louis van Gaal en el Mundial de 2022?",
+  "optionA": "Bélgica",
+  "optionB": "Países Bajos",
+  "optionC": "Alemania",
+  "optionD": "Dinamarca",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 261,
+  "subject": "Fabio Capello",
+  "question": "¿Qué selección dirigió Fabio Capello entre 2008 y 2012?",
+  "optionA": "Italia",
+  "optionB": "Rusia",
+  "optionC": "Inglaterra",
+  "optionD": "España",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 262,
+  "subject": "Diego Simeone",
+  "question": "¿Qué competición europea ganó Simeone con el Atlético en 2012?",
+  "optionA": "Champions",
+  "optionB": "Europa League",
+  "optionC": "Conference League",
+  "optionD": "Supercopa de España",
+  "correctAnswer": "Europa League"
+ },
+ {
+  "id": 263,
+  "subject": "Luis Enrique",
+  "question": "¿Con qué selección alcanzó Luis Enrique las semifinales de la Eurocopa 2020?",
+  "optionA": "España",
+  "optionB": "Francia",
+  "optionC": "Italia",
+  "optionD": "Alemania",
+  "correctAnswer": "España"
+ },
+ {
+  "id": 264,
+  "subject": "Roberto Mancini",
+  "question": "¿Qué club inglés ganó la Premier League 2011-12 con Mancini?",
+  "optionA": "Chelsea",
+  "optionB": "Liverpool",
+  "optionC": "Manchester City",
+  "optionD": "Arsenal",
+  "correctAnswer": "Manchester City"
+ },
+ {
+  "id": 265,
+  "subject": "Antonio Conte",
+  "question": "¿Qué selección dirigió Antonio Conte en la Eurocopa 2016?",
+  "optionA": "Italia",
+  "optionB": "España",
+  "optionC": "Bélgica",
+  "optionD": "Francia",
+  "correctAnswer": "Italia"
+ },
+ {
+  "id": 266,
+  "subject": "Thomas Tuchel",
+  "question": "¿Qué club dirigía Tuchel antes de fichar por el Bayern Múnich?",
+  "optionA": "PSG",
+  "optionB": "Chelsea",
+  "optionC": "Dortmund",
+  "optionD": "Leipzig",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 267,
+  "subject": "Hansi Flick",
+  "question": "¿Qué selección empezó Hansi Flick a dirigir en 2021?",
+  "optionA": "Austria",
+  "optionB": "Alemania",
+  "optionC": "Suiza",
+  "optionD": "Países Bajos",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 268,
+  "subject": "Joachim Löw",
+  "question": "¿Qué selección entrenó Joachim Löw durante más de una década?",
+  "optionA": "Alemania",
+  "optionB": "Austria",
+  "optionC": "Suiza",
+  "optionD": "Bélgica",
+  "correctAnswer": "Alemania"
+ },
+ {
+  "id": 269,
+  "subject": "Didier Deschamps",
+  "question": "¿Qué selección llevó Didier Deschamps a la final de los Mundiales 2018 y 2022?",
+  "optionA": "Francia",
+  "optionB": "Croacia",
+  "optionC": "Bélgica",
+  "optionD": "Inglaterra",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 270,
+  "subject": "Rafael Benítez",
+  "question": "¿Con qué club ganó Benítez la Europa League de 2013?",
+  "optionA": "Liverpool",
+  "optionB": "Chelsea",
+  "optionC": "Valencia",
+  "optionD": "Napoli",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 271,
+  "subject": "Unai Emery",
+  "question": "¿Con qué club ganó Unai Emery la Europa League de 2021?",
+  "optionA": "Sevilla",
+  "optionB": "Arsenal",
+  "optionC": "Villarreal",
+  "optionD": "Valencia",
+  "correctAnswer": "Villarreal"
+ },
+ {
+  "id": 272,
+  "subject": "Manuel Pellegrini",
+  "question": "Sobre Manuel Pellegrini: ¿qué club español dirige desde 2020?",
+  "optionA": "Sevilla",
+  "optionB": "Villarreal",
+  "optionC": "Betis",
+  "optionD": "Valencia",
+  "correctAnswer": "Betis"
+ },
+ {
+  "id": 273,
+  "subject": "Luciano Spalletti",
+  "question": "¿Qué club ganó la Serie A de 2023 con Spalletti?",
+  "optionA": "Roma",
+  "optionB": "Lazio",
+  "optionC": "Napoli",
+  "optionD": "Fiorentina",
+  "correctAnswer": "Napoli"
+ },
+ {
+  "id": 274,
+  "subject": "Claudio Ranieri",
+  "question": "¿Qué club ganó la Premier League 2015-16 con Ranieri?",
+  "optionA": "West Ham",
+  "optionB": "Leicester City",
+  "optionC": "Everton",
+  "optionD": "Aston Villa",
+  "correctAnswer": "Leicester City"
+ },
+ {
+  "id": 275,
+  "subject": "Mauricio Pochettino",
+  "question": "¿Con qué club alcanzó Mauricio Pochettino la final de la Champions League 2019?",
+  "optionA": "PSG",
+  "optionB": "Tottenham",
+  "optionC": "Chelsea",
+  "optionD": "Southampton",
+  "correctAnswer": "Tottenham"
+ },
+ {
+  "id": 276,
+  "subject": "David Moyes",
+  "question": "¿Con qué club ganó David Moyes la Conference League 2023?",
+  "optionA": "Everton",
+  "optionB": "West Ham",
+  "optionC": "Sunderland",
+  "optionD": "Leicester",
+  "correctAnswer": "West Ham"
+ },
+ {
+  "id": 277,
+  "subject": "Eddie Howe",
+  "question": "¿Qué club devolvió Eddie Howe a la Champions en 2023?",
+  "optionA": "Aston Villa",
+  "optionB": "Newcastle United",
+  "optionC": "Leeds",
+  "optionD": "Nottingham Forest",
+  "correctAnswer": "Newcastle United"
+ },
+ {
+  "id": 278,
+  "subject": "Roy Hodgson",
+  "question": "¿Qué selección dirigió Roy Hodgson en la Eurocopa 2012?",
+  "optionA": "Suecia",
+  "optionB": "Inglaterra",
+  "optionC": "Dinamarca",
+  "optionD": "Escocia",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 279,
+  "subject": "Ronald Koeman",
+  "question": "¿Qué selección dirigió Ronald Koeman antes de fichar por el Barcelona en 2020?",
+  "optionA": "Bélgica",
+  "optionB": "Países Bajos",
+  "optionC": "Dinamarca",
+  "optionD": "Suecia",
+  "correctAnswer": "Países Bajos"
+ },
+ {
+  "id": 280,
+  "subject": "Real Madrid",
+  "question": "¿Qué entrenador ganó la Décima Champions del Real Madrid en 2014?",
+  "optionA": "Mourinho",
+  "optionB": "Ancelotti",
+  "optionC": "Zidane",
+  "optionD": "Del Bosque",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 281,
+  "subject": "FC Barcelona",
+  "question": "¿Qué jugador marcó el gol decisivo en la final de Champions 2011 para el Barcelona?",
+  "optionA": "Messi",
+  "optionB": "Villa",
+  "optionC": "Pedro",
+  "optionD": "Xavi",
+  "correctAnswer": "Messi"
+ },
+ {
+  "id": 282,
+  "subject": "Bayern Múnich",
+  "question": "¿Qué entrenador dirigió al Bayern en el triplete de 2020?",
+  "optionA": "Guardiola",
+  "optionB": "Flick",
+  "optionC": "Nagelsmann",
+  "optionD": "Heynckes",
+  "correctAnswer": "Flick"
+ },
+ {
+  "id": 283,
+  "subject": "Manchester United",
+  "question": "¿Qué entrenador dirigió al United en su última Champions ganada?",
+  "optionA": "Ferguson",
+  "optionB": "Mourinho",
+  "optionC": "Solskjær",
+  "optionD": "Ten Hag",
+  "correctAnswer": "Ferguson"
+ },
+ {
+  "id": 284,
+  "subject": "Chelsea",
+  "question": "¿Qué entrenador dirigía al Chelsea cuando ganó la Champions de 2021?",
+  "optionA": "Mourinho",
+  "optionB": "Tuchel",
+  "optionC": "Conte",
+  "optionD": "Ancelotti",
+  "correctAnswer": "Tuchel"
+ },
+ {
+  "id": 285,
+  "subject": "Liverpool",
+  "question": "¿Quién marcó Liverpool el gol decisivo en la final de Champions 2019?",
+  "optionA": "Salah",
+  "optionB": "Mané",
+  "optionC": "Origi",
+  "optionD": "Firmino",
+  "correctAnswer": "Salah"
+ },
+ {
+  "id": 286,
+  "subject": "AC Milan",
+  "question": "¿Qué entrenador ganó la Champions 2007 con el Milan?",
+  "optionA": "Allegri",
+  "optionB": "Ancelotti",
+  "optionC": "Capello",
+  "optionD": "Pioli",
+  "correctAnswer": "Ancelotti"
+ },
+ {
+  "id": 287,
+  "subject": "Arsenal",
+  "question": "¿Qué estadio inauguró el Arsenal en 2006?",
+  "optionA": "Highbury",
+  "optionB": "Emirates Stadium",
+  "optionC": "Wembley",
+  "optionD": "London Stadium",
+  "correctAnswer": "Emirates Stadium"
+ },
+ {
+  "id": 288,
+  "subject": "Juventus",
+  "question": "¿Qué jugador ganó el Balón de Oro jugando en la Juventus en el siglo XXI?",
+  "optionA": "Del Piero",
+  "optionB": "Nedvěd",
+  "optionC": "Buffon",
+  "optionD": "Pirlo",
+  "correctAnswer": "Nedvěd"
+ },
+ {
+  "id": 289,
+  "subject": "PSG",
+  "question": "¿Qué jugador fichó el PSG procedente del Barcelona en 2017 por una cifra récord?",
+  "optionA": "Messi",
+  "optionB": "Neymar",
+  "optionC": "Suárez",
+  "optionD": "Busquets",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 290,
+  "subject": "Atlético de Madrid",
+  "question": "¿Qué entrenador ha dirigido al Atlético desde 2011?",
+  "optionA": "Benítez",
+  "optionB": "Simeone",
+  "optionC": "Emery",
+  "optionD": "Quique Flores",
+  "correctAnswer": "Simeone"
+ },
+ {
+  "id": 291,
+  "subject": "Inter de Milán",
+  "question": "¿Qué competición ganó el Inter en 2010 además de la Champions?",
+  "optionA": "Serie A y Copa Italia",
+  "optionB": "Europa League y Serie A",
+  "optionC": "Serie A y Supercopa",
+  "optionD": "Serie A y Mundial de Clubes",
+  "correctAnswer": "Serie A y Copa Italia"
+ },
+ {
+  "id": 292,
+  "subject": "Borussia Dortmund",
+  "question": "¿Qué entrenador llevó al Dortmund a la final de Champions 2013?",
+  "optionA": "Klopp",
+  "optionB": "Tuchel",
+  "optionC": "Favre",
+  "optionD": "Terzić",
+  "correctAnswer": "Klopp"
+ },
+ {
+  "id": 293,
+  "subject": "Manchester City",
+  "question": "¿Contra qué club ganó el City la Champions de 2023?",
+  "optionA": "Inter",
+  "optionB": "PSG",
+  "optionC": "Bayern",
+  "optionD": "Chelsea",
+  "correctAnswer": "Inter"
+ },
+ {
+  "id": 294,
+  "subject": "Benfica",
+  "question": "¿Qué delantero portugués surgido del Benfica ganó el Balón de Oro en el siglo XXI?",
+  "optionA": "Figo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Rui Costa",
+  "optionD": "Nuno Gomes",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 295,
+  "subject": "Sevilla",
+  "question": "¿Qué entrenador ganó tres Europa League consecutivas con Sevilla?",
+  "optionA": "Sampaoli",
+  "optionB": "Emery",
+  "optionC": "Lopetegui",
+  "optionD": "Caparrós",
+  "correctAnswer": "Emery"
+ },
+ {
+  "id": 296,
+  "subject": "Ajax",
+  "question": "¿Qué joven defensa fue capitán del Ajax semifinalista de 2019?",
+  "optionA": "Blind",
+  "optionB": "De Ligt",
+  "optionC": "Timber",
+  "optionD": "De Jong",
+  "correctAnswer": "De Ligt"
+ },
+ {
+  "id": 297,
+  "subject": "Tottenham Hotspur",
+  "question": "¿Qué entrenador llevó al Tottenham a la final de Champions 2019?",
+  "optionA": "Mourinho",
+  "optionB": "Redknapp",
+  "optionC": "Pochettino",
+  "optionD": "Postecoglou",
+  "correctAnswer": "Pochettino"
+ },
+ {
+  "id": 298,
+  "subject": "Roma",
+  "question": "¿Qué entrenador dirigía la Roma en la remontada al Barcelona en 2018?",
+  "optionA": "Mourinho",
+  "optionB": "Spalletti",
+  "optionC": "Di Francesco",
+  "optionD": "Ranieri",
+  "correctAnswer": "Di Francesco"
+ },
+ {
+  "id": 299,
+  "subject": "Valencia",
+  "question": "¿Qué entrenador llevó al Valencia a dos finales de Champions consecutivas?",
+  "optionA": "Benítez",
+  "optionB": "Cúper",
+  "optionC": "Ranieri",
+  "optionD": "Emery",
+  "correctAnswer": "Cúper"
+ },
+ {
+  "id": 300,
+  "subject": "Villarreal",
+  "question": "¿Qué rival derrotó Villarreal en la final de Europa League 2021?",
+  "optionA": "Arsenal",
+  "optionB": "Manchester United",
+  "optionC": "Roma",
+  "optionD": "Sevilla",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 301,
+  "subject": "Napoli",
+  "question": "¿Qué delantero fue máximo goleador del Napoli campeón de Serie A 2023?",
+  "optionA": "Insigne",
+  "optionB": "Mertens",
+  "optionC": "Osimhen",
+  "optionD": "Kvaratskhelia",
+  "correctAnswer": "Osimhen"
+ },
+ {
+  "id": 302,
+  "subject": "Bayer Leverkusen",
+  "question": "¿Qué entrenador llevó al Leverkusen invicto al título de Bundesliga 2024?",
+  "optionA": "Alonso",
+  "optionB": "Xabi Alonso",
+  "optionC": "Klopp",
+  "optionD": "Seoane",
+  "correctAnswer": "Xabi Alonso"
+ },
+ {
+  "id": 303,
+  "subject": "Olympique Lyon",
+  "question": "¿Qué delantero fue figura del Lyon en los años 2000 antes de fichar por el Real Madrid?",
+  "optionA": "Benzema",
+  "optionB": "Govou",
+  "optionC": "Wiltord",
+  "optionD": "Malouda",
+  "correctAnswer": "Benzema"
+ },
+ {
+  "id": 304,
+  "subject": "Schalke 04",
+  "question": "¿Qué delantero español destacó en Schalke entre 2010 y 2012?",
+  "optionA": "Morientes",
+  "optionB": "Raúl",
+  "optionC": "Villa",
+  "optionD": "Torres",
+  "correctAnswer": "Raúl"
+ },
+ {
+  "id": 305,
+  "subject": "Shakhtar Donetsk",
+  "question": "¿Qué país representa Shakhtar en competiciones UEFA?",
+  "optionA": "Rusia",
+  "optionB": "Ucrania",
+  "optionC": "Bielorrusia",
+  "optionD": "Polonia",
+  "correctAnswer": "Ucrania"
+ },
+ {
+  "id": 306,
+  "subject": "Zenit",
+  "question": "¿Qué entrenador portugués ganó la Copa UEFA 2008 con Zenit?",
+  "optionA": "Mourinho",
+  "optionB": "Villas-Boas",
+  "optionC": "Advocaat",
+  "optionD": "Jesualdo Ferreira",
+  "correctAnswer": "Advocaat"
+ },
+ {
+  "id": 307,
+  "subject": "Sporting CP",
+  "question": "¿Qué jugador formado en Sporting ganó cinco Balones de Oro?",
+  "optionA": "Figo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Quaresma",
+  "optionD": "Nani",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 308,
+  "subject": "Lazio",
+  "question": "¿Qué delantero italiano fue figura de la Lazio campeona de 2000?",
+  "optionA": "Del Piero",
+  "optionB": "Inzaghi",
+  "optionC": "Vieri",
+  "optionD": "Chiesa",
+  "correctAnswer": "Vieri"
+ },
+ {
+  "id": 309,
+  "subject": "Olympique Marsella",
+  "question": "¿Contra qué club perdió Olympique Marsella la final de Europa League 2018?",
+  "optionA": "Atlético",
+  "optionB": "Arsenal",
+  "optionC": "Chelsea",
+  "optionD": "Sevilla",
+  "correctAnswer": "Atlético"
+ },
+ {
+  "id": 310,
+  "subject": "Celtic",
+  "question": "¿Qué ciudad representa Celtic?",
+  "optionA": "Glasgow",
+  "optionB": "Edimburgo",
+  "optionC": "Dundee",
+  "optionD": "Aberdeen",
+  "correctAnswer": "Glasgow"
+ },
+ {
+  "id": 311,
+  "subject": "Fenerbahçe",
+  "question": "¿En qué ciudad juega Fenerbahçe?",
+  "optionA": "Ankara",
+  "optionB": "Estambul",
+  "optionC": "Esmirna",
+  "optionD": "Bursa",
+  "correctAnswer": "Estambul"
+ },
+ {
+  "id": 312,
+  "subject": "Galatasaray",
+  "question": "¿Qué delantero marfileño jugó en Galatasaray tras pasar por Chelsea?",
+  "optionA": "Drogba",
+  "optionB": "Kalou",
+  "optionC": "Gervinho",
+  "optionD": "Zaha",
+  "correctAnswer": "Drogba"
+ },
+ {
+  "id": 313,
+  "subject": "Mónaco",
+  "question": "¿Qué estrella francesa explotó en Mónaco antes de fichar por PSG?",
+  "optionA": "Benzema",
+  "optionB": "Mbappé",
+  "optionC": "Griezmann",
+  "optionD": "Coman",
+  "correctAnswer": "Mbappé"
+ },
+ {
+  "id": 314,
+  "subject": "Fiorentina",
+  "question": "¿Qué argentino fue el gran icono ofensivo de Fiorentina?",
+  "optionA": "Crespo",
+  "optionB": "Batistuta",
+  "optionC": "Milito",
+  "optionD": "Higuaín",
+  "correctAnswer": "Batistuta"
+ },
+ {
+  "id": 315,
+  "subject": "Newcastle United",
+  "question": "¿Qué entrenador devolvió Newcastle a la Champions en 2023?",
+  "optionA": "Howe",
+  "optionB": "Bruce",
+  "optionC": "Benítez",
+  "optionD": "Pardew",
+  "correctAnswer": "Howe"
+ },
+ {
+  "id": 316,
+  "subject": "Dinamo Kiev",
+  "question": "¿Qué delantero ganó el Balón de Oro tras jugar en Dinamo Kiev?",
+  "optionA": "Rebrov",
+  "optionB": "Shevchenko",
+  "optionC": "Yarmolenko",
+  "optionD": "Milevskiy",
+  "correctAnswer": "Shevchenko"
+ },
+ {
+  "id": 317,
+  "subject": "Basilea",
+  "question": "¿Qué estrella egipcia brilló en Basilea antes de fichar por grandes ligas?",
+  "optionA": "Elneny",
+  "optionB": "Salah",
+  "optionC": "Trezeguet",
+  "optionD": "Hegazy",
+  "correctAnswer": "Salah"
+ },
+ {
+  "id": 318,
+  "subject": "Olympiacos",
+  "question": "¿Qué país representa Olympiacos?",
+  "optionA": "Turquía",
+  "optionB": "Grecia",
+  "optionC": "Serbia",
+  "optionD": "Chipre",
+  "correctAnswer": "Grecia"
+ },
+ {
+  "id": 319,
+  "subject": "Santiago Bernabéu",
+  "question": "¿Qué competición europea albergó Santiago Bernabéu la final de 2010?",
+  "optionA": "Europa League",
+  "optionB": "Champions League",
+  "optionC": "Conference League",
+  "optionD": "Supercopa UEFA",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 320,
+  "subject": "Camp Nou",
+  "question": "¿Qué equipo utilizó Montjuïc mientras se remodelaba el Camp Nou?",
+  "optionA": "Espanyol",
+  "optionB": "Barcelona",
+  "optionC": "Girona",
+  "optionD": "Andorra",
+  "correctAnswer": "Barcelona"
+ },
+ {
+  "id": 321,
+  "subject": "Wembley",
+  "question": "¿Qué selección ganó la Eurocopa femenina de 2022 en Wembley?",
+  "optionA": "Alemania",
+  "optionB": "Inglaterra",
+  "optionC": "España",
+  "optionD": "Francia",
+  "correctAnswer": "Inglaterra"
+ },
+ {
+  "id": 322,
+  "subject": "Old Trafford",
+  "question": "¿Qué apodo recibe Old Trafford?",
+  "optionA": "Theatre of Dreams",
+  "optionB": "Red Fortress",
+  "optionC": "Dream Arena",
+  "optionD": "Devil Stadium",
+  "correctAnswer": "Theatre of Dreams"
+ },
+ {
+  "id": 323,
+  "subject": "San Siro",
+  "question": "¿Con qué otro nombre se conoce oficialmente San Siro?",
+  "optionA": "Giuseppe Verdi",
+  "optionB": "Giuseppe Meazza",
+  "optionC": "Silvio Berlusconi",
+  "optionD": "Alessandro Nesta",
+  "correctAnswer": "Giuseppe Meazza"
+ },
+ {
+  "id": 324,
+  "subject": "Anfield",
+  "question": "¿Qué canción es tradicionalmente cantada antes de los partidos en Anfield?",
+  "optionA": "Blue Moon",
+  "optionB": "You'll Never Walk Alone",
+  "optionC": "Wonderwall",
+  "optionD": "Hey Jude",
+  "correctAnswer": "You'll Never Walk Alone"
+ },
+ {
+  "id": 325,
+  "subject": "Allianz Arena",
+  "question": "¿En qué ciudad se encuentra Allianz Arena?",
+  "optionA": "Dortmund",
+  "optionB": "Berlín",
+  "optionC": "Múnich",
+  "optionD": "Hamburgo",
+  "correctAnswer": "Múnich"
+ },
+ {
+  "id": 326,
+  "subject": "Signal Iduna Park",
+  "question": "¿Qué famosa grada se encuentra en el Signal Iduna Park?",
+  "optionA": "Curva Sud",
+  "optionB": "Yellow Wall",
+  "optionC": "Kop End",
+  "optionD": "Green Army",
+  "correctAnswer": "Yellow Wall"
+ },
+ {
+  "id": 327,
+  "subject": "Parc des Princes",
+  "question": "¿Qué selección ganó la final de la Eurocopa 1984 en el Parc des Princes?",
+  "optionA": "Alemania",
+  "optionB": "Francia",
+  "optionC": "España",
+  "optionD": "Italia",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 328,
+  "subject": "Estadio Azteca",
+  "question": "Sobre Estadio Azteca: ¿qué Mundial volverá a albergar en 2026?",
+  "optionA": "Su tercero",
+  "optionB": "Su cuarto",
+  "optionC": "Su quinto",
+  "optionD": "Su segundo",
+  "correctAnswer": "Su tercero"
+ },
+ {
+  "id": 329,
+  "subject": "La Bombonera",
+  "question": "¿En qué ciudad se encuentra La Bombonera?",
+  "optionA": "Rosario",
+  "optionB": "Córdoba",
+  "optionC": "Buenos Aires",
+  "optionD": "Mendoza",
+  "correctAnswer": "Buenos Aires"
+ },
+ {
+  "id": 330,
+  "subject": "Monumental (River)",
+  "question": "¿Qué selección ganó el Mundial de 1978 en el estadio Monumental?",
+  "optionA": "Brasil",
+  "optionB": "Argentina",
+  "optionC": "Países Bajos",
+  "optionD": "Alemania",
+  "correctAnswer": "Argentina"
+ },
+ {
+  "id": 331,
+  "subject": "Stade de France",
+  "question": "¿Qué selección ganó el Mundial de 1998 en el Stade de France?",
+  "optionA": "Brasil",
+  "optionB": "Italia",
+  "optionC": "Francia",
+  "optionD": "Alemania",
+  "correctAnswer": "Francia"
+ },
+ {
+  "id": 332,
+  "subject": "Emirates Stadium",
+  "question": "¿Qué estadio sustituyó el Emirates en 2006?",
+  "optionA": "White Hart Lane",
+  "optionB": "Highbury",
+  "optionC": "Upton Park",
+  "optionD": "Maine Road",
+  "correctAnswer": "Highbury"
+ },
+ {
+  "id": 333,
+  "subject": "Etihad Stadium",
+  "question": "¿Qué nombre tenía Etihad Stadium originalmente antes de ser patrocinado?",
+  "optionA": "City Ground",
+  "optionB": "Eastlands",
+  "optionC": "Maine Road",
+  "optionD": "Citizens Arena",
+  "correctAnswer": "Eastlands"
+ },
+ {
+  "id": 334,
+  "subject": "Stamford Bridge",
+  "question": "¿En qué ciudad se encuentra Stamford Bridge?",
+  "optionA": "Liverpool",
+  "optionB": "Londres",
+  "optionC": "Manchester",
+  "optionD": "Birmingham",
+  "correctAnswer": "Londres"
+ },
+ {
+  "id": 335,
+  "subject": "San Mamés",
+  "question": "Sobre San Mamés: ¿qué apodo recibe tradicionalmente el estadio de Athletic Club?",
+  "optionA": "La Catedral",
+  "optionB": "El Coloso",
+  "optionC": "El Fortín",
+  "optionD": "La Bombonera Vasca",
+  "correctAnswer": "La Catedral"
+ },
+ {
+  "id": 336,
+  "subject": "Mestalla",
+  "question": "¿Qué club planeó durante años trasladarse al Nou Mestalla?",
+  "optionA": "Villarreal",
+  "optionB": "Valencia CF",
+  "optionC": "Levante",
+  "optionD": "Elche",
+  "correctAnswer": "Valencia CF"
+ },
+ {
+  "id": 337,
+  "subject": "Estádio do Dragão",
+  "question": "¿Qué selección ganó la Nations League 2019 en el Estádio do Dragão?",
+  "optionA": "Francia",
+  "optionB": "Portugal",
+  "optionC": "España",
+  "optionD": "Italia",
+  "correctAnswer": "Portugal"
+ },
+ {
+  "id": 338,
+  "subject": "Johan Cruyff Arena",
+  "question": "¿En qué ciudad se encuentra la Johan Cruyff Arena?",
+  "optionA": "Róterdam",
+  "optionB": "Eindhoven",
+  "optionC": "Ámsterdam",
+  "optionD": "Utrecht",
+  "correctAnswer": "Ámsterdam"
+ },
+ {
+  "id": 339,
+  "subject": "Tottenham Hotspur Stadium",
+  "question": "¿Qué deporte además del fútbol se juega regularmente en el Tottenham Hotspur Stadium?",
+  "optionA": "Rugby",
+  "optionB": "NFL",
+  "optionC": "Cricket",
+  "optionD": "Béisbol",
+  "correctAnswer": "NFL"
+ },
+ {
+  "id": 340,
+  "subject": "Celtic Park",
+  "question": "¿Qué apodo recibe Celtic Park?",
+  "optionA": "Paradise",
+  "optionB": "The Fortress",
+  "optionC": "Green Arena",
+  "optionD": "The Castle",
+  "correctAnswer": "Paradise"
+ },
+ {
+  "id": 341,
+  "subject": "Real Madrid",
+  "question": "¿Quién marcó Real Madrid el gol decisivo en la final de Champions 2022?",
+  "optionA": "Benzema",
+  "optionB": "Vinícius Júnior",
+  "optionC": "Modrić",
+  "optionD": "Rodrygo",
+  "correctAnswer": "Vinícius Júnior"
+ },
+ {
+  "id": 342,
+  "subject": "FC Barcelona",
+  "question": "¿Qué entrenador ganó FC Barcelona el triplete de 2015?",
+  "optionA": "Guardiola",
+  "optionB": "Xavi",
+  "optionC": "Luis Enrique",
+  "optionD": "Koeman",
+  "correctAnswer": "Luis Enrique"
+ },
+ {
+  "id": 343,
+  "subject": "Bayern Múnich",
+  "question": "¿Qué rival derrotó Bayern en la final de Champions 2020?",
+  "optionA": "PSG",
+  "optionB": "Chelsea",
+  "optionC": "Liverpool",
+  "optionD": "Inter",
+  "correctAnswer": "PSG"
+ },
+ {
+  "id": 344,
+  "subject": "Manchester United",
+  "question": "¿Contra qué rival ganó Manchester United la final de Champions 2008?",
+  "optionA": "Chelsea",
+  "optionB": "Arsenal",
+  "optionC": "Barcelona",
+  "optionD": "Bayern",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 345,
+  "subject": "Chelsea",
+  "question": "¿Quién transformó Chelsea el penal decisivo en la final de Champions 2012?",
+  "optionA": "Lampard",
+  "optionB": "Drogba",
+  "optionC": "Mata",
+  "optionD": "Torres",
+  "correctAnswer": "Drogba"
+ },
+ {
+  "id": 346,
+  "subject": "Liverpool",
+  "question": "Sobre Liverpool: ¿qué portero fue titular en la Champions ganada en 2019?",
+  "optionA": "Reina",
+  "optionB": "Alisson",
+  "optionC": "Karius",
+  "optionD": "Mignolet",
+  "correctAnswer": "Alisson"
+ },
+ {
+  "id": 347,
+  "subject": "AC Milan",
+  "question": "¿Qué jugador ganó el Balón de Oro jugando en Milan en 2007?",
+  "optionA": "Pirlo",
+  "optionB": "Kaká",
+  "optionC": "Seedorf",
+  "optionD": "Nesta",
+  "correctAnswer": "Kaká"
+ },
+ {
+  "id": 348,
+  "subject": "Arsenal",
+  "question": "¿Qué entrenador dirigió Arsenal durante más de 20 años?",
+  "optionA": "Emery",
+  "optionB": "Arteta",
+  "optionC": "Wenger",
+  "optionD": "Graham",
+  "correctAnswer": "Wenger"
+ },
+ {
+  "id": 349,
+  "subject": "Juventus",
+  "question": "¿Qué portugués fichó Juventus en 2018?",
+  "optionA": "Bruno Fernandes",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Nani",
+  "optionD": "Bernardo Silva",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 350,
+  "subject": "PSG",
+  "question": "¿Qué argentino fichó PSG en 2021 procedente del Barcelona?",
+  "optionA": "Agüero",
+  "optionB": "Messi",
+  "optionC": "Di María",
+  "optionD": "Dybala",
+  "correctAnswer": "Messi"
+ },
+ {
+  "id": 351,
+  "subject": "Atlético de Madrid",
+  "question": "¿Qué delantero francés fue figura del Atlético campeón de Liga 2021?",
+  "optionA": "Benzema",
+  "optionB": "Griezmann",
+  "optionC": "Giroud",
+  "optionD": "Nkunku",
+  "correctAnswer": "Griezmann"
+ },
+ {
+  "id": 352,
+  "subject": "Inter de Milán",
+  "question": "¿Qué argentino fue capitán histórico del Inter en el siglo XXI?",
+  "optionA": "Crespo",
+  "optionB": "Zanetti",
+  "optionC": "Milito",
+  "optionD": "Cambiasso",
+  "correctAnswer": "Zanetti"
+ },
+ {
+  "id": 353,
+  "subject": "Manchester City",
+  "question": "¿Qué entrenador ganó la primera Champions del City?",
+  "optionA": "Mancini",
+  "optionB": "Pellegrini",
+  "optionC": "Guardiola",
+  "optionD": "Arteta",
+  "correctAnswer": "Guardiola"
+ },
+ {
+  "id": 354,
+  "subject": "Benfica",
+  "question": "¿Qué portugués ganó el Balón de Oro tras formarse en Benfica?",
+  "optionA": "Figo",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Rui Costa",
+  "optionD": "Bernardo Silva",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 355,
+  "subject": "Porto",
+  "question": "¿Qué competición ganó Porto en 2011 con Villas-Boas?",
+  "optionA": "Champions",
+  "optionB": "Europa League",
+  "optionC": "Conference",
+  "optionD": "Supercopa",
+  "correctAnswer": "Europa League"
+ },
+ {
+  "id": 356,
+  "subject": "Sevilla",
+  "question": "¿Qué competición convirtió a Sevilla en especialista europea?",
+  "optionA": "Champions",
+  "optionB": "Conference",
+  "optionC": "Europa League",
+  "optionD": "Recopa",
+  "correctAnswer": "Europa League"
+ },
+ {
+  "id": 357,
+  "subject": "Ajax",
+  "question": "¿Qué joven centrocampista brilló en el Ajax semifinalista de 2019?",
+  "optionA": "Van de Beek",
+  "optionB": "De Jong",
+  "optionC": "Klaassen",
+  "optionD": "Gravenberch",
+  "correctAnswer": "De Jong"
+ },
+ {
+  "id": 358,
+  "subject": "Tottenham",
+  "question": "Sobre Tottenham: ¿qué delantero inglés es máximo icono reciente del club?",
+  "optionA": "Kane",
+  "optionB": "Lineker",
+  "optionC": "Shearer",
+  "optionD": "Owen",
+  "correctAnswer": "Kane"
+ },
+ {
+  "id": 359,
+  "subject": "Roma",
+  "question": "¿Qué entrenador ganó Roma la Conference League 2022?",
+  "optionA": "Mourinho",
+  "optionB": "Ranieri",
+  "optionC": "Spalletti",
+  "optionD": "De Rossi",
+  "correctAnswer": "Mourinho"
+ },
+ {
+  "id": 360,
+  "subject": "Valencia",
+  "question": "¿Qué argentino entrenó Valencia en las finales de Champions de 2000 y 2001?",
+  "optionA": "Simeone",
+  "optionB": "Cúper",
+  "optionC": "Pochettino",
+  "optionD": "Bielsa",
+  "correctAnswer": "Cúper"
+ },
+ {
+  "id": 361,
+  "subject": "Villarreal",
+  "question": "Sobre Villarreal: ¿qué portero detuvo el penal decisivo en la Europa League 2021?",
+  "optionA": "Asenjo",
+  "optionB": "Rulli",
+  "optionC": "Reina",
+  "optionD": "Diego López",
+  "correctAnswer": "Rulli"
+ },
+ {
+  "id": 362,
+  "subject": "Napoli",
+  "question": "¿Qué georgiano fue una de las estrellas del Napoli campeón de 2023?",
+  "optionA": "Mikautadze",
+  "optionB": "Kvaratskhelia",
+  "optionC": "Chakvetadze",
+  "optionD": "Davitashvili",
+  "correctAnswer": "Kvaratskhelia"
+ },
+ {
+  "id": 363,
+  "subject": "Bayer Leverkusen",
+  "question": "¿Qué español entrena al Leverkusen desde 2022?",
+  "optionA": "Arteta",
+  "optionB": "Xabi Alonso",
+  "optionC": "Iraola",
+  "optionD": "Guardiola",
+  "correctAnswer": "Xabi Alonso"
+ },
+ {
+  "id": 364,
+  "subject": "Olympique Lyon",
+  "question": "¿Qué delantero francés surgido del Lyon ganó después el Balón de Oro?",
+  "optionA": "Benzema",
+  "optionB": "Lacazette",
+  "optionC": "Govou",
+  "optionD": "Gomis",
+  "correctAnswer": "Benzema"
+ }
+]

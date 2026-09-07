@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "Subject": "Historia de España",
+    "question": "¿Qué pueblo fundó la colonia de Gadir, origen de la actual Cádiz?",
+    "optionA": "Los cartagineses",
+    "optionB": "Los fenicios",
+    "optionC": "Los griegos",
+    "optionD": "Los romanos",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvo la conquista romana de Hispania?",
+    "optionA": "La difusión del latín, el derecho romano y las ciudades",
+    "optionB": "La desaparición inmediata de todas las lenguas locales",
+    "optionC": "La creación de los primeros reinos cristianos medievales",
+    "optionD": "La introducción del feudalismo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "Subject": "Historia de España",
+    "question": "¿Qué ciudad fue la capital del reino visigodo en la península ibérica?",
+    "optionA": "Tarragona",
+    "optionB": "Mérida",
+    "optionC": "Toledo",
+    "optionD": "Sevilla",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "Subject": "Historia de España",
+    "question": "¿Qué acontecimiento de 711 facilitó el inicio de la conquista musulmana de la península ibérica?",
+    "optionA": "La batalla de las Navas de Tolosa",
+    "optionB": "La batalla de Covadonga",
+    "optionC": "La toma de Toledo",
+    "optionD": "La derrota visigoda en la batalla de Guadalete",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 5,
+    "Subject": "Historia de España",
+    "question": "¿Qué diferencia principal existía entre el emirato independiente de Córdoba y el posterior califato?",
+    "optionA": "El califa asumía también la máxima autoridad religiosa",
+    "optionB": "El califato dejó de controlar Córdoba",
+    "optionC": "El emirato era un reino cristiano",
+    "optionD": "El emirato dependía políticamente de Bagdad",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "Subject": "Historia de España",
+    "question": "¿Quién proclamó el Califato de Córdoba en el año 929?",
+    "optionA": "Almanzor",
+    "optionB": "Boabdil",
+    "optionC": "Abderramán III",
+    "optionD": "Abderramán I",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran los reinos de taifas?",
+    "optionA": "Pequeños reinos musulmanes surgidos tras la desintegración del Califato de Córdoba",
+    "optionB": "Territorios cristianos surgidos en los Pirineos",
+    "optionC": "Órdenes militares dedicadas a la Reconquista",
+    "optionD": "Provincias romanas de Hispania",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "Subject": "Historia de España",
+    "question": "¿Por qué fue decisiva la batalla de las Navas de Tolosa de 1212?",
+    "optionA": "Frenó la expansión de los reinos cristianos",
+    "optionB": "Permitió la llegada de los almorávides",
+    "optionC": "Debilitó gravemente el poder almohade y favoreció el avance cristiano",
+    "optionD": "Puso fin de inmediato al reino nazarí de Granada",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "Subject": "Historia de España",
+    "question": "¿Qué institución medieval representaba a los distintos estamentos ante el rey en varios reinos peninsulares?",
+    "optionA": "El Consulado del Mar",
+    "optionB": "La Mesta",
+    "optionC": "Las Cortes",
+    "optionD": "La Inquisición",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo principal tenía la Mesta, creada en la Corona de Castilla?",
+    "optionA": "Recaudar impuestos para la Iglesia",
+    "optionB": "Organizar y proteger la ganadería trashumante",
+    "optionC": "Controlar el comercio con América",
+    "optionD": "Administrar las universidades",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "Subject": "Historia de España",
+    "question": "¿Qué hecho ocurrió en 1492 además de la llegada de Colón a América?",
+    "optionA": "La conquista de Navarra",
+    "optionB": "La conquista del reino nazarí de Granada",
+    "optionC": "La unión política definitiva de España y Portugal",
+    "optionD": "La derrota de la Armada Invencible",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "Subject": "Historia de España",
+    "question": "¿Qué unión realizaron Isabel I de Castilla y Fernando II de Aragón?",
+    "optionA": "La creación de una república federal",
+    "optionB": "Una fusión completa de todas las leyes e instituciones",
+    "optionC": "Una unión dinástica que mantuvo instituciones propias en cada Corona",
+    "optionD": "La incorporación inmediata de Portugal",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "Subject": "Historia de España",
+    "question": "¿Qué tratado de 1494 repartió áreas de expansión atlántica entre Castilla y Portugal?",
+    "optionA": "Tratado de Utrecht",
+    "optionB": "Tratado de los Pirineos",
+    "optionC": "Tratado de Alcáçovas",
+    "optionD": "Tratado de Tordesillas",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "Subject": "Historia de España",
+    "question": "¿Qué revuelta se produjo en Castilla al comienzo del reinado de Carlos I?",
+    "optionA": "La Semana Trágica",
+    "optionB": "La revuelta de los Comuneros",
+    "optionC": "La revuelta cantonal",
+    "optionD": "El motín de Esquilache",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "Subject": "Historia de España",
+    "question": "¿Qué monarca convirtió Madrid en sede permanente de la corte en 1561?",
+    "optionA": "Carlos I",
+    "optionB": "Fernando el Católico",
+    "optionC": "Felipe II",
+    "optionD": "Felipe III",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "Subject": "Historia de España",
+    "question": "¿Qué batalla naval de 1571 enfrentó a la Liga Santa y al Imperio otomano?",
+    "optionA": "San Quintín",
+    "optionB": "Rocroi",
+    "optionC": "Trafalgar",
+    "optionD": "Lepanto",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "Subject": "Historia de España",
+    "question": "¿Cuál fue una causa importante de la crisis económica de la Monarquía Hispánica en el siglo XVII?",
+    "optionA": "El elevado gasto bélico y el endeudamiento de la Corona",
+    "optionB": "La ausencia de guerras exteriores",
+    "optionC": "El exceso de industrialización",
+    "optionD": "La desaparición total del comercio americano",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "Subject": "Historia de España",
+    "question": "¿Qué conflicto provocó la llegada de la dinastía borbónica al trono español?",
+    "optionA": "La Primera Guerra Carlista",
+    "optionB": "La Guerra de Sucesión Española",
+    "optionC": "La Guerra de la Independencia",
+    "optionD": "La Guerra de los Treinta Años",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia política tuvieron los Decretos de Nueva Planta de Felipe V?",
+    "optionA": "Reforzaron la centralización de la monarquía",
+    "optionB": "Restauraron los fueros de todos los territorios",
+    "optionC": "Implantaron el sufragio universal",
+    "optionD": "Separaron Castilla y Aragón en dos monarquías",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "Subject": "Historia de España",
+    "question": "¿Qué principio resume mejor el despotismo ilustrado del siglo XVIII?",
+    "optionA": "Un hombre, un voto",
+    "optionB": "Proletarios de todos los países, uníos",
+    "optionC": "Todo para el pueblo, pero sin el pueblo",
+    "optionD": "Soberanía nacional y división de poderes",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "Subject": "Historia de España",
+    "question": "¿Qué hecho desencadenó el levantamiento del 2 de mayo de 1808 en Madrid?",
+    "optionA": "La presencia y actuación de las tropas napoleónicas en España",
+    "optionB": "La proclamación de la Primera República",
+    "optionC": "La invasión británica de la península",
+    "optionD": "La independencia de Cuba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 22,
+    "Subject": "Historia de España",
+    "question": "¿Qué principio político estableció la Constitución de Cádiz de 1812?",
+    "optionA": "La soberanía compartida con Francia",
+    "optionB": "La dictadura militar",
+    "optionC": "La soberanía nacional",
+    "optionD": "La soberanía absoluta del rey",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "Subject": "Historia de España",
+    "question": "¿Por qué se enfrentaron principalmente carlistas e isabelinos tras la muerte de Fernando VII?",
+    "optionA": "Por el control de las colonias americanas",
+    "optionB": "Por la invasión de Portugal",
+    "optionC": "Por la sucesión al trono y por modelos políticos diferentes",
+    "optionD": "Por la abolición de la Constitución de 1978",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "Subject": "Historia de España",
+    "question": "¿Qué pretendían las desamortizaciones del siglo XIX, además de obtener ingresos para el Estado?",
+    "optionA": "Poner en circulación propiedades amortizadas mediante su venta",
+    "optionB": "Eliminar la propiedad privada",
+    "optionC": "Devolver tierras a los señoríos medievales",
+    "optionD": "Aumentar las propiedades vinculadas a la Iglesia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "Subject": "Historia de España",
+    "question": "¿Qué acontecimiento puso fin al reinado de Isabel II en 1868?",
+    "optionA": "La Semana Trágica",
+    "optionB": "El desastre de Annual",
+    "optionC": "El pronunciamiento de Riego",
+    "optionD": "La Revolución Gloriosa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 26,
+    "Subject": "Historia de España",
+    "question": "¿Quién fue elegido rey de España durante el Sexenio Democrático?",
+    "optionA": "Carlos VII",
+    "optionB": "José I Bonaparte",
+    "optionC": "Alfonso XIII",
+    "optionD": "Amadeo I de Saboya",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 27,
+    "Subject": "Historia de España",
+    "question": "¿En qué periodo se proclamó la Primera República española?",
+    "optionA": "Durante la Guerra de la Independencia",
+    "optionB": "Durante el Sexenio Democrático",
+    "optionC": "Durante la dictadura de Primo de Rivera",
+    "optionD": "Durante la Restauración",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "Subject": "Historia de España",
+    "question": "¿En qué consistió el sistema de turno pacífico de la Restauración?",
+    "optionA": "En la alternancia entre monarquía y república",
+    "optionB": "En el gobierno conjunto de todos los partidos",
+    "optionC": "En elecciones completamente libres sin intervención política",
+    "optionD": "En la alternancia pactada entre conservadores y liberales",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 29,
+    "Subject": "Historia de España",
+    "question": "¿Qué término define la manipulación electoral ejercida por notables locales durante la Restauración?",
+    "optionA": "Federalismo",
+    "optionB": "Cantonalismo",
+    "optionC": "Regeneracionismo",
+    "optionD": "Caciquismo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 30,
+    "Subject": "Historia de España",
+    "question": "¿Qué territorios perdió España en 1898 tras la guerra con Estados Unidos?",
+    "optionA": "Cuba, Ceuta y Melilla",
+    "optionB": "Cuba, Puerto Rico y Filipinas",
+    "optionC": "Puerto Rico, Canarias y Filipinas",
+    "optionD": "Cuba, Marruecos y Guinea",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "Subject": "Historia de España",
+    "question": "¿Qué corriente intelectual y política surgió con fuerza tras el desastre de 1898 y defendió la modernización del país?",
+    "optionA": "Mercantilismo",
+    "optionB": "Regeneracionismo",
+    "optionC": "Absolutismo",
+    "optionD": "Carlismo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "Subject": "Historia de España",
+    "question": "¿Qué zonas lideraron la industrialización española durante el siglo XIX?",
+    "optionA": "Andalucía en la electrónica y Navarra en la aviación",
+    "optionB": "Extremadura en el automóvil y Galicia en el carbón",
+    "optionC": "Castilla-La Mancha en la siderurgia y Canarias en el textil",
+    "optionD": "Cataluña en el textil y el País Vasco en la siderurgia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 33,
+    "Subject": "Historia de España",
+    "question": "¿Qué grave derrota militar española ocurrió en Marruecos en 1921?",
+    "optionA": "Annual",
+    "optionB": "Alhucemas",
+    "optionC": "Bailén",
+    "optionD": "Trafalgar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "Subject": "Historia de España",
+    "question": "¿Quién encabezó la dictadura establecida en España entre 1923 y 1930?",
+    "optionA": "Francisco Franco",
+    "optionB": "Manuel Azaña",
+    "optionC": "Antonio Cánovas del Castillo",
+    "optionD": "Miguel Primo de Rivera",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 35,
+    "Subject": "Historia de España",
+    "question": "¿Qué resultado político tuvieron las elecciones municipales del 12 de abril de 1931?",
+    "optionA": "Dieron inicio a la Guerra Civil ese mismo día",
+    "optionB": "Provocaron la restauración de Fernando VII",
+    "optionC": "Reforzaron la dictadura de Primo de Rivera",
+    "optionD": "Precedieron a la proclamación de la Segunda República",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 36,
+    "Subject": "Historia de España",
+    "question": "¿Qué novedad política reconoció la Constitución de 1931 en relación con las mujeres?",
+    "optionA": "El derecho de voto femenino",
+    "optionB": "El voto femenino solo para mayores de 30 años casadas",
+    "optionC": "El acceso exclusivo a elecciones municipales",
+    "optionD": "La prohibición de participar en elecciones",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 37,
+    "Subject": "Historia de España",
+    "question": "¿Qué hecho marcó el inicio de la Guerra Civil española en julio de 1936?",
+    "optionA": "Un golpe militar contra el gobierno de la República que triunfó solo en parte del territorio",
+    "optionB": "La proclamación de la Constitución de 1931",
+    "optionC": "La abdicación de Alfonso XIII",
+    "optionD": "La invasión de España por Alemania",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 38,
+    "Subject": "Historia de España",
+    "question": "¿Qué potencias apoyaron de forma decisiva al bando sublevado durante la Guerra Civil?",
+    "optionA": "Estados Unidos y la Unión Soviética",
+    "optionB": "Alemania nazi e Italia fascista",
+    "optionC": "Portugal y México exclusivamente",
+    "optionD": "Reino Unido y Francia",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "Subject": "Historia de España",
+    "question": "¿Qué organización internacional impulsó la política de no intervención durante la Guerra Civil española?",
+    "optionA": "La Comunidad Económica Europea",
+    "optionB": "El Comité de No Intervención",
+    "optionC": "El Pacto de Varsovia",
+    "optionD": "La OTAN",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "Subject": "Historia de España",
+    "question": "¿Qué característica definió políticamente al régimen franquista?",
+    "optionA": "Dictadura autoritaria sin pluralismo político",
+    "optionB": "Pluralismo de partidos y elecciones libres",
+    "optionC": "República federal",
+    "optionD": "Monarquía parlamentaria desde 1939",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 41,
+    "Subject": "Historia de España",
+    "question": "¿Qué política económica predominó durante la primera etapa del franquismo?",
+    "optionA": "La integración inmediata en la CEE",
+    "optionB": "La autarquía",
+    "optionC": "La dolarización",
+    "optionD": "El libre comercio completo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo perseguía el Plan de Estabilización de 1959?",
+    "optionA": "Liberalizar y estabilizar la economía española",
+    "optionB": "Abandonar el turismo internacional",
+    "optionC": "Nacionalizar toda la propiedad agraria",
+    "optionD": "Reforzar la autarquía y cerrar la economía",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "Subject": "Historia de España",
+    "question": "¿Quién fue proclamado rey de España tras la muerte de Francisco Franco en 1975?",
+    "optionA": "Felipe VI",
+    "optionB": "Alfonso XIII",
+    "optionC": "Juan Carlos I",
+    "optionD": "Juan de Borbón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 44,
+    "Subject": "Historia de España",
+    "question": "¿Qué ley de 1976 permitió desmontar jurídicamente buena parte de las estructuras políticas del franquismo?",
+    "optionA": "Ley de Sucesión",
+    "optionB": "Ley para la Reforma Política",
+    "optionC": "Ley de Jurisdicciones",
+    "optionD": "Ley de Responsabilidades Políticas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 45,
+    "Subject": "Historia de España",
+    "question": "¿Qué característica fundamental estableció la Constitución española de 1978?",
+    "optionA": "Una monarquía absoluta",
+    "optionB": "Un sistema de partido único",
+    "optionC": "Un Estado social y democrático de derecho",
+    "optionD": "Una república presidencialista",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió el 23 de febrero de 1981 en España?",
+    "optionA": "La primera elección de Adolfo Suárez",
+    "optionB": "La entrada en la Comunidad Económica Europea",
+    "optionC": "La aprobación de la Constitución",
+    "optionD": "Un intento de golpe de Estado durante la votación de investidura",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "Subject": "Historia de España",
+    "question": "¿En qué año ingresó España en la Comunidad Económica Europea?",
+    "optionA": "1981",
+    "optionB": "1992",
+    "optionC": "1978",
+    "optionD": "1986",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 48,
+    "Subject": "Historia de España",
+    "question": "¿Qué dos ciudades españolas acogieron grandes acontecimientos internacionales en 1992?",
+    "optionA": "Barcelona y Sevilla",
+    "optionB": "Bilbao y Zaragoza",
+    "optionC": "Madrid y Valencia",
+    "optionD": "Toledo y Granada",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "Subject": "Historia de España",
+    "question": "¿Qué proceso histórico describe mejor la Transición española?",
+    "optionA": "La conquista cristiana de Al-Ándalus",
+    "optionB": "El paso de la dictadura franquista a un sistema democrático",
+    "optionC": "El paso de la monarquía medieval al absolutismo",
+    "optionD": "La pérdida de las últimas colonias americanas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "Subject": "Historia de España",
+    "question": "¿Qué relación existe entre la Constitución de 1978 y las comunidades autónomas?",
+    "optionA": "La Constitución prohibió cualquier forma de autonomía territorial",
+    "optionB": "La Constitución convirtió automáticamente todas las provincias en Estados independientes",
+    "optionC": "La Constitución permitió desarrollar un Estado descentralizado mediante comunidades autónomas",
+    "optionD": "La Constitución mantuvo únicamente las regiones creadas durante la Segunda República",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "Subject": "Historia de España",
+    "question": "¿Por qué es especialmente importante el yacimiento de Atapuerca para el estudio de la Prehistoria?",
+    "optionA": "Porque contiene las primeras inscripciones romanas de Hispania",
+    "optionB": "Porque allí se fundó la primera colonia fenicia de la Península",
+    "optionC": "Porque fue la capital del reino visigodo",
+    "optionD": "Porque conserva restos humanos de gran antigüedad fundamentales para estudiar la evolución humana en Europa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 52,
+    "Subject": "Historia de España",
+    "question": "¿En qué zona de la península ibérica se desarrolló principalmente la cultura de Tartessos?",
+    "optionA": "En la cornisa cantábrica",
+    "optionB": "En el valle medio del Ebro",
+    "optionC": "En el suroeste peninsular, especialmente en torno al bajo Guadalquivir",
+    "optionD": "En el interior de la Meseta Norte",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "Subject": "Historia de España",
+    "question": "¿Qué pueblo protagonizó la resistencia de Numancia frente a Roma?",
+    "optionA": "Los visigodos",
+    "optionB": "Los fenicios",
+    "optionC": "Los almorávides",
+    "optionD": "Los celtíberos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 54,
+    "Subject": "Historia de España",
+    "question": "¿Qué decisión de Recaredo reforzó la unidad religiosa del reino visigodo?",
+    "optionA": "La expulsión de todos los hispanorromanos",
+    "optionB": "La adopción del islam como religión oficial",
+    "optionC": "Su conversión al catolicismo, oficializada en el III Concilio de Toledo",
+    "optionD": "La restauración del culto imperial romano",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo el Liber Iudiciorum en el reino visigodo?",
+    "optionA": "Reguló el comercio con las colonias americanas",
+    "optionB": "Dividió Hispania en provincias independientes",
+    "optionC": "Unificó en gran medida la legislación aplicable a godos e hispanorromanos",
+    "optionD": "Implantó el sistema feudal castellano",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "Subject": "Historia de España",
+    "question": "¿Con qué figura se asocia tradicionalmente la victoria cristiana de Covadonga?",
+    "optionA": "Alfonso X",
+    "optionB": "Fernando III",
+    "optionC": "Sancho III el Mayor",
+    "optionD": "Don Pelayo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 57,
+    "Subject": "Historia de España",
+    "question": "¿Qué era la Marca Hispánica creada por los carolingios?",
+    "optionA": "Una alianza entre los reinos de taifas",
+    "optionB": "Una ruta comercial marítima entre Castilla e Italia",
+    "optionC": "Una institución fiscal del reino visigodo",
+    "optionD": "Una zona fronteriza al sur de los Pirineos destinada a contener el avance musulmán",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 58,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran las parias en la España medieval?",
+    "optionA": "Tropas permanentes de las órdenes militares",
+    "optionB": "Impuestos pagados por los nobles a los monasterios",
+    "optionC": "Tierras comunales administradas por los concejos",
+    "optionD": "Tributos que algunos reinos de taifas pagaban a reinos cristianos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 59,
+    "Subject": "Historia de España",
+    "question": "¿Qué rey de Castilla y León conquistó Toledo en 1085?",
+    "optionA": "Fernando III",
+    "optionB": "Alfonso VIII",
+    "optionC": "Alfonso VI",
+    "optionD": "Juan II",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "Subject": "Historia de España",
+    "question": "¿Con qué monarca se relaciona la elaboración de las Siete Partidas?",
+    "optionA": "Enrique IV",
+    "optionB": "Alfonso X el Sabio",
+    "optionC": "Pedro I",
+    "optionD": "Alfonso VI",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 61,
+    "Subject": "Historia de España",
+    "question": "¿Qué problema resolvió el Compromiso de Caspe de 1412?",
+    "optionA": "La sucesión al trono de Navarra tras la muerte de Carlos III",
+    "optionB": "La sucesión al trono de la Corona de Aragón tras morir Martín I sin heredero directo",
+    "optionC": "La frontera entre Castilla y Portugal",
+    "optionD": "El reparto de América entre Castilla y Portugal",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 62,
+    "Subject": "Historia de España",
+    "question": "¿Qué hecho de 1496 completó la conquista castellana de las islas Canarias?",
+    "optionA": "La fundación de Las Palmas por los fenicios",
+    "optionB": "La cesión de Lanzarote a Francia",
+    "optionC": "La incorporación de Tenerife tras la derrota de la resistencia guanche",
+    "optionD": "La conquista de Gran Canaria por los portugueses",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "Subject": "Historia de España",
+    "question": "¿Qué establecía el Edicto de Granada de 1492 respecto a los judíos?",
+    "optionA": "La concesión de libertad religiosa plena en todos los reinos",
+    "optionB": "La expulsión de quienes no aceptaran convertirse al cristianismo",
+    "optionC": "La obligación de trasladarse exclusivamente a Navarra",
+    "optionD": "La creación de comunidades judías autónomas protegidas por la Corona",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "Subject": "Historia de España",
+    "question": "¿Cuál era una función esencial de la Casa de Contratación de Sevilla, creada en 1503?",
+    "optionA": "Controlar y organizar el comercio y la navegación con América",
+    "optionB": "Administrar las órdenes religiosas peninsulares",
+    "optionC": "Dirigir las campañas militares en Italia",
+    "optionD": "Recaudar los impuestos de la Corona de Aragón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "Subject": "Historia de España",
+    "question": "¿Quién completó la primera vuelta al mundo tras la muerte de Magallanes?",
+    "optionA": "Álvar Núñez Cabeza de Vaca",
+    "optionB": "Juan Sebastián Elcano",
+    "optionC": "Pedro de Valdivia",
+    "optionD": "Vasco Núñez de Balboa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 66,
+    "Subject": "Historia de España",
+    "question": "¿En qué territorios tuvieron especial importancia las revueltas de las Germanías durante el reinado de Carlos I?",
+    "optionA": "Extremadura y Murcia",
+    "optionB": "Navarra y País Vasco",
+    "optionC": "Galicia y Asturias",
+    "optionD": "Valencia y Mallorca",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 67,
+    "Subject": "Historia de España",
+    "question": "¿Cuál era el objetivo principal de la Armada enviada por Felipe II contra Inglaterra en 1588?",
+    "optionA": "Bloquear el comercio portugués con la India",
+    "optionB": "Facilitar una invasión de Inglaterra y derribar el gobierno de Isabel I",
+    "optionC": "Conquistar las colonias inglesas de Norteamérica",
+    "optionD": "Defender Sicilia de una invasión otomana",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "Subject": "Historia de España",
+    "question": "¿Qué grupo fue expulsado de la Monarquía Hispánica a partir de 1609?",
+    "optionA": "Los moriscos",
+    "optionB": "Los conversos portugueses exclusivamente",
+    "optionC": "Los mozárabes",
+    "optionD": "Los mudéjares medievales de Castilla",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 69,
+    "Subject": "Historia de España",
+    "question": "¿Qué pretendía la Unión de Armas impulsada por el conde-duque de Olivares?",
+    "optionA": "Que los distintos territorios de la Monarquía contribuyeran de forma más equilibrada al esfuerzo militar",
+    "optionB": "Sustituir los impuestos por donaciones voluntarias de la nobleza",
+    "optionC": "Crear una alianza militar con Inglaterra contra Francia",
+    "optionD": "Eliminar todos los ejércitos permanentes",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 70,
+    "Subject": "Historia de España",
+    "question": "¿Qué territorio cedió España a Francia mediante la Paz de los Pirineos de 1659?",
+    "optionA": "Mallorca e Ibiza",
+    "optionB": "Ceuta y Melilla",
+    "optionC": "El Rosellón y parte de la Cerdaña",
+    "optionD": "Navarra y Álava",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el Catastro de Ensenada realizado en el siglo XVIII?",
+    "optionA": "Un mapa de las rutas comerciales americanas",
+    "optionB": "Un censo exclusivamente militar",
+    "optionC": "Una gran investigación sobre población, propiedades y riqueza con fines fiscales",
+    "optionD": "Un registro de miembros de la Inquisición",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 72,
+    "Subject": "Historia de España",
+    "question": "¿Qué finalidad tenían las Sociedades Económicas de Amigos del País?",
+    "optionA": "Promover mejoras en agricultura, industria, educación y difusión de conocimientos útiles",
+    "optionB": "Organizar la defensa militar de las fronteras",
+    "optionC": "Sustituir a las universidades medievales",
+    "optionD": "Controlar las elecciones municipales",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "Subject": "Historia de España",
+    "question": "¿Qué permitió el Tratado de Fontainebleau de 1807 a las tropas francesas?",
+    "optionA": "Atravesar España para participar en la invasión de Portugal",
+    "optionB": "Expulsar a los británicos de Menorca",
+    "optionC": "Anexionar Cataluña de forma definitiva a Francia",
+    "optionD": "Ocupar Gibraltar con apoyo británico",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 74,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvieron las abdicaciones de Bayona de 1808?",
+    "optionA": "Napoleón obtuvo las renuncias de Carlos IV y Fernando VII y colocó a José Bonaparte en el trono",
+    "optionB": "Fernando VII recuperó inmediatamente el poder absoluto",
+    "optionC": "Portugal quedó incorporado a la monarquía española",
+    "optionD": "España proclamó la Primera República",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 75,
+    "Subject": "Historia de España",
+    "question": "¿Por qué tuvo especial importancia la batalla de Bailén de 1808?",
+    "optionA": "Terminó definitivamente la Guerra de la Independencia",
+    "optionB": "Provocó la captura de Napoleón",
+    "optionC": "Permitió a Francia conquistar Portugal",
+    "optionD": "Supuso una importante derrota en campo abierto de un ejército napoleónico frente a fuerzas españolas",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 76,
+    "Subject": "Historia de España",
+    "question": "¿Qué caracterizó a la guerrilla española durante la Guerra de la Independencia?",
+    "optionA": "La defensa únicamente de ciudades amuralladas",
+    "optionB": "Ataques rápidos y dispersos de grupos irregulares contra las fuerzas francesas",
+    "optionC": "El empleo exclusivo de tropas profesionales",
+    "optionD": "Grandes batallas navales en el Mediterráneo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 77,
+    "Subject": "Historia de España",
+    "question": "¿Qué hizo Fernando VII al regresar a España en 1814?",
+    "optionA": "Restauró el absolutismo y anuló la obra constitucional de Cádiz",
+    "optionB": "Proclamó una república federal",
+    "optionC": "Cedió la Corona a José Bonaparte",
+    "optionD": "Mantuvo plenamente la Constitución de 1812",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvo el pronunciamiento de Rafael del Riego en 1820?",
+    "optionA": "Expulsó definitivamente a los franceses en 1808",
+    "optionB": "Obligó a Fernando VII a restablecer la Constitución de 1812 e inició el Trienio Liberal",
+    "optionC": "Inició la Primera Guerra Carlista",
+    "optionD": "Provocó la abdicación de Isabel II",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 79,
+    "Subject": "Historia de España",
+    "question": "¿Quiénes fueron los Cien Mil Hijos de San Luis en 1823?",
+    "optionA": "Una milicia republicana de la Primera República",
+    "optionB": "Voluntarios españoles que defendieron la Constitución de 1869",
+    "optionC": "Un ejército francés enviado para restaurar el poder absoluto de Fernando VII",
+    "optionD": "Tropas británicas que combatieron contra Napoleón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 80,
+    "Subject": "Historia de España",
+    "question": "¿Con qué objetivo principal se creó la Guardia Civil en 1844?",
+    "optionA": "Mejorar la seguridad y el orden público, especialmente en zonas rurales y caminos",
+    "optionB": "Gestionar la red ferroviaria",
+    "optionC": "Organizar el sistema educativo nacional",
+    "optionD": "Sustituir al ejército en las guerras carlistas",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 81,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la línea Barcelona-Mataró inaugurada en 1848?",
+    "optionA": "Unió por primera vez Madrid con Francia",
+    "optionB": "Fue la primera línea de metro de España",
+    "optionC": "Fue construida exclusivamente para uso militar",
+    "optionD": "Fue la primera línea ferroviaria de la España peninsular",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 82,
+    "Subject": "Historia de España",
+    "question": "¿Qué rasgo democrático destacó en la Constitución española de 1869?",
+    "optionA": "La supresión de todos los derechos individuales",
+    "optionB": "El reconocimiento del sufragio universal masculino",
+    "optionC": "El establecimiento de una monarquía absoluta",
+    "optionD": "La prohibición de la libertad de cultos",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "Subject": "Historia de España",
+    "question": "¿Quién fundó el Partido Socialista Obrero Español en 1879 junto a un grupo de trabajadores e intelectuales?",
+    "optionA": "Práxedes Mateo Sagasta",
+    "optionB": "Emilio Castelar",
+    "optionC": "Antonio Maura",
+    "optionD": "Pablo Iglesias Posse",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 84,
+    "Subject": "Historia de España",
+    "question": "¿Qué organización sindical vinculada históricamente al socialismo se fundó en Barcelona en 1888?",
+    "optionA": "Solidaridad de Obreros Vascos",
+    "optionB": "La Confederación Nacional del Trabajo (CNT)",
+    "optionC": "Comisiones Obreras (CCOO)",
+    "optionD": "La Unión General de Trabajadores (UGT)",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 85,
+    "Subject": "Historia de España",
+    "question": "¿Qué desencadenó de forma inmediata la Semana Trágica de Barcelona de 1909?",
+    "optionA": "La movilización de reservistas para la guerra de Marruecos",
+    "optionB": "La subida al trono de Alfonso XIII",
+    "optionC": "La proclamación de la Segunda República",
+    "optionD": "La pérdida de Cuba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 86,
+    "Subject": "Historia de España",
+    "question": "¿Qué tres dimensiones confluyeron en la crisis española de 1917?",
+    "optionA": "Una crisis religiosa, una colonial americana y una sucesoria",
+    "optionB": "Una crisis exclusivamente agraria",
+    "optionC": "Una crisis militar, otra política y una fuerte conflictividad social",
+    "optionD": "Una guerra civil, una invasión extranjera y una revolución colonial",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 87,
+    "Subject": "Historia de España",
+    "question": "¿Qué buscaban los participantes en el Pacto de San Sebastián de 1930?",
+    "optionA": "Defender la continuidad del turno pacífico",
+    "optionB": "Coordinar a las fuerzas republicanas para favorecer el fin de la monarquía de Alfonso XIII",
+    "optionC": "Restaurar la dictadura de Primo de Rivera",
+    "optionD": "Organizar la entrada de España en la Sociedad de Naciones",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 88,
+    "Subject": "Historia de España",
+    "question": "¿Cuál era uno de los objetivos centrales de la reforma agraria aprobada durante la Segunda República en 1932?",
+    "optionA": "Devolver los señoríos jurisdiccionales a la nobleza",
+    "optionB": "Facilitar el asentamiento de campesinos en determinadas grandes propiedades insuficientemente explotadas",
+    "optionC": "Eliminar la agricultura de regadío",
+    "optionD": "Colectivizar inmediatamente toda la tierra española",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 89,
+    "Subject": "Historia de España",
+    "question": "¿Qué permitió el Estatuto de Autonomía de Cataluña aprobado en 1932?",
+    "optionA": "El establecimiento de instituciones autonómicas catalanas dentro de la República",
+    "optionB": "La independencia de Cataluña",
+    "optionC": "La incorporación de Cataluña a Francia",
+    "optionD": "La desaparición de la Generalitat",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "Subject": "Historia de España",
+    "question": "¿Dónde tuvo su principal foco la insurrección revolucionaria de octubre de 1934?",
+    "optionA": "En Baleares",
+    "optionB": "En Canarias",
+    "optionC": "En Galicia",
+    "optionD": "En Asturias",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 91,
+    "Subject": "Historia de España",
+    "question": "¿Qué era el Frente Popular que ganó las elecciones de febrero de 1936?",
+    "optionA": "Una coalición electoral de partidos de izquierda y republicanos",
+    "optionB": "Una alianza entre monárquicos y carlistas",
+    "optionC": "Una organización militar formada durante la Guerra Civil",
+    "optionD": "Un sindicato único creado por el Estado",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 92,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la batalla del Ebro de 1938?",
+    "optionA": "Fue una gran ofensiva republicana cuyo fracaso debilitó decisivamente a la República",
+    "optionB": "Permitió a la República conquistar Madrid",
+    "optionC": "Provocó la entrada militar de Francia en la guerra",
+    "optionD": "Fue la primera batalla de la Guerra Civil",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "Subject": "Historia de España",
+    "question": "¿Qué fuerza aérea alemana participó en el bombardeo de Guernica en 1937?",
+    "optionA": "La RAF",
+    "optionB": "La Luftflotte Mediterránea británica",
+    "optionC": "La Escuadrilla Azul",
+    "optionD": "La Legión Cóndor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 94,
+    "Subject": "Historia de España",
+    "question": "¿Para qué servían las cartillas de racionamiento durante la posguerra franquista?",
+    "optionA": "Para permitir el acceso gratuito al ferrocarril",
+    "optionB": "Para controlar la distribución de alimentos y productos escasos",
+    "optionC": "Para asignar viviendas de vacaciones",
+    "optionD": "Para registrar el derecho de voto",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "Subject": "Historia de España",
+    "question": "¿Qué obtuvo Estados Unidos mediante los Pactos de Madrid firmados con España en 1953?",
+    "optionA": "La soberanía sobre las islas Canarias",
+    "optionB": "La cesión definitiva de Ceuta y Melilla",
+    "optionC": "El uso de instalaciones militares en territorio español a cambio de ayuda económica y militar",
+    "optionD": "El control de la política exterior española",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "Subject": "Historia de España",
+    "question": "¿Qué acontecimiento de 1955 reflejó la progresiva salida de España del aislamiento internacional de la posguerra?",
+    "optionA": "La adopción del euro",
+    "optionB": "Su incorporación a la Comunidad Económica Europea",
+    "optionC": "Su ingreso en la Organización de las Naciones Unidas",
+    "optionD": "Su entrada en la OTAN",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio social acompañó al fuerte crecimiento económico español de los años sesenta?",
+    "optionA": "Un intenso éxodo rural hacia las ciudades y áreas industriales",
+    "optionB": "La reducción general de la población de las grandes ciudades",
+    "optionC": "El retorno masivo de población urbana al campo",
+    "optionD": "La desaparición del turismo internacional",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvieron las elecciones generales del 15 de junio de 1977?",
+    "optionA": "Aprobaron directamente la Constitución de 1978",
+    "optionB": "Fueron las primeras elecciones democráticas generales celebradas en España desde la Segunda República",
+    "optionC": "Fueron las primeras elecciones españolas con sufragio masculino",
+    "optionD": "Proclamaron a Juan Carlos I como rey",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "Subject": "Historia de España",
+    "question": "¿Cuál era uno de los principales objetivos de los Pactos de la Moncloa de 1977?",
+    "optionA": "Preparar la entrada inmediata de España en el euro",
+    "optionB": "Restablecer el sistema de partido único",
+    "optionC": "Contener la grave inflación y favorecer la estabilidad económica y política de la Transición",
+    "optionD": "Suspender las elecciones generales",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 100,
+    "Subject": "Historia de España",
+    "question": "¿Qué decidió el referéndum celebrado en España en 1986 sobre la OTAN?",
+    "optionA": "La incorporación de España al Pacto de Varsovia",
+    "optionB": "La permanencia de España en la organización",
+    "optionC": "La salida inmediata de España de la organización",
+    "optionD": "La creación de un ejército europeo independiente",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tienen las pinturas rupestres de la cueva de Altamira?",
+    "optionA": "Demuestran la presencia visigoda en la cornisa cantábrica",
+    "optionB": "Constituyen uno de los conjuntos de arte paleolítico más destacados de Europa",
+    "optionC": "Representan la primera ciudad amurallada de la Península",
+    "optionD": "Son el primer ejemplo de escritura latina de Hispania",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 102,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio fundamental caracteriza la revolución neolítica en la península ibérica?",
+    "optionA": "La aparición del cristianismo",
+    "optionB": "El paso progresivo de una economía cazadora-recolectora a otra basada en agricultura y ganadería",
+    "optionC": "La sustitución del bronce por el hierro",
+    "optionD": "La conquista romana de las comunidades indígenas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 103,
+    "Subject": "Historia de España",
+    "question": "¿Quién fue Viriato en el contexto de la conquista romana de Hispania?",
+    "optionA": "Un general cartaginés derrotado en Numancia",
+    "optionB": "Un caudillo lusitano que dirigió una prolongada resistencia contra Roma",
+    "optionC": "Un gobernador romano que fundó Emerita Augusta",
+    "optionD": "Un rey visigodo convertido al catolicismo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 104,
+    "Subject": "Historia de España",
+    "question": "¿Qué función cumplían principalmente las calzadas romanas en Hispania?",
+    "optionA": "Sustituían a los acueductos en el abastecimiento de agua",
+    "optionB": "Servían exclusivamente como fronteras provinciales",
+    "optionC": "Facilitaban el movimiento de tropas, personas y mercancías y conectaban las ciudades",
+    "optionD": "Separaban jurídicamente a romanos e indígenas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 105,
+    "Subject": "Historia de España",
+    "question": "¿Qué ciudad romana fue fundada para veteranos de las guerras cántabras y llegó a ser capital de Lusitania?",
+    "optionA": "Tarraco, la actual Tarragona",
+    "optionB": "Emerita Augusta, la actual Mérida",
+    "optionC": "Hispalis, la actual Sevilla",
+    "optionD": "Caesaraugusta, la actual Zaragoza",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 106,
+    "Subject": "Historia de España",
+    "question": "¿Qué pueblo germánico estableció inicialmente un reino en el noroeste peninsular tras la caída del Imperio romano de Occidente?",
+    "optionA": "Los francos",
+    "optionB": "Los suevos",
+    "optionC": "Los ostrogodos",
+    "optionD": "Los lombardos",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "Subject": "Historia de España",
+    "question": "¿Quién fundó el Emirato independiente de Córdoba en 756?",
+    "optionA": "Abderramán III",
+    "optionB": "Almanzor",
+    "optionC": "Abderramán I",
+    "optionD": "Yusuf ibn Tasufin",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "Subject": "Historia de España",
+    "question": "¿Qué función tenía Medina Azahara, construida cerca de Córdoba en el siglo X?",
+    "optionA": "Fue una ciudad palatina vinculada al poder del Califato de Córdoba",
+    "optionB": "Fue el principal puerto comercial de Castilla",
+    "optionC": "Fue la capital del reino nazarí de Granada",
+    "optionD": "Fue una fortaleza cristiana de la Corona de Aragón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 109,
+    "Subject": "Historia de España",
+    "question": "¿Por qué destacó Almanzor a finales del siglo X?",
+    "optionA": "Por conquistar Granada para los Reyes Católicos",
+    "optionB": "Por fundar el reino de Asturias",
+    "optionC": "Por proclamar la independencia del emirato de Córdoba",
+    "optionD": "Por dirigir numerosas campañas militares contra los reinos cristianos desde el poder cordobés",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 110,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran los mozárabes en Al-Ándalus?",
+    "optionA": "Musulmanes convertidos al cristianismo tras 1492",
+    "optionB": "Guerreros bereberes llegados con los almorávides",
+    "optionC": "Judíos expulsados de Castilla",
+    "optionD": "Cristianos que vivían bajo dominio musulmán y conservaron su religión",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 111,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo el Camino de Santiago en la Edad Media peninsular?",
+    "optionA": "Favoreció los intercambios religiosos, culturales y económicos con el resto de Europa",
+    "optionB": "Aisló a los reinos cristianos de las influencias europeas",
+    "optionC": "Sustituyó completamente a las rutas marítimas mediterráneas",
+    "optionD": "Fue una ruta creada para transportar metales a Roma",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran los fueros concedidos a muchas villas medievales?",
+    "optionA": "Tratados entre Castilla y Portugal para fijar fronteras",
+    "optionB": "Órdenes religiosas encargadas de administrar monasterios",
+    "optionC": "Normas y privilegios que regulaban derechos, obligaciones y organización local",
+    "optionD": "Impuestos extraordinarios destinados exclusivamente a financiar cruzadas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "Subject": "Historia de España",
+    "question": "¿Qué rey de Castilla conquistó Sevilla en 1248?",
+    "optionA": "Enrique II",
+    "optionB": "Sancho IV",
+    "optionC": "Alfonso XI",
+    "optionD": "Fernando III el Santo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 114,
+    "Subject": "Historia de España",
+    "question": "¿Qué orientación tuvo la expansión de la Corona de Aragón durante la Baja Edad Media?",
+    "optionA": "Una expansión prioritaria hacia el norte de África atlántico",
+    "optionB": "La conquista sistemática de la Meseta castellana",
+    "optionC": "Una importante proyección política y comercial por el Mediterráneo",
+    "optionD": "El abandono del comercio marítimo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 115,
+    "Subject": "Historia de España",
+    "question": "¿Qué dinastía llegó al trono de Castilla tras la guerra civil entre Pedro I y Enrique de Trastámara?",
+    "optionA": "La dinastía Trastámara",
+    "optionB": "La dinastía Omeya",
+    "optionC": "La dinastía Nazarí",
+    "optionD": "La dinastía Borbón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 116,
+    "Subject": "Historia de España",
+    "question": "¿Qué institución creada por los Reyes Católicos perseguía principalmente la uniformidad religiosa entre los cristianos?",
+    "optionA": "La Santa Hermandad",
+    "optionB": "El Tribunal de la Inquisición",
+    "optionC": "El Consejo de Indias",
+    "optionD": "La Casa de Contratación",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "Subject": "Historia de España",
+    "question": "¿Qué territorio peninsular fue incorporado a la Corona de Castilla en 1512 durante el reinado de Fernando el Católico?",
+    "optionA": "El Rosellón",
+    "optionB": "La mayor parte del reino de Navarra al sur de los Pirineos",
+    "optionC": "El principado de Andorra",
+    "optionD": "El reino de Portugal",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "Subject": "Historia de España",
+    "question": "¿Por qué reunió Carlos I una monarquía de dimensiones europeas y americanas?",
+    "optionA": "Porque conquistó Francia y Alemania en una única campaña",
+    "optionB": "Porque heredó territorios de las casas de Trastámara, Borgoña y Habsburgo, además de las posesiones americanas",
+    "optionC": "Porque fue elegido rey de Inglaterra",
+    "optionD": "Porque Portugal le cedió voluntariamente todas sus colonias",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "Subject": "Historia de España",
+    "question": "¿Qué función tenía el Consejo de Indias en la Monarquía Hispánica?",
+    "optionA": "Administrar exclusivamente la Corona de Aragón",
+    "optionB": "Organizar las ferias ganaderas de Castilla",
+    "optionC": "Dirigir la política religiosa en los Países Bajos",
+    "optionD": "Asesorar al monarca y participar en el gobierno y administración de los territorios americanos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 120,
+    "Subject": "Historia de España",
+    "question": "¿Qué acontecimiento permitió a Felipe II convertirse en rey de Portugal en 1580?",
+    "optionA": "La victoria española en Lepanto",
+    "optionB": "La expulsión de los moriscos",
+    "optionC": "La firma del Tratado de Utrecht",
+    "optionD": "La crisis sucesoria portuguesa tras la muerte sin heredero directo del rey Sebastián y de su sucesor Enrique",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 121,
+    "Subject": "Historia de España",
+    "question": "¿Qué edificio simboliza especialmente el poder y la religiosidad de la monarquía de Felipe II?",
+    "optionA": "La Alhambra de Granada",
+    "optionB": "El palacio de la Aljafería",
+    "optionC": "La catedral de Santiago",
+    "optionD": "El monasterio de San Lorenzo de El Escorial",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 122,
+    "Subject": "Historia de España",
+    "question": "¿Qué fueron los validos durante buena parte del siglo XVII?",
+    "optionA": "Jueces encargados exclusivamente de la Inquisición",
+    "optionB": "Representantes elegidos por sufragio en las Cortes",
+    "optionC": "Personas de máxima confianza del rey que ejercían una gran influencia en el gobierno",
+    "optionD": "Gobernadores de las ciudades americanas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió en Cataluña en 1640 durante el reinado de Felipe IV?",
+    "optionA": "Se proclamó el Califato de Barcelona",
+    "optionB": "Cataluña fue conquistada por Portugal",
+    "optionC": "Comenzó la Primera Guerra Carlista",
+    "optionD": "Se produjo una rebelión contra la política de la Monarquía, conocida como Guerra dels Segadors",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 124,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvo la rebelión portuguesa iniciada en 1640?",
+    "optionA": "Terminó conduciendo al reconocimiento de la independencia de Portugal respecto de la Monarquía Hispánica",
+    "optionB": "Portugal perdió Brasil a favor de España",
+    "optionC": "Felipe IV trasladó la corte a Lisboa",
+    "optionD": "Portugal quedó integrado definitivamente en Castilla",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 125,
+    "Subject": "Historia de España",
+    "question": "¿Qué batalla de 1643 se considera un símbolo del declive de la hegemonía militar española en Europa?",
+    "optionA": "Almansa",
+    "optionB": "Covadonga",
+    "optionC": "Rocroi",
+    "optionD": "Bailén",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia territorial tuvo para España el Tratado de Utrecht de 1713?",
+    "optionA": "La recuperación de Portugal",
+    "optionB": "La incorporación de Gibraltar a la Corona española",
+    "optionC": "La anexión de Sicilia a Castilla de forma permanente",
+    "optionD": "La cesión de Gibraltar y Menorca a Gran Bretaña, entre otros cambios territoriales",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 127,
+    "Subject": "Historia de España",
+    "question": "¿Qué dinastía reinaba en España antes de la llegada de los Borbones?",
+    "optionA": "La Casa de Trastámara exclusivamente desde 1700",
+    "optionB": "La Casa de Saboya",
+    "optionC": "La Casa de Austria o Habsburgo",
+    "optionD": "La Casa de Hannover",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "Subject": "Historia de España",
+    "question": "¿Qué rey español es uno de los principales representantes del reformismo ilustrado del siglo XVIII?",
+    "optionA": "Carlos III",
+    "optionB": "Alfonso XII",
+    "optionC": "Fernando VII",
+    "optionD": "Carlos II",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 129,
+    "Subject": "Historia de España",
+    "question": "¿Qué provocó el motín de Esquilache de 1766?",
+    "optionA": "Una combinación de malestar por el precio de los alimentos y rechazo a determinadas reformas impulsadas por el gobierno",
+    "optionB": "La invasión napoleónica de Madrid",
+    "optionC": "La abolición de la Constitución de Cádiz",
+    "optionD": "La pérdida de las colonias americanas",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 130,
+    "Subject": "Historia de España",
+    "question": "¿Qué monarca español abdicó en favor de su hijo Fernando VII durante el motín de Aranjuez de 1808?",
+    "optionA": "Carlos IV",
+    "optionB": "Isabel II",
+    "optionC": "Carlos III",
+    "optionD": "Alfonso XII",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "Subject": "Historia de España",
+    "question": "¿Qué función desempeñaron las juntas durante la Guerra de la Independencia?",
+    "optionA": "Administraron las colonias británicas en España",
+    "optionB": "Sustituyeron definitivamente a las Cortes tras 1814",
+    "optionC": "Eran unidades militares francesas de ocupación",
+    "optionD": "Organizaron el poder y la resistencia en territorios que no reconocían a José Bonaparte",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 132,
+    "Subject": "Historia de España",
+    "question": "¿Qué proceso afectó a la mayor parte del imperio español en América durante el reinado de Fernando VII?",
+    "optionA": "La independencia de la mayoría de las colonias españolas continentales",
+    "optionB": "La reunificación política con Portugal",
+    "optionC": "La incorporación de Brasil a España",
+    "optionD": "La expansión española por Norteamérica",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 133,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo tenía la Pragmática Sanción promulgada por Fernando VII en 1830?",
+    "optionA": "Reconocer la independencia de Cuba",
+    "optionB": "Permitir que su hija pudiera heredar el trono al eliminar el impedimento sucesorio vigente",
+    "optionC": "Abolir todas las órdenes religiosas",
+    "optionD": "Restablecer la Constitución de 1812",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 134,
+    "Subject": "Historia de España",
+    "question": "¿Qué general fue una figura clave del Partido Moderado y presidió varios gobiernos durante el reinado de Isabel II?",
+    "optionA": "Emilio Castelar",
+    "optionB": "Ramón María Narváez",
+    "optionC": "Baldomero Espartero",
+    "optionD": "Juan Prim",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "Subject": "Historia de España",
+    "question": "¿Qué periodo político se conoce como Bienio Progresista?",
+    "optionA": "Los años 1808-1810 durante la ocupación francesa",
+    "optionB": "Los años 1931-1933 de la Segunda República",
+    "optionC": "Los años 1854-1856, cuando los progresistas tuvieron un papel central en el gobierno",
+    "optionD": "Los años 1873-1874 de la Primera República",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 136,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la rebelión cantonal de 1873?",
+    "optionA": "Una sublevación absolutista encabezada por Fernando VII",
+    "optionB": "Una protesta contra el ferrocarril en Cataluña",
+    "optionC": "Un movimiento que defendió la formación inmediata de cantones autónomos durante la Primera República",
+    "optionD": "Una revuelta colonial ocurrida en Cuba",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "Subject": "Historia de España",
+    "question": "¿Qué Constitución sirvió de marco político principal durante la Restauración borbónica?",
+    "optionA": "La Constitución de 1869 hasta 1931",
+    "optionB": "La Constitución de 1812",
+    "optionC": "La Constitución de 1931",
+    "optionD": "La Constitución de 1876",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 138,
+    "Subject": "Historia de España",
+    "question": "¿Qué defendía principalmente el movimiento obrero anarquista que ganó influencia en España a finales del siglo XIX y comienzos del XX?",
+    "optionA": "La creación de un imperio colonial en África",
+    "optionB": "El fortalecimiento del sistema caciquil",
+    "optionC": "La restauración del absolutismo",
+    "optionD": "La transformación radical de la sociedad y el rechazo del Estado y de la autoridad política",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 139,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Institución Libre de Enseñanza, fundada en 1876?",
+    "optionA": "Un sindicato agrario de Andalucía",
+    "optionB": "Una academia militar creada por Alfonso XIII",
+    "optionC": "Una institución encargada de censurar libros",
+    "optionD": "Un proyecto educativo que defendía una enseñanza renovadora, laica y basada en la libertad de cátedra",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 140,
+    "Subject": "Historia de España",
+    "question": "¿Qué estableció España junto con Francia en Marruecos en 1912?",
+    "optionA": "Un protectorado sobre distintas zonas del territorio marroquí",
+    "optionB": "Una república independiente bajo protección británica",
+    "optionC": "Una unión aduanera con el Imperio otomano",
+    "optionD": "Una colonia conjunta sobre Argelia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 141,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo el desembarco de Alhucemas de 1925?",
+    "optionA": "Fue una operación decisiva para derrotar a la resistencia rifeña en la guerra de Marruecos",
+    "optionB": "Supuso la ocupación francesa de Madrid",
+    "optionC": "Dio comienzo a la Guerra Civil",
+    "optionD": "Provocó la pérdida española de Cuba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 142,
+    "Subject": "Historia de España",
+    "question": "¿Qué se conoce como la 'Dictablanda' de Dámaso Berenguer?",
+    "optionA": "El intento de retornar gradualmente a la normalidad constitucional tras la dictadura de Primo de Rivera",
+    "optionB": "La fase más represiva de la dictadura franquista",
+    "optionC": "La primera etapa de la Guerra Civil",
+    "optionD": "El gobierno provisional de la Segunda República",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 143,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Sanjurjada de agosto de 1932?",
+    "optionA": "Una protesta estudiantil contra Primo de Rivera",
+    "optionB": "Una ofensiva republicana durante la Guerra Civil",
+    "optionC": "Un intento fallido de golpe de Estado contra la Segunda República encabezado por el general Sanjurjo",
+    "optionD": "Una huelga general organizada en Asturias",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran las Brigadas Internacionales durante la Guerra Civil?",
+    "optionA": "Tropas alemanas integradas en el ejército sublevado",
+    "optionB": "Milicias portuguesas neutrales desplegadas en la frontera",
+    "optionC": "Unidades formadas en gran parte por voluntarios extranjeros que combatieron en apoyo de la República",
+    "optionD": "Unidades francesas destinadas a ocupar Cataluña",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 145,
+    "Subject": "Historia de España",
+    "question": "¿Qué fecha marca oficialmente el final de la Guerra Civil española?",
+    "optionA": "El 1 de abril de 1939",
+    "optionB": "El 18 de julio de 1936",
+    "optionC": "El 14 de abril de 1931",
+    "optionD": "El 20 de noviembre de 1975",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "Subject": "Historia de España",
+    "question": "¿Qué establecía la Ley de Sucesión en la Jefatura del Estado de 1947?",
+    "optionA": "Definía España como reino y permitía a Franco proponer a su sucesor a título de rey o regente",
+    "optionB": "Convertía España en una república presidencialista",
+    "optionC": "Introducía elecciones democráticas para elegir al jefe del Estado",
+    "optionD": "Restauraba inmediatamente a Juan de Borbón como rey",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 147,
+    "Subject": "Historia de España",
+    "question": "¿Qué acuerdo firmado en 1953 reforzó las relaciones entre el régimen franquista y la Iglesia católica?",
+    "optionA": "El Tratado de Maastricht",
+    "optionB": "El Concordato con la Santa Sede",
+    "optionC": "Los Pactos de la Moncloa",
+    "optionD": "El Tratado de Roma",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió con Luis Carrero Blanco en diciembre de 1973?",
+    "optionA": "Negoció la entrada de España en la CEE",
+    "optionB": "Murió en un atentado de ETA cuando era presidente del Gobierno",
+    "optionC": "Sucedió a Franco como jefe del Estado",
+    "optionD": "Fue elegido presidente en las primeras elecciones democráticas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "Subject": "Historia de España",
+    "question": "¿Qué decisión tomó España respecto al Sáhara Occidental en 1975?",
+    "optionA": "Lo incorporó de forma definitiva a Canarias",
+    "optionB": "Lo convirtió en una nueva comunidad autónoma",
+    "optionC": "Inició su retirada del territorio en el contexto de los Acuerdos de Madrid y la Marcha Verde",
+    "optionD": "Lo cedió íntegramente a Francia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio político simbolizaron las elecciones generales de 1982?",
+    "optionA": "La salida de España de la Comunidad Económica Europea",
+    "optionB": "La llegada del PSOE al Gobierno con mayoría absoluta, consolidando la alternancia democrática",
+    "optionC": "El regreso de la dictadura militar",
+    "optionD": "La proclamación de la Tercera República",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 151,
+    "Subject": "Historia de España",
+    "question": "¿Qué caracteriza al yacimiento prehistórico de Los Millares, en Almería?",
+    "optionA": "Fue una colonia comercial griega de época clásica",
+    "optionB": "Fue un importante asentamiento fortificado de la Edad del Cobre",
+    "optionC": "Fue la capital del reino visigodo antes de Toledo",
+    "optionD": "Fue una ciudad romana especializada en la minería del oro",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 152,
+    "Subject": "Historia de España",
+    "question": "¿Con qué etapa de la Prehistoria peninsular se relaciona principalmente la cultura de El Argar?",
+    "optionA": "Con la romanización de la Meseta",
+    "optionB": "Con la expansión fenicia del primer milenio a. C.",
+    "optionC": "Con la Edad del Bronce en el sureste de la península ibérica",
+    "optionD": "Con el Paleolítico superior de la cornisa cantábrica",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 153,
+    "Subject": "Historia de España",
+    "question": "¿Qué ciudad actual tiene su origen en la Qart Hadasht fundada por los cartagineses?",
+    "optionA": "Cartagena",
+    "optionB": "Málaga",
+    "optionC": "Tarragona",
+    "optionD": "Zaragoza",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 154,
+    "Subject": "Historia de España",
+    "question": "¿Qué conflicto entre Roma y Cartago llevó a los romanos a intervenir militarmente en la península ibérica en 218 a. C.?",
+    "optionA": "La Primera Guerra Mitridática",
+    "optionB": "La Guerra de las Galias",
+    "optionC": "La Segunda Guerra Púnica",
+    "optionD": "La Guerra de Numancia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "Subject": "Historia de España",
+    "question": "¿Cómo dividió inicialmente Roma sus territorios hispanos tras consolidar su presencia en la Península?",
+    "optionA": "En Hispania Citerior e Hispania Ulterior",
+    "optionB": "En condados autónomos dirigidos por pueblos indígenas",
+    "optionC": "En Bética, Lusitania y Tarraconense desde el primer momento",
+    "optionD": "En Gallaecia y Cartaginense únicamente",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 156,
+    "Subject": "Historia de España",
+    "question": "¿Qué producto de Hispania fue exportado masivamente a Roma desde la provincia Bética?",
+    "optionA": "Té",
+    "optionB": "Aceite de oliva",
+    "optionC": "Azúcar de caña americano",
+    "optionD": "Café",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "Subject": "Historia de España",
+    "question": "¿Qué logró el rey visigodo Leovigildo al conquistar el reino suevo en 585?",
+    "optionA": "Dividió el reino visigodo en dos Estados independientes",
+    "optionB": "Amplió el control visigodo sobre el noroeste de la Península",
+    "optionC": "Conquistó el sur de la Galia a los francos",
+    "optionD": "Expulsó definitivamente a los musulmanes de Hispania",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "Subject": "Historia de España",
+    "question": "¿Por qué es relevante Isidoro de Sevilla en la cultura de la Hispania visigoda?",
+    "optionA": "Por fundar la primera universidad castellana",
+    "optionB": "Por dirigir la conquista musulmana de Toledo",
+    "optionC": "Por redactar la Constitución de Cádiz",
+    "optionD": "Por obras como las Etimologías, que recopilaron gran parte del saber de la Antigüedad",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 159,
+    "Subject": "Historia de España",
+    "question": "¿Con qué jefe militar musulmán se relaciona el desembarco de 711 cerca del estrecho de Gibraltar?",
+    "optionA": "Tariq ibn Ziyad",
+    "optionB": "Muhammad XII Boabdil",
+    "optionC": "Abderramán III",
+    "optionD": "Yusuf ibn Tasufin",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 160,
+    "Subject": "Historia de España",
+    "question": "¿Qué transformación agrícola se asocia al desarrollo de Al-Ándalus?",
+    "optionA": "La expansión de sistemas de regadío y de nuevos cultivos en numerosas zonas",
+    "optionB": "La sustitución completa de la agricultura por la ganadería",
+    "optionC": "La desaparición de la agricultura de regadío",
+    "optionD": "La prohibición del cultivo de frutas y hortalizas",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "Subject": "Historia de España",
+    "question": "¿Qué monumento sevillano comenzó siendo el alminar de la gran mezquita construida en época almohade?",
+    "optionA": "La Torre de Hércules",
+    "optionB": "La catedral de Burgos",
+    "optionC": "La Giralda",
+    "optionD": "El acueducto de Segovia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 162,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió en la batalla de Sagrajas o Zalaca de 1086?",
+    "optionA": "Los Reyes Católicos conquistaron Granada",
+    "optionB": "Fernando III conquistó Sevilla",
+    "optionC": "Los almorávides derrotaron al ejército de Alfonso VI",
+    "optionD": "Los almohades fueron derrotados definitivamente en 1212",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 163,
+    "Subject": "Historia de España",
+    "question": "¿Qué dinastía musulmana construyó la mayor parte de los palacios de la Alhambra de Granada?",
+    "optionA": "La dinastía almorávide",
+    "optionB": "La dinastía abasí",
+    "optionC": "La dinastía nazarí",
+    "optionD": "La dinastía omeya de Damasco",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "Subject": "Historia de España",
+    "question": "¿Qué significa 'repoblación' en el contexto de la expansión medieval de los reinos cristianos peninsulares?",
+    "optionA": "La fundación de colonias españolas en América",
+    "optionB": "La expulsión de todos los habitantes de las ciudades conquistadas",
+    "optionC": "El traslado de la corte castellana a ciudades fronterizas",
+    "optionD": "El asentamiento y organización de población en territorios incorporados a los reinos cristianos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 165,
+    "Subject": "Historia de España",
+    "question": "¿Qué unión dinástica está en el origen de la Corona de Aragón en el siglo XII?",
+    "optionA": "La unión de Petronila de Aragón con Ramón Berenguer IV, conde de Barcelona",
+    "optionB": "La unión de Alfonso VI con la reina de Portugal",
+    "optionC": "El matrimonio de Isabel de Castilla con Fernando de Aragón",
+    "optionD": "El enlace de Juana I con Felipe de Habsburgo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 166,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió en 1230 con Fernando III?",
+    "optionA": "Se convirtió en califa de Córdoba",
+    "optionB": "Quedaron unidas de forma definitiva bajo su corona Castilla y León",
+    "optionC": "Creó el reino independiente de Portugal",
+    "optionD": "Disolvió la Corona de Aragón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 167,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la batalla del Salado de 1340?",
+    "optionA": "Inició la conquista romana de Hispania",
+    "optionB": "Provocó la unión de Castilla y Aragón",
+    "optionC": "Frenó una importante ofensiva benimerín procedente del norte de África",
+    "optionD": "Puso fin al reino nazarí de Granada",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 168,
+    "Subject": "Historia de España",
+    "question": "¿Qué impacto tuvo la Peste Negra que llegó a la Península a mediados del siglo XIV?",
+    "optionA": "Provocó una fuerte mortalidad y alteraciones económicas y sociales",
+    "optionB": "Acabó con todas las guerras entre reinos peninsulares",
+    "optionC": "Generó un rápido crecimiento demográfico",
+    "optionD": "Impulsó inmediatamente la industrialización urbana",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 169,
+    "Subject": "Historia de España",
+    "question": "¿Qué función desempeñó la Santa Hermandad reorganizada por los Reyes Católicos?",
+    "optionA": "Gestionar el comercio con América",
+    "optionB": "Contribuir al mantenimiento del orden y la seguridad, especialmente en zonas rurales y caminos",
+    "optionC": "Administrar exclusivamente los territorios de la Corona de Aragón",
+    "optionD": "Dirigir las universidades castellanas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 170,
+    "Subject": "Historia de España",
+    "question": "¿Qué acordaron Cristóbal Colón y los Reyes Católicos en las Capitulaciones de Santa Fe de 1492?",
+    "optionA": "Las condiciones, títulos y beneficios que recibiría Colón si tenía éxito en su expedición",
+    "optionB": "La incorporación de Navarra a Castilla",
+    "optionC": "La división de América entre Castilla y Portugal",
+    "optionD": "La expulsión de los moriscos de la Península",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 171,
+    "Subject": "Historia de España",
+    "question": "¿En qué consistía esencialmente la encomienda implantada en la América española?",
+    "optionA": "En el reparto de tierras americanas exclusivamente entre órdenes religiosas",
+    "optionB": "En la asignación a un encomendero del derecho a recibir tributos o trabajo indígena a cambio de determinadas obligaciones de protección y evangelización",
+    "optionC": "En la concesión automática de independencia política a los pueblos indígenas",
+    "optionD": "En un sistema de libre comercio sin intervención de la Corona",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "Subject": "Historia de España",
+    "question": "¿Qué pretendían regular las Leyes de Burgos de 1512?",
+    "optionA": "La sucesión a la Corona de Aragón",
+    "optionB": "El comercio entre España e Inglaterra",
+    "optionC": "Las condiciones de trabajo y trato de la población indígena en los territorios americanos",
+    "optionD": "El acceso de los nobles castellanos a las Cortes",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 173,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo tuvieron las Leyes Nuevas de 1542 respecto a la América española?",
+    "optionA": "Eliminar la autoridad de la Corona sobre América",
+    "optionB": "Implantar la esclavitud indígena de forma general",
+    "optionC": "Prohibir la fundación de nuevas ciudades",
+    "optionD": "Limitar abusos sobre los indígenas y restringir la perpetuación de las encomiendas",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 174,
+    "Subject": "Historia de España",
+    "question": "¿Qué acontecimiento culminó en 1521 con la caída de Tenochtitlan?",
+    "optionA": "La conquista del Imperio inca por Francisco Pizarro",
+    "optionB": "La conquista del Imperio mexica dirigida por Hernán Cortés y sus aliados indígenas",
+    "optionC": "La expedición de Magallanes y Elcano",
+    "optionD": "La independencia de Nueva España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 175,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió en Cajamarca en 1532 durante la conquista del Imperio inca?",
+    "optionA": "Los portugueses conquistaron Perú",
+    "optionB": "Se fundó el virreinato de Nueva España",
+    "optionC": "Hernán Cortés derrotó a Moctezuma",
+    "optionD": "Francisco Pizarro capturó al emperador Atahualpa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 176,
+    "Subject": "Historia de España",
+    "question": "¿Por qué tuvo enorme importancia económica el descubrimiento de las minas de Potosí en el siglo XVI?",
+    "optionA": "Porque sustituyeron completamente al comercio atlántico",
+    "optionB": "Porque proporcionaron la mayor parte del carbón utilizado en España",
+    "optionC": "Porque se convirtieron en una de las principales fuentes de plata del imperio español",
+    "optionD": "Porque permitieron producir seda a gran escala",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 177,
+    "Subject": "Historia de España",
+    "question": "¿Con qué debate intelectual del siglo XVI se relaciona especialmente Francisco de Vitoria y la Escuela de Salamanca?",
+    "optionA": "Con la sucesión de Carlos II",
+    "optionB": "Con la abolición de los señoríos medievales",
+    "optionC": "Con la industrialización catalana",
+    "optionD": "Con la legitimidad de la conquista y los derechos de los pueblos indígenas",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 178,
+    "Subject": "Historia de España",
+    "question": "¿Cómo se repartieron en términos generales los dominios de Carlos I tras sus abdicaciones de 1555-1556?",
+    "optionA": "Felipe II recibió la Monarquía Hispánica y otros territorios, mientras Fernando recibió los dominios austríacos y la dignidad imperial",
+    "optionB": "Felipe II recibió únicamente Castilla y Fernando toda América",
+    "optionC": "Carlos I entregó España a Francia y el Imperio a Inglaterra",
+    "optionD": "Todos los territorios pasaron íntegramente a Felipe II",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 179,
+    "Subject": "Historia de España",
+    "question": "¿Qué conflicto prolongado desafió el dominio de Felipe II en el norte de Europa?",
+    "optionA": "La rebelión de las Trece Colonias británicas",
+    "optionB": "La Guerra de Crimea",
+    "optionC": "La Guerra de los Cien Años",
+    "optionD": "La rebelión de los Países Bajos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 180,
+    "Subject": "Historia de España",
+    "question": "¿Contra qué potencia combatieron las tropas de Felipe II en la batalla de San Quintín de 1557?",
+    "optionA": "Francia",
+    "optionB": "Rusia",
+    "optionC": "Portugal",
+    "optionD": "El Imperio otomano",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "Subject": "Historia de España",
+    "question": "¿Qué supuso la Tregua de los Doce Años firmada en 1609?",
+    "optionA": "Una suspensión temporal de la guerra entre la Monarquía Hispánica y las Provincias Unidas",
+    "optionB": "La reincorporación de Portugal a la Monarquía Hispánica",
+    "optionC": "El final de la Guerra de Sucesión",
+    "optionD": "La paz definitiva entre España y Francia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 182,
+    "Subject": "Historia de España",
+    "question": "¿Qué reconoció España en la Paz de Westfalia de 1648?",
+    "optionA": "La independencia de Cataluña",
+    "optionB": "La anexión española de Francia",
+    "optionC": "La independencia de las Provincias Unidas de los Países Bajos",
+    "optionD": "La soberanía española sobre Inglaterra",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 183,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la batalla de Almansa de 1707 durante la Guerra de Sucesión?",
+    "optionA": "Fue una importante victoria borbónica que facilitó el control de Valencia y Aragón",
+    "optionB": "Permitió a Portugal ocupar Madrid",
+    "optionC": "Fue la derrota definitiva de Felipe V y el final inmediato de la guerra",
+    "optionD": "Supuso la recuperación española de Gibraltar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio introdujo Felipe V en las reglas sucesorias de la monarquía mediante el Auto Acordado de 1713?",
+    "optionA": "Implantó la elección del rey por sufragio",
+    "optionB": "Estableció que solo las hijas mayores pudieran reinar",
+    "optionC": "Prohibió que los Borbones heredaran la Corona",
+    "optionD": "Estableció una clara preferencia por los varones en la sucesión al trono",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 185,
+    "Subject": "Historia de España",
+    "question": "¿Qué decisión tomó Carlos III respecto a la Compañía de Jesús en 1767?",
+    "optionA": "Los convirtió en una orden militar",
+    "optionB": "Ordenó la expulsión de los jesuitas de los dominios de la monarquía",
+    "optionC": "Les entregó el control de todas las universidades",
+    "optionD": "Les concedió el monopolio del comercio americano",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 186,
+    "Subject": "Historia de España",
+    "question": "¿Qué efecto tuvo el Reglamento de Libre Comercio de 1778?",
+    "optionA": "Permitió únicamente a puertos extranjeros comerciar con las colonias",
+    "optionB": "Amplió el número de puertos españoles y americanos autorizados a comerciar entre sí",
+    "optionC": "Prohibió todo comercio con América",
+    "optionD": "Concedió a Cádiz un monopolio comercial aún más estricto",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 187,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia estratégica tuvo para España la batalla de Trafalgar de 1805?",
+    "optionA": "La ocupación española de Londres",
+    "optionB": "La recuperación de Gibraltar",
+    "optionC": "El final inmediato del reinado de Carlos IV",
+    "optionD": "La destrucción de gran parte de la flota combinada franco-española y el afianzamiento de la supremacía naval británica",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 188,
+    "Subject": "Historia de España",
+    "question": "¿Qué estableció el Tratado de Valençay de 1813?",
+    "optionA": "Francia incorporó Cataluña de forma permanente",
+    "optionB": "Fernando VII renunció definitivamente al trono",
+    "optionC": "España cedió Cuba a Estados Unidos",
+    "optionD": "Napoleón reconoció a Fernando VII como rey de España y se abrió el camino a su regreso",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 189,
+    "Subject": "Historia de España",
+    "question": "¿Qué consiguió el Convenio de Vergara de 1839?",
+    "optionA": "Restauró el absolutismo de Fernando VII",
+    "optionB": "Proclamó la Primera República",
+    "optionC": "Inició la Guerra de la Independencia",
+    "optionD": "Puso fin a la principal fase de la Primera Guerra Carlista en el norte mediante un acuerdo entre Espartero y Maroto",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 190,
+    "Subject": "Historia de España",
+    "question": "¿Qué rasgo definió a la Constitución española de 1837?",
+    "optionA": "Buscó una fórmula liberal de compromiso entre posiciones progresistas y moderadas",
+    "optionB": "Estableció por primera vez una república federal",
+    "optionC": "Suprimió las Cortes y todos los derechos individuales",
+    "optionD": "Restauró jurídicamente el absolutismo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 191,
+    "Subject": "Historia de España",
+    "question": "¿Qué reguló principalmente el Concordato de 1851 entre España y la Santa Sede?",
+    "optionA": "La creación de la Primera República",
+    "optionB": "Las relaciones entre el Estado y la Iglesia católica durante el reinado de Isabel II",
+    "optionC": "La entrada de España en la OTAN",
+    "optionD": "La independencia de las colonias americanas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 192,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia política tuvo el asesinato del general Juan Prim en 1870?",
+    "optionA": "Terminó la Primera Guerra Carlista",
+    "optionB": "Privó a Amadeo de Saboya de uno de sus principales apoyos antes de iniciar su reinado",
+    "optionC": "Convirtió a España en una dictadura militar permanente",
+    "optionD": "Provocó la restauración inmediata de Fernando VII",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió tras el pronunciamiento de Martínez Campos en Sagunto en diciembre de 1874?",
+    "optionA": "Se proclamó la Segunda República",
+    "optionB": "Amadeo I regresó al trono",
+    "optionC": "Comenzó la Guerra de la Independencia",
+    "optionD": "Se restauró la monarquía borbónica en la persona de Alfonso XII",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "Subject": "Historia de España",
+    "question": "¿Qué organización sindical de orientación anarcosindicalista se fundó en Barcelona en 1910?",
+    "optionA": "La Confederación Nacional del Trabajo (CNT)",
+    "optionB": "Comisiones Obreras (CCOO)",
+    "optionC": "La Unión General de Trabajadores (UGT)",
+    "optionD": "La Organización Sindical Española",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 195,
+    "Subject": "Historia de España",
+    "question": "¿Por qué tuvieron repercusión política los sucesos de Casas Viejas de 1933?",
+    "optionA": "Provocaron la proclamación inmediata de la monarquía",
+    "optionB": "La dura represión de la revuelta dañó gravemente al gobierno republicano-socialista",
+    "optionC": "Supusieron la entrada de España en la Segunda Guerra Mundial",
+    "optionD": "Dieron comienzo a la dictadura de Primo de Rivera",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "Subject": "Historia de España",
+    "question": "¿Qué creó Franco mediante el Decreto de Unificación de abril de 1937?",
+    "optionA": "Una federación de sindicatos independientes",
+    "optionB": "Un partido único, Falange Española Tradicionalista y de las JONS",
+    "optionC": "Una coalición electoral republicana",
+    "optionD": "Un parlamento democrático multipartidista",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 197,
+    "Subject": "Historia de España",
+    "question": "¿Quiénes fueron los 'maquis' en la España de la posguerra?",
+    "optionA": "Policías creados para controlar las fronteras",
+    "optionB": "Unidades de voluntarios españoles que lucharon con Alemania en Rusia",
+    "optionC": "Guerrilleros antifranquistas que mantuvieron focos de resistencia armada, especialmente en zonas rurales y montañosas",
+    "optionD": "Trabajadores emigrados a Europa durante los años sesenta",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 198,
+    "Subject": "Historia de España",
+    "question": "¿Qué finalidad tuvo la Ley Orgánica del Estado aprobada durante el franquismo en 1967?",
+    "optionA": "Aprobar la Constitución democrática vigente",
+    "optionB": "Implantar elecciones libres y pluralismo de partidos",
+    "optionC": "Reordenar e institucionalizar parte de la estructura política del régimen sin convertirlo en una democracia",
+    "optionD": "Transferir la jefatura del Estado a Juan Carlos I de forma inmediata",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 199,
+    "Subject": "Historia de España",
+    "question": "¿Qué hecho político destacado ocurrió el 9 de abril de 1977, durante la Transición?",
+    "optionA": "Se aprobó la Constitución de 1978",
+    "optionB": "Se celebró el referéndum sobre la OTAN",
+    "optionC": "España ingresó en la Comunidad Económica Europea",
+    "optionD": "El Gobierno legalizó el Partido Comunista de España",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 200,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvieron los Estatutos de Autonomía de Cataluña y del País Vasco aprobados en 1979?",
+    "optionA": "Convirtieron ambos territorios en Estados independientes",
+    "optionB": "Restauraron el sistema territorial centralista de la dictadura",
+    "optionC": "Fueron pasos fundamentales en el desarrollo del Estado autonómico previsto por la Constitución de 1978",
+    "optionD": "Suprimieron las comunidades autónomas existentes",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 201,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el Estatuto de Bayona de 1808?",
+    "optionA": "Un tratado que puso fin a la Primera Guerra Carlista",
+    "optionB": "La ley que restauró el absolutismo de Fernando VII",
+    "optionC": "Una carta otorgada impulsada por Napoleón para organizar la monarquía de José Bonaparte",
+    "optionD": "La primera constitución republicana española",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 202,
+    "Subject": "Historia de España",
+    "question": "¿A quiénes se llamó 'afrancesados' durante la Guerra de la Independencia?",
+    "optionA": "A liberales exiliados en Francia después de 1823",
+    "optionB": "A soldados franceses integrados en el ejército español",
+    "optionC": "A españoles que apoyaron o colaboraron con el régimen de José Bonaparte, a menudo por razones reformistas",
+    "optionD": "A guerrilleros que combatían exclusivamente junto al ejército británico",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "Subject": "Historia de España",
+    "question": "¿Qué defendía el Manifiesto de los Persas presentado a Fernando VII en 1814?",
+    "optionA": "La restauración del absolutismo y el rechazo de buena parte de la obra liberal de Cádiz",
+    "optionB": "La independencia de las colonias americanas",
+    "optionC": "La proclamación inmediata de una república",
+    "optionD": "La instauración del sufragio universal masculino",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 204,
+    "Subject": "Historia de España",
+    "question": "¿Qué periodo del reinado de Fernando VII se conoce como Década Ominosa?",
+    "optionA": "La regencia de María Cristina entre 1833 y 1840",
+    "optionB": "La etapa absolutista comprendida entre 1823 y 1833",
+    "optionC": "El Trienio Liberal de 1820 a 1823",
+    "optionD": "El Sexenio Democrático iniciado en 1868",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 205,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la batalla de Ayacucho de 1824 para el Imperio español?",
+    "optionA": "Inició la conquista española de Perú",
+    "optionB": "Permitió a España recuperar México",
+    "optionC": "Supuso el derrumbe decisivo del dominio militar español en la mayor parte de la América continental",
+    "optionD": "Provocó la anexión de Brasil a la monarquía española",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 206,
+    "Subject": "Historia de España",
+    "question": "¿Por qué ejerció María Cristina de Borbón la regencia a partir de 1833?",
+    "optionA": "Porque Fernando VII había sido depuesto por Napoleón",
+    "optionB": "Porque Isabel II era menor de edad cuando heredó la Corona",
+    "optionC": "Porque Alfonso XII se encontraba exiliado en Francia",
+    "optionD": "Porque Amadeo I había abdicado",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 207,
+    "Subject": "Historia de España",
+    "question": "¿Qué era el Estatuto Real de 1834?",
+    "optionA": "Una ley destinada a nacionalizar toda la propiedad agraria",
+    "optionB": "Una constitución democrática basada en el sufragio universal",
+    "optionC": "Una carta otorgada que establecía unas Cortes bicamerales con poderes limitados",
+    "optionD": "Un decreto que abolía definitivamente la monarquía",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "Subject": "Historia de España",
+    "question": "¿Quién sustituyó a María Cristina como regente de España en 1840?",
+    "optionA": "Juan Prim",
+    "optionB": "Leopoldo O'Donnell",
+    "optionC": "El general Baldomero Espartero",
+    "optionD": "Ramón María Narváez",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "Subject": "Historia de España",
+    "question": "¿Qué principio político caracterizó a la Constitución de 1845?",
+    "optionA": "Una concepción conservadora de la monarquía con soberanía compartida entre la Corona y las Cortes",
+    "optionB": "La soberanía popular ejercida mediante referéndums permanentes",
+    "optionC": "La separación completa entre Iglesia y Estado",
+    "optionD": "La instauración de una república federal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 210,
+    "Subject": "Historia de España",
+    "question": "¿Por qué se conoce como 'non nata' a la Constitución elaborada en 1856?",
+    "optionA": "Porque fue aprobada únicamente para las colonias",
+    "optionB": "Porque estuvo vigente menos de un mes",
+    "optionC": "Porque fue anulada por las Cortes antes de ser escrita",
+    "optionD": "Porque llegó a redactarse pero nunca entró en vigor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 211,
+    "Subject": "Historia de España",
+    "question": "¿Qué ámbito reguló de forma duradera la Ley Moyano de 1857?",
+    "optionA": "El servicio militar obligatorio",
+    "optionB": "La organización del sistema educativo español",
+    "optionC": "El comercio con Cuba y Filipinas",
+    "optionD": "La explotación de las minas de carbón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 212,
+    "Subject": "Historia de España",
+    "question": "¿Con qué formación política se asocia especialmente al general Leopoldo O'Donnell?",
+    "optionA": "Con la Unión Liberal",
+    "optionB": "Con el Partido Carlista",
+    "optionC": "Con la CEDA",
+    "optionD": "Con Esquerra Republicana de Catalunya",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 213,
+    "Subject": "Historia de España",
+    "question": "¿Contra qué país luchó España en la Guerra de África de 1859-1860?",
+    "optionA": "Portugal",
+    "optionB": "Francia",
+    "optionC": "Italia",
+    "optionD": "Marruecos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 214,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo compartían los firmantes del Pacto de Ostende de 1866?",
+    "optionA": "Defender la continuidad de la dictadura de Primo de Rivera",
+    "optionB": "Acabar con el reinado de Isabel II y promover un cambio político",
+    "optionC": "Restaurar el absolutismo de Fernando VII",
+    "optionD": "Impedir la independencia de las colonias americanas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "Subject": "Historia de España",
+    "question": "¿Qué función desempeñó el general Serrano tras aprobarse la Constitución de 1869?",
+    "optionA": "Dirigió la restauración de Fernando VII",
+    "optionB": "Actuó como regente mientras se buscaba un nuevo rey para España",
+    "optionC": "Presidió la Segunda República",
+    "optionD": "Fue proclamado emperador de España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 216,
+    "Subject": "Historia de España",
+    "question": "¿Cómo terminó la Tercera Guerra Carlista en 1876?",
+    "optionA": "Con la intervención militar de Napoleón III a favor de los carlistas",
+    "optionB": "Con la victoria carlista y la abdicación de Alfonso XII",
+    "optionC": "Con la proclamación de la Primera República",
+    "optionD": "Con la derrota del pretendiente Carlos VII y la consolidación de la monarquía de Alfonso XII",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 217,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió con Antonio Cánovas del Castillo en 1897?",
+    "optionA": "Murió durante la Guerra de África",
+    "optionB": "Fue asesinado por el anarquista Michele Angiolillo",
+    "optionC": "Fue depuesto por el general Primo de Rivera",
+    "optionD": "Fue elegido presidente de la Primera República",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 218,
+    "Subject": "Historia de España",
+    "question": "¿Qué reforma electoral se aprobó en España en 1890 durante un gobierno liberal de Sagasta?",
+    "optionA": "El restablecimiento del sufragio universal masculino",
+    "optionB": "La eliminación de las elecciones al Congreso",
+    "optionC": "La elección directa del rey",
+    "optionD": "El sufragio femenino",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 219,
+    "Subject": "Historia de España",
+    "question": "¿Qué defendían las Bases de Manresa de 1892?",
+    "optionA": "Un proyecto de amplia autonomía para Cataluña",
+    "optionB": "La independencia inmediata de Cuba",
+    "optionC": "La creación de una república ibérica con Portugal",
+    "optionD": "La restauración del absolutismo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 220,
+    "Subject": "Historia de España",
+    "question": "¿Quién fundó el Partido Nacionalista Vasco en 1895?",
+    "optionA": "José Canalejas",
+    "optionB": "Alejandro Lerroux",
+    "optionC": "Sabino Arana",
+    "optionD": "Francesc Cambó",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 221,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Guerra de los Diez Años iniciada en Cuba en 1868?",
+    "optionA": "Un conflicto entre Cuba y Estados Unidos sin participación española",
+    "optionB": "La primera gran guerra independentista cubana contra el dominio español",
+    "optionC": "Una guerra entre España y Portugal por Cuba",
+    "optionD": "Una rebelión carlista desarrollada en las Antillas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "Subject": "Historia de España",
+    "question": "¿Qué consiguió el Pacto de Zanjón de 1878?",
+    "optionA": "Cedió Puerto Rico a Estados Unidos",
+    "optionB": "Puso fin a la Guerra de los Diez Años en Cuba mediante concesiones, sin otorgar la independencia",
+    "optionC": "Inició la guerra hispano-estadounidense",
+    "optionD": "Reconoció la independencia inmediata de Cuba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 223,
+    "Subject": "Historia de España",
+    "question": "¿Qué finalidad tuvo el Pacto de El Pardo de 1885 entre Cánovas y Sagasta?",
+    "optionA": "Favorecer la estabilidad de la Restauración tras la muerte de Alfonso XII y durante la regencia de María Cristina",
+    "optionB": "Proclamar la Primera República",
+    "optionC": "Organizar un golpe contra Isabel II",
+    "optionD": "Acordar la independencia de Cuba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 224,
+    "Subject": "Historia de España",
+    "question": "¿Qué simbolizó la Exposición Universal de Barcelona de 1888?",
+    "optionA": "La proclamación de la República en Cataluña",
+    "optionB": "La modernización urbana y la proyección internacional de Barcelona",
+    "optionC": "La creación de la Comunidad Económica Europea",
+    "optionD": "El final de la industrialización catalana",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 225,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio se produjo en 1902 respecto a Alfonso XIII?",
+    "optionA": "Se exilió tras el golpe de Primo de Rivera",
+    "optionB": "Abdicó en favor de su hijo",
+    "optionC": "Fue elegido presidente de la República",
+    "optionD": "Comenzó su reinado efectivo al alcanzar la mayoría de edad",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 226,
+    "Subject": "Historia de España",
+    "question": "¿Qué establecía la Ley de Jurisdicciones de 1906?",
+    "optionA": "Que determinadas ofensas contra la patria o el Ejército podían ser juzgadas por la jurisdicción militar",
+    "optionB": "Que todos los delitos pasaban a ser juzgados por tribunales eclesiásticos",
+    "optionC": "Que se abolía el servicio militar obligatorio",
+    "optionD": "Que el Ejército quedaba sometido a tribunales extranjeros",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 227,
+    "Subject": "Historia de España",
+    "question": "¿Qué pretendía Antonio Maura con su idea de una 'revolución desde arriba'?",
+    "optionA": "Sustituir la monarquía por una dictadura comunista",
+    "optionB": "Reformar el sistema de la Restauración para regenerarlo antes de que una revolución lo desbordara",
+    "optionC": "Entregar el gobierno a las juntas militares",
+    "optionD": "Restaurar los privilegios feudales",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 228,
+    "Subject": "Historia de España",
+    "question": "¿Qué buscaba la llamada Ley del Candado impulsada por José Canalejas en 1910?",
+    "optionA": "Prohibir los sindicatos obreros",
+    "optionB": "Suspender las elecciones municipales",
+    "optionC": "Limitar temporalmente el establecimiento de nuevas órdenes religiosas mientras se regulaba la cuestión",
+    "optionD": "Cerrar todas las universidades públicas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 229,
+    "Subject": "Historia de España",
+    "question": "¿Qué posición adoptó España durante la Primera Guerra Mundial?",
+    "optionA": "Entró en guerra junto a Alemania",
+    "optionB": "Declaró la guerra únicamente a Italia",
+    "optionC": "Entró en guerra junto a Francia y Reino Unido",
+    "optionD": "Se mantuvo neutral",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 230,
+    "Subject": "Historia de España",
+    "question": "¿Qué efecto económico y social produjo la neutralidad española durante la Primera Guerra Mundial?",
+    "optionA": "Eliminó la inflación y redujo los precios",
+    "optionB": "Provocó el cierre casi total de las industrias españolas",
+    "optionC": "Impulsó ciertas exportaciones y beneficios empresariales, pero también inflación y fuertes tensiones sociales",
+    "optionD": "Supuso una caída inmediata de todas las exportaciones",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 231,
+    "Subject": "Historia de España",
+    "question": "¿Qué logro laboral se asocia a la huelga de La Canadiense de 1919?",
+    "optionA": "La abolición de todos los sindicatos",
+    "optionB": "La aprobación del voto femenino",
+    "optionC": "La implantación legal de la jornada laboral de ocho horas",
+    "optionD": "La creación del salario mínimo europeo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 232,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el 'pistolerismo' en la Barcelona de los años anteriores a la dictadura de Primo de Rivera?",
+    "optionA": "Una campaña militar contra Marruecos",
+    "optionB": "Una espiral de violencia entre grupos vinculados al movimiento obrero, pistoleros patronales y fuerzas del orden",
+    "optionC": "Un movimiento artístico de vanguardia",
+    "optionD": "Una organización electoral de los partidos dinásticos",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 233,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Unión Patriótica creada durante la dictadura de Primo de Rivera?",
+    "optionA": "Un partido independentista cubano",
+    "optionB": "Una coalición republicana de izquierdas",
+    "optionC": "Un sindicato anarquista clandestino",
+    "optionD": "Una organización política destinada a dar apoyo civil al régimen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 234,
+    "Subject": "Historia de España",
+    "question": "¿Qué era la Asamblea Nacional Consultiva creada por Primo de Rivera en 1927?",
+    "optionA": "Un órgano corporativo y consultivo que no funcionaba como un parlamento democrático elegido por sufragio",
+    "optionB": "Las primeras Cortes democráticas de la Segunda República",
+    "optionC": "Una cámara elegida por sufragio universal femenino",
+    "optionD": "Un consejo militar encargado de gobernar Marruecos",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 235,
+    "Subject": "Historia de España",
+    "question": "¿Qué principio religioso estableció la Constitución de la Segunda República de 1931?",
+    "optionA": "El catolicismo como única religión permitida",
+    "optionB": "La prohibición completa de cualquier práctica religiosa",
+    "optionC": "La subordinación del Estado al Vaticano",
+    "optionD": "Un Estado sin religión oficial y una clara separación entre Iglesia y Estado",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 236,
+    "Subject": "Historia de España",
+    "question": "¿Qué buscaba principalmente la reforma militar de Manuel Azaña al comienzo de la Segunda República?",
+    "optionA": "Reducir el exceso de oficiales y reforzar la subordinación del Ejército al poder civil",
+    "optionB": "Duplicar el tamaño del Ejército y su presupuesto",
+    "optionC": "Sustituir el Ejército por milicias sindicales",
+    "optionD": "Entregar el mando militar a las Cortes",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 237,
+    "Subject": "Historia de España",
+    "question": "¿Qué fueron las Misiones Pedagógicas creadas durante la Segunda República?",
+    "optionA": "Escuelas militares para formar oficiales",
+    "optionB": "Un programa para acercar educación y cultura a zonas rurales mediante bibliotecas, teatro, música y otras actividades",
+    "optionC": "Organizaciones encargadas de recaudar impuestos municipales",
+    "optionD": "Campañas de alfabetización destinadas solo a soldados",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 238,
+    "Subject": "Historia de España",
+    "question": "¿Qué significan las siglas CEDA en la política de la Segunda República?",
+    "optionA": "Confederación Española de Diputaciones Autónomas",
+    "optionB": "Coalición Electoral Democrática Agraria",
+    "optionC": "Confederación Española de Derechas Autónomas",
+    "optionD": "Comité Estatal de Defensa Antifascista",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 239,
+    "Subject": "Historia de España",
+    "question": "¿Qué caracterizó políticamente al periodo republicano de 1933 a 1935 conocido como bienio radical-cedista?",
+    "optionA": "Gobiernos presididos exclusivamente por socialistas",
+    "optionB": "La desaparición de las Cortes republicanas",
+    "optionC": "Una dictadura militar dirigida por Sanjurjo",
+    "optionD": "Gobiernos encabezados por el Partido Radical con apoyo parlamentario creciente de la CEDA",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 240,
+    "Subject": "Historia de España",
+    "question": "¿Qué decisión tomó el Gobierno de la República en noviembre de 1936 ante el avance de las tropas sublevadas hacia Madrid?",
+    "optionA": "Abandonó España y se instaló en París",
+    "optionB": "Trasladó su sede a Valencia",
+    "optionC": "Se rindió y reconoció a Franco como jefe del Estado",
+    "optionD": "Se trasladó a Lisboa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia estratégica tuvo para el bando sublevado la conquista de la zona norte republicana en 1937?",
+    "optionA": "Provocó la entrada de Francia en la guerra",
+    "optionB": "Obligó a abandonar Asturias y el País Vasco",
+    "optionC": "Le proporcionó importantes recursos industriales, mineros y humanos",
+    "optionD": "Le hizo perder el control de la producción siderúrgica",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 242,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran los Trece Puntos presentados por Juan Negrín en 1938?",
+    "optionA": "Una propuesta de condiciones políticas para intentar alcanzar una paz negociada",
+    "optionB": "Un programa para restaurar la monarquía de Alfonso XIII",
+    "optionC": "Las bases jurídicas de la dictadura franquista",
+    "optionD": "Un plan alemán para intervenir directamente en España",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 243,
+    "Subject": "Historia de España",
+    "question": "¿Qué se conoce como 'la Retirada' de 1939?",
+    "optionA": "La retirada alemana de la Legión Cóndor en 1936",
+    "optionB": "La salida de tropas italianas de Madrid en 1937",
+    "optionC": "El abandono de Marruecos por el ejército sublevado",
+    "optionD": "El éxodo masivo hacia Francia de republicanos y civiles tras la caída de Cataluña",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 244,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la División Azul durante la Segunda Guerra Mundial?",
+    "optionA": "Una división estadounidense estacionada en España",
+    "optionB": "Una guerrilla republicana que luchó en Andalucía",
+    "optionC": "La fuerza naval española enviada al Pacífico",
+    "optionD": "Una unidad de voluntarios españoles que combatió junto al ejército alemán contra la Unión Soviética",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 245,
+    "Subject": "Historia de España",
+    "question": "¿Para qué se creó el Instituto Nacional de Industria (INI) en 1941?",
+    "optionA": "Para sustituir al Banco de España",
+    "optionB": "Para privatizar inmediatamente todas las empresas públicas",
+    "optionC": "Para impulsar sectores industriales estratégicos mediante empresas promovidas o controladas por el Estado",
+    "optionD": "Para gestionar exclusivamente la agricultura",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 246,
+    "Subject": "Historia de España",
+    "question": "¿Qué significaba el 'estraperlo' en la España de la posguerra?",
+    "optionA": "El mercado negro de productos sometidos a escasez, racionamiento o controles oficiales",
+    "optionB": "Un programa estatal de vivienda",
+    "optionC": "Un impuesto especial sobre la industria",
+    "optionD": "Una organización clandestina monárquica",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 247,
+    "Subject": "Historia de España",
+    "question": "¿Qué reflejaron las protestas universitarias de 1956 en Madrid?",
+    "optionA": "La desaparición de cualquier oposición política",
+    "optionB": "La restauración de la Segunda República",
+    "optionC": "La entrada de España en la Comunidad Económica Europea",
+    "optionD": "El crecimiento de la oposición estudiantil al régimen franquista",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 248,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el llamado 'Contubernio de Múnich' de 1962 según la propaganda franquista?",
+    "optionA": "Una reunión de opositores españoles de distintas tendencias en el marco del Movimiento Europeo",
+    "optionB": "Una conspiración militar soviética para invadir España",
+    "optionC": "Una cumbre entre Franco y Hitler",
+    "optionD": "Un congreso de Falange para reformar el régimen",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 249,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio introdujo la Ley de Prensa e Imprenta de 1966 impulsada por Manuel Fraga?",
+    "optionA": "Nacionalizó todos los periódicos españoles",
+    "optionB": "Estableció una libertad de prensa plena sin restricciones",
+    "optionC": "Prohibió toda publicación privada",
+    "optionD": "Suavizó la censura previa, aunque mantuvo importantes mecanismos de control y sanción",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 250,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el Proceso de Burgos de 1970?",
+    "optionA": "Un consejo de guerra contra miembros de ETA que provocó una fuerte protesta nacional e internacional",
+    "optionB": "Una conferencia para negociar la entrada de España en la CEE",
+    "optionC": "El proceso que ilegalizó al Partido Comunista",
+    "optionD": "El juicio que condenó a los responsables del 23-F",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 251,
+    "Subject": "Historia de España",
+    "question": "¿Qué completó el Tratado de Rastatt de 1714 en relación con la Guerra de Sucesión Española?",
+    "optionA": "La unión política de España y Francia",
+    "optionB": "La reorganización territorial europea iniciada en Utrecht, transfiriendo importantes posesiones españolas en Europa a los Habsburgo",
+    "optionC": "La independencia de las colonias americanas",
+    "optionD": "La devolución de Gibraltar a España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 252,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran los Pactos de Familia firmados en el siglo XVIII?",
+    "optionA": "Tratados entre España y Portugal para repartirse América",
+    "optionB": "Acuerdos de las Cortes para limitar el poder del rey",
+    "optionC": "Pactos comerciales entre los gremios castellanos",
+    "optionD": "Alianzas entre las monarquías borbónicas de España y Francia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 253,
+    "Subject": "Historia de España",
+    "question": "¿Qué función tuvieron los intendentes en la administración borbónica del siglo XVIII?",
+    "optionA": "Gobernar las colonias con independencia de la Corona",
+    "optionB": "Dirigir exclusivamente los tribunales de la Inquisición",
+    "optionC": "Reforzar la administración territorial y la supervisión fiscal y económica de la monarquía",
+    "optionD": "Elegir a los diputados de las Cortes mediante sufragio",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 254,
+    "Subject": "Historia de España",
+    "question": "¿Con qué objetivo se creó la Real Academia Española en 1713?",
+    "optionA": "Cuidar y regular el uso de la lengua española mediante obras como el diccionario",
+    "optionB": "Controlar el comercio con América",
+    "optionC": "Formar oficiales para el Ejército",
+    "optionD": "Administrar las universidades del reino",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 255,
+    "Subject": "Historia de España",
+    "question": "¿Qué institución fundada por Felipe V en 1712 está en el origen de la actual Biblioteca Nacional de España?",
+    "optionA": "El Archivo General de Indias",
+    "optionB": "La Biblioteca Real",
+    "optionC": "La Casa de Contratación",
+    "optionD": "La Real Academia de la Historia",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 256,
+    "Subject": "Historia de España",
+    "question": "¿Cuál era uno de los principales objetivos del Canal de Castilla, iniciado en el siglo XVIII?",
+    "optionA": "Defender militarmente la frontera con Portugal",
+    "optionB": "Conectar por vía marítima Barcelona y Valencia",
+    "optionC": "Llevar agua potable a Madrid desde el Cantábrico",
+    "optionD": "Facilitar el transporte de cereales y mercancías desde el interior peninsular",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 257,
+    "Subject": "Historia de España",
+    "question": "¿Qué pretendía la colonización de Sierra Morena impulsada durante el reinado de Carlos III?",
+    "optionA": "Expulsar a la población campesina de las nuevas colonias",
+    "optionB": "Poblar zonas poco habitadas, mejorar la seguridad de las comunicaciones y fomentar la agricultura",
+    "optionC": "Crear una frontera militar frente a Portugal",
+    "optionD": "Trasladar la capital a Andalucía",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 258,
+    "Subject": "Historia de España",
+    "question": "¿Para qué impulsó la monarquía borbónica las Reales Fábricas durante el siglo XVIII?",
+    "optionA": "Para sustituir toda la producción artesanal privada",
+    "optionB": "Para financiar las órdenes religiosas",
+    "optionC": "Para fomentar manufacturas de calidad y reducir la dependencia de productos importados",
+    "optionD": "Para organizar exclusivamente la fabricación de armas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 259,
+    "Subject": "Historia de España",
+    "question": "¿Qué institución financiera fundada en 1782 se considera un antecedente del Banco de España?",
+    "optionA": "El Banco Hispano Colonial",
+    "optionB": "El Banco de San Fernando de 1829",
+    "optionC": "La Caja General de Depósitos",
+    "optionD": "El Banco Nacional de San Carlos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 260,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue el censo de Floridablanca de 1787?",
+    "optionA": "Un registro de todos los miembros de la nobleza",
+    "optionB": "Una relación de soldados destinados en América",
+    "optionC": "Un inventario exclusivo de propiedades de la Iglesia",
+    "optionD": "Un recuento de población realizado para conocer mejor la realidad demográfica del país",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 261,
+    "Subject": "Historia de España",
+    "question": "¿Qué defendía Pedro Rodríguez de Campomanes en sus escritos económicos?",
+    "optionA": "El regreso al sistema señorial medieval",
+    "optionB": "La eliminación de toda actividad manufacturera",
+    "optionC": "El fomento de la industria popular, la educación práctica y una economía más productiva",
+    "optionD": "La prohibición del comercio interior",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 262,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvo para España la Paz de París de 1763 al finalizar la Guerra de los Siete Años?",
+    "optionA": "España perdió Cuba de forma definitiva",
+    "optionB": "España cedió Florida a Gran Bretaña y recuperó La Habana y Manila, ocupadas durante la guerra",
+    "optionC": "España obtuvo Gibraltar",
+    "optionD": "Francia entregó Canadá a España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 263,
+    "Subject": "Historia de España",
+    "question": "¿Qué posición adoptó España en 1779 dentro de la Guerra de Independencia de Estados Unidos?",
+    "optionA": "Se alió con Gran Bretaña contra los rebeldes",
+    "optionB": "Permaneció neutral durante todo el conflicto",
+    "optionC": "Entró en guerra contra Gran Bretaña como aliada de Francia, aunque sin reconocer inicialmente como aliado formal a Estados Unidos",
+    "optionD": "Declaró la guerra a Francia y a Estados Unidos",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 264,
+    "Subject": "Historia de España",
+    "question": "¿Qué victoria consiguió Bernardo de Gálvez en 1781 durante la guerra contra Gran Bretaña?",
+    "optionA": "La ocupación de Londres",
+    "optionB": "La conquista de Gibraltar",
+    "optionC": "La toma de Pensacola, importante para recuperar el control español de Florida occidental",
+    "optionD": "La toma de Quebec",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 265,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia diplomática tuvo el Tratado de San Ildefonso de 1796?",
+    "optionA": "Francia cedió Luisiana a Estados Unidos",
+    "optionB": "España se alió con la Francia revolucionaria contra Gran Bretaña",
+    "optionC": "España rompió toda relación con Francia y se alió con Gran Bretaña",
+    "optionD": "Portugal quedó incorporado a España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 266,
+    "Subject": "Historia de España",
+    "question": "¿Qué conflicto terminó para España con la Paz de Basilea de 1795?",
+    "optionA": "La Guerra de Sucesión Española",
+    "optionB": "La Guerra de la Independencia",
+    "optionC": "La Primera Guerra Carlista",
+    "optionD": "La Guerra de la Convención contra la Francia revolucionaria",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 267,
+    "Subject": "Historia de España",
+    "question": "¿Qué particularidad tuvieron las Cortes de Cádiz en relación con los territorios de la monarquía?",
+    "optionA": "Estuvieron formadas únicamente por militares",
+    "optionB": "Solo admitieron diputados de Castilla",
+    "optionC": "Incluyeron representantes tanto de la Península como de territorios españoles de ultramar",
+    "optionD": "Excluyeron completamente a los territorios americanos",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 268,
+    "Subject": "Historia de España",
+    "question": "¿Qué medida aprobaron las Cortes de Cádiz en 1811 respecto al régimen señorial?",
+    "optionA": "La entrega de las tierras comunales a la nobleza",
+    "optionB": "La abolición de los señoríos jurisdiccionales",
+    "optionC": "La restauración de los privilegios feudales",
+    "optionD": "La creación de nuevos mayorazgos",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 269,
+    "Subject": "Historia de España",
+    "question": "¿Qué era la Milicia Nacional en el liberalismo español del siglo XIX?",
+    "optionA": "El ejército profesional creado por los carlistas",
+    "optionB": "La policía política del absolutismo",
+    "optionC": "Una unidad colonial destinada exclusivamente a Cuba",
+    "optionD": "Una fuerza ciudadana armada vinculada a la defensa del orden constitucional liberal",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 270,
+    "Subject": "Historia de España",
+    "question": "¿Qué diferenciaba a moderados y exaltados durante el Trienio Liberal?",
+    "optionA": "Ambos defendían exactamente el mismo programa",
+    "optionB": "Los moderados querían abolir la monarquía y los exaltados restaurar el absolutismo",
+    "optionC": "Los exaltados eran partidarios de devolver el poder absoluto a Fernando VII",
+    "optionD": "Los exaltados defendían reformas más profundas, mientras los moderados buscaban limitar el alcance de los cambios",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 271,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Regencia de Urgel creada en 1822?",
+    "optionA": "Un órgano creado por Napoleón para gobernar Cataluña",
+    "optionB": "Un intento absolutista de organizar un poder alternativo contra el gobierno liberal",
+    "optionC": "La regencia de Isabel II durante su minoría de edad",
+    "optionD": "El primer gobierno republicano de España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 272,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la reforma tributaria de Mon-Santillán de 1845?",
+    "optionA": "Creó el impuesto sobre el valor añadido",
+    "optionB": "Devolvió a la Iglesia el derecho exclusivo a recaudar tributos",
+    "optionC": "Suprimió todos los impuestos estatales",
+    "optionD": "Sentó las bases de un sistema fiscal más moderno y uniforme para el Estado liberal",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 273,
+    "Subject": "Historia de España",
+    "question": "¿Dónde se desarrolló principalmente la Segunda Guerra Carlista, también llamada Guerra dels Matiners, entre 1846 y 1849?",
+    "optionA": "En Cataluña",
+    "optionB": "En Canarias",
+    "optionC": "En Galicia",
+    "optionD": "En Andalucía",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 274,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia política tuvo la Vicalvarada de 1854?",
+    "optionA": "Restauró a Fernando VII",
+    "optionB": "Proclamó la Primera República",
+    "optionC": "Puso fin a la Tercera Guerra Carlista",
+    "optionD": "Abrió una crisis que condujo al Bienio Progresista",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 275,
+    "Subject": "Historia de España",
+    "question": "¿Qué efecto tuvo la Ley General de Ferrocarriles de 1855?",
+    "optionA": "Favoreció una rápida expansión de la red ferroviaria mediante inversiones y concesiones",
+    "optionB": "Sustituyó el ferrocarril por una red estatal de canales",
+    "optionC": "Prohibió la inversión extranjera en los ferrocarriles",
+    "optionD": "Nacionalizó toda la red existente",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 276,
+    "Subject": "Historia de España",
+    "question": "¿En qué año adoptó oficialmente su nombre el Banco de España?",
+    "optionA": "En 1856",
+    "optionB": "En 1808",
+    "optionC": "En 1876",
+    "optionD": "En 1898",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 277,
+    "Subject": "Historia de España",
+    "question": "¿Qué hizo España en 1862 respecto a la expedición internacional enviada a México junto con Francia y Gran Bretaña?",
+    "optionA": "Declaró la guerra a Gran Bretaña para apoyar a Francia",
+    "optionB": "Se retiró al comprobar que Francia pretendía una intervención política más profunda",
+    "optionC": "Anexionó México a la Corona",
+    "optionD": "Permaneció hasta la caída del emperador Maximiliano",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 278,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la sublevación del cuartel de San Gil de 1866?",
+    "optionA": "El golpe que proclamó a Alfonso XII",
+    "optionB": "Una insurrección colonial en Filipinas",
+    "optionC": "Un intento militar contra el gobierno de Isabel II que fue duramente reprimido",
+    "optionD": "Una rebelión carlista que conquistó Madrid",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 279,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio monetario introdujo el Gobierno provisional surgido de la Revolución de 1868?",
+    "optionA": "Adoptó la peseta como unidad monetaria oficial",
+    "optionB": "Introdujo el euro",
+    "optionC": "Restauró el maravedí como moneda nacional",
+    "optionD": "Adoptó la libra esterlina",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 280,
+    "Subject": "Historia de España",
+    "question": "¿Qué orientación tuvo el arancel Figuerola aprobado en 1869?",
+    "optionA": "Implantar un monopolio comercial de la Corona",
+    "optionB": "Prohibir las exportaciones industriales",
+    "optionC": "Reducir la protección aduanera y avanzar hacia una mayor apertura comercial",
+    "optionD": "Cerrar completamente el mercado español a las importaciones",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 281,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió con el proyecto de Constitución Federal elaborado durante la Primera República en 1873?",
+    "optionA": "Restauró la monarquía borbónica",
+    "optionB": "Convirtió España en un Estado unitario absolutista",
+    "optionC": "No llegó a entrar en vigor",
+    "optionD": "Se mantuvo vigente hasta 1931",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 282,
+    "Subject": "Historia de España",
+    "question": "¿Qué consecuencia tuvo la derrota carlista de 1876 para los fueros vascos?",
+    "optionA": "Se restauraron los señoríos medievales",
+    "optionB": "Se suprimió gran parte del régimen foral tradicional y se avanzó hacia una mayor uniformidad administrativa",
+    "optionC": "Se extendieron los fueros vascos a toda España",
+    "optionD": "Se ampliaron hasta convertir las provincias vascas en Estados independientes",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 283,
+    "Subject": "Historia de España",
+    "question": "¿Qué estableció el primer Concierto Económico con las provincias vascas en 1878?",
+    "optionA": "Un sistema por el que las diputaciones recaudaban impuestos y entregaban al Estado una cantidad acordada",
+    "optionB": "La exención total y permanente de cualquier contribución al Estado",
+    "optionC": "La desaparición de las diputaciones provinciales",
+    "optionD": "La independencia fiscal completa sin relación con el Estado",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 284,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la Ley de Asociaciones de 1887?",
+    "optionA": "Amplió el marco legal para la creación de asociaciones políticas, culturales, obreras y de otro tipo",
+    "optionB": "Obligó a que toda asociación dependiera del Ejército",
+    "optionC": "Suprimió los partidos políticos",
+    "optionD": "Prohibió todos los sindicatos",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 285,
+    "Subject": "Historia de España",
+    "question": "¿Qué permitió el Real Decreto de Mancomunidades de 1913?",
+    "optionA": "La creación inmediata de comunidades autónomas con parlamentos propios",
+    "optionB": "La eliminación de las diputaciones provinciales",
+    "optionC": "Que varias diputaciones provinciales pudieran asociarse para gestionar conjuntamente determinados servicios",
+    "optionD": "La independencia de las regiones que lo solicitaran",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 286,
+    "Subject": "Historia de España",
+    "question": "¿Qué fue la Mancomunitat de Catalunya creada en 1914?",
+    "optionA": "Un sindicato obrero de ámbito catalán",
+    "optionB": "La unión administrativa de las cuatro diputaciones catalanas para gestionar servicios comunes",
+    "optionC": "Un partido político creado por Francesc Macià",
+    "optionD": "Un Estado independiente reconocido por España",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 287,
+    "Subject": "Historia de España",
+    "question": "¿Qué eran las Juntas de Defensa que adquirieron protagonismo en 1917?",
+    "optionA": "Milicias obreras creadas por la CNT",
+    "optionB": "Organizaciones de oficiales del Ejército que reclamaban mejoras profesionales y ejercieron presión política",
+    "optionC": "Unidades militares destinadas exclusivamente a Marruecos",
+    "optionD": "Comités republicanos encargados de convocar elecciones",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 288,
+    "Subject": "Historia de España",
+    "question": "¿Qué investigó el llamado Expediente Picasso elaborado tras el desastre de Annual?",
+    "optionA": "La financiación de la Guerra Civil por Alemania",
+    "optionB": "Las responsabilidades y fallos militares relacionados con la derrota española en Marruecos",
+    "optionC": "La corrupción electoral durante la Segunda República",
+    "optionD": "La represión de la huelga de 1917",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 289,
+    "Subject": "Historia de España",
+    "question": "¿Qué cambio introdujo Primo de Rivera al sustituir el Directorio Militar por el Directorio Civil en 1925?",
+    "optionA": "Restauró inmediatamente la Constitución de 1876",
+    "optionB": "Convocó elecciones libres y entregó el poder a los republicanos",
+    "optionC": "Abolió la monarquía de Alfonso XIII",
+    "optionD": "Intentó institucionalizar y prolongar la dictadura incorporando civiles al gobierno",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 290,
+    "Subject": "Historia de España",
+    "question": "¿Qué grandes exposiciones internacionales celebró España en 1929?",
+    "optionA": "Los Juegos Olímpicos de Barcelona y la Expo de Sevilla",
+    "optionB": "La Exposición Colonial de Bilbao y la Feria Europea de Zaragoza",
+    "optionC": "La Exposición Universal de Madrid y la de Valencia",
+    "optionD": "La Exposición Internacional de Barcelona y la Exposición Iberoamericana de Sevilla",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 291,
+    "Subject": "Historia de España",
+    "question": "¿Quién fue el primer presidente de la Segunda República española?",
+    "optionA": "Indalecio Prieto",
+    "optionB": "Niceto Alcalá-Zamora",
+    "optionC": "Alejandro Lerroux",
+    "optionD": "Manuel Azaña",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 292,
+    "Subject": "Historia de España",
+    "question": "¿Qué territorio obtuvo un Estatuto de Autonomía en octubre de 1936, ya iniciada la Guerra Civil?",
+    "optionA": "Canarias",
+    "optionB": "Andalucía",
+    "optionC": "El País Vasco",
+    "optionD": "Aragón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 293,
+    "Subject": "Historia de España",
+    "question": "¿Qué proclamó Lluís Companys en Barcelona el 6 de octubre de 1934?",
+    "optionA": "La restauración de la monarquía",
+    "optionB": "La independencia definitiva de Cataluña",
+    "optionC": "El Estado Catalán dentro de una proyectada República Federal Española",
+    "optionD": "La incorporación de Cataluña a Francia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 294,
+    "Subject": "Historia de España",
+    "question": "¿Quién fundó Falange Española en 1933?",
+    "optionA": "José Calvo Sotelo",
+    "optionB": "Francisco Largo Caballero",
+    "optionC": "Emilio Mola",
+    "optionD": "José Antonio Primo de Rivera",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 295,
+    "Subject": "Historia de España",
+    "question": "¿Qué dos países destacaron por su apoyo diplomático y material a la República durante la Guerra Civil?",
+    "optionA": "La Unión Soviética y México",
+    "optionB": "Portugal y Alemania",
+    "optionC": "Alemania e Italia",
+    "optionD": "Italia y Japón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 296,
+    "Subject": "Historia de España",
+    "question": "¿Qué objetivo perseguía el bando sublevado en la batalla del Jarama de 1937?",
+    "optionA": "Cortar la carretera que comunicaba Madrid con Valencia",
+    "optionB": "Romper el cerco republicano de Oviedo",
+    "optionC": "Desembarcar tropas en Mallorca",
+    "optionD": "Conquistar Barcelona desde el mar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 297,
+    "Subject": "Historia de España",
+    "question": "¿Qué importancia tuvo la batalla de Guadalajara de 1937?",
+    "optionA": "Las fuerzas republicanas derrotaron una ofensiva en la que tuvieron un papel destacado tropas italianas enviadas por Mussolini",
+    "optionB": "Fue la última batalla de la Guerra Civil",
+    "optionC": "Permitió a los sublevados conquistar Valencia",
+    "optionD": "Provocó la entrada de Francia en la guerra",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 298,
+    "Subject": "Historia de España",
+    "question": "¿Qué ocurrió con el golpe del coronel Segismundo Casado en Madrid en marzo de 1939?",
+    "optionA": "Se formó un Consejo Nacional de Defensa contrario a continuar la estrategia de resistencia de Juan Negrín",
+    "optionB": "La República recuperó Cataluña",
+    "optionC": "Se restauró la monarquía antes de terminar la guerra",
+    "optionD": "Franco fue apartado del mando del bando sublevado",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 299,
+    "Subject": "Historia de España",
+    "question": "¿Qué regulaba el Fuero del Trabajo aprobado en 1938?",
+    "optionA": "Las relaciones laborales dentro de un modelo corporativo y autoritario inspirado en principios falangistas",
+    "optionB": "La libertad plena de sindicatos independientes",
+    "optionC": "La organización territorial de las comunidades autónomas",
+    "optionD": "El derecho al sufragio universal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 300,
+    "Subject": "Historia de España",
+    "question": "¿Qué era el Fuero de los Españoles de 1945?",
+    "optionA": "Una de las Leyes Fundamentales del franquismo que enumeraba derechos y deberes sometidos a los límites del régimen",
+    "optionB": "El estatuto que concedió autonomía al País Vasco",
+    "optionC": "Una constitución democrática aprobada en referéndum libre",
+    "optionD": "La ley que legalizó los partidos políticos",
+    "correctAnswer": "A"
+  }
+]

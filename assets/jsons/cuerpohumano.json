@@ -1,0 +1,2729 @@
+[
+ {
+  "id": 1,
+  "question": "¿Qué vitamina produce principalmente la piel al exponerse al sol?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina C",
+  "optionC": "Vitamina D",
+  "optionD": "Vitamina K",
+  "correctAnswer": "Vitamina D"
+ },
+ {
+  "id": 2,
+  "question": "¿Qué órgano es responsable de filtrar la sangre y producir orina?",
+  "optionA": "Hígado",
+  "optionB": "Riñón",
+  "optionC": "Estómago",
+  "optionD": "Páncreas",
+  "correctAnswer": "Riñón"
+ },
+ {
+  "id": 3,
+  "question": "¿Cuántos huesos tiene aproximadamente un adulto?",
+  "optionA": "106",
+  "optionB": "156",
+  "optionC": "206",
+  "optionD": "306",
+  "correctAnswer": "206"
+ },
+ {
+  "id": 4,
+  "question": "¿Qué músculo trabaja constantemente durante toda la vida?",
+  "optionA": "Bíceps",
+  "optionB": "Tríceps",
+  "optionC": "Corazón",
+  "optionD": "Cuádriceps",
+  "correctAnswer": "Corazón"
+ },
+ {
+  "id": 5,
+  "question": "¿Qué parte del ojo controla la cantidad de luz que entra?",
+  "optionA": "Retina",
+  "optionB": "Iris",
+  "optionC": "Córnea",
+  "optionD": "Cristalino",
+  "correctAnswer": "Iris"
+ },
+ {
+  "id": 6,
+  "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+  "optionA": "Hígado",
+  "optionB": "Pulmón",
+  "optionC": "Cerebro",
+  "optionD": "Piel",
+  "correctAnswer": "Piel"
+ },
+ {
+  "id": 7,
+  "question": "¿Qué sistema del cuerpo transporta oxígeno y nutrientes?",
+  "optionA": "Nervioso",
+  "optionB": "Circulatorio",
+  "optionC": "Digestivo",
+  "optionD": "Endocrino",
+  "correctAnswer": "Circulatorio"
+ },
+ {
+  "id": 8,
+  "question": "¿Dónde se encuentran los alvéolos?",
+  "optionA": "Riñones",
+  "optionB": "Pulmones",
+  "optionC": "Estómago",
+  "optionD": "Corazón",
+  "correctAnswer": "Pulmones"
+ },
+ {
+  "id": 9,
+  "question": "¿Qué hueso protege el cerebro?",
+  "optionA": "Columna vertebral",
+  "optionB": "Costillas",
+  "optionC": "Cráneo",
+  "optionD": "Pelvis",
+  "correctAnswer": "Cráneo"
+ },
+ {
+  "id": 10,
+  "question": "¿Qué parte del sistema nervioso actúa como centro de control?",
+  "optionA": "Médula ósea",
+  "optionB": "Corazón",
+  "optionC": "Cerebro",
+  "optionD": "Pulmón",
+  "correctAnswer": "Cerebro"
+ },
+ {
+  "id": 11,
+  "question": "¿Cuál es la función principal del estómago?",
+  "optionA": "Bombear sangre",
+  "optionB": "Filtrar toxinas",
+  "optionC": "Iniciar la digestión de alimentos",
+  "optionD": "Producir hormonas",
+  "correctAnswer": "Iniciar la digestión de alimentos"
+ },
+ {
+  "id": 12,
+  "question": "¿Cuántos pulmones tiene una persona sana?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "2"
+ },
+ {
+  "id": 13,
+  "question": "¿Qué articulación une el brazo con el antebrazo?",
+  "optionA": "Rodilla",
+  "optionB": "Tobillo",
+  "optionC": "Codo",
+  "optionD": "Muñeca",
+  "correctAnswer": "Codo"
+ },
+ {
+  "id": 14,
+  "question": "¿Qué órgano produce la bilis?",
+  "optionA": "Riñón",
+  "optionB": "Hígado",
+  "optionC": "Páncreas",
+  "optionD": "Estómago",
+  "correctAnswer": "Hígado"
+ },
+ {
+  "id": 15,
+  "question": "¿Qué célula combate infecciones?",
+  "optionA": "Glóbulo rojo",
+  "optionB": "Plaqueta",
+  "optionC": "Glóbulo blanco",
+  "optionD": "Neurona",
+  "correctAnswer": "Glóbulo blanco"
+ },
+ {
+  "id": 16,
+  "question": "¿Cuál es el principal gas que expulsamos al respirar?",
+  "optionA": "Oxígeno",
+  "optionB": "Nitrógeno",
+  "optionC": "Hidrógeno",
+  "optionD": "Dióxido de carbono",
+  "correctAnswer": "Dióxido de carbono"
+ },
+ {
+  "id": 17,
+  "question": "¿Qué parte del oído ayuda al equilibrio?",
+  "optionA": "Tímpano",
+  "optionB": "Cóclea",
+  "optionC": "Oído interno",
+  "optionD": "Pabellón auditivo",
+  "correctAnswer": "Oído interno"
+ },
+ {
+  "id": 18,
+  "question": "¿Cuántas costillas tiene normalmente una persona?",
+  "optionA": "12",
+  "optionB": "18",
+  "optionC": "24",
+  "optionD": "30",
+  "correctAnswer": "24"
+ },
+ {
+  "id": 19,
+  "question": "¿Qué órgano produce insulina?",
+  "optionA": "Hígado",
+  "optionB": "Páncreas",
+  "optionC": "Riñón",
+  "optionD": "Bazo",
+  "correctAnswer": "Páncreas"
+ },
+ {
+  "id": 20,
+  "question": "¿Qué tejido conecta músculos con huesos?",
+  "optionA": "Cartílago",
+  "optionB": "Tendón",
+  "optionC": "Ligamento",
+  "optionD": "Dermis",
+  "correctAnswer": "Tendón"
+ },
+ {
+  "id": 21,
+  "question": "¿Qué estructura transporta la sangre desde el corazón?",
+  "optionA": "Venas",
+  "optionB": "Arterias",
+  "optionC": "Nervios",
+  "optionD": "Capilares linfáticos",
+  "correctAnswer": "Arterias"
+ },
+ {
+  "id": 22,
+  "question": "¿Dónde se absorbe la mayor parte de los nutrientes?",
+  "optionA": "Estómago",
+  "optionB": "Esófago",
+  "optionC": "Intestino delgado",
+  "optionD": "Intestino grueso",
+  "correctAnswer": "Intestino delgado"
+ },
+ {
+  "id": 23,
+  "question": "¿Cuál es el hueso más pequeño del cuerpo?",
+  "optionA": "Estribo",
+  "optionB": "Radio",
+  "optionC": "Rótula",
+  "optionD": "Cúbito",
+  "correctAnswer": "Estribo"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué sentido está relacionado con la lengua?",
+  "optionA": "Vista",
+  "optionB": "Oído",
+  "optionC": "Gusto",
+  "optionD": "Tacto",
+  "correctAnswer": "Gusto"
+ },
+ {
+  "id": 25,
+  "question": "¿Qué parte de la sangre ayuda a coagular heridas?",
+  "optionA": "Plaquetas",
+  "optionB": "Neuronas",
+  "optionC": "Glóbulos rojos",
+  "optionD": "Linfocitos",
+  "correctAnswer": "Plaquetas"
+ },
+ {
+  "id": 26,
+  "question": "¿Cuántas vértebras forman aproximadamente la columna vertebral?",
+  "optionA": "12",
+  "optionB": "24",
+  "optionC": "33",
+  "optionD": "50",
+  "correctAnswer": "33"
+ },
+ {
+  "id": 27,
+  "question": "¿Qué órgano almacena la orina?",
+  "optionA": "Riñón",
+  "optionB": "Vejiga",
+  "optionC": "Uréter",
+  "optionD": "Uretra",
+  "correctAnswer": "Vejiga"
+ },
+ {
+  "id": 28,
+  "question": "¿Qué parte del cerebro participa en la memoria?",
+  "optionA": "Hipocampo",
+  "optionB": "Retina",
+  "optionC": "Diafragma",
+  "optionD": "Peroné",
+  "correctAnswer": "Hipocampo"
+ },
+ {
+  "id": 29,
+  "question": "¿Qué músculo separa el tórax del abdomen?",
+  "optionA": "Trapecio",
+  "optionB": "Diafragma",
+  "optionC": "Deltoides",
+  "optionD": "Pectoral",
+  "correctAnswer": "Diafragma"
+ },
+ {
+  "id": 30,
+  "question": "¿Qué mineral es importante para los huesos?",
+  "optionA": "Sodio",
+  "optionB": "Hierro",
+  "optionC": "Calcio",
+  "optionD": "Potasio",
+  "correctAnswer": "Calcio"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué parte del ojo contiene células sensibles a la luz?",
+  "optionA": "Retina",
+  "optionB": "Iris",
+  "optionC": "Pupila",
+  "optionD": "Esclerótica",
+  "correctAnswer": "Retina"
+ },
+ {
+  "id": 32,
+  "question": "¿Qué sistema regula las hormonas?",
+  "optionA": "Digestivo",
+  "optionB": "Endocrino",
+  "optionC": "Respiratorio",
+  "optionD": "Muscular",
+  "correctAnswer": "Endocrino"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué líquido protege el cerebro y la médula espinal?",
+  "optionA": "Sangre",
+  "optionB": "Bilis",
+  "optionC": "Líquido cefalorraquídeo",
+  "optionD": "Sudor",
+  "correctAnswer": "Líquido cefalorraquídeo"
+ },
+ {
+  "id": 34,
+  "question": "¿Cuál es el principal componente externo de los dientes?",
+  "optionA": "Esmalte",
+  "optionB": "Cartílago",
+  "optionC": "Tendón",
+  "optionD": "Músculo",
+  "correctAnswer": "Esmalte"
+ },
+ {
+  "id": 35,
+  "question": "¿Qué hueso forma la frente?",
+  "optionA": "Temporal",
+  "optionB": "Occipital",
+  "optionC": "Frontal",
+  "optionD": "Nasal",
+  "correctAnswer": "Frontal"
+ },
+ {
+  "id": 36,
+  "question": "¿Qué vitamina favorece la coagulación sanguínea?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina C",
+  "optionC": "Vitamina D",
+  "optionD": "Vitamina K",
+  "correctAnswer": "Vitamina K"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué parte del cuerpo contiene melanina?",
+  "optionA": "Piel",
+  "optionB": "Pulmón",
+  "optionC": "Hueso",
+  "optionD": "Riñón",
+  "correctAnswer": "Piel"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué órgano almacena la bilis?",
+  "optionA": "Vesícula biliar",
+  "optionB": "Riñón",
+  "optionC": "Páncreas",
+  "optionD": "Bazo",
+  "correctAnswer": "Vesícula biliar"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué tipo de articulación es la rodilla?",
+  "optionA": "Móvil",
+  "optionB": "Fija",
+  "optionC": "Cartilaginosa",
+  "optionD": "Fibrosa",
+  "correctAnswer": "Móvil"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué parte de la sangre transporta oxígeno?",
+  "optionA": "Plaquetas",
+  "optionB": "Plasma",
+  "optionC": "Glóbulos rojos",
+  "optionD": "Linfocitos",
+  "correctAnswer": "Glóbulos rojos"
+ },
+ {
+  "id": 41,
+  "question": "¿Qué sentido permite detectar temperaturas?",
+  "optionA": "Vista",
+  "optionB": "Gusto",
+  "optionC": "Tacto",
+  "optionD": "Oído",
+  "correctAnswer": "Tacto"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué estructura conecta neuronas entre sí?",
+  "optionA": "Sinapsis",
+  "optionB": "Tendón",
+  "optionC": "Válvula",
+  "optionD": "Bronquio",
+  "correctAnswer": "Sinapsis"
+ },
+ {
+  "id": 43,
+  "question": "¿Cuál es la principal función de los pulmones?",
+  "optionA": "Producir sangre",
+  "optionB": "Intercambiar oxígeno y dióxido de carbono",
+  "optionC": "Digestionar alimentos",
+  "optionD": "Regular hormonas",
+  "correctAnswer": "Intercambiar oxígeno y dióxido de carbono"
+ },
+ {
+  "id": 44,
+  "question": "¿Qué hueso protege el corazón y los pulmones?",
+  "optionA": "Cráneo",
+  "optionB": "Columna vertebral",
+  "optionC": "Caja torácica",
+  "optionD": "Pelvis",
+  "correctAnswer": "Caja torácica"
+ },
+ {
+  "id": 45,
+  "question": "¿Qué órgano forma parte tanto del sistema digestivo como del endocrino?",
+  "optionA": "Bazo",
+  "optionB": "Páncreas",
+  "optionC": "Riñón",
+  "optionD": "Pulmón",
+  "correctAnswer": "Páncreas"
+ },
+ {
+  "id": 46,
+  "question": "¿Qué tipo de músculo se encuentra en el corazón?",
+  "optionA": "Liso",
+  "optionB": "Esquelético",
+  "optionC": "Cardíaco",
+  "optionD": "Voluntario",
+  "correctAnswer": "Cardíaco"
+ },
+ {
+  "id": 47,
+  "question": "¿Cuál es la función principal de la médula ósea?",
+  "optionA": "Producir hormonas",
+  "optionB": "Fabricar células sanguíneas",
+  "optionC": "Almacenar grasa",
+  "optionD": "Proteger órganos",
+  "correctAnswer": "Fabricar células sanguíneas"
+ },
+ {
+  "id": 48,
+  "question": "¿Qué parte del sistema digestivo conecta la boca con el estómago?",
+  "optionA": "Tráquea",
+  "optionB": "Esófago",
+  "optionC": "Intestino",
+  "optionD": "Laringe",
+  "correctAnswer": "Esófago"
+ },
+ {
+  "id": 49,
+  "question": "¿Qué órgano consume más energía del cuerpo en reposo?",
+  "optionA": "Hígado",
+  "optionB": "Corazón",
+  "optionC": "Cerebro",
+  "optionD": "Riñón",
+  "correctAnswer": "Cerebro"
+ },
+ {
+  "id": 50,
+  "question": "¿Qué glándula regula gran parte del sistema endocrino?",
+  "optionA": "Tiroides",
+  "optionB": "Hipófisis",
+  "optionC": "Suprarrenal",
+  "optionD": "Páncreas",
+  "correctAnswer": "Hipófisis"
+ },
+ {
+  "id": 51,
+  "question": "¿Qué estructura evita que los alimentos entren en la tráquea?",
+  "optionA": "Úvula",
+  "optionB": "Epiglotis",
+  "optionC": "Amígdala",
+  "optionD": "Laringe",
+  "correctAnswer": "Epiglotis"
+ },
+ {
+  "id": 52,
+  "question": "¿Qué tipo de sangre se considera receptor universal?",
+  "optionA": "O-",
+  "optionB": "A+",
+  "optionC": "AB+",
+  "optionD": "B-",
+  "correctAnswer": "AB+"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué órgano es responsable de percibir la luz?",
+  "optionA": "Oído",
+  "optionB": "Nariz",
+  "optionC": "Ojo",
+  "optionD": "Lengua",
+  "correctAnswer": "Ojo"
+ },
+ {
+  "id": 54,
+  "question": "¿Cuál es la unidad básica del sistema nervioso?",
+  "optionA": "Plaqueta",
+  "optionB": "Neurona",
+  "optionC": "Eritrocito",
+  "optionD": "Linfocito",
+  "correctAnswer": "Neurona"
+ },
+ {
+  "id": 55,
+  "question": "¿Qué mineral es esencial para transportar oxígeno en la sangre?",
+  "optionA": "Calcio",
+  "optionB": "Zinc",
+  "optionC": "Hierro",
+  "optionD": "Magnesio",
+  "correctAnswer": "Hierro"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué parte del oído transforma vibraciones en señales nerviosas?",
+  "optionA": "Tímpano",
+  "optionB": "Cóclea",
+  "optionC": "Martillo",
+  "optionD": "Conducto auditivo",
+  "correctAnswer": "Cóclea"
+ },
+ {
+  "id": 57,
+  "question": "¿Cuál es la función de las cejas?",
+  "optionA": "Mejorar el oído",
+  "optionB": "Evitar que el sudor llegue a los ojos",
+  "optionC": "Calentar la cabeza",
+  "optionD": "Mejorar el olfato",
+  "correctAnswer": "Evitar que el sudor llegue a los ojos"
+ },
+ {
+  "id": 58,
+  "question": "¿Qué parte del cuerpo contiene la mayor cantidad de agua?",
+  "optionA": "Huesos",
+  "optionB": "Cerebro",
+  "optionC": "Músculos",
+  "optionD": "Dientes",
+  "correctAnswer": "Músculos"
+ },
+ {
+  "id": 59,
+  "question": "¿Qué estructura une hueso con hueso?",
+  "optionA": "Tendón",
+  "optionB": "Ligamento",
+  "optionC": "Cartílago",
+  "optionD": "Músculo",
+  "correctAnswer": "Ligamento"
+ },
+ {
+  "id": 60,
+  "question": "¿Qué órgano es capaz de regenerarse parcialmente?",
+  "optionA": "Corazón",
+  "optionB": "Hígado",
+  "optionC": "Pulmón",
+  "optionD": "Cerebro",
+  "correctAnswer": "Hígado"
+ },
+ {
+  "id": 61,
+  "question": "¿Qué vitamina ayuda principalmente a la visión?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina B12",
+  "optionC": "Vitamina D",
+  "optionD": "Vitamina K",
+  "correctAnswer": "Vitamina A"
+ },
+ {
+  "id": 62,
+  "question": "¿Qué órgano ayuda a destruir glóbulos rojos envejecidos?",
+  "optionA": "Bazo",
+  "optionB": "Riñón",
+  "optionC": "Páncreas",
+  "optionD": "Estómago",
+  "correctAnswer": "Bazo"
+ },
+ {
+  "id": 63,
+  "question": "¿Qué parte del ojo enfoca las imágenes?",
+  "optionA": "Iris",
+  "optionB": "Cristalino",
+  "optionC": "Retina",
+  "optionD": "Pupila",
+  "correctAnswer": "Cristalino"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué sistema corporal produce movimiento?",
+  "optionA": "Muscular",
+  "optionB": "Digestivo",
+  "optionC": "Linfático",
+  "optionD": "Endocrino",
+  "correctAnswer": "Muscular"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué órgano contiene los bronquios?",
+  "optionA": "Pulmón",
+  "optionB": "Corazón",
+  "optionC": "Hígado",
+  "optionD": "Riñón",
+  "correctAnswer": "Pulmón"
+ },
+ {
+  "id": 66,
+  "question": "¿Qué hormona regula los niveles de glucosa en sangre?",
+  "optionA": "Adrenalina",
+  "optionB": "Insulina",
+  "optionC": "Melatonina",
+  "optionD": "Testosterona",
+  "correctAnswer": "Insulina"
+ },
+ {
+  "id": 67,
+  "question": "¿Qué parte del cerebro participa en la toma de decisiones?",
+  "optionA": "Lóbulo frontal",
+  "optionB": "Cerebelo",
+  "optionC": "Hipocampo",
+  "optionD": "Bulbo raquídeo",
+  "correctAnswer": "Lóbulo frontal"
+ },
+ {
+  "id": 68,
+  "question": "¿Qué parte del cuerpo contiene esmalte?",
+  "optionA": "Huesos",
+  "optionB": "Dientes",
+  "optionC": "Uñas",
+  "optionD": "Cabello",
+  "correctAnswer": "Dientes"
+ },
+ {
+  "id": 69,
+  "question": "¿Qué sistema transporta hormonas por el cuerpo?",
+  "optionA": "Circulatorio",
+  "optionB": "Muscular",
+  "optionC": "Óseo",
+  "optionD": "Respiratorio",
+  "correctAnswer": "Circulatorio"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué parte del sistema nervioso conecta cerebro y cuerpo?",
+  "optionA": "Médula espinal",
+  "optionB": "Páncreas",
+  "optionC": "Tráquea",
+  "optionD": "Tiroides",
+  "correctAnswer": "Médula espinal"
+ },
+ {
+  "id": 71,
+  "question": "¿Qué glándula produce melatonina?",
+  "optionA": "Pineal",
+  "optionB": "Tiroides",
+  "optionC": "Hipófisis",
+  "optionD": "Suprarrenal",
+  "correctAnswer": "Pineal"
+ },
+ {
+  "id": 72,
+  "question": "¿Qué parte del ojo es normalmente de color?",
+  "optionA": "Pupila",
+  "optionB": "Retina",
+  "optionC": "Iris",
+  "optionD": "Córnea",
+  "correctAnswer": "Iris"
+ },
+ {
+  "id": 73,
+  "question": "¿Qué órgano ayuda a regular la temperatura corporal mediante el sudor?",
+  "optionA": "Corazón",
+  "optionB": "Piel",
+  "optionC": "Pulmón",
+  "optionD": "Bazo",
+  "correctAnswer": "Piel"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué tipo de articulación tiene el hombro?",
+  "optionA": "Bisagra",
+  "optionB": "Esférica",
+  "optionC": "Fija",
+  "optionD": "Cartilaginosa",
+  "correctAnswer": "Esférica"
+ },
+ {
+  "id": 75,
+  "question": "¿Qué órgano almacena temporalmente los alimentos ingeridos?",
+  "optionA": "Intestino",
+  "optionB": "Hígado",
+  "optionC": "Estómago",
+  "optionD": "Páncreas",
+  "correctAnswer": "Estómago"
+ },
+ {
+  "id": 76,
+  "question": "¿Qué elemento químico es esencial para la respiración celular?",
+  "optionA": "Helio",
+  "optionB": "Oxígeno",
+  "optionC": "Neón",
+  "optionD": "Argón",
+  "correctAnswer": "Oxígeno"
+ },
+ {
+  "id": 77,
+  "question": "¿Qué parte del cuerpo tiene más huesos?",
+  "optionA": "Pierna",
+  "optionB": "Cráneo",
+  "optionC": "Mano",
+  "optionD": "Columna",
+  "correctAnswer": "Mano"
+ },
+ {
+  "id": 78,
+  "question": "¿Qué sistema corporal elimina desechos mediante la orina?",
+  "optionA": "Digestivo",
+  "optionB": "Respiratorio",
+  "optionC": "Urinario",
+  "optionD": "Endocrino",
+  "correctAnswer": "Urinario"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué hormona está relacionada con situaciones de estrés?",
+  "optionA": "Insulina",
+  "optionB": "Adrenalina",
+  "optionC": "Melatonina",
+  "optionD": "Estrógeno",
+  "correctAnswer": "Adrenalina"
+ },
+ {
+  "id": 80,
+  "question": "¿Qué parte del ojo permite la entrada de luz?",
+  "optionA": "Retina",
+  "optionB": "Pupila",
+  "optionC": "Esclerótica",
+  "optionD": "Nervio óptico",
+  "correctAnswer": "Pupila"
+ },
+ {
+  "id": 81,
+  "question": "¿Cuál es la principal función del sistema óseo?",
+  "optionA": "Transportar sangre",
+  "optionB": "Producir hormonas",
+  "optionC": "Sostener y proteger el cuerpo",
+  "optionD": "Digestionar alimentos",
+  "correctAnswer": "Sostener y proteger el cuerpo"
+ },
+ {
+  "id": 82,
+  "question": "¿Qué parte del cerebro regula funciones automáticas como la respiración?",
+  "optionA": "Lóbulo frontal",
+  "optionB": "Cerebelo",
+  "optionC": "Bulbo raquídeo",
+  "optionD": "Hipocampo",
+  "correctAnswer": "Bulbo raquídeo"
+ },
+ {
+  "id": 83,
+  "question": "¿Cuántos dientes permanentes suele tener un adulto?",
+  "optionA": "20",
+  "optionB": "24",
+  "optionC": "28",
+  "optionD": "32",
+  "correctAnswer": "32"
+ },
+ {
+  "id": 84,
+  "question": "¿Qué estructura del corazón impide que la sangre retroceda?",
+  "optionA": "Arterias",
+  "optionB": "Válvulas",
+  "optionC": "Aurículas",
+  "optionD": "Ventrículos",
+  "correctAnswer": "Válvulas"
+ },
+ {
+  "id": 85,
+  "question": "¿Qué parte del sistema digestivo absorbe agua principalmente?",
+  "optionA": "Estómago",
+  "optionB": "Intestino delgado",
+  "optionC": "Intestino grueso",
+  "optionD": "Esófago",
+  "correctAnswer": "Intestino grueso"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué glándula se encuentra en el cuello y regula el metabolismo?",
+  "optionA": "Hipófisis",
+  "optionB": "Tiroides",
+  "optionC": "Pineal",
+  "optionD": "Suprarrenal",
+  "correctAnswer": "Tiroides"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué hueso forma parte del antebrazo?",
+  "optionA": "Fémur",
+  "optionB": "Tibia",
+  "optionC": "Radio",
+  "optionD": "Peroné",
+  "correctAnswer": "Radio"
+ },
+ {
+  "id": 88,
+  "question": "¿Qué proteína ayuda a transportar oxígeno en los glóbulos rojos?",
+  "optionA": "Colágeno",
+  "optionB": "Queratina",
+  "optionC": "Hemoglobina",
+  "optionD": "Insulina",
+  "correctAnswer": "Hemoglobina"
+ },
+ {
+  "id": 89,
+  "question": "¿Qué parte de la piel produce el color de la misma?",
+  "optionA": "Melanina",
+  "optionB": "Colágeno",
+  "optionC": "Queratina",
+  "optionD": "Elastina",
+  "correctAnswer": "Melanina"
+ },
+ {
+  "id": 90,
+  "question": "¿Qué órgano es responsable del sentido de la audición?",
+  "optionA": "Nariz",
+  "optionB": "Oído",
+  "optionC": "Lengua",
+  "optionD": "Ojo",
+  "correctAnswer": "Oído"
+ },
+ {
+  "id": 91,
+  "question": "¿Qué tipo de sangre no tiene antígenos A ni B?",
+  "optionA": "Grupo A",
+  "optionB": "Grupo B",
+  "optionC": "Grupo AB",
+  "optionD": "Grupo O",
+  "correctAnswer": "Grupo O"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué músculo permite cerrar y abrir la mandíbula?",
+  "optionA": "Masetero",
+  "optionB": "Trapecio",
+  "optionC": "Deltoides",
+  "optionD": "Bíceps",
+  "correctAnswer": "Masetero"
+ },
+ {
+  "id": 93,
+  "question": "¿Qué parte del cuerpo produce lágrimas?",
+  "optionA": "Glándula lagrimal",
+  "optionB": "Retina",
+  "optionC": "Iris",
+  "optionD": "Pupila",
+  "correctAnswer": "Glándula lagrimal"
+ },
+ {
+  "id": 94,
+  "question": "¿Qué sistema corporal coordina respuestas rápidas a estímulos?",
+  "optionA": "Digestivo",
+  "optionB": "Nervioso",
+  "optionC": "Muscular",
+  "optionD": "Endocrino",
+  "correctAnswer": "Nervioso"
+ },
+ {
+  "id": 95,
+  "question": "¿Qué órgano tiene como función principal bombear sangre?",
+  "optionA": "Hígado",
+  "optionB": "Pulmón",
+  "optionC": "Corazón",
+  "optionD": "Riñón",
+  "correctAnswer": "Corazón"
+ },
+ {
+  "id": 96,
+  "question": "¿Qué hueso se encuentra en la parte superior de la pierna?",
+  "optionA": "Tibia",
+  "optionB": "Peroné",
+  "optionC": "Fémur",
+  "optionD": "Radio",
+  "correctAnswer": "Fémur"
+ },
+ {
+  "id": 97,
+  "question": "¿Qué tejido forma el cabello?",
+  "optionA": "Cartílago",
+  "optionB": "Queratina",
+  "optionC": "Colágeno",
+  "optionD": "Hemoglobina",
+  "correctAnswer": "Queratina"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué tipo de músculo se mueve de forma voluntaria?",
+  "optionA": "Cardíaco",
+  "optionB": "Liso",
+  "optionC": "Esquelético",
+  "optionD": "Visceral",
+  "correctAnswer": "Esquelético"
+ },
+ {
+  "id": 99,
+  "question": "¿Qué estructura protege la médula espinal?",
+  "optionA": "Costillas",
+  "optionB": "Cráneo",
+  "optionC": "Columna vertebral",
+  "optionD": "Pelvis",
+  "correctAnswer": "Columna vertebral"
+ },
+ {
+  "id": 100,
+  "question": "¿Qué hormona ayuda a dormir?",
+  "optionA": "Adrenalina",
+  "optionB": "Insulina",
+  "optionC": "Melatonina",
+  "optionD": "Cortisol",
+  "correctAnswer": "Melatonina"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué hueso forma la rodilla?",
+  "optionA": "Rótula",
+  "optionB": "Radio",
+  "optionC": "Escápula",
+  "optionD": "Clavícula",
+  "correctAnswer": "Rótula"
+ },
+ {
+  "id": 102,
+  "question": "¿Qué vitamina favorece la absorción del calcio?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina C",
+  "optionC": "Vitamina D",
+  "optionD": "Vitamina E",
+  "correctAnswer": "Vitamina D"
+ },
+ {
+  "id": 103,
+  "question": "¿Qué estructura une el cráneo con la mandíbula?",
+  "optionA": "Menisco",
+  "optionB": "Articulación temporomandibular",
+  "optionC": "Ligamento cruzado",
+  "optionD": "Tendón rotuliano",
+  "correctAnswer": "Articulación temporomandibular"
+ },
+ {
+  "id": 104,
+  "question": "¿Qué sistema corporal produce anticuerpos?",
+  "optionA": "Inmunitario",
+  "optionB": "Digestivo",
+  "optionC": "Muscular",
+  "optionD": "Respiratorio",
+  "correctAnswer": "Inmunitario"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué parte del cerebro coordina los movimientos precisos?",
+  "optionA": "Cerebelo",
+  "optionB": "Hipófisis",
+  "optionC": "Tálamo",
+  "optionD": "Hipotálamo",
+  "correctAnswer": "Cerebelo"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué proteína da elasticidad a la piel?",
+  "optionA": "Hemoglobina",
+  "optionB": "Queratina",
+  "optionC": "Elastina",
+  "optionD": "Insulina",
+  "correctAnswer": "Elastina"
+ },
+ {
+  "id": 107,
+  "question": "¿Qué órgano produce la hormona eritropoyetina, que estimula la formación de glóbulos rojos?",
+  "optionA": "Hígado",
+  "optionB": "Riñón",
+  "optionC": "Páncreas",
+  "optionD": "Bazo",
+  "correctAnswer": "Riñón"
+ },
+ {
+  "id": 108,
+  "question": "¿Qué vitamina es necesaria para una correcta visión nocturna?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina C",
+  "optionC": "Vitamina D",
+  "optionD": "Vitamina E",
+  "correctAnswer": "Vitamina A"
+ },
+ {
+  "id": 109,
+  "question": "¿Qué músculo permite flexionar el brazo?",
+  "optionA": "Tríceps",
+  "optionB": "Deltoides",
+  "optionC": "Bíceps",
+  "optionD": "Pectoral",
+  "correctAnswer": "Bíceps"
+ },
+ {
+  "id": 110,
+  "question": "¿Qué tipo de articulación permite doblar el codo?",
+  "optionA": "Esférica",
+  "optionB": "Bisagra",
+  "optionC": "Pivote",
+  "optionD": "Plana",
+  "correctAnswer": "Bisagra"
+ },
+ {
+  "id": 111,
+  "question": "¿Qué órgano produce ácido clorhídrico para la digestión?",
+  "optionA": "Estómago",
+  "optionB": "Páncreas",
+  "optionC": "Hígado",
+  "optionD": "Colon",
+  "correctAnswer": "Estómago"
+ },
+ {
+  "id": 112,
+  "question": "¿Qué estructura permite el intercambio de gases en los pulmones?",
+  "optionA": "Bronquios",
+  "optionB": "Alvéolos",
+  "optionC": "Pleura",
+  "optionD": "Diafragma",
+  "correctAnswer": "Alvéolos"
+ },
+ {
+  "id": 113,
+  "question": "¿Qué parte del cuerpo contiene la médula ósea?",
+  "optionA": "Músculos",
+  "optionB": "Huesos",
+  "optionC": "Pulmones",
+  "optionD": "Tendones",
+  "correctAnswer": "Huesos"
+ },
+ {
+  "id": 114,
+  "question": "¿Qué tejido protege las articulaciones reduciendo la fricción?",
+  "optionA": "Cartílago",
+  "optionB": "Músculo",
+  "optionC": "Piel",
+  "optionD": "Tendón",
+  "correctAnswer": "Cartílago"
+ },
+ {
+  "id": 115,
+  "question": "¿Qué órgano contiene las cuerdas vocales?",
+  "optionA": "Faringe",
+  "optionB": "Laringe",
+  "optionC": "Tráquea",
+  "optionD": "Esófago",
+  "correctAnswer": "Laringe"
+ },
+ {
+  "id": 116,
+  "question": "¿Qué hueso es el más largo del cuerpo humano?",
+  "optionA": "Húmero",
+  "optionB": "Tibia",
+  "optionC": "Fémur",
+  "optionD": "Peroné",
+  "correctAnswer": "Fémur"
+ },
+ {
+  "id": 117,
+  "question": "¿Qué órgano es responsable del sentido del olfato?",
+  "optionA": "Oído",
+  "optionB": "Nariz",
+  "optionC": "Lengua",
+  "optionD": "Ojo",
+  "correctAnswer": "Nariz"
+ },
+ {
+  "id": 118,
+  "question": "¿Qué glándula produce la hormona del crecimiento?",
+  "optionA": "Hipófisis",
+  "optionB": "Tiroides",
+  "optionC": "Páncreas",
+  "optionD": "Pineal",
+  "correctAnswer": "Hipófisis"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué órgano contiene millones de nefronas?",
+  "optionA": "Pulmón",
+  "optionB": "Riñón",
+  "optionC": "Corazón",
+  "optionD": "Hígado",
+  "correctAnswer": "Riñón"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué tipo de sangre es considerado donante universal?",
+  "optionA": "A+",
+  "optionB": "AB+",
+  "optionC": "O-",
+  "optionD": "B+",
+  "correctAnswer": "O-"
+ },
+ {
+  "id": 121,
+  "question": "¿Qué órgano contiene las papilas gustativas?",
+  "optionA": "Lengua",
+  "optionB": "Nariz",
+  "optionC": "Oído",
+  "optionD": "Estómago",
+  "correctAnswer": "Lengua"
+ },
+ {
+  "id": 122,
+  "question": "¿Qué parte del ojo contiene los conos y bastones?",
+  "optionA": "Retina",
+  "optionB": "Cristalino",
+  "optionC": "Pupila",
+  "optionD": "Iris",
+  "correctAnswer": "Retina"
+ },
+ {
+  "id": 123,
+  "question": "¿Qué órgano participa en la producción de glóbulos blancos?",
+  "optionA": "Médula ósea",
+  "optionB": "Páncreas",
+  "optionC": "Pulmón",
+  "optionD": "Estómago",
+  "correctAnswer": "Médula ósea"
+ },
+ {
+  "id": 124,
+  "question": "¿Qué órgano recibe la sangre procedente de los pulmones?",
+  "optionA": "Aurícula izquierda",
+  "optionB": "Aurícula derecha",
+  "optionC": "Ventrículo derecho",
+  "optionD": "Aorta",
+  "correctAnswer": "Aurícula izquierda"
+ },
+ {
+  "id": 125,
+  "question": "¿Qué órgano participa en la digestión de proteínas?",
+  "optionA": "Estómago",
+  "optionB": "Oído",
+  "optionC": "Bazo",
+  "optionD": "Vejiga",
+  "correctAnswer": "Estómago"
+ },
+ {
+  "id": 126,
+  "question": "¿Qué parte del oído recibe las ondas sonoras?",
+  "optionA": "Cóclea",
+  "optionB": "Tímpano",
+  "optionC": "Pabellón auditivo",
+  "optionD": "Martillo",
+  "correctAnswer": "Pabellón auditivo"
+ },
+ {
+  "id": 127,
+  "question": "¿Qué vitamina es conocida como ácido ascórbico?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina B12",
+  "optionC": "Vitamina C",
+  "optionD": "Vitamina D",
+  "correctAnswer": "Vitamina C"
+ },
+ {
+  "id": 128,
+  "question": "¿Qué estructura conecta la nariz con la laringe?",
+  "optionA": "Bronquio",
+  "optionB": "Esófago",
+  "optionC": "Faringe",
+  "optionD": "Diafragma",
+  "correctAnswer": "Faringe"
+ },
+ {
+  "id": 129,
+  "question": "¿Qué órgano forma parte del sistema digestivo y absorbe nutrientes?",
+  "optionA": "Intestino delgado",
+  "optionB": "Pulmón",
+  "optionC": "Bazo",
+  "optionD": "Vejiga",
+  "correctAnswer": "Intestino delgado"
+ },
+ {
+  "id": 130,
+  "question": "¿Qué músculo se encuentra en la parte posterior del brazo?",
+  "optionA": "Bíceps",
+  "optionB": "Tríceps",
+  "optionC": "Deltoides",
+  "optionD": "Trapecio",
+  "correctAnswer": "Tríceps"
+ },
+ {
+  "id": 131,
+  "question": "¿Qué vitamina es esencial para la formación normal de huesos?",
+  "optionA": "Vitamina D",
+  "optionB": "Vitamina E",
+  "optionC": "Vitamina B2",
+  "optionD": "Vitamina C",
+  "correctAnswer": "Vitamina D"
+ },
+ {
+  "id": 132,
+  "question": "¿Qué órgano forma parte del sistema inmunitario y filtra la sangre?",
+  "optionA": "Bazo",
+  "optionB": "Pulmón",
+  "optionC": "Colon",
+  "optionD": "Estómago",
+  "correctAnswer": "Bazo"
+ },
+ {
+  "id": 133,
+  "question": "¿Qué parte del cuerpo contiene las huellas dactilares?",
+  "optionA": "Dedos",
+  "optionB": "Rodillas",
+  "optionC": "Codos",
+  "optionD": "Tobillos",
+  "correctAnswer": "Dedos"
+ },
+ {
+  "id": 134,
+  "question": "¿Qué órgano ayuda a regular el nivel de calcio en sangre mediante hormonas?",
+  "optionA": "Paratiroides",
+  "optionB": "Páncreas",
+  "optionC": "Bazo",
+  "optionD": "Pulmón",
+  "correctAnswer": "Paratiroides"
+ },
+ {
+  "id": 135,
+  "question": "¿Qué estructura del sistema respiratorio conduce el aire hacia los bronquios?",
+  "optionA": "Tráquea",
+  "optionB": "Esófago",
+  "optionC": "Aorta",
+  "optionD": "Diafragma",
+  "correctAnswer": "Tráquea"
+ },
+ {
+  "id": 136,
+  "question": "¿Qué órgano se encarga de procesar la información visual?",
+  "optionA": "Cerebro",
+  "optionB": "Corazón",
+  "optionC": "Páncreas",
+  "optionD": "Pulmón",
+  "correctAnswer": "Cerebro"
+ },
+ {
+  "id": 137,
+  "question": "¿Qué hueso forma la parte superior del brazo?",
+  "optionA": "Húmero",
+  "optionB": "Radio",
+  "optionC": "Cúbito",
+  "optionD": "Clavícula",
+  "correctAnswer": "Húmero"
+ },
+ {
+  "id": 138,
+  "question": "¿Qué órgano produce la hormona que estimula la glándula tiroides?",
+  "optionA": "Hipófisis",
+  "optionB": "Páncreas",
+  "optionC": "Suprarrenal",
+  "optionD": "Pineal",
+  "correctAnswer": "Hipófisis"
+ },
+ {
+  "id": 139,
+  "question": "¿Qué estructura del ojo protege y humedece la superficie ocular?",
+  "optionA": "Párpado",
+  "optionB": "Retina",
+  "optionC": "Cristalino",
+  "optionD": "Pupila",
+  "correctAnswer": "Párpado"
+ },
+ {
+  "id": 140,
+  "question": "¿Qué tipo de tejido forma la capa externa de la piel?",
+  "optionA": "Epitelial",
+  "optionB": "Muscular",
+  "optionC": "Óseo",
+  "optionD": "Nervioso",
+  "correctAnswer": "Epitelial"
+ },
+ {
+  "id": 141,
+  "question": "¿Qué órgano recibe la sangre procedente del sistema digestivo para procesarla?",
+  "optionA": "Hígado",
+  "optionB": "Pulmón",
+  "optionC": "Riñón",
+  "optionD": "Corazón",
+  "correctAnswer": "Hígado"
+ },
+ {
+  "id": 142,
+  "question": "¿Qué hueso forma parte de la muñeca?",
+  "optionA": "Carpo",
+  "optionB": "Tarso",
+  "optionC": "Fémur",
+  "optionD": "Escápula",
+  "correctAnswer": "Carpo"
+ },
+ {
+  "id": 143,
+  "question": "¿Qué parte del cerebro interviene en la interpretación de imágenes?",
+  "optionA": "Lóbulo occipital",
+  "optionB": "Lóbulo temporal",
+  "optionC": "Hipocampo",
+  "optionD": "Cerebelo",
+  "correctAnswer": "Lóbulo occipital"
+ },
+ {
+  "id": 144,
+  "question": "¿Qué estructura conecta el oído medio con la garganta?",
+  "optionA": "Trompa de Eustaquio",
+  "optionB": "Cóclea",
+  "optionC": "Bronquio",
+  "optionD": "Epiglotis",
+  "correctAnswer": "Trompa de Eustaquio"
+ },
+ {
+  "id": 145,
+  "question": "¿Qué órgano produce la hormona glucagón?",
+  "optionA": "Páncreas",
+  "optionB": "Tiroides",
+  "optionC": "Hipófisis",
+  "optionD": "Hígado",
+  "correctAnswer": "Páncreas"
+ },
+ {
+  "id": 146,
+  "question": "¿Qué parte del cuerpo contiene la mayor cantidad de terminaciones nerviosas táctiles?",
+  "optionA": "Dedos",
+  "optionB": "Espalda",
+  "optionC": "Piernas",
+  "optionD": "Hombros",
+  "correctAnswer": "Dedos"
+ },
+ {
+  "id": 147,
+  "question": "¿Qué hueso protege la parte posterior del cerebro?",
+  "optionA": "Occipital",
+  "optionB": "Frontal",
+  "optionC": "Mandíbula",
+  "optionD": "Maxilar",
+  "correctAnswer": "Occipital"
+ },
+ {
+  "id": 148,
+  "question": "¿Qué estructura permite la entrada de aire a la tráquea?",
+  "optionA": "Laringe",
+  "optionB": "Esófago",
+  "optionC": "Colon",
+  "optionD": "Uréter",
+  "correctAnswer": "Laringe"
+ },
+ {
+  "id": 149,
+  "question": "¿Qué hueso forma parte del pie?",
+  "optionA": "Calcáneo",
+  "optionB": "Húmero",
+  "optionC": "Radio",
+  "optionD": "Clavícula",
+  "correctAnswer": "Calcáneo"
+ },
+ {
+  "id": 150,
+  "question": "¿Qué parte del sistema nervioso procesa las emociones?",
+  "optionA": "Sistema límbico",
+  "optionB": "Médula ósea",
+  "optionC": "Diafragma",
+  "optionD": "Tráquea",
+  "correctAnswer": "Sistema límbico"
+ },
+ {
+  "id": 151,
+  "question": "¿Qué vitamina ayuda a mantener una piel saludable?",
+  "optionA": "Vitamina A",
+  "optionB": "Vitamina K",
+  "optionC": "Vitamina B1",
+  "optionD": "Vitamina B12",
+  "correctAnswer": "Vitamina A"
+ },
+ {
+  "id": 152,
+  "question": "¿Qué hueso forma parte de la cadera?",
+  "optionA": "Ilion",
+  "optionB": "Radio",
+  "optionC": "Peroné",
+  "optionD": "Escápula",
+  "correctAnswer": "Ilion"
+ },
+ {
+  "id": 153,
+  "question": "¿Qué parte del cerebro coordina el equilibrio y la postura?",
+  "optionA": "Cerebelo",
+  "optionB": "Hipocampo",
+  "optionC": "Amígdala",
+  "optionD": "Tálamo",
+  "correctAnswer": "Cerebelo"
+ },
+ {
+  "id": 154,
+  "question": "¿Qué hueso forma parte del hombro?",
+  "optionA": "Escápula",
+  "optionB": "Peroné",
+  "optionC": "Rótula",
+  "optionD": "Tibia",
+  "correctAnswer": "Escápula"
+ },
+ {
+  "id": 155,
+  "question": "¿Qué estructura permite el movimiento entre dos huesos?",
+  "optionA": "Articulación",
+  "optionB": "Tendón",
+  "optionC": "Cartílago",
+  "optionD": "Músculo",
+  "correctAnswer": "Articulación"
+ },
+ {
+  "id": 156,
+  "question": "¿Qué sistema corporal protege al organismo frente a infecciones?",
+  "optionA": "Inmunitario",
+  "optionB": "Digestivo",
+  "optionC": "Respiratorio",
+  "optionD": "Muscular",
+  "correctAnswer": "Inmunitario"
+ },
+ {
+  "id": 157,
+  "question": "¿Qué hueso forma parte del tobillo?",
+  "optionA": "Astrágalo",
+  "optionB": "Escápula",
+  "optionC": "Radio",
+  "optionD": "Clavícula",
+  "correctAnswer": "Astrágalo"
+ },
+ {
+  "id": 158,
+  "question": "¿Qué parte del ojo es transparente y protege la superficie frontal?",
+  "optionA": "Retina",
+  "optionB": "Córnea",
+  "optionC": "Iris",
+  "optionD": "Pupila",
+  "correctAnswer": "Córnea"
+ },
+ {
+  "id": 159,
+  "question": "¿Qué órgano forma parte del sistema respiratorio y permite el intercambio gaseoso?",
+  "optionA": "Pulmón",
+  "optionB": "Riñón",
+  "optionC": "Hígado",
+  "optionD": "Páncreas",
+  "correctAnswer": "Pulmón"
+ },
+ {
+  "id": 160,
+  "question": "¿Qué hueso forma parte de la cintura escapular?",
+  "optionA": "Clavícula",
+  "optionB": "Peroné",
+  "optionC": "Tibia",
+  "optionD": "Mandíbula",
+  "correctAnswer": "Clavícula"
+ },
+ {
+  "id": 161,
+  "question": "¿Qué órgano participa en la producción de hormonas del estrés?",
+  "optionA": "Glándulas suprarrenales",
+  "optionB": "Lengua",
+  "optionC": "Retina",
+  "optionD": "Esófago",
+  "correctAnswer": "Glándulas suprarrenales"
+ },
+ {
+  "id": 162,
+  "question": "¿Qué vitamina ayuda a la formación de colágeno?",
+  "optionA": "Vitamina C",
+  "optionB": "Vitamina D",
+  "optionC": "Vitamina A",
+  "optionD": "Vitamina K",
+  "correctAnswer": "Vitamina C"
+ },
+ {
+  "id": 163,
+  "question": "¿Qué órgano contiene las válvulas mitral y tricúspide?",
+  "optionA": "Corazón",
+  "optionB": "Pulmón",
+  "optionC": "Hígado",
+  "optionD": "Riñón",
+  "correctAnswer": "Corazón"
+ },
+ {
+  "id": 164,
+  "question": "¿Qué parte del cerebro procesa principalmente los sonidos?",
+  "optionA": "Lóbulo temporal",
+  "optionB": "Lóbulo occipital",
+  "optionC": "Hipocampo",
+  "optionD": "Cerebelo",
+  "correctAnswer": "Lóbulo temporal"
+ },
+ {
+  "id": 165,
+  "question": "¿Cuál es la función principal del sistema nervioso?",
+  "optionA": "Coordinar y controlar las funciones del cuerpo",
+  "optionB": "Transportar oxígeno",
+  "optionC": "Digerir alimentos",
+  "optionD": "Producir hormonas",
+  "correctAnswer": "Coordinar y controlar las funciones del cuerpo"
+ },
+ {
+  "id": 166,
+  "question": "¿Cuántos músculos tiene aproximadamente el cuerpo humano?",
+  "optionA": "Unos 200",
+  "optionB": "Unos 600",
+  "optionC": "Unos 1.500",
+  "optionD": "Unos 50",
+  "correctAnswer": "Unos 600"
+ },
+ {
+  "id": 167,
+  "question": "¿Cuál es el músculo más grande y potente del cuerpo humano?",
+  "optionA": "Glúteo mayor",
+  "optionB": "Deltoides",
+  "optionC": "Trapecio",
+  "optionD": "Pectoral mayor",
+  "correctAnswer": "Glúteo mayor"
+ },
+ {
+  "id": 168,
+  "question": "¿Cuál es el músculo más pequeño del cuerpo humano?",
+  "optionA": "El estapedio, en el oído medio",
+  "optionB": "El que mueve el dedo meñique",
+  "optionC": "El de la punta de la lengua",
+  "optionD": "El que levanta la ceja",
+  "correctAnswer": "El estapedio, en el oído medio"
+ },
+ {
+  "id": 169,
+  "question": "¿Qué músculo se encuentra en la parte anterior del muslo?",
+  "optionA": "Cuádriceps",
+  "optionB": "Sóleo",
+  "optionC": "Deltoides",
+  "optionD": "Trapecio",
+  "correctAnswer": "Cuádriceps"
+ },
+ {
+  "id": 170,
+  "question": "¿Cómo se llaman los músculos de la pantorrilla que permiten ponerse de puntillas?",
+  "optionA": "Gemelos",
+  "optionB": "Isquiotibiales",
+  "optionC": "Abdominales",
+  "optionD": "Romboides",
+  "correctAnswer": "Gemelos"
+ },
+ {
+  "id": 171,
+  "question": "¿Qué músculo da forma redondeada al hombro?",
+  "optionA": "Deltoides",
+  "optionB": "Bíceps braquial",
+  "optionC": "Dorsal ancho",
+  "optionD": "Serrato",
+  "correctAnswer": "Deltoides"
+ },
+ {
+  "id": 172,
+  "question": "¿Qué tipo de músculo forma las paredes del estómago y los intestinos?",
+  "optionA": "Liso",
+  "optionB": "Esquelético",
+  "optionC": "Cardíaco",
+  "optionD": "Estriado voluntario",
+  "correctAnswer": "Liso"
+ },
+ {
+  "id": 173,
+  "question": "¿Qué caracteriza al músculo liso frente al esquelético?",
+  "optionA": "Se contrae de forma involuntaria",
+  "optionB": "Solo aparece en los brazos",
+  "optionC": "Está unido siempre a dos huesos",
+  "optionD": "No necesita oxígeno para trabajar",
+  "correctAnswer": "Se contrae de forma involuntaria"
+ },
+ {
+  "id": 174,
+  "question": "¿Cómo se llaman los pares de músculos que hacen movimientos opuestos, como el bíceps y el tríceps?",
+  "optionA": "Antagonistas",
+  "optionB": "Sinérgicos",
+  "optionC": "Simétricos",
+  "optionD": "Recurrentes",
+  "correctAnswer": "Antagonistas"
+ },
+ {
+  "id": 175,
+  "question": "¿Qué proteínas permiten que las fibras musculares se contraigan?",
+  "optionA": "Actina y miosina",
+  "optionB": "Colágeno y elastina",
+  "optionC": "Insulina y glucagón",
+  "optionD": "Queratina y melanina",
+  "correctAnswer": "Actina y miosina"
+ },
+ {
+  "id": 176,
+  "question": "¿Qué es un calambre muscular?",
+  "optionA": "Una contracción involuntaria y dolorosa del músculo",
+  "optionB": "Una rotura completa del tendón",
+  "optionC": "Una inflamación de la articulación",
+  "optionD": "Una pérdida temporal de sensibilidad",
+  "correctAnswer": "Una contracción involuntaria y dolorosa del músculo"
+ },
+ {
+  "id": 177,
+  "question": "¿Qué sustancia se acumula en el músculo durante un esfuerzo intenso sin suficiente oxígeno?",
+  "optionA": "Ácido láctico",
+  "optionB": "Urea",
+  "optionC": "Bilirrubina",
+  "optionD": "Colesterol",
+  "correctAnswer": "Ácido láctico"
+ },
+ {
+  "id": 178,
+  "question": "¿Qué músculo del cuello permite girar e inclinar la cabeza?",
+  "optionA": "Esternocleidomastoideo",
+  "optionB": "Cuádriceps",
+  "optionC": "Glúteo medio",
+  "optionD": "Bíceps femoral",
+  "correctAnswer": "Esternocleidomastoideo"
+ },
+ {
+  "id": 179,
+  "question": "¿Qué músculo permite cerrar los ojos?",
+  "optionA": "Orbicular de los párpados",
+  "optionB": "Masetero",
+  "optionC": "Temporal",
+  "optionD": "Cigomático mayor",
+  "correctAnswer": "Orbicular de los párpados"
+ },
+ {
+  "id": 180,
+  "question": "¿Qué grupo muscular se sitúa en la parte posterior del muslo?",
+  "optionA": "Isquiotibiales",
+  "optionB": "Cuádriceps",
+  "optionC": "Abdominales",
+  "optionD": "Pectorales",
+  "correctAnswer": "Isquiotibiales"
+ },
+ {
+  "id": 181,
+  "question": "¿Qué le ocurre a un músculo cuando se contrae?",
+  "optionA": "Se acorta y engrosa",
+  "optionB": "Se alarga y adelgaza",
+  "optionC": "Se convierte en hueso",
+  "optionD": "Pierde toda su sangre",
+  "correctAnswer": "Se acorta y engrosa"
+ },
+ {
+  "id": 182,
+  "question": "¿Qué nombre recibe la ligera tensión que mantienen los músculos incluso en reposo?",
+  "optionA": "Tono muscular",
+  "optionB": "Fatiga muscular",
+  "optionC": "Atrofia",
+  "optionD": "Hipertrofia",
+  "correctAnswer": "Tono muscular"
+ },
+ {
+  "id": 183,
+  "question": "¿Qué significa que un músculo se hipertrofia con el entrenamiento?",
+  "optionA": "Que aumenta de tamaño",
+  "optionB": "Que se vuelve más rígido y no se mueve",
+  "optionC": "Que se transforma en tendón",
+  "optionD": "Que pierde fibras de forma permanente",
+  "correctAnswer": "Que aumenta de tamaño"
+ },
+ {
+  "id": 184,
+  "question": "¿Qué músculo grande de la espalda ayuda a llevar los brazos hacia el cuerpo al nadar?",
+  "optionA": "Dorsal ancho",
+  "optionB": "Recto abdominal",
+  "optionC": "Sartorio",
+  "optionD": "Braquial anterior",
+  "correctAnswer": "Dorsal ancho"
+ },
+ {
+  "id": 185,
+  "question": "¿Qué músculos protegen las vísceras del abdomen y ayudan a mantener la postura?",
+  "optionA": "Los abdominales",
+  "optionB": "Los gemelos",
+  "optionC": "Los maseteros",
+  "optionD": "Los deltoides",
+  "correctAnswer": "Los abdominales"
+ },
+ {
+  "id": 186,
+  "question": "¿Qué temperatura corporal se considera normal en una persona sana?",
+  "optionA": "Unos 37 grados",
+  "optionB": "Unos 30 grados",
+  "optionC": "Unos 42 grados",
+  "optionD": "Unos 25 grados",
+  "correctAnswer": "Unos 37 grados"
+ },
+ {
+  "id": 187,
+  "question": "¿Cuántos litros de sangre tiene aproximadamente una persona adulta?",
+  "optionA": "Unos 5 litros",
+  "optionB": "Unos 15 litros",
+  "optionC": "Medio litro",
+  "optionD": "Unos 30 litros",
+  "correctAnswer": "Unos 5 litros"
+ },
+ {
+  "id": 188,
+  "question": "¿Cuántas veces late el corazón de un adulto en reposo cada minuto, aproximadamente?",
+  "optionA": "Entre 60 y 100 veces",
+  "optionB": "Entre 10 y 20 veces",
+  "optionC": "Entre 200 y 250 veces",
+  "optionD": "Entre 300 y 400 veces",
+  "correctAnswer": "Entre 60 y 100 veces"
+ },
+ {
+  "id": 189,
+  "question": "¿Cuántas respiraciones hace por minuto un adulto en reposo, aproximadamente?",
+  "optionA": "Entre 12 y 20",
+  "optionB": "Entre 40 y 60",
+  "optionC": "Entre 2 y 4",
+  "optionD": "Entre 90 y 120",
+  "correctAnswer": "Entre 12 y 20"
+ },
+ {
+  "id": 190,
+  "question": "¿Qué porcentaje del cuerpo humano adulto es agua, aproximadamente?",
+  "optionA": "Alrededor del 60 por ciento",
+  "optionB": "Alrededor del 10 por ciento",
+  "optionC": "Alrededor del 95 por ciento",
+  "optionD": "Alrededor del 25 por ciento",
+  "correctAnswer": "Alrededor del 60 por ciento"
+ },
+ {
+  "id": 191,
+  "question": "¿Qué articulación permite el movimiento de la cadera?",
+  "optionA": "Coxofemoral",
+  "optionB": "Temporomandibular",
+  "optionC": "Radiocubital",
+  "optionD": "Tibioperonea",
+  "correctAnswer": "Coxofemoral"
+ },
+ {
+  "id": 192,
+  "question": "¿Qué son los meniscos?",
+  "optionA": "Cartílagos en forma de media luna dentro de la rodilla",
+  "optionB": "Los huesos pequeños del tobillo",
+  "optionC": "Los músculos que rodean la cadera",
+  "optionD": "Las terminaciones nerviosas de la planta del pie",
+  "correctAnswer": "Cartílagos en forma de media luna dentro de la rodilla"
+ },
+ {
+  "id": 193,
+  "question": "¿Qué tendón conecta los gemelos con el hueso del talón?",
+  "optionA": "El tendón de Aquiles",
+  "optionB": "El tendón rotuliano",
+  "optionC": "El manguito rotador",
+  "optionD": "La fascia plantar",
+  "correctAnswer": "El tendón de Aquiles"
+ },
+ {
+  "id": 194,
+  "question": "¿Qué recibe el nombre de aparato locomotor?",
+  "optionA": "El conjunto de huesos, músculos y articulaciones",
+  "optionB": "El conjunto de corazón y vasos sanguíneos",
+  "optionC": "El conjunto de estómago e intestinos",
+  "optionD": "El conjunto de cerebro y nervios",
+  "correctAnswer": "El conjunto de huesos, músculos y articulaciones"
+ },
+ {
+  "id": 195,
+  "question": "¿Qué parte del aparato locomotor aporta el movimiento activo?",
+  "optionA": "Los músculos",
+  "optionB": "Los huesos",
+  "optionC": "Los ligamentos",
+  "optionD": "Los cartílagos",
+  "correctAnswer": "Los músculos"
+ },
+ {
+  "id": 196,
+  "question": "¿Qué ocurre en una contractura muscular?",
+  "optionA": "El músculo queda contraído de forma persistente",
+  "optionB": "El hueso se parte en dos",
+  "optionC": "La articulación pierde su cartílago",
+  "optionD": "El nervio deja de existir",
+  "correctAnswer": "El músculo queda contraído de forma persistente"
+ },
+ {
+  "id": 197,
+  "question": "¿Qué es la tendinitis?",
+  "optionA": "La inflamación de un tendón",
+  "optionB": "La rotura de un hueso largo",
+  "optionC": "La pérdida de masa muscular",
+  "optionD": "La inflamación de la piel",
+  "correctAnswer": "La inflamación de un tendón"
+ },
+ {
+  "id": 198,
+  "question": "¿Qué músculo es el principal responsable de la respiración en reposo?",
+  "optionA": "El diafragma",
+  "optionB": "El recto abdominal",
+  "optionC": "El trapecio",
+  "optionD": "El bíceps",
+  "correctAnswer": "El diafragma"
+ },
+ {
+  "id": 199,
+  "question": "¿Qué ocurre cuando el diafragma se contrae?",
+  "optionA": "Baja y entra aire en los pulmones",
+  "optionB": "Sube y expulsa toda la sangre",
+  "optionC": "Cierra la tráquea por completo",
+  "optionD": "Detiene los latidos del corazón",
+  "correctAnswer": "Baja y entra aire en los pulmones"
+ },
+ {
+  "id": 200,
+  "question": "¿Qué provoca el hipo?",
+  "optionA": "Contracciones bruscas e involuntarias del diafragma",
+  "optionB": "Un exceso de saliva en la boca",
+  "optionC": "La dilatación de las pupilas",
+  "optionD": "Un descenso brusco del ritmo cardíaco",
+  "correctAnswer": "Contracciones bruscas e involuntarias del diafragma"
+ },
+ {
+  "id": 201,
+  "question": "¿Qué vasos sanguíneos llevan la sangre de vuelta hacia el corazón?",
+  "optionA": "Las venas",
+  "optionB": "Las arterias",
+  "optionC": "Los capilares",
+  "optionD": "Los bronquios",
+  "correctAnswer": "Las venas"
+ },
+ {
+  "id": 202,
+  "question": "¿En qué vasos se produce el intercambio de sustancias entre la sangre y las células?",
+  "optionA": "En los capilares",
+  "optionB": "En la arteria aorta",
+  "optionC": "En la vena cava",
+  "optionD": "En los uréteres",
+  "correctAnswer": "En los capilares"
+ },
+ {
+  "id": 203,
+  "question": "¿Cuántas cavidades tiene el corazón humano?",
+  "optionA": "Cuatro",
+  "optionB": "Dos",
+  "optionC": "Seis",
+  "optionD": "Tres",
+  "correctAnswer": "Cuatro"
+ },
+ {
+  "id": 204,
+  "question": "¿Qué cavidad del corazón impulsa la sangre a todo el cuerpo?",
+  "optionA": "El ventrículo izquierdo",
+  "optionB": "El ventrículo derecho",
+  "optionC": "La aurícula derecha",
+  "optionD": "La aurícula izquierda",
+  "correctAnswer": "El ventrículo izquierdo"
+ },
+ {
+  "id": 205,
+  "question": "¿Cuál es la arteria más grande del cuerpo humano?",
+  "optionA": "La aorta",
+  "optionB": "La carótida",
+  "optionC": "La femoral",
+  "optionD": "La radial",
+  "correctAnswer": "La aorta"
+ },
+ {
+  "id": 206,
+  "question": "¿Qué vaso lleva la sangre pobre en oxígeno desde el corazón hasta los pulmones?",
+  "optionA": "La arteria pulmonar",
+  "optionB": "La vena cava superior",
+  "optionC": "La arteria coronaria",
+  "optionD": "La vena porta",
+  "correctAnswer": "La arteria pulmonar"
+ },
+ {
+  "id": 207,
+  "question": "¿Cómo se llama la vena que devuelve la sangre del cuerpo a la aurícula derecha?",
+  "optionA": "Vena cava",
+  "optionB": "Vena safena",
+  "optionC": "Vena yugular",
+  "optionD": "Vena porta",
+  "correctAnswer": "Vena cava"
+ },
+ {
+  "id": 208,
+  "question": "¿Qué arterias se encargan de irrigar el propio músculo cardíaco?",
+  "optionA": "Las coronarias",
+  "optionB": "Las carótidas",
+  "optionC": "Las ilíacas",
+  "optionD": "Las braquiales",
+  "correctAnswer": "Las coronarias"
+ },
+ {
+  "id": 209,
+  "question": "¿Cómo se llama el recorrido de la sangre entre el corazón y los pulmones?",
+  "optionA": "Circulación menor o pulmonar",
+  "optionB": "Circulación mayor o sistémica",
+  "optionC": "Circulación portal",
+  "optionD": "Circulación linfática",
+  "correctAnswer": "Circulación menor o pulmonar"
+ },
+ {
+  "id": 210,
+  "question": "¿Qué estructura del corazón marca el ritmo de los latidos de forma natural?",
+  "optionA": "El nodo sinusal",
+  "optionB": "El pericardio",
+  "optionC": "El tabique interventricular",
+  "optionD": "La aorta ascendente",
+  "correctAnswer": "El nodo sinusal"
+ },
+ {
+  "id": 211,
+  "question": "¿Cómo se llama la membrana que envuelve el corazón?",
+  "optionA": "Pericardio",
+  "optionB": "Pleura",
+  "optionC": "Peritoneo",
+  "optionD": "Meninge",
+  "correctAnswer": "Pericardio"
+ },
+ {
+  "id": 212,
+  "question": "¿Qué es el pulso que se nota en la muñeca?",
+  "optionA": "La dilatación de la arteria al paso de la sangre",
+  "optionB": "El movimiento de un tendón bajo la piel",
+  "optionC": "La contracción de una vena superficial",
+  "optionD": "El paso del aire por un capilar",
+  "correctAnswer": "La dilatación de la arteria al paso de la sangre"
+ },
+ {
+  "id": 213,
+  "question": "¿Qué componente líquido de la sangre representa algo más de la mitad de su volumen?",
+  "optionA": "El plasma",
+  "optionB": "La linfa",
+  "optionC": "La bilis",
+  "optionD": "El suero gástrico",
+  "correctAnswer": "El plasma"
+ },
+ {
+  "id": 214,
+  "question": "¿Qué característica tienen los glóbulos rojos maduros del ser humano?",
+  "optionA": "No tienen núcleo",
+  "optionB": "Tienen dos núcleos",
+  "optionC": "Se mueven con flagelo",
+  "optionD": "Producen anticuerpos",
+  "correctAnswer": "No tienen núcleo"
+ },
+ {
+  "id": 215,
+  "question": "¿Qué le da a la sangre su color rojo característico?",
+  "optionA": "La hemoglobina de los glóbulos rojos",
+  "optionB": "El plasma sanguíneo",
+  "optionC": "Las plaquetas",
+  "optionD": "El colágeno de las venas",
+  "correctAnswer": "La hemoglobina de los glóbulos rojos"
+ },
+ {
+  "id": 216,
+  "question": "¿Qué ocurre en una anemia?",
+  "optionA": "Falta hemoglobina o glóbulos rojos para transportar oxígeno",
+  "optionB": "Sobran plaquetas y la sangre no circula",
+  "optionC": "El corazón deja de tener válvulas",
+  "optionD": "Los pulmones se llenan de aire en exceso",
+  "correctAnswer": "Falta hemoglobina o glóbulos rojos para transportar oxígeno"
+ },
+ {
+  "id": 217,
+  "question": "¿Qué mide la tensión arterial?",
+  "optionA": "La presión que ejerce la sangre sobre las paredes de las arterias",
+  "optionB": "La cantidad de aire que cabe en los pulmones",
+  "optionC": "La velocidad de los impulsos nerviosos",
+  "optionD": "La temperatura de la sangre",
+  "correctAnswer": "La presión que ejerce la sangre sobre las paredes de las arterias"
+ },
+ {
+  "id": 218,
+  "question": "¿Qué red de vasos transporta la linfa por el cuerpo?",
+  "optionA": "El sistema linfático",
+  "optionB": "El sistema porta",
+  "optionC": "El sistema endocrino",
+  "optionD": "El sistema urinario",
+  "correctAnswer": "El sistema linfático"
+ },
+ {
+  "id": 219,
+  "question": "¿Dónde se produce el intercambio de oxígeno y dióxido de carbono en el pulmón?",
+  "optionA": "En los alvéolos",
+  "optionB": "En la tráquea",
+  "optionC": "En la faringe",
+  "optionD": "En la pleura",
+  "correctAnswer": "En los alvéolos"
+ },
+ {
+  "id": 220,
+  "question": "¿Cómo se llaman los conductos más finos en los que se ramifican los bronquios?",
+  "optionA": "Bronquiolos",
+  "optionB": "Uréteres",
+  "optionC": "Capilares linfáticos",
+  "optionD": "Túbulos renales",
+  "correctAnswer": "Bronquiolos"
+ },
+ {
+  "id": 221,
+  "question": "¿Qué membrana recubre los pulmones y el interior de la caja torácica?",
+  "optionA": "La pleura",
+  "optionB": "El peritoneo",
+  "optionC": "El pericardio",
+  "optionD": "La duramadre",
+  "correctAnswer": "La pleura"
+ },
+ {
+  "id": 222,
+  "question": "¿Qué ocurre durante la espiración?",
+  "optionA": "El aire sale de los pulmones",
+  "optionB": "El aire entra en los pulmones",
+  "optionC": "La sangre deja de circular",
+  "optionD": "El diafragma desciende",
+  "correctAnswer": "El aire sale de los pulmones"
+ },
+ {
+  "id": 223,
+  "question": "¿Qué gas del aire aprovecha el cuerpo en la respiración?",
+  "optionA": "El oxígeno",
+  "optionB": "El nitrógeno",
+  "optionC": "El argón",
+  "optionD": "El helio",
+  "correctAnswer": "El oxígeno"
+ },
+ {
+  "id": 224,
+  "question": "¿Qué función tienen los pelillos y el moco de las fosas nasales?",
+  "optionA": "Filtrar, calentar y humedecer el aire",
+  "optionB": "Producir hormonas del crecimiento",
+  "optionC": "Absorber nutrientes del aire",
+  "optionD": "Transformar el aire en sangre",
+  "correctAnswer": "Filtrar, calentar y humedecer el aire"
+ },
+ {
+  "id": 225,
+  "question": "¿Por qué es mejor respirar por la nariz que por la boca?",
+  "optionA": "Porque la nariz filtra y acondiciona el aire antes de llegar al pulmón",
+  "optionB": "Porque la boca no comunica con los pulmones",
+  "optionC": "Porque por la boca entra menos oxígeno del necesario siempre",
+  "optionD": "Porque la nariz produce el oxígeno",
+  "correctAnswer": "Porque la nariz filtra y acondiciona el aire antes de llegar al pulmón"
+ },
+ {
+  "id": 226,
+  "question": "¿Qué pulmón es algo más pequeño y por qué?",
+  "optionA": "El izquierdo, para dejar sitio al corazón",
+  "optionB": "El derecho, porque tiene menos bronquios",
+  "optionC": "El izquierdo, porque está más cerca del hígado",
+  "optionD": "Los dos miden exactamente lo mismo",
+  "correctAnswer": "El izquierdo, para dejar sitio al corazón"
+ },
+ {
+  "id": 227,
+  "question": "¿Qué es un estornudo?",
+  "optionA": "Una expulsión brusca de aire para limpiar las vías respiratorias",
+  "optionB": "Una contracción del corazón fuera de ritmo",
+  "optionC": "Un movimiento voluntario del diafragma",
+  "optionD": "Una forma de tragar aire hacia el estómago",
+  "correctAnswer": "Una expulsión brusca de aire para limpiar las vías respiratorias"
+ },
+ {
+  "id": 228,
+  "question": "¿Qué cavidades huecas del cráneo se comunican con las fosas nasales?",
+  "optionA": "Los senos paranasales",
+  "optionB": "Los ventrículos cerebrales",
+  "optionC": "Las órbitas oculares",
+  "optionD": "Los conductos auditivos",
+  "correctAnswer": "Los senos paranasales"
+ },
+ {
+  "id": 229,
+  "question": "¿Qué son los cilios de las vías respiratorias?",
+  "optionA": "Filamentos que arrastran el moco y las partículas hacia fuera",
+  "optionB": "Pequeños huesos que sostienen la tráquea",
+  "optionC": "Vasos que llevan sangre al alvéolo",
+  "optionD": "Nervios que detectan olores",
+  "correctAnswer": "Filamentos que arrastran el moco y las partículas hacia fuera"
+ },
+ {
+  "id": 230,
+  "question": "¿Qué órgano comparten el aparato respiratorio y el digestivo en su recorrido?",
+  "optionA": "La faringe",
+  "optionB": "La tráquea",
+  "optionC": "El esófago",
+  "optionD": "El estómago",
+  "correctAnswer": "La faringe"
+ },
+ {
+  "id": 231,
+  "question": "¿Qué anillos mantienen abierta la tráquea para que no se cierre?",
+  "optionA": "Anillos de cartílago",
+  "optionB": "Anillos de hueso compacto",
+  "optionC": "Anillos musculares lisos",
+  "optionD": "Anillos de tejido adiposo",
+  "correctAnswer": "Anillos de cartílago"
+ },
+ {
+  "id": 232,
+  "question": "¿Qué proteína del plasma interviene en la formación del coágulo?",
+  "optionA": "El fibrinógeno",
+  "optionB": "La albúmina del huevo",
+  "optionC": "La mioglobina",
+  "optionD": "La amilasa",
+  "correctAnswer": "El fibrinógeno"
+ },
+ {
+  "id": 233,
+  "question": "¿Qué determina el grupo sanguíneo de una persona?",
+  "optionA": "Los antígenos presentes en los glóbulos rojos",
+  "optionB": "La cantidad de plasma que tiene",
+  "optionC": "El número de plaquetas",
+  "optionD": "La velocidad del pulso",
+  "correctAnswer": "Los antígenos presentes en los glóbulos rojos"
+ },
+ {
+  "id": 234,
+  "question": "¿Qué significa que alguien tiene factor Rh positivo?",
+  "optionA": "Que sus glóbulos rojos tienen la proteína Rh",
+  "optionB": "Que su sangre coagula más despacio",
+  "optionC": "Que no puede recibir transfusiones",
+  "optionD": "Que tiene más plaquetas de lo normal",
+  "correctAnswer": "Que sus glóbulos rojos tienen la proteína Rh"
+ },
+ {
+  "id": 235,
+  "question": "¿Qué enzima de la saliva empieza a digerir el almidón en la boca?",
+  "optionA": "La amilasa",
+  "optionB": "La pepsina",
+  "optionC": "La lipasa gástrica",
+  "optionD": "La tripsina",
+  "correctAnswer": "La amilasa"
+ },
+ {
+  "id": 236,
+  "question": "¿Cómo se llama la masa de alimento masticado y ensalivado que se traga?",
+  "optionA": "Bolo alimenticio",
+  "optionB": "Quimo",
+  "optionC": "Quilo",
+  "optionD": "Bilis",
+  "correctAnswer": "Bolo alimenticio"
+ },
+ {
+  "id": 237,
+  "question": "¿Cómo se llaman los movimientos que empujan el alimento a lo largo del tubo digestivo?",
+  "optionA": "Movimientos peristálticos",
+  "optionB": "Movimientos respiratorios",
+  "optionC": "Movimientos reflejos",
+  "optionD": "Movimientos oculares",
+  "correctAnswer": "Movimientos peristálticos"
+ },
+ {
+  "id": 238,
+  "question": "¿Qué pequeñas prolongaciones del intestino delgado aumentan la superficie de absorción?",
+  "optionA": "Las vellosidades intestinales",
+  "optionB": "Los alvéolos",
+  "optionC": "Las nefronas",
+  "optionD": "Los cilios bronquiales",
+  "correctAnswer": "Las vellosidades intestinales"
+ },
+ {
+  "id": 239,
+  "question": "¿Qué longitud aproximada tiene el intestino delgado de un adulto?",
+  "optionA": "Entre 6 y 7 metros",
+  "optionB": "Unos 50 centímetros",
+  "optionC": "Unos 25 metros",
+  "optionD": "Unos 2 centímetros",
+  "correctAnswer": "Entre 6 y 7 metros"
+ },
+ {
+  "id": 240,
+  "question": "¿Qué pequeño apéndice se encuentra en el inicio del intestino grueso?",
+  "optionA": "El apéndice vermiforme",
+  "optionB": "El píloro",
+  "optionC": "El cardias",
+  "optionD": "El duodeno",
+  "correctAnswer": "El apéndice vermiforme"
+ },
+ {
+  "id": 241,
+  "question": "¿Cómo se llama la primera porción del intestino delgado, justo tras el estómago?",
+  "optionA": "Duodeno",
+  "optionB": "Íleon",
+  "optionC": "Colon transverso",
+  "optionD": "Recto",
+  "correctAnswer": "Duodeno"
+ },
+ {
+  "id": 242,
+  "question": "¿Qué función principal tiene la bilis en la digestión?",
+  "optionA": "Ayudar a digerir las grasas",
+  "optionB": "Descomponer el almidón",
+  "optionC": "Neutralizar el oxígeno de la sangre",
+  "optionD": "Absorber el hierro en el estómago",
+  "correctAnswer": "Ayudar a digerir las grasas"
+ },
+ {
+  "id": 243,
+  "question": "¿Cómo se llama el conjunto de microorganismos que viven en nuestro intestino?",
+  "optionA": "Microbiota intestinal",
+  "optionB": "Placa dental",
+  "optionC": "Flora respiratoria",
+  "optionD": "Colonia linfática",
+  "correctAnswer": "Microbiota intestinal"
+ },
+ {
+  "id": 244,
+  "question": "¿Qué nutriente aporta más energía por gramo?",
+  "optionA": "Las grasas",
+  "optionB": "Las proteínas",
+  "optionC": "Los hidratos de carbono",
+  "optionD": "Las vitaminas",
+  "correctAnswer": "Las grasas"
+ },
+ {
+  "id": 245,
+  "question": "¿En qué se transforman las proteínas de los alimentos durante la digestión?",
+  "optionA": "En aminoácidos",
+  "optionB": "En glucosa",
+  "optionC": "En ácidos grasos",
+  "optionD": "En vitaminas",
+  "correctAnswer": "En aminoácidos"
+ },
+ {
+  "id": 246,
+  "question": "¿En qué azúcar simple se transforman principalmente los hidratos de carbono?",
+  "optionA": "Glucosa",
+  "optionB": "Urea",
+  "optionC": "Colágeno",
+  "optionD": "Creatina",
+  "correctAnswer": "Glucosa"
+ },
+ {
+  "id": 247,
+  "question": "¿Qué válvula controla el paso del estómago al intestino delgado?",
+  "optionA": "El píloro",
+  "optionB": "La epiglotis",
+  "optionC": "La válvula mitral",
+  "optionD": "El esfínter anal",
+  "correctAnswer": "El píloro"
+ },
+ {
+  "id": 248,
+  "question": "¿Qué conducto lleva la orina desde el riñón hasta la vejiga?",
+  "optionA": "El uréter",
+  "optionB": "La uretra",
+  "optionC": "La vena renal",
+  "optionD": "El conducto biliar",
+  "correctAnswer": "El uréter"
+ },
+ {
+  "id": 249,
+  "question": "¿Por qué conducto sale la orina de la vejiga al exterior?",
+  "optionA": "Por la uretra",
+  "optionB": "Por el uréter",
+  "optionC": "Por el esófago",
+  "optionD": "Por la tráquea",
+  "correctAnswer": "Por la uretra"
+ },
+ {
+  "id": 250,
+  "question": "¿Cuál es el principal residuo nitrogenado que eliminamos con la orina?",
+  "optionA": "La urea",
+  "optionB": "La glucosa",
+  "optionC": "El colesterol",
+  "optionD": "El calcio",
+  "correctAnswer": "La urea"
+ },
+ {
+  "id": 251,
+  "question": "¿Cómo se llama la unidad funcional del riñón donde se filtra la sangre?",
+  "optionA": "La nefrona",
+  "optionB": "El alvéolo",
+  "optionC": "La neurona",
+  "optionD": "El hepatocito",
+  "correctAnswer": "La nefrona"
+ },
+ {
+  "id": 252,
+  "question": "¿Cuántos litros de orina produce al día una persona adulta, aproximadamente?",
+  "optionA": "Entre 1 y 2 litros",
+  "optionB": "Entre 10 y 15 litros",
+  "optionC": "Unos 50 mililitros",
+  "optionD": "Unos 8 litros",
+  "correctAnswer": "Entre 1 y 2 litros"
+ },
+ {
+  "id": 253,
+  "question": "¿Qué otro órgano, además de los riñones, elimina desechos a través del sudor?",
+  "optionA": "La piel",
+  "optionB": "El bazo",
+  "optionC": "El páncreas",
+  "optionD": "La tiroides",
+  "correctAnswer": "La piel"
+ },
+ {
+  "id": 254,
+  "question": "¿Qué es una hormona?",
+  "optionA": "Una sustancia química mensajera que viaja por la sangre",
+  "optionB": "Un tipo de célula sanguínea",
+  "optionC": "Una fibra muscular especializada",
+  "optionD": "Un residuo que elimina el riñón",
+  "correctAnswer": "Una sustancia química mensajera que viaja por la sangre"
+ },
+ {
+  "id": 255,
+  "question": "¿Qué hormona produce la glándula tiroides?",
+  "optionA": "Tiroxina",
+  "optionB": "Adrenalina",
+  "optionC": "Melatonina",
+  "optionD": "Testosterona",
+  "correctAnswer": "Tiroxina"
+ },
+ {
+  "id": 256,
+  "question": "¿Qué hormona se conoce como la hormona del estrés y la produce la corteza suprarrenal?",
+  "optionA": "Cortisol",
+  "optionB": "Insulina",
+  "optionC": "Progesterona",
+  "optionD": "Tiroxina",
+  "correctAnswer": "Cortisol"
+ },
+ {
+  "id": 257,
+  "question": "¿Qué mineral necesita la tiroides para fabricar sus hormonas?",
+  "optionA": "Yodo",
+  "optionB": "Flúor",
+  "optionC": "Magnesio",
+  "optionD": "Zinc",
+  "correctAnswer": "Yodo"
+ },
+ {
+  "id": 258,
+  "question": "¿Dónde se sitúa el hipotálamo, que conecta el sistema nervioso con el endocrino?",
+  "optionA": "En el cerebro, encima de la hipófisis",
+  "optionB": "En el cuello, junto a la tiroides",
+  "optionC": "Encima de cada riñón",
+  "optionD": "Detrás del estómago",
+  "correctAnswer": "En el cerebro, encima de la hipófisis"
+ },
+ {
+  "id": 259,
+  "question": "¿Qué glándula del tórax es clave para madurar los linfocitos durante la infancia?",
+  "optionA": "El timo",
+  "optionB": "La pineal",
+  "optionC": "La parótida",
+  "optionD": "La suprarrenal",
+  "correctAnswer": "El timo"
+ },
+ {
+  "id": 260,
+  "question": "¿Qué son los anticuerpos?",
+  "optionA": "Proteínas que reconocen y neutralizan agentes extraños",
+  "optionB": "Células que transportan oxígeno",
+  "optionC": "Minerales que endurecen los huesos",
+  "optionD": "Enzimas que digieren el almidón",
+  "correctAnswer": "Proteínas que reconocen y neutralizan agentes extraños"
+ },
+ {
+  "id": 261,
+  "question": "¿Qué células de la sangre son las protagonistas de la defensa inmunitaria específica?",
+  "optionA": "Los linfocitos",
+  "optionB": "Las plaquetas",
+  "optionC": "Los eritrocitos",
+  "optionD": "Los adipocitos",
+  "correctAnswer": "Los linfocitos"
+ },
+ {
+  "id": 262,
+  "question": "¿Cómo funciona una vacuna?",
+  "optionA": "Entrena al sistema inmunitario para reconocer un agente sin causar la enfermedad",
+  "optionB": "Elimina directamente todos los microbios del cuerpo",
+  "optionC": "Sustituye a los glóbulos blancos dañados",
+  "optionD": "Aporta anticuerpos que duran solo unas horas",
+  "correctAnswer": "Entrena al sistema inmunitario para reconocer un agente sin causar la enfermedad"
+ },
+ {
+  "id": 263,
+  "question": "¿Qué son los ganglios linfáticos?",
+  "optionA": "Pequeños filtros donde se acumulan células defensivas",
+  "optionB": "Depósitos de grasa bajo la piel",
+  "optionC": "Terminaciones nerviosas del tacto",
+  "optionD": "Cavidades llenas de aire del cráneo",
+  "correctAnswer": "Pequeños filtros donde se acumulan células defensivas"
+ },
+ {
+  "id": 264,
+  "question": "¿Para qué sirve la fiebre?",
+  "optionA": "Es una respuesta del cuerpo que dificulta la vida a muchos microbios",
+  "optionB": "Sirve para enfriar la sangre rápidamente",
+  "optionC": "Indica siempre que falta oxígeno",
+  "optionD": "Es una forma de eliminar calcio sobrante",
+  "correctAnswer": "Es una respuesta del cuerpo que dificulta la vida a muchos microbios"
+ },
+ {
+  "id": 265,
+  "question": "¿Cuál es la diferencia principal entre una bacteria y un virus?",
+  "optionA": "La bacteria es una célula completa y el virus necesita otra célula para reproducirse",
+  "optionB": "El virus es mucho más grande que la bacteria",
+  "optionC": "La bacteria no puede causar enfermedades",
+  "optionD": "El virus se combate siempre con antibióticos",
+  "correctAnswer": "La bacteria es una célula completa y el virus necesita otra célula para reproducirse"
+ },
+ {
+  "id": 266,
+  "question": "¿Qué es una reacción alérgica?",
+  "optionA": "Una respuesta exagerada del sistema inmunitario ante algo inofensivo",
+  "optionB": "Una infección provocada siempre por un virus",
+  "optionC": "Una falta de glóbulos rojos en la sangre",
+  "optionD": "Un fallo de las articulaciones",
+  "correctAnswer": "Una respuesta exagerada del sistema inmunitario ante algo inofensivo"
+ },
+ {
+  "id": 267,
+  "question": "¿Qué señales acompañan a la inflamación de una zona del cuerpo?",
+  "optionA": "Enrojecimiento, calor, hinchazón y dolor",
+  "optionB": "Palidez, frío y adormecimiento",
+  "optionC": "Aumento de la visión y del oído",
+  "optionD": "Descenso brusco de la temperatura corporal",
+  "correctAnswer": "Enrojecimiento, calor, hinchazón y dolor"
+ },
+ {
+  "id": 268,
+  "question": "¿Qué barrera del cuerpo es la primera defensa frente a los microbios?",
+  "optionA": "La piel y las mucosas",
+  "optionB": "El hueso compacto",
+  "optionC": "El cartílago articular",
+  "optionD": "El tejido adiposo",
+  "correctAnswer": "La piel y las mucosas"
+ },
+ {
+  "id": 269,
+  "question": "¿Cómo se llama la prolongación larga de la neurona que envía el impulso nervioso?",
+  "optionA": "El axón",
+  "optionB": "La dendrita",
+  "optionC": "El soma",
+  "optionD": "La vaina externa",
+  "correctAnswer": "El axón"
+ },
+ {
+  "id": 270,
+  "question": "¿Qué parte de la neurona recibe la información de otras neuronas?",
+  "optionA": "Las dendritas",
+  "optionB": "El axón",
+  "optionC": "El núcleo celular",
+  "optionD": "La membrana basal",
+  "correctAnswer": "Las dendritas"
+ },
+ {
+  "id": 271,
+  "question": "¿Qué sustancia recubre muchos axones y acelera la transmisión del impulso?",
+  "optionA": "La mielina",
+  "optionB": "La queratina",
+  "optionC": "La melanina",
+  "optionD": "La elastina",
+  "correctAnswer": "La mielina"
+ },
+ {
+  "id": 272,
+  "question": "¿Qué forma el sistema nervioso central?",
+  "optionA": "El encéfalo y la médula espinal",
+  "optionB": "Los nervios de brazos y piernas",
+  "optionC": "El corazón y los grandes vasos",
+  "optionD": "Las glándulas endocrinas",
+  "correctAnswer": "El encéfalo y la médula espinal"
+ },
+ {
+  "id": 273,
+  "question": "¿Qué estructura une los dos hemisferios cerebrales?",
+  "optionA": "El cuerpo calloso",
+  "optionB": "El bulbo raquídeo",
+  "optionC": "El quiasma óptico",
+  "optionD": "La médula ósea",
+  "correctAnswer": "El cuerpo calloso"
+ },
+ {
+  "id": 274,
+  "question": "¿Cómo se llaman las membranas que envuelven y protegen el encéfalo?",
+  "optionA": "Las meninges",
+  "optionB": "Las pleuras",
+  "optionC": "Los pericardios",
+  "optionD": "Las fascias",
+  "correctAnswer": "Las meninges"
+ },
+ {
+  "id": 275,
+  "question": "¿Cuál es el nervio más largo del cuerpo humano?",
+  "optionA": "El nervio ciático",
+  "optionB": "El nervio óptico",
+  "optionC": "El nervio facial",
+  "optionD": "El nervio radial",
+  "correctAnswer": "El nervio ciático"
+ },
+ {
+  "id": 276,
+  "question": "¿Qué es un acto reflejo?",
+  "optionA": "Una respuesta rápida e involuntaria que no pasa por el cerebro",
+  "optionB": "Un movimiento pensado y decidido de antemano",
+  "optionC": "Una contracción del corazón fuera de ritmo",
+  "optionD": "Una respuesta lenta coordinada por las hormonas",
+  "correctAnswer": "Una respuesta rápida e involuntaria que no pasa por el cerebro"
+ },
+ {
+  "id": 277,
+  "question": "¿Qué parte del sistema nervioso autónomo prepara al cuerpo para huir o luchar?",
+  "optionA": "El simpático",
+  "optionB": "El parasimpático",
+  "optionC": "El somático",
+  "optionD": "El entérico",
+  "correctAnswer": "El simpático"
+ },
+ {
+  "id": 278,
+  "question": "¿Qué estructura del cerebro actúa como estación de paso de casi toda la información sensitiva?",
+  "optionA": "El tálamo",
+  "optionB": "El cerebelo",
+  "optionC": "La hipófisis",
+  "optionD": "El bulbo olfatorio",
+  "correctAnswer": "El tálamo"
+ },
+ {
+  "id": 279,
+  "question": "¿Qué capa exterior del cerebro, llena de pliegues, alberga las funciones más complejas?",
+  "optionA": "La corteza cerebral",
+  "optionB": "La sustancia blanca profunda",
+  "optionC": "El tronco encefálico",
+  "optionD": "El cuerpo estriado",
+  "correctAnswer": "La corteza cerebral"
+ },
+ {
+  "id": 280,
+  "question": "¿Qué son las sustancias que transmiten la señal de una neurona a otra en la sinapsis?",
+  "optionA": "Neurotransmisores",
+  "optionB": "Anticuerpos",
+  "optionC": "Enzimas digestivas",
+  "optionD": "Hormonas óseas",
+  "correctAnswer": "Neurotransmisores"
+ },
+ {
+  "id": 281,
+  "question": "¿Qué membrana del oído vibra al recibir el sonido?",
+  "optionA": "El tímpano",
+  "optionB": "La retina",
+  "optionC": "La pleura",
+  "optionD": "La córnea",
+  "correctAnswer": "El tímpano"
+ },
+ {
+  "id": 282,
+  "question": "¿Cuántos sabores básicos distingue la lengua humana?",
+  "optionA": "Cinco, incluido el umami",
+  "optionB": "Dos, dulce y salado",
+  "optionC": "Diez",
+  "optionD": "Tres, dulce, salado y amargo",
+  "correctAnswer": "Cinco, incluido el umami"
+ },
+ {
+  "id": 283,
+  "question": "¿Qué células de la retina permiten ver los colores?",
+  "optionA": "Los conos",
+  "optionB": "Los bastones",
+  "optionC": "Los cilios",
+  "optionD": "Los osteocitos",
+  "correctAnswer": "Los conos"
+ },
+ {
+  "id": 284,
+  "question": "¿Qué células de la retina permiten ver con poca luz?",
+  "optionA": "Los bastones",
+  "optionB": "Los conos",
+  "optionC": "Las neuronas motoras",
+  "optionD": "Las plaquetas",
+  "correctAnswer": "Los bastones"
+ },
+ {
+  "id": 285,
+  "question": "¿Qué es el daltonismo?",
+  "optionA": "Una dificultad para distinguir determinados colores",
+  "optionB": "Una pérdida total de la visión",
+  "optionC": "Una incapacidad para oír sonidos agudos",
+  "optionD": "Una falta de sensibilidad al tacto",
+  "correctAnswer": "Una dificultad para distinguir determinados colores"
+ },
+ {
+  "id": 286,
+  "question": "¿Qué ocurre en la miopía?",
+  "optionA": "Se ve bien de cerca y borroso de lejos",
+  "optionB": "Se ve bien de lejos y borroso de cerca",
+  "optionC": "Se pierden los colores",
+  "optionD": "Se ve doble todo el tiempo",
+  "correctAnswer": "Se ve bien de cerca y borroso de lejos"
+ },
+ {
+  "id": 287,
+  "question": "¿Qué es el punto ciego del ojo?",
+  "optionA": "La zona de la retina donde sale el nervio óptico y no hay fotorreceptores",
+  "optionB": "El centro exacto de la pupila",
+  "optionC": "La parte más gruesa de la córnea",
+  "optionD": "El borde exterior del párpado",
+  "correctAnswer": "La zona de la retina donde sale el nervio óptico y no hay fotorreceptores"
+ },
+ {
+  "id": 288,
+  "question": "¿Por qué la comida sabe a poco cuando estamos resfriados?",
+  "optionA": "Porque el olfato participa mucho en la percepción del sabor",
+  "optionB": "Porque la lengua pierde sus papilas",
+  "optionC": "Porque el estómago deja de producir ácido",
+  "optionD": "Porque baja la temperatura de la boca",
+  "correctAnswer": "Porque el olfato participa mucho en la percepción del sabor"
+ },
+ {
+  "id": 289,
+  "question": "¿Qué sentido nos informa de la posición de nuestro cuerpo sin necesidad de mirarlo?",
+  "optionA": "La propiocepción",
+  "optionB": "El gusto",
+  "optionC": "El olfato",
+  "optionD": "La audición",
+  "correctAnswer": "La propiocepción"
+ },
+ {
+  "id": 290,
+  "question": "¿Cómo se llama la capa más externa de la piel?",
+  "optionA": "Epidermis",
+  "optionB": "Dermis",
+  "optionC": "Hipodermis",
+  "optionD": "Fascia",
+  "correctAnswer": "Epidermis"
+ },
+ {
+  "id": 291,
+  "question": "¿En qué capa de la piel se encuentran los vasos sanguíneos y las terminaciones nerviosas?",
+  "optionA": "La dermis",
+  "optionB": "La epidermis",
+  "optionC": "El esmalte",
+  "optionD": "La córnea",
+  "correctAnswer": "La dermis"
+ },
+ {
+  "id": 292,
+  "question": "¿Qué capa más profunda de la piel está formada sobre todo por grasa y actúa como aislante?",
+  "optionA": "La hipodermis",
+  "optionB": "La epidermis",
+  "optionC": "La membrana sinovial",
+  "optionD": "El periostio",
+  "correctAnswer": "La hipodermis"
+ },
+ {
+  "id": 293,
+  "question": "¿De qué estructura nace cada pelo?",
+  "optionA": "Del folículo piloso",
+  "optionB": "De la glándula sudorípara",
+  "optionC": "Del corpúsculo táctil",
+  "optionD": "Del capilar linfático",
+  "correctAnswer": "Del folículo piloso"
+ },
+ {
+  "id": 294,
+  "question": "¿Qué producen las glándulas sebáceas de la piel?",
+  "optionA": "Una grasa que lubrica la piel y el pelo",
+  "optionB": "Sudor para enfriar el cuerpo",
+  "optionC": "Melanina para el bronceado",
+  "optionD": "Lágrimas para el ojo",
+  "correctAnswer": "Una grasa que lubrica la piel y el pelo"
+ },
+ {
+  "id": 295,
+  "question": "¿Por qué la piel se broncea al tomar el sol?",
+  "optionA": "Porque produce más melanina como protección",
+  "optionB": "Porque pierde agua y se oscurece",
+  "optionC": "Porque se acumula hierro en la epidermis",
+  "optionD": "Porque las venas se acercan a la superficie",
+  "correctAnswer": "Porque produce más melanina como protección"
+ },
+ {
+  "id": 296,
+  "question": "¿Cuál es la unidad básica de todos los seres vivos?",
+  "optionA": "La célula",
+  "optionB": "El órgano",
+  "optionC": "El átomo de carbono",
+  "optionD": "El tejido",
+  "correctAnswer": "La célula"
+ },
+ {
+  "id": 297,
+  "question": "¿Cuántos cromosomas tiene una célula humana normal?",
+  "optionA": "46, en 23 pares",
+  "optionB": "23, sin pares",
+  "optionC": "64, en 32 pares",
+  "optionD": "12, en 6 pares",
+  "correctAnswer": "46, en 23 pares"
+ },
+ {
+  "id": 298,
+  "question": "¿Dónde se encuentra guardado el ADN dentro de la célula?",
+  "optionA": "En el núcleo",
+  "optionB": "En la membrana plasmática",
+  "optionC": "En el aparato de Golgi",
+  "optionD": "En el citoesqueleto",
+  "correctAnswer": "En el núcleo"
+ },
+ {
+  "id": 299,
+  "question": "¿Qué orgánulo celular obtiene energía mediante la respiración celular?",
+  "optionA": "La mitocondria",
+  "optionB": "El ribosoma",
+  "optionC": "El lisosoma",
+  "optionD": "El cloroplasto",
+  "correctAnswer": "La mitocondria"
+ },
+ {
+  "id": 300,
+  "question": "¿Qué orgánulo se encarga de fabricar las proteínas de la célula?",
+  "optionA": "El ribosoma",
+  "optionB": "La vacuola",
+  "optionC": "La mitocondria",
+  "optionD": "El nucléolo",
+  "correctAnswer": "El ribosoma"
+ },
+ {
+  "id": 301,
+  "question": "¿Cuántos tipos básicos de tejido se distinguen en el cuerpo humano?",
+  "optionA": "Cuatro: epitelial, conectivo, muscular y nervioso",
+  "optionB": "Dos: duro y blando",
+  "optionC": "Siete, uno por cada sistema",
+  "optionD": "Uno solo, el tejido celular",
+  "correctAnswer": "Cuatro: epitelial, conectivo, muscular y nervioso"
+ },
+ {
+  "id": 302,
+  "question": "¿Cuál es el orden correcto de organización del cuerpo humano?",
+  "optionA": "Célula, tejido, órgano, sistema",
+  "optionB": "Órgano, célula, sistema, tejido",
+  "optionC": "Tejido, célula, sistema, órgano",
+  "optionD": "Sistema, órgano, célula, tejido",
+  "correctAnswer": "Célula, tejido, órgano, sistema"
+ },
+ {
+  "id": 303,
+  "question": "¿Cuál es la célula humana de mayor tamaño?",
+  "optionA": "El óvulo",
+  "optionB": "El glóbulo rojo",
+  "optionC": "La plaqueta",
+  "optionD": "El espermatozoide",
+  "correctAnswer": "El óvulo"
+ }
+]

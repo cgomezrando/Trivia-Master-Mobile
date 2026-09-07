@@ -1,0 +1,3116 @@
+[
+ {
+  "id": 1,
+  "question": "¿En qué año fue fundado el FC Barcelona?",
+  "optionA": "1889",
+  "optionB": "1899",
+  "optionC": "1909",
+  "optionD": "1919",
+  "correctAnswer": "1899"
+ },
+ {
+  "id": 2,
+  "question": "¿Quién fue el fundador más asociado al nacimiento del FC Barcelona?",
+  "optionA": "Joan Gamper",
+  "optionB": "László Kubala",
+  "optionC": "Josep Samitier",
+  "optionD": "Narcís de Carreras",
+  "correctAnswer": "Joan Gamper"
+ },
+ {
+  "id": 3,
+  "question": "¿Cuál fue el primer presidente del FC Barcelona?",
+  "optionA": "Joan Gamper",
+  "optionB": "Walter Wild",
+  "optionC": "Hans Gamper",
+  "optionD": "Josep Lluís Núñez",
+  "correctAnswer": "Walter Wild"
+ },
+ {
+  "id": 4,
+  "question": "¿Qué día se considera la fecha oficial de fundación del FC Barcelona?",
+  "optionA": "29 de noviembre de 1899",
+  "optionB": "11 de septiembre de 1901",
+  "optionC": "14 de marzo de 1902",
+  "optionD": "24 de septiembre de 1898",
+  "correctAnswer": "29 de noviembre de 1899"
+ },
+ {
+  "id": 5,
+  "question": "¿Dónde se publicó el anuncio que ayudó a reunir a los fundadores del Barça?",
+  "optionA": "Los Deportes",
+  "optionB": "La Vanguardia",
+  "optionC": "Mundo Deportivo",
+  "optionD": "El Diluvio",
+  "correctAnswer": "Los Deportes"
+ },
+ {
+  "id": 6,
+  "question": "¿Cuál es el apodo tradicional del FC Barcelona?",
+  "optionA": "Los Merengues",
+  "optionB": "Los Colchoneros",
+  "optionC": "Barça",
+  "optionD": "Los Leones",
+  "correctAnswer": "Barça"
+ },
+ {
+  "id": 7,
+  "question": "¿Qué significa la palabra 'culé' en el contexto del Barça?",
+  "optionA": "Jugador canterano",
+  "optionB": "Aficionado del FC Barcelona",
+  "optionC": "Socio fundador",
+  "optionD": "Capitán del equipo",
+  "correctAnswer": "Aficionado del FC Barcelona"
+ },
+ {
+  "id": 8,
+  "question": "¿De qué colores es conocida históricamente la camiseta del FC Barcelona?",
+  "optionA": "Blanco y azul",
+  "optionB": "Rojo y blanco",
+  "optionC": "Azul y grana",
+  "optionD": "Verde y negro",
+  "correctAnswer": "Azul y grana"
+ },
+ {
+  "id": 9,
+  "question": "¿Cómo se conoce popularmente la combinación de colores del Barça?",
+  "optionA": "Blanquiazul",
+  "optionB": "Blaugrana",
+  "optionC": "Rojiblanca",
+  "optionD": "Verdiblanca",
+  "correctAnswer": "Blaugrana"
+ },
+ {
+  "id": 10,
+  "question": "¿Cuál es el lema más famoso del FC Barcelona?",
+  "optionA": "Hasta el final",
+  "optionB": "Més que un club",
+  "optionC": "Nunca se rinde",
+  "optionD": "Fútbol y honor",
+  "correctAnswer": "Més que un club"
+ },
+ {
+  "id": 11,
+  "question": "¿Quién pronunció la frase 'Més que un club' como lema institucional en 1968?",
+  "optionA": "Joan Laporta",
+  "optionB": "Narcís de Carreras",
+  "optionC": "Josep Sunyol",
+  "optionD": "Agustí Montal",
+  "correctAnswer": "Narcís de Carreras"
+ },
+ {
+  "id": 12,
+  "question": "¿Cuál fue uno de los primeros campos donde jugó el FC Barcelona?",
+  "optionA": "Velòdrom de la Bonanova",
+  "optionB": "Camp Nou",
+  "optionC": "Miniestadi",
+  "optionD": "Estadi Olímpic Lluís Companys",
+  "correctAnswer": "Velòdrom de la Bonanova"
+ },
+ {
+  "id": 13,
+  "question": "¿Qué estadio inauguró el Barça en 1922 antes del Camp Nou?",
+  "optionA": "Camp de Les Corts",
+  "optionB": "Camp de Sarrià",
+  "optionC": "La Romareda",
+  "optionD": "San Mamés",
+  "correctAnswer": "Camp de Les Corts"
+ },
+ {
+  "id": 14,
+  "question": "¿En qué año se inauguró el Camp Nou?",
+  "optionA": "1947",
+  "optionB": "1957",
+  "optionC": "1967",
+  "optionD": "1977",
+  "correctAnswer": "1957"
+ },
+ {
+  "id": 15,
+  "question": "¿Contra qué equipo se jugó el partido inaugural del Camp Nou en 1957?",
+  "optionA": "Real Madrid",
+  "optionB": "Legia de Varsovia",
+  "optionC": "Selección de Brasil",
+  "optionD": "Bayern de Múnich",
+  "correctAnswer": "Legia de Varsovia"
+ },
+ {
+  "id": 16,
+  "question": "¿Qué jugador marcó el primer gol oficial en la inauguración del Camp Nou?",
+  "optionA": "Eulogio Martínez",
+  "optionB": "László Kubala",
+  "optionC": "Luis Suárez Miramontes",
+  "optionD": "César Rodríguez",
+  "correctAnswer": "Eulogio Martínez"
+ },
+ {
+  "id": 17,
+  "question": "¿Qué estadio ha usado el Barça durante las obras del Spotify Camp Nou en la década de 2020?",
+  "optionA": "RCDE Stadium",
+  "optionB": "Estadi Olímpic Lluís Companys",
+  "optionC": "Camp de Les Corts",
+  "optionD": "La Nova Creu Alta",
+  "correctAnswer": "Estadi Olímpic Lluís Companys"
+ },
+ {
+  "id": 18,
+  "question": "¿Qué nombre comercial recibió el Camp Nou a partir de 2022?",
+  "optionA": "Nike Camp Nou",
+  "optionB": "Spotify Camp Nou",
+  "optionC": "Rakuten Camp Nou",
+  "optionD": "Qatar Camp Nou",
+  "correctAnswer": "Spotify Camp Nou"
+ },
+ {
+  "id": 19,
+  "question": "¿Cuál es el himno oficial más conocido del FC Barcelona?",
+  "optionA": "Cant del Barça",
+  "optionB": "Els Segadors",
+  "optionC": "Barcelona té poder",
+  "optionD": "Som-hi Catalunya",
+  "correctAnswer": "Cant del Barça"
+ },
+ {
+  "id": 20,
+  "question": "¿En qué idioma está principalmente el 'Cant del Barça'?",
+  "optionA": "Castellano",
+  "optionB": "Catalán",
+  "optionC": "Francés",
+  "optionD": "Italiano",
+  "correctAnswer": "Catalán"
+ },
+ {
+  "id": 21,
+  "question": "¿Qué competición nacional ganó el Barça por primera vez en 1929?",
+  "optionA": "Copa del Rey",
+  "optionB": "Liga española",
+  "optionC": "Supercopa de España",
+  "optionD": "Copa Eva Duarte",
+  "correctAnswer": "Liga española"
+ },
+ {
+  "id": 22,
+  "question": "¿Quién fue el primer campeón de la historia de La Liga española?",
+  "optionA": "Real Madrid",
+  "optionB": "Athletic Club",
+  "optionC": "FC Barcelona",
+  "optionD": "Real Sociedad",
+  "correctAnswer": "FC Barcelona"
+ },
+ {
+  "id": 23,
+  "question": "¿En qué año ganó el Barça su primera Copa del Rey?",
+  "optionA": "1902",
+  "optionB": "1910",
+  "optionC": "1929",
+  "optionD": "1936",
+  "correctAnswer": "1910"
+ },
+ {
+  "id": 24,
+  "question": "¿Qué jugador filipino-español fue una gran estrella goleadora del Barça en los años 1910 y 1920?",
+  "optionA": "Paulino Alcántara",
+  "optionB": "Luis Suárez",
+  "optionC": "César Rodríguez",
+  "optionD": "Carles Rexach",
+  "correctAnswer": "Paulino Alcántara"
+ },
+ {
+  "id": 25,
+  "question": "¿Qué apodo recibió Paulino Alcántara por su potencia de disparo?",
+  "optionA": "El Mago",
+  "optionB": "El Romperredes",
+  "optionC": "El Arquitecto",
+  "optionD": "El Kaiser",
+  "correctAnswer": "El Romperredes"
+ },
+ {
+  "id": 26,
+  "question": "¿Qué futbolista fue conocido como 'El Diví' y brilló en el Barça de los años 20?",
+  "optionA": "Josep Samitier",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Pep Guardiola",
+  "optionD": "Migueli",
+  "correctAnswer": "Josep Samitier"
+ },
+ {
+  "id": 27,
+  "question": "¿Qué presidente del Barça fue fusilado durante la Guerra Civil española?",
+  "optionA": "Josep Sunyol",
+  "optionB": "Joan Laporta",
+  "optionC": "Enric Llaudet",
+  "optionD": "Agustí Montal",
+  "correctAnswer": "Josep Sunyol"
+ },
+ {
+  "id": 28,
+  "question": "¿Qué equipo se considera el gran rival histórico del Barça en El Clásico?",
+  "optionA": "Atlético de Madrid",
+  "optionB": "Real Madrid",
+  "optionC": "Espanyol",
+  "optionD": "Valencia",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 29,
+  "question": "¿Cómo se llama el derbi barcelonés tradicional?",
+  "optionA": "Derbi del Turia",
+  "optionB": "Derbi sevillano",
+  "optionC": "Derbi barceloní",
+  "optionD": "Derbi vasco",
+  "correctAnswer": "Derbi barceloní"
+ },
+ {
+  "id": 30,
+  "question": "¿Contra qué equipo juega el Barça el derbi barcelonés?",
+  "optionA": "Girona",
+  "optionB": "Espanyol",
+  "optionC": "Sabadell",
+  "optionD": "Nàstic",
+  "correctAnswer": "Espanyol"
+ },
+ {
+  "id": 31,
+  "question": "¿Qué estrella húngara fichó por el Barça en 1950 y transformó la historia del club?",
+  "optionA": "Ferenc Puskás",
+  "optionB": "László Kubala",
+  "optionC": "Sándor Kocsis",
+  "optionD": "Zoltán Czibor",
+  "correctAnswer": "László Kubala"
+ },
+ {
+  "id": 32,
+  "question": "¿Qué apodo recibió László Kubala en el barcelonismo?",
+  "optionA": "Laszy",
+  "optionB": "El Pelusa",
+  "optionC": "El Noi de Terrassa",
+  "optionD": "Tarzán",
+  "correctAnswer": "Laszy"
+ },
+ {
+  "id": 33,
+  "question": "¿Qué jugador español del Barça ganó el Balón de Oro en 1960?",
+  "optionA": "Luis Suárez Miramontes",
+  "optionB": "Carles Rexach",
+  "optionC": "César Rodríguez",
+  "optionD": "Johan Cruyff",
+  "correctAnswer": "Luis Suárez Miramontes"
+ },
+ {
+  "id": 34,
+  "question": "¿Contra qué equipo perdió el Barça la final de la Copa de Europa de 1961?",
+  "optionA": "Benfica",
+  "optionB": "Inter de Milán",
+  "optionC": "Milan",
+  "optionD": "Ajax",
+  "correctAnswer": "Benfica"
+ },
+ {
+  "id": 35,
+  "question": "¿En qué ciudad se jugó la final de la Copa de Europa de 1961 que perdió el Barça?",
+  "optionA": "Berna",
+  "optionB": "Viena",
+  "optionC": "París",
+  "optionD": "Londres",
+  "correctAnswer": "Berna"
+ },
+ {
+  "id": 36,
+  "question": "¿Qué holandés fichó por el Barça en 1973 y cambió la identidad futbolística del club?",
+  "optionA": "Johan Cruyff",
+  "optionB": "Marco van Basten",
+  "optionC": "Ruud Gullit",
+  "optionD": "Frank Rijkaard",
+  "correctAnswer": "Johan Cruyff"
+ },
+ {
+  "id": 37,
+  "question": "¿Qué número de camiseta se asocia míticamente con Johan Cruyff?",
+  "optionA": "7",
+  "optionB": "9",
+  "optionC": "10",
+  "optionD": "14",
+  "correctAnswer": "14"
+ },
+ {
+  "id": 38,
+  "question": "¿Qué Liga ganó el Barça con Johan Cruyff como jugador en la temporada 1973-74?",
+  "optionA": "La Liga 1973-74",
+  "optionB": "La Liga 1978-79",
+  "optionC": "La Liga 1984-85",
+  "optionD": "La Liga 1990-91",
+  "correctAnswer": "La Liga 1973-74"
+ },
+ {
+  "id": 39,
+  "question": "¿Qué resultado logró el Barça de Cruyff en el Santiago Bernabéu en febrero de 1974?",
+  "optionA": "0-1",
+  "optionB": "0-3",
+  "optionC": "0-5",
+  "optionD": "1-6",
+  "correctAnswer": "0-5"
+ },
+ {
+  "id": 40,
+  "question": "¿Qué entrenador holandés dirigió al Barça en la etapa de Cruyff jugador?",
+  "optionA": "Rinus Michels",
+  "optionB": "Louis van Gaal",
+  "optionC": "Frank Rijkaard",
+  "optionD": "Leo Beenhakker",
+  "correctAnswer": "Rinus Michels"
+ },
+ {
+  "id": 41,
+  "question": "¿Qué delantero austriaco fue Balón de Oro y jugó en el Barça entre 1973 y 1975?",
+  "optionA": "Hans Krankl",
+  "optionB": "Hristo Stoichkov",
+  "optionC": "Allan Simonsen",
+  "optionD": "Johan Neeskens",
+  "correctAnswer": "Johan Neeskens"
+ },
+ {
+  "id": 42,
+  "question": "¿Qué danés ganó el Balón de Oro en 1977 y después jugó en el Barça?",
+  "optionA": "Michael Laudrup",
+  "optionB": "Allan Simonsen",
+  "optionC": "Brian Laudrup",
+  "optionD": "Jon Dahl Tomasson",
+  "correctAnswer": "Allan Simonsen"
+ },
+ {
+  "id": 43,
+  "question": "¿Qué delantero argentino fichó el Barça en 1982 antes de convertirse en leyenda mundial?",
+  "optionA": "Gabriel Batistuta",
+  "optionB": "Diego Armando Maradona",
+  "optionC": "Mario Kempes",
+  "optionD": "Juan Román Riquelme",
+  "correctAnswer": "Diego Armando Maradona"
+ },
+ {
+  "id": 44,
+  "question": "¿Qué club italiano fichó a Maradona tras su etapa en el Barça?",
+  "optionA": "Juventus",
+  "optionB": "Milan",
+  "optionC": "Napoli",
+  "optionD": "Inter",
+  "correctAnswer": "Napoli"
+ },
+ {
+  "id": 45,
+  "question": "¿Qué defensa del Athletic lesionó gravemente a Maradona en 1983?",
+  "optionA": "Andoni Goikoetxea",
+  "optionB": "Rafael Alkorta",
+  "optionC": "Migueli",
+  "optionD": "Zubizarreta",
+  "correctAnswer": "Andoni Goikoetxea"
+ },
+ {
+  "id": 46,
+  "question": "¿Qué entrenador inglés dirigió al Barça campeón de Liga 1984-85?",
+  "optionA": "Terry Venables",
+  "optionB": "Bobby Robson",
+  "optionC": "Vic Buckingham",
+  "optionD": "Howard Kendall",
+  "correctAnswer": "Terry Venables"
+ },
+ {
+  "id": 47,
+  "question": "¿Qué portero vasco fue figura del Barça en los años 80 y 90?",
+  "optionA": "Andoni Zubizarreta",
+  "optionB": "Iker Casillas",
+  "optionC": "José Ángel Iribar",
+  "optionD": "Luis Arconada",
+  "correctAnswer": "Andoni Zubizarreta"
+ },
+ {
+  "id": 48,
+  "question": "¿Contra qué equipo perdió el Barça la final de la Copa de Europa de 1986?",
+  "optionA": "Steaua de Bucarest",
+  "optionB": "Liverpool",
+  "optionC": "Bayern de Múnich",
+  "optionD": "Porto",
+  "correctAnswer": "Steaua de Bucarest"
+ },
+ {
+  "id": 49,
+  "question": "¿En qué ciudad se jugó la final de la Copa de Europa de 1986?",
+  "optionA": "Sevilla",
+  "optionB": "Madrid",
+  "optionC": "Barcelona",
+  "optionD": "Valencia",
+  "correctAnswer": "Sevilla"
+ },
+ {
+  "id": 50,
+  "question": "¿Quién fue el entrenador del llamado Dream Team del Barça?",
+  "optionA": "Johan Cruyff",
+  "optionB": "Pep Guardiola",
+  "optionC": "Frank Rijkaard",
+  "optionD": "Luis Enrique",
+  "correctAnswer": "Johan Cruyff"
+ },
+ {
+  "id": 51,
+  "question": "¿En qué año ganó el Barça su primera Copa de Europa?",
+  "optionA": "1986",
+  "optionB": "1992",
+  "optionC": "1994",
+  "optionD": "2006",
+  "correctAnswer": "1992"
+ },
+ {
+  "id": 52,
+  "question": "¿En qué estadio ganó el Barça su primera Copa de Europa?",
+  "optionA": "Wembley",
+  "optionB": "Camp Nou",
+  "optionC": "San Siro",
+  "optionD": "Parc des Princes",
+  "correctAnswer": "Wembley"
+ },
+ {
+  "id": 53,
+  "question": "¿Qué equipo fue el rival del Barça en la final de Wembley 1992?",
+  "optionA": "AC Milan",
+  "optionB": "Sampdoria",
+  "optionC": "Ajax",
+  "optionD": "Benfica",
+  "correctAnswer": "Sampdoria"
+ },
+ {
+  "id": 54,
+  "question": "¿Quién marcó el gol de falta de la final de Wembley 1992?",
+  "optionA": "Hristo Stoichkov",
+  "optionB": "Ronald Koeman",
+  "optionC": "Michael Laudrup",
+  "optionD": "Pep Guardiola",
+  "correctAnswer": "Ronald Koeman"
+ },
+ {
+  "id": 55,
+  "question": "¿Qué jugador búlgaro fue una estrella del Dream Team?",
+  "optionA": "Dimitar Berbatov",
+  "optionB": "Hristo Stoichkov",
+  "optionC": "Krasimir Balakov",
+  "optionD": "Stiliyan Petrov",
+  "correctAnswer": "Hristo Stoichkov"
+ },
+ {
+  "id": 56,
+  "question": "¿Qué jugador danés fue clave en el Dream Team de Cruyff?",
+  "optionA": "Michael Laudrup",
+  "optionB": "Christian Eriksen",
+  "optionC": "Brian Laudrup",
+  "optionD": "Peter Schmeichel",
+  "correctAnswer": "Michael Laudrup"
+ },
+ {
+  "id": 57,
+  "question": "¿Qué joven centrocampista catalán fue pieza táctica del Dream Team?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Pep Guardiola",
+  "optionC": "Sergio Busquets",
+  "optionD": "Cesc Fàbregas",
+  "correctAnswer": "Pep Guardiola"
+ },
+ {
+  "id": 58,
+  "question": "¿Cuántas Ligas consecutivas ganó el Dream Team entre 1991 y 1994?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "5",
+  "correctAnswer": "4"
+ },
+ {
+  "id": 59,
+  "question": "¿Contra qué equipo perdió el Barça la final de la Champions League de 1994?",
+  "optionA": "AC Milan",
+  "optionB": "Juventus",
+  "optionC": "Manchester United",
+  "optionD": "Ajax",
+  "correctAnswer": "AC Milan"
+ },
+ {
+  "id": 60,
+  "question": "¿En qué ciudad se disputó la final de Champions de 1994 perdida por el Barça?",
+  "optionA": "Atenas",
+  "optionB": "Roma",
+  "optionC": "Múnich",
+  "optionD": "Lisboa",
+  "correctAnswer": "Atenas"
+ },
+ {
+  "id": 61,
+  "question": "¿Qué brasileño ganó el Balón de Oro siendo jugador del Barça en 1999?",
+  "optionA": "Ronaldo Nazário",
+  "optionB": "Rivaldo",
+  "optionC": "Romário",
+  "optionD": "Ronaldinho",
+  "correctAnswer": "Rivaldo"
+ },
+ {
+  "id": 62,
+  "question": "¿Qué delantero brasileño marcó una temporada espectacular en el Barça 1996-97?",
+  "optionA": "Ronaldo Nazário",
+  "optionB": "Romário",
+  "optionC": "Bebeto",
+  "optionD": "Adriano",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 63,
+  "question": "¿Qué entrenador inglés dirigió al Barça de Ronaldo en la temporada 1996-97?",
+  "optionA": "Bobby Robson",
+  "optionB": "Terry Venables",
+  "optionC": "Roy Hodgson",
+  "optionD": "Kevin Keegan",
+  "correctAnswer": "Bobby Robson"
+ },
+ {
+  "id": 64,
+  "question": "¿Qué portugués fue asistente de Bobby Robson en el Barça?",
+  "optionA": "José Mourinho",
+  "optionB": "André Villas-Boas",
+  "optionC": "Carlos Queiroz",
+  "optionD": "Fernando Santos",
+  "correctAnswer": "José Mourinho"
+ },
+ {
+  "id": 65,
+  "question": "¿Qué entrenador neerlandés ganó dos Ligas con el Barça a finales de los 90?",
+  "optionA": "Frank Rijkaard",
+  "optionB": "Louis van Gaal",
+  "optionC": "Ronald Koeman",
+  "optionD": "Rinus Michels",
+  "correctAnswer": "Louis van Gaal"
+ },
+ {
+  "id": 66,
+  "question": "¿Qué capitán levantó la Champions League de París 2006?",
+  "optionA": "Carles Puyol",
+  "optionB": "Xavi Hernández",
+  "optionC": "Ronaldinho",
+  "optionD": "Víctor Valdés",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 67,
+  "question": "¿Contra qué equipo ganó el Barça la Champions League de 2006?",
+  "optionA": "Chelsea",
+  "optionB": "Arsenal",
+  "optionC": "Manchester United",
+  "optionD": "Liverpool",
+  "correctAnswer": "Arsenal"
+ },
+ {
+  "id": 68,
+  "question": "¿En qué ciudad ganó el Barça la Champions League de 2006?",
+  "optionA": "París",
+  "optionB": "Roma",
+  "optionC": "Lisboa",
+  "optionD": "Berlín",
+  "correctAnswer": "París"
+ },
+ {
+  "id": 69,
+  "question": "¿Quién marcó el gol de la victoria del Barça en la final de Champions 2006?",
+  "optionA": "Samuel Eto'o",
+  "optionB": "Juliano Belletti",
+  "optionC": "Ronaldinho",
+  "optionD": "Deco",
+  "correctAnswer": "Juliano Belletti"
+ },
+ {
+  "id": 70,
+  "question": "¿Qué entrenador dirigió al Barça campeón de Europa en 2006?",
+  "optionA": "Frank Rijkaard",
+  "optionB": "Pep Guardiola",
+  "optionC": "Luis Enrique",
+  "optionD": "Johan Cruyff",
+  "correctAnswer": "Frank Rijkaard"
+ },
+ {
+  "id": 71,
+  "question": "¿Qué brasileño fue el gran icono del Barça de Rijkaard?",
+  "optionA": "Ronaldinho",
+  "optionB": "Neymar",
+  "optionC": "Rivaldo",
+  "optionD": "Dani Alves",
+  "correctAnswer": "Ronaldinho"
+ },
+ {
+  "id": 72,
+  "question": "¿En qué año ganó Ronaldinho el Balón de Oro como jugador del Barça?",
+  "optionA": "2003",
+  "optionB": "2004",
+  "optionC": "2005",
+  "optionD": "2006",
+  "correctAnswer": "2005"
+ },
+ {
+  "id": 73,
+  "question": "¿Qué jugador camerunés fue clave en las Champions de 2006 y 2009?",
+  "optionA": "Samuel Eto'o",
+  "optionB": "Roger Milla",
+  "optionC": "Alex Song",
+  "optionD": "Geremi",
+  "correctAnswer": "Samuel Eto'o"
+ },
+ {
+  "id": 74,
+  "question": "¿Qué portero catalán fue titular en las Champions de 2006, 2009 y 2011?",
+  "optionA": "Víctor Valdés",
+  "optionB": "Pepe Reina",
+  "optionC": "Andoni Zubizarreta",
+  "optionD": "Marc-André ter Stegen",
+  "correctAnswer": "Víctor Valdés"
+ },
+ {
+  "id": 75,
+  "question": "¿En qué año debutó Lionel Messi oficialmente con el primer equipo del Barça?",
+  "optionA": "2002",
+  "optionB": "2004",
+  "optionC": "2006",
+  "optionD": "2008",
+  "correctAnswer": "2004"
+ },
+ {
+  "id": 76,
+  "question": "¿Contra qué equipo debutó oficialmente Messi en La Liga con el Barça?",
+  "optionA": "Espanyol",
+  "optionB": "Albacete",
+  "optionC": "Real Madrid",
+  "optionD": "Deportivo de La Coruña",
+  "correctAnswer": "Espanyol"
+ },
+ {
+  "id": 77,
+  "question": "¿Contra qué equipo marcó Messi su primer gol oficial con el Barça?",
+  "optionA": "Albacete",
+  "optionB": "Chelsea",
+  "optionC": "Sevilla",
+  "optionD": "Osasuna",
+  "correctAnswer": "Albacete"
+ },
+ {
+  "id": 78,
+  "question": "¿Quién dio la asistencia a Messi en su primer gol oficial con el Barça?",
+  "optionA": "Xavi",
+  "optionB": "Ronaldinho",
+  "optionC": "Deco",
+  "optionD": "Iniesta",
+  "correctAnswer": "Ronaldinho"
+ },
+ {
+  "id": 79,
+  "question": "¿Qué entrenador inició la etapa más laureada del Barça en 2008?",
+  "optionA": "Pep Guardiola",
+  "optionB": "Frank Rijkaard",
+  "optionC": "Luis Enrique",
+  "optionD": "Tito Vilanova",
+  "correctAnswer": "Pep Guardiola"
+ },
+ {
+  "id": 80,
+  "question": "¿Qué equipo entrenaba Pep Guardiola justo antes de dirigir al primer equipo del Barça?",
+  "optionA": "Barça Atlètic",
+  "optionB": "Girona",
+  "optionC": "Sabadell",
+  "optionD": "Juvenil A",
+  "correctAnswer": "Barça Atlètic"
+ },
+ {
+  "id": 81,
+  "question": "¿En qué temporada ganó el Barça el primer triplete de su historia?",
+  "optionA": "2005-06",
+  "optionB": "2008-09",
+  "optionC": "2010-11",
+  "optionD": "2014-15",
+  "correctAnswer": "2008-09"
+ },
+ {
+  "id": 82,
+  "question": "¿Qué títulos formaron el triplete del Barça en 2008-09?",
+  "optionA": "Liga, Copa del Rey y Champions League",
+  "optionB": "Liga, Supercopa y Mundial de Clubes",
+  "optionC": "Copa, UEFA y Supercopa",
+  "optionD": "Liga, Copa Cataluña y Champions",
+  "correctAnswer": "Liga, Copa del Rey y Champions League"
+ },
+ {
+  "id": 83,
+  "question": "¿Contra qué equipo ganó el Barça la final de Champions de 2009?",
+  "optionA": "Chelsea",
+  "optionB": "Manchester United",
+  "optionC": "Bayern de Múnich",
+  "optionD": "Inter de Milán",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 84,
+  "question": "¿En qué ciudad ganó el Barça la Champions League de 2009?",
+  "optionA": "Roma",
+  "optionB": "Madrid",
+  "optionC": "Londres",
+  "optionD": "Berlín",
+  "correctAnswer": "Roma"
+ },
+ {
+  "id": 85,
+  "question": "¿Quiénes marcaron para el Barça en la final de Champions 2009?",
+  "optionA": "Eto'o y Messi",
+  "optionB": "Xavi e Iniesta",
+  "optionC": "Henry y Puyol",
+  "optionD": "Messi y Pedro",
+  "correctAnswer": "Eto'o y Messi"
+ },
+ {
+  "id": 86,
+  "question": "¿Qué resultado logró el Barça en el Bernabéu en mayo de 2009?",
+  "optionA": "0-3",
+  "optionB": "1-4",
+  "optionC": "2-6",
+  "optionD": "3-5",
+  "correctAnswer": "2-6"
+ },
+ {
+  "id": 87,
+  "question": "¿Qué centrocampista marcó el gol decisivo en Stamford Bridge en 2009?",
+  "optionA": "Xavi",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Sergio Busquets",
+  "optionD": "Yaya Touré",
+  "correctAnswer": "Andrés Iniesta"
+ },
+ {
+  "id": 88,
+  "question": "¿Contra qué equipo marcó Iniesta el famoso 'Iniestazo' de 2009?",
+  "optionA": "Arsenal",
+  "optionB": "Chelsea",
+  "optionC": "Liverpool",
+  "optionD": "Manchester United",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 89,
+  "question": "¿Cuántos títulos oficiales ganó el Barça en el año natural 2009?",
+  "optionA": "4",
+  "optionB": "5",
+  "optionC": "6",
+  "optionD": "7",
+  "correctAnswer": "6"
+ },
+ {
+  "id": 90,
+  "question": "¿Cómo se conoce la hazaña del Barça de ganar seis títulos en 2009?",
+  "optionA": "Doblete mágico",
+  "optionB": "Sextete",
+  "optionC": "Quinteto azulgrana",
+  "optionD": "Triplete extendido",
+  "correctAnswer": "Sextete"
+ },
+ {
+  "id": 91,
+  "question": "¿Qué delantero marcó el gol decisivo del Mundial de Clubes 2009 ante Estudiantes?",
+  "optionA": "Pedro",
+  "optionB": "Messi",
+  "optionC": "Bojan",
+  "optionD": "Henry",
+  "correctAnswer": "Messi"
+ },
+ {
+  "id": 92,
+  "question": "¿Qué jugador canario marcó en seis competiciones distintas en 2009?",
+  "optionA": "Pedro Rodríguez",
+  "optionB": "David Silva",
+  "optionC": "Juan Carlos Valerón",
+  "optionD": "Vitolo",
+  "correctAnswer": "Pedro Rodríguez"
+ },
+ {
+  "id": 93,
+  "question": "¿Qué equipo eliminó al Barça en semifinales de Champions 2009-10?",
+  "optionA": "Inter de Milán",
+  "optionB": "Bayern de Múnich",
+  "optionC": "Chelsea",
+  "optionD": "Arsenal",
+  "correctAnswer": "Inter de Milán"
+ },
+ {
+  "id": 94,
+  "question": "¿Quién entrenaba al Inter que eliminó al Barça en 2010?",
+  "optionA": "Carlo Ancelotti",
+  "optionB": "José Mourinho",
+  "optionC": "Rafael Benítez",
+  "optionD": "Antonio Conte",
+  "correctAnswer": "José Mourinho"
+ },
+ {
+  "id": 95,
+  "question": "¿Qué resultado consiguió el Barça contra el Real Madrid en el Camp Nou en noviembre de 2010?",
+  "optionA": "3-0",
+  "optionB": "4-1",
+  "optionC": "5-0",
+  "optionD": "6-2",
+  "correctAnswer": "5-0"
+ },
+ {
+  "id": 96,
+  "question": "¿Contra qué equipo ganó el Barça la Champions League de 2011?",
+  "optionA": "Manchester United",
+  "optionB": "Chelsea",
+  "optionC": "Real Madrid",
+  "optionD": "Bayern de Múnich",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 97,
+  "question": "¿En qué estadio ganó el Barça la Champions League de 2011?",
+  "optionA": "Wembley",
+  "optionB": "Old Trafford",
+  "optionC": "San Siro",
+  "optionD": "Allianz Arena",
+  "correctAnswer": "Wembley"
+ },
+ {
+  "id": 98,
+  "question": "¿Qué resultado tuvo la final de Champions 2011 entre Barça y Manchester United?",
+  "optionA": "1-0",
+  "optionB": "2-1",
+  "optionC": "3-1",
+  "optionD": "4-2",
+  "correctAnswer": "3-1"
+ },
+ {
+  "id": 99,
+  "question": "¿Quiénes marcaron para el Barça en la final de Champions 2011?",
+  "optionA": "Pedro, Messi y Villa",
+  "optionB": "Xavi, Iniesta y Messi",
+  "optionC": "Eto'o, Messi y Henry",
+  "optionD": "Messi, Neymar y Suárez",
+  "correctAnswer": "Pedro, Messi y Villa"
+ },
+ {
+  "id": 100,
+  "question": "¿Qué trío de centrocampistas se asocia al mejor Barça de Guardiola?",
+  "optionA": "Xavi, Iniesta y Busquets",
+  "optionB": "Deco, Motta y Edmílson",
+  "optionC": "Rakitic, Vidal y Arthur",
+  "optionD": "Luis Enrique, Guardiola y Cocu",
+  "correctAnswer": "Xavi, Iniesta y Busquets"
+ },
+ {
+  "id": 101,
+  "question": "¿Qué estilo de juego se asocia popularmente al Barça de Guardiola?",
+  "optionA": "Catenaccio",
+  "optionB": "Tiki-taka",
+  "optionC": "Kick and rush",
+  "optionD": "Juego directo",
+  "correctAnswer": "Tiki-taka"
+ },
+ {
+  "id": 102,
+  "question": "¿Qué entrenador sustituyó a Pep Guardiola en el Barça en 2012?",
+  "optionA": "Tito Vilanova",
+  "optionB": "Luis Enrique",
+  "optionC": "Gerardo Martino",
+  "optionD": "Ronald Koeman",
+  "correctAnswer": "Tito Vilanova"
+ },
+ {
+  "id": 103,
+  "question": "¿Cuántos puntos logró el Barça de Tito Vilanova en la Liga 2012-13?",
+  "optionA": "90",
+  "optionB": "95",
+  "optionC": "100",
+  "optionD": "102",
+  "correctAnswer": "100"
+ },
+ {
+  "id": 104,
+  "question": "¿Qué entrenador argentino dirigió al Barça en la temporada 2013-14?",
+  "optionA": "Marcelo Bielsa",
+  "optionB": "Gerardo 'Tata' Martino",
+  "optionC": "Jorge Sampaoli",
+  "optionD": "Mauricio Pochettino",
+  "correctAnswer": "Gerardo 'Tata' Martino"
+ },
+ {
+  "id": 105,
+  "question": "¿Qué tridente ofensivo del Barça fue conocido como MSN?",
+  "optionA": "Messi, Suárez y Neymar",
+  "optionB": "Messi, Stoichkov y Neymar",
+  "optionC": "Maradona, Suárez y Núñez",
+  "optionD": "Müller, Suárez y Neymar",
+  "correctAnswer": "Messi, Suárez y Neymar"
+ },
+ {
+  "id": 106,
+  "question": "¿Qué entrenador dirigió al Barça del triplete 2014-15?",
+  "optionA": "Luis Enrique",
+  "optionB": "Pep Guardiola",
+  "optionC": "Frank Rijkaard",
+  "optionD": "Ernesto Valverde",
+  "correctAnswer": "Luis Enrique"
+ },
+ {
+  "id": 107,
+  "question": "¿Contra qué equipo ganó el Barça la final de Champions de 2015?",
+  "optionA": "Juventus",
+  "optionB": "Bayern de Múnich",
+  "optionC": "Paris Saint-Germain",
+  "optionD": "Atlético de Madrid",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 108,
+  "question": "¿En qué ciudad ganó el Barça la Champions League de 2015?",
+  "optionA": "Berlín",
+  "optionB": "Lisboa",
+  "optionC": "Cardiff",
+  "optionD": "Múnich",
+  "correctAnswer": "Berlín"
+ },
+ {
+  "id": 109,
+  "question": "¿Qué resultado tuvo la final de Champions 2015 entre Barça y Juventus?",
+  "optionA": "1-0",
+  "optionB": "2-1",
+  "optionC": "3-1",
+  "optionD": "4-0",
+  "correctAnswer": "3-1"
+ },
+ {
+  "id": 110,
+  "question": "¿Quién marcó el primer gol del Barça en la final de Champions 2015?",
+  "optionA": "Ivan Rakitic",
+  "optionB": "Luis Suárez",
+  "optionC": "Neymar",
+  "optionD": "Messi",
+  "correctAnswer": "Ivan Rakitic"
+ },
+ {
+  "id": 111,
+  "question": "¿Quién cerró el marcador para el Barça en la final de Champions 2015?",
+  "optionA": "Neymar",
+  "optionB": "Messi",
+  "optionC": "Pedro",
+  "optionD": "Iniesta",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 112,
+  "question": "¿Cuántas Champions League masculinas ha ganado el FC Barcelona hasta 2026?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6",
+  "correctAnswer": "5"
+ },
+ {
+  "id": 113,
+  "question": "¿En qué años ganó el Barça sus cinco Champions masculinas?",
+  "optionA": "1992, 2006, 2009, 2011 y 2015",
+  "optionB": "1986, 1992, 2006, 2009 y 2015",
+  "optionC": "1994, 2006, 2009, 2011 y 2015",
+  "optionD": "1992, 2001, 2006, 2011 y 2015",
+  "correctAnswer": "1992, 2006, 2009, 2011 y 2015"
+ },
+ {
+  "id": 114,
+  "question": "¿Quién es el máximo goleador histórico oficial del FC Barcelona?",
+  "optionA": "César Rodríguez",
+  "optionB": "László Kubala",
+  "optionC": "Lionel Messi",
+  "optionD": "Luis Suárez",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 115,
+  "question": "¿Cuántos goles oficiales marcó Lionel Messi con el Barça?",
+  "optionA": "543",
+  "optionB": "600",
+  "optionC": "672",
+  "optionD": "711",
+  "correctAnswer": "672"
+ },
+ {
+  "id": 116,
+  "question": "¿Quién es el jugador con más partidos oficiales en la historia del Barça?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Lionel Messi",
+  "optionD": "Sergio Busquets",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 117,
+  "question": "¿Cuántos partidos oficiales jugó Messi con el Barça?",
+  "optionA": "672",
+  "optionB": "724",
+  "optionC": "778",
+  "optionD": "801",
+  "correctAnswer": "778"
+ },
+ {
+  "id": 118,
+  "question": "¿Qué jugador fue durante años el máximo asistente y cerebro del Barça de Guardiola?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Gerard Piqué",
+  "optionC": "Jordi Alba",
+  "optionD": "Pedro",
+  "correctAnswer": "Xavi Hernández"
+ },
+ {
+  "id": 119,
+  "question": "¿Qué futbolista marcó el gol de España en la final del Mundial 2010 y fue leyenda del Barça?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Andrés Iniesta",
+  "optionC": "David Villa",
+  "optionD": "Carles Puyol",
+  "correctAnswer": "Andrés Iniesta"
+ },
+ {
+  "id": 120,
+  "question": "¿Qué defensa marcó el gol que llevó a España a la final del Mundial 2010 y era capitán del Barça?",
+  "optionA": "Gerard Piqué",
+  "optionB": "Carles Puyol",
+  "optionC": "Jordi Alba",
+  "optionD": "Sergi Barjuan",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 121,
+  "question": "¿Qué defensa central volvió al Barça desde el Manchester United en 2008?",
+  "optionA": "Gerard Piqué",
+  "optionB": "Eric Abidal",
+  "optionC": "Rafa Márquez",
+  "optionD": "Jérémy Mathieu",
+  "correctAnswer": "Gerard Piqué"
+ },
+ {
+  "id": 122,
+  "question": "¿Qué lateral brasileño es considerado uno de los mejores socios de Messi en la banda derecha?",
+  "optionA": "Dani Alves",
+  "optionB": "Cafú",
+  "optionC": "Maicon",
+  "optionD": "Belletti",
+  "correctAnswer": "Dani Alves"
+ },
+ {
+  "id": 123,
+  "question": "¿Qué jugador francés levantó la Champions 2011 tras superar un tumor hepático?",
+  "optionA": "Thierry Henry",
+  "optionB": "Eric Abidal",
+  "optionC": "Ludovic Giuly",
+  "optionD": "Samuel Umtiti",
+  "correctAnswer": "Eric Abidal"
+ },
+ {
+  "id": 124,
+  "question": "¿Qué jugador marcó el gol del Barça en la final del Mundial de Clubes 2011 ante Santos antes de la goleada?",
+  "optionA": "Messi",
+  "optionB": "Xavi",
+  "optionC": "Fàbregas",
+  "optionD": "Piqué",
+  "correctAnswer": "Messi"
+ },
+ {
+  "id": 125,
+  "question": "¿Contra qué equipo ganó el Barça el Mundial de Clubes 2011?",
+  "optionA": "Santos",
+  "optionB": "Boca Juniors",
+  "optionC": "Corinthians",
+  "optionD": "River Plate",
+  "correctAnswer": "Santos"
+ },
+ {
+  "id": 126,
+  "question": "¿Contra qué equipo ganó el Barça el Mundial de Clubes 2015?",
+  "optionA": "River Plate",
+  "optionB": "Santos",
+  "optionC": "Estudiantes",
+  "optionD": "Gremio",
+  "correctAnswer": "River Plate"
+ },
+ {
+  "id": 127,
+  "question": "¿Cuántos Mundiales de Clubes FIFA ha ganado el Barça hasta 2026?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 128,
+  "question": "¿En qué años ganó el Barça el Mundial de Clubes FIFA?",
+  "optionA": "2006, 2009 y 2011",
+  "optionB": "2009, 2011 y 2015",
+  "optionC": "2011, 2015 y 2019",
+  "optionD": "1992, 2009 y 2015",
+  "correctAnswer": "2009, 2011 y 2015"
+ },
+ {
+  "id": 129,
+  "question": "¿Qué goleador uruguayo llegó al Barça en 2014 procedente del Liverpool?",
+  "optionA": "Luis Suárez",
+  "optionB": "Diego Forlán",
+  "optionC": "Edinson Cavani",
+  "optionD": "Darwin Núñez",
+  "correctAnswer": "Luis Suárez"
+ },
+ {
+  "id": 130,
+  "question": "¿Qué brasileño formó parte del tridente MSN entre 2014 y 2017?",
+  "optionA": "Neymar",
+  "optionB": "Vinícius Júnior",
+  "optionC": "Robinho",
+  "optionD": "Kaká",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 131,
+  "question": "¿Qué remontada europea histórica logró el Barça ante el PSG en 2017?",
+  "optionA": "Ganó 5-1 tras perder 2-0",
+  "optionB": "Ganó 6-1 tras perder 4-0",
+  "optionC": "Ganó 4-0 tras perder 3-0",
+  "optionD": "Ganó 7-2 tras perder 5-1",
+  "correctAnswer": "Ganó 6-1 tras perder 4-0"
+ },
+ {
+  "id": 132,
+  "question": "¿Quién marcó el gol definitivo del 6-1 contra el PSG en 2017?",
+  "optionA": "Sergi Roberto",
+  "optionB": "Neymar",
+  "optionC": "Messi",
+  "optionD": "Luis Suárez",
+  "correctAnswer": "Sergi Roberto"
+ },
+ {
+  "id": 133,
+  "question": "¿Qué entrenador dirigía al Barça durante la remontada ante el PSG en 2017?",
+  "optionA": "Luis Enrique",
+  "optionB": "Ernesto Valverde",
+  "optionC": "Pep Guardiola",
+  "optionD": "Xavi Hernández",
+  "correctAnswer": "Luis Enrique"
+ },
+ {
+  "id": 134,
+  "question": "¿Qué equipo protagonizó la remontada de Anfield contra el Barça en 2019?",
+  "optionA": "Liverpool",
+  "optionB": "Chelsea",
+  "optionC": "Manchester City",
+  "optionD": "Tottenham",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 135,
+  "question": "¿Qué resultado sufrió el Barça ante el Bayern de Múnich en Lisboa en 2020?",
+  "optionA": "2-5",
+  "optionB": "3-6",
+  "optionC": "2-8",
+  "optionD": "1-7",
+  "correctAnswer": "2-8"
+ },
+ {
+  "id": 136,
+  "question": "¿Qué entrenador neerlandés asumió el Barça tras la crisis de 2020?",
+  "optionA": "Ronald Koeman",
+  "optionB": "Frank Rijkaard",
+  "optionC": "Louis van Gaal",
+  "optionD": "Erik ten Hag",
+  "correctAnswer": "Ronald Koeman"
+ },
+ {
+  "id": 137,
+  "question": "¿Qué título ganó el Barça de Koeman en 2021?",
+  "optionA": "Champions League",
+  "optionB": "Copa del Rey",
+  "optionC": "Liga",
+  "optionD": "Europa League",
+  "correctAnswer": "Copa del Rey"
+ },
+ {
+  "id": 138,
+  "question": "¿Contra qué equipo ganó el Barça la final de la Copa del Rey 2021?",
+  "optionA": "Athletic Club",
+  "optionB": "Real Sociedad",
+  "optionC": "Valencia",
+  "optionD": "Sevilla",
+  "correctAnswer": "Athletic Club"
+ },
+ {
+  "id": 139,
+  "question": "¿Qué leyenda del Barça regresó como entrenador en 2021?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Carles Puyol",
+  "optionD": "Samuel Eto'o",
+  "correctAnswer": "Xavi Hernández"
+ },
+ {
+  "id": 140,
+  "question": "¿Qué Liga ganó el Barça con Xavi como entrenador?",
+  "optionA": "2020-21",
+  "optionB": "2021-22",
+  "optionC": "2022-23",
+  "optionD": "2023-24",
+  "correctAnswer": "2022-23"
+ },
+ {
+  "id": 141,
+  "question": "¿Qué delantero polaco fichó el Barça en 2022?",
+  "optionA": "Robert Lewandowski",
+  "optionB": "Arkadiusz Milik",
+  "optionC": "Krzysztof Piątek",
+  "optionD": "Miroslav Klose",
+  "correctAnswer": "Robert Lewandowski"
+ },
+ {
+  "id": 142,
+  "question": "¿Qué portero alemán ha sido titular del Barça en la era posterior a Víctor Valdés?",
+  "optionA": "Marc-André ter Stegen",
+  "optionB": "Manuel Neuer",
+  "optionC": "Bernd Leno",
+  "optionD": "Oliver Kahn",
+  "correctAnswer": "Marc-André ter Stegen"
+ },
+ {
+  "id": 143,
+  "question": "¿Qué joven centrocampista canario ganó el Golden Boy en 2021 siendo jugador del Barça?",
+  "optionA": "Pedri",
+  "optionB": "Gavi",
+  "optionC": "Ansu Fati",
+  "optionD": "Fermín López",
+  "correctAnswer": "Pedri"
+ },
+ {
+  "id": 144,
+  "question": "¿Qué joven centrocampista andaluz ganó el Golden Boy en 2022 siendo jugador del Barça?",
+  "optionA": "Gavi",
+  "optionB": "Pedri",
+  "optionC": "Alejandro Balde",
+  "optionD": "Lamine Yamal",
+  "correctAnswer": "Gavi"
+ },
+ {
+  "id": 145,
+  "question": "¿Qué extremo formado en La Masia se convirtió en el jugador más joven en debutar con España en 2023?",
+  "optionA": "Lamine Yamal",
+  "optionB": "Ansu Fati",
+  "optionC": "Bojan Krkić",
+  "optionD": "Ilaix Moriba",
+  "correctAnswer": "Lamine Yamal"
+ },
+ {
+  "id": 146,
+  "question": "¿Qué delantero heredó el dorsal 10 del Barça tras la marcha de Messi?",
+  "optionA": "Ansu Fati",
+  "optionB": "Pedri",
+  "optionC": "Dembélé",
+  "optionD": "Lewandowski",
+  "correctAnswer": "Ansu Fati"
+ },
+ {
+  "id": 147,
+  "question": "¿Qué entrenador alemán fue anunciado como técnico del Barça para la temporada 2024-25?",
+  "optionA": "Hansi Flick",
+  "optionB": "Jürgen Klopp",
+  "optionC": "Thomas Tuchel",
+  "optionD": "Julian Nagelsmann",
+  "correctAnswer": "Hansi Flick"
+ },
+ {
+  "id": 148,
+  "question": "¿Cómo se llama la academia de formación del FC Barcelona?",
+  "optionA": "La Fábrica",
+  "optionB": "La Masia",
+  "optionC": "Zubieta",
+  "optionD": "Mare Nostrum",
+  "correctAnswer": "La Masia"
+ },
+ {
+  "id": 149,
+  "question": "¿En qué año se inauguró La Masia como residencia de jóvenes futbolistas?",
+  "optionA": "1969",
+  "optionB": "1979",
+  "optionC": "1989",
+  "optionD": "1999",
+  "correctAnswer": "1979"
+ },
+ {
+  "id": 150,
+  "question": "¿Qué tres finalistas del Balón de Oro 2010 se formaron en La Masia?",
+  "optionA": "Messi, Xavi e Iniesta",
+  "optionB": "Messi, Neymar y Suárez",
+  "optionC": "Xavi, Puyol y Piqué",
+  "optionD": "Iniesta, Busquets y Pedro",
+  "correctAnswer": "Messi, Xavi e Iniesta"
+ },
+ {
+  "id": 151,
+  "question": "¿Quién ganó el Balón de Oro 2010?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Lionel Messi",
+  "optionD": "Wesley Sneijder",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 152,
+  "question": "¿Qué defensa catalán es famoso por el lema 'Puyol, Puyol, Puyol' y su liderazgo?",
+  "optionA": "Carles Puyol",
+  "optionB": "Gerard Piqué",
+  "optionC": "Albert Ferrer",
+  "optionD": "Miquel Soler",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 153,
+  "question": "¿Qué jugador fue conocido como 'Tarzán' en el Barça?",
+  "optionA": "Migueli",
+  "optionB": "Kubala",
+  "optionC": "César",
+  "optionD": "Rexach",
+  "correctAnswer": "Migueli"
+ },
+ {
+  "id": 154,
+  "question": "¿Qué histórico delantero leonés fue durante décadas máximo goleador oficial del Barça antes de Messi?",
+  "optionA": "César Rodríguez",
+  "optionB": "Quini",
+  "optionC": "Mariano Martín",
+  "optionD": "Pichi Alonso",
+  "correctAnswer": "César Rodríguez"
+ },
+ {
+  "id": 155,
+  "question": "¿Qué asturiano del Barça fue conocido como 'El Brujo'?",
+  "optionA": "Quini",
+  "optionB": "Luis Enrique",
+  "optionC": "David Villa",
+  "optionD": "Abelardo",
+  "correctAnswer": "Quini"
+ },
+ {
+  "id": 156,
+  "question": "¿Qué jugador pasó del Real Madrid al Barça en 1994 tras brillar en el Dream Team?",
+  "optionA": "Michael Laudrup",
+  "optionB": "Luis Figo",
+  "optionC": "Samuel Eto'o",
+  "optionD": "Ronaldo",
+  "correctAnswer": "Michael Laudrup"
+ },
+ {
+  "id": 157,
+  "question": "¿Qué jugador portugués protagonizó un polémico traspaso del Barça al Real Madrid en 2000?",
+  "optionA": "Luis Figo",
+  "optionB": "Deco",
+  "optionC": "Ricardo Quaresma",
+  "optionD": "Cristiano Ronaldo",
+  "correctAnswer": "Luis Figo"
+ },
+ {
+  "id": 158,
+  "question": "¿Qué jugador mexicano fue central del Barça campeón de Champions en 2006?",
+  "optionA": "Rafa Márquez",
+  "optionB": "Hugo Sánchez",
+  "optionC": "Giovani dos Santos",
+  "optionD": "Carlos Vela",
+  "correctAnswer": "Rafa Márquez"
+ },
+ {
+  "id": 159,
+  "question": "¿Qué delantero francés llegó al Barça desde el Arsenal en 2007?",
+  "optionA": "Thierry Henry",
+  "optionB": "David Trezeguet",
+  "optionC": "Nicolas Anelka",
+  "optionD": "Karim Benzema",
+  "correctAnswer": "Thierry Henry"
+ },
+ {
+  "id": 160,
+  "question": "¿Qué chileno fue portero del Barça y ganó el Zamora en la Liga 2014-15?",
+  "optionA": "Claudio Bravo",
+  "optionB": "Alexis Sánchez",
+  "optionC": "Arturo Vidal",
+  "optionD": "Gary Medel",
+  "correctAnswer": "Claudio Bravo"
+ },
+ {
+  "id": 161,
+  "question": "¿Qué croata fue titular y goleador en la final de Champions 2015?",
+  "optionA": "Ivan Rakitic",
+  "optionB": "Luka Modrić",
+  "optionC": "Mario Mandžukić",
+  "optionD": "Mateo Kovačić",
+  "correctAnswer": "Ivan Rakitic"
+ },
+ {
+  "id": 162,
+  "question": "¿Qué lateral izquierdo español fue socio habitual de Messi desde la banda izquierda?",
+  "optionA": "Jordi Alba",
+  "optionB": "Sergi Barjuan",
+  "optionC": "Joan Capdevila",
+  "optionD": "Alejandro Balde",
+  "correctAnswer": "Jordi Alba"
+ },
+ {
+  "id": 163,
+  "question": "¿Qué canterano marcó un gol en la final de Champions de 2011?",
+  "optionA": "Pedro Rodríguez",
+  "optionB": "Bojan Krkić",
+  "optionC": "Jeffren",
+  "optionD": "Thiago Alcántara",
+  "correctAnswer": "Pedro Rodríguez"
+ },
+ {
+  "id": 164,
+  "question": "¿Qué jugador marcó el quinto gol del 5-0 al Real Madrid en 2010?",
+  "optionA": "Jeffren",
+  "optionB": "Pedro",
+  "optionC": "Villa",
+  "optionD": "Bojan",
+  "correctAnswer": "Jeffren"
+ },
+ {
+  "id": 165,
+  "question": "¿Qué equipo derrotó al Barça en la final de la Copa del Rey 2011?",
+  "optionA": "Real Madrid",
+  "optionB": "Sevilla",
+  "optionC": "Valencia",
+  "optionD": "Athletic Club",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 166,
+  "question": "¿Quién marcó el gol decisivo de la final de Copa del Rey 2011 contra el Barça?",
+  "optionA": "Cristiano Ronaldo",
+  "optionB": "Karim Benzema",
+  "optionC": "Sergio Ramos",
+  "optionD": "Ángel Di María",
+  "correctAnswer": "Cristiano Ronaldo"
+ },
+ {
+  "id": 167,
+  "question": "¿Qué equipo ganó al Barça la Supercopa de España de 2015 con un 4-0 en la ida?",
+  "optionA": "Athletic Club",
+  "optionB": "Sevilla",
+  "optionC": "Atlético de Madrid",
+  "optionD": "Real Madrid",
+  "correctAnswer": "Athletic Club"
+ },
+ {
+  "id": 168,
+  "question": "¿En qué año se profesionalizó oficialmente el equipo femenino del FC Barcelona?",
+  "optionA": "2011",
+  "optionB": "2013",
+  "optionC": "2015",
+  "optionD": "2019",
+  "correctAnswer": "2015"
+ },
+ {
+  "id": 169,
+  "question": "¿En qué año ganó el Barça Femení su primera Champions League?",
+  "optionA": "2019",
+  "optionB": "2020",
+  "optionC": "2021",
+  "optionD": "2023",
+  "correctAnswer": "2021"
+ },
+ {
+  "id": 170,
+  "question": "¿Contra qué equipo ganó el Barça Femení la final de Champions 2021?",
+  "optionA": "Chelsea",
+  "optionB": "Lyon",
+  "optionC": "Wolfsburg",
+  "optionD": "Arsenal",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 171,
+  "question": "¿Qué resultado logró el Barça Femení en la final de Champions 2021?",
+  "optionA": "2-1",
+  "optionB": "3-2",
+  "optionC": "4-0",
+  "optionD": "5-1",
+  "correctAnswer": "4-0"
+ },
+ {
+  "id": 172,
+  "question": "¿Contra qué equipo ganó el Barça Femení la Champions League 2023?",
+  "optionA": "Wolfsburg",
+  "optionB": "Chelsea",
+  "optionC": "Lyon",
+  "optionD": "Paris Saint-Germain",
+  "correctAnswer": "Wolfsburg"
+ },
+ {
+  "id": 173,
+  "question": "¿Qué resultado tuvo la final de Champions femenina 2023 ganada por el Barça?",
+  "optionA": "1-0",
+  "optionB": "2-1",
+  "optionC": "3-2",
+  "optionD": "4-3",
+  "correctAnswer": "3-2"
+ },
+ {
+  "id": 174,
+  "question": "¿Contra qué equipo ganó el Barça Femení la Champions League 2024?",
+  "optionA": "Lyon",
+  "optionB": "Chelsea",
+  "optionC": "Wolfsburg",
+  "optionD": "Arsenal",
+  "correctAnswer": "Lyon"
+ },
+ {
+  "id": 175,
+  "question": "¿Qué jugadoras marcaron para el Barça Femení en la final de Champions 2024?",
+  "optionA": "Aitana Bonmatí y Alexia Putellas",
+  "optionB": "Mariona Caldentey y Patri Guijarro",
+  "optionC": "Caroline Graham Hansen y Salma Paralluelo",
+  "optionD": "Jenni Hermoso y Vicky Losada",
+  "correctAnswer": "Aitana Bonmatí y Alexia Putellas"
+ },
+ {
+  "id": 176,
+  "question": "¿En qué ciudad ganó el Barça Femení la Champions League 2024?",
+  "optionA": "Bilbao",
+  "optionB": "Turín",
+  "optionC": "Eindhoven",
+  "optionD": "Gotemburgo",
+  "correctAnswer": "Bilbao"
+ },
+ {
+  "id": 177,
+  "question": "¿Qué futbolista del Barça Femení ganó el Balón de Oro femenino en 2021 y 2022?",
+  "optionA": "Alexia Putellas",
+  "optionB": "Aitana Bonmatí",
+  "optionC": "Jenni Hermoso",
+  "optionD": "Mapi León",
+  "correctAnswer": "Alexia Putellas"
+ },
+ {
+  "id": 178,
+  "question": "¿Qué futbolista del Barça Femení ganó el Balón de Oro femenino en 2023 y 2024?",
+  "optionA": "Aitana Bonmatí",
+  "optionB": "Alexia Putellas",
+  "optionC": "Caroline Graham Hansen",
+  "optionD": "Salma Paralluelo",
+  "correctAnswer": "Aitana Bonmatí"
+ },
+ {
+  "id": 179,
+  "question": "¿Qué centrocampista del Barça Femení marcó dos goles en la final de Champions 2023?",
+  "optionA": "Patri Guijarro",
+  "optionB": "Aitana Bonmatí",
+  "optionC": "Alexia Putellas",
+  "optionD": "Keira Walsh",
+  "correctAnswer": "Patri Guijarro"
+ },
+ {
+  "id": 180,
+  "question": "¿Qué entrenadora o entrenador dirigió al Barça Femení campeón de Champions 2021?",
+  "optionA": "Lluís Cortés",
+  "optionB": "Jonatan Giráldez",
+  "optionC": "Pere Romeu",
+  "optionD": "Xavi Llorens",
+  "correctAnswer": "Lluís Cortés"
+ },
+ {
+  "id": 181,
+  "question": "¿Qué entrenador dirigió al Barça Femení campeón de Champions 2023 y 2024?",
+  "optionA": "Jonatan Giráldez",
+  "optionB": "Lluís Cortés",
+  "optionC": "Pere Romeu",
+  "optionD": "Jorge Vilda",
+  "correctAnswer": "Jonatan Giráldez"
+ },
+ {
+  "id": 182,
+  "question": "¿Qué estadio llenó el Barça Femení en 2022 para un partido europeo ante el Real Madrid?",
+  "optionA": "Camp Nou",
+  "optionB": "Johan Cruyff",
+  "optionC": "Miniestadi",
+  "optionD": "Montjuïc",
+  "correctAnswer": "Camp Nou"
+ },
+ {
+  "id": 183,
+  "question": "¿Qué rival eliminó el Barça Femení en cuartos de Champions 2021-22 con récord de asistencia en el Camp Nou?",
+  "optionA": "Real Madrid",
+  "optionB": "Chelsea",
+  "optionC": "Lyon",
+  "optionD": "Bayern de Múnich",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 184,
+  "question": "¿Qué equipo derrotó al Barça Femení en la final de Champions 2019?",
+  "optionA": "Lyon",
+  "optionB": "Wolfsburg",
+  "optionC": "Chelsea",
+  "optionD": "Arsenal",
+  "correctAnswer": "Lyon"
+ },
+ {
+  "id": 185,
+  "question": "¿Qué estadio lleva el nombre de una leyenda del Barça y acoge habitualmente partidos del filial y del femenino?",
+  "optionA": "Estadi Johan Cruyff",
+  "optionB": "Estadi Kubala",
+  "optionC": "Estadi Messi",
+  "optionD": "Estadi Samitier",
+  "correctAnswer": "Estadi Johan Cruyff"
+ },
+ {
+  "id": 186,
+  "question": "¿En qué ciudad deportiva se encuentra el Estadi Johan Cruyff?",
+  "optionA": "Ciutat Esportiva Joan Gamper",
+  "optionB": "Camp de Les Corts",
+  "optionC": "Montjuïc",
+  "optionD": "La Masia original",
+  "correctAnswer": "Ciutat Esportiva Joan Gamper"
+ },
+ {
+  "id": 187,
+  "question": "¿Qué presidente da nombre a la ciudad deportiva del FC Barcelona?",
+  "optionA": "Joan Gamper",
+  "optionB": "Josep Sunyol",
+  "optionC": "Josep Lluís Núñez",
+  "optionD": "Joan Laporta",
+  "correctAnswer": "Joan Gamper"
+ },
+ {
+  "id": 188,
+  "question": "¿Qué presidente tuvo el mandato más largo de la historia moderna del Barça?",
+  "optionA": "Josep Lluís Núñez",
+  "optionB": "Joan Laporta",
+  "optionC": "Sandro Rosell",
+  "optionD": "Agustí Montal",
+  "correctAnswer": "Josep Lluís Núñez"
+ },
+ {
+  "id": 189,
+  "question": "¿Qué presidente lideró el club durante la primera Champions de 1992?",
+  "optionA": "Josep Lluís Núñez",
+  "optionB": "Joan Laporta",
+  "optionC": "Enric Llaudet",
+  "optionD": "Sandro Rosell",
+  "correctAnswer": "Josep Lluís Núñez"
+ },
+ {
+  "id": 190,
+  "question": "¿Qué presidente inició su primer mandato en 2003 y vivió las Champions de 2006 y 2009?",
+  "optionA": "Joan Laporta",
+  "optionB": "Josep Maria Bartomeu",
+  "optionC": "Sandro Rosell",
+  "optionD": "Agustí Montal",
+  "correctAnswer": "Joan Laporta"
+ },
+ {
+  "id": 191,
+  "question": "¿Qué presidente estaba al frente del club en la Champions masculina de 2015?",
+  "optionA": "Josep Maria Bartomeu",
+  "optionB": "Joan Laporta",
+  "optionC": "Sandro Rosell",
+  "optionD": "Josep Lluís Núñez",
+  "correctAnswer": "Josep Maria Bartomeu"
+ },
+ {
+  "id": 192,
+  "question": "¿Qué sección del FC Barcelona ha sido históricamente muy laureada además del fútbol?",
+  "optionA": "Balonmano",
+  "optionB": "Críquet",
+  "optionC": "Rugby league",
+  "optionD": "Béisbol profesional MLB",
+  "correctAnswer": "Balonmano"
+ },
+ {
+  "id": 193,
+  "question": "¿Qué equipo de baloncesto es la sección profesional de básquet del FC Barcelona?",
+  "optionA": "Barça Basket",
+  "optionB": "Barcelona Dragons",
+  "optionC": "Catalunya Bàsquet",
+  "optionD": "Blaugrana Hoops",
+  "correctAnswer": "Barça Basket"
+ },
+ {
+  "id": 194,
+  "question": "¿Qué pabellón es la casa tradicional de las secciones del Barça?",
+  "optionA": "Palau Blaugrana",
+  "optionB": "Pabellón Olímpico de Badalona",
+  "optionC": "WiZink Center",
+  "optionD": "Palau Sant Jordi",
+  "correctAnswer": "Palau Blaugrana"
+ },
+ {
+  "id": 195,
+  "question": "¿Qué frase resume la identidad social y política que el Barça proyecta más allá del fútbol?",
+  "optionA": "Més que un club",
+  "optionB": "Hala Barça",
+  "optionC": "Sempre guanyem",
+  "optionD": "Força Liga",
+  "correctAnswer": "Més que un club"
+ },
+ {
+  "id": 196,
+  "question": "¿Qué jugador argentino simboliza la era más goleadora y laureada del Barça moderno?",
+  "optionA": "Lionel Messi",
+  "optionB": "Diego Maradona",
+  "optionC": "Javier Saviola",
+  "optionD": "Juan Román Riquelme",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 197,
+  "question": "¿Qué significa literalmente 'blaugrana'?",
+  "optionA": "Azul y rojo",
+  "optionB": "Azul y grana",
+  "optionC": "Blanco y grana",
+  "optionD": "Negro y azul",
+  "correctAnswer": "Azul y grana"
+ },
+ {
+  "id": 198,
+  "question": "¿Qué comunidad autónoma española se asocia históricamente al Barça?",
+  "optionA": "Andalucía",
+  "optionB": "Cataluña",
+  "optionC": "Galicia",
+  "optionD": "Aragón",
+  "correctAnswer": "Cataluña"
+ },
+ {
+  "id": 199,
+  "question": "¿Qué cruz aparece en el escudo del FC Barcelona?",
+  "optionA": "La Cruz de San Jorge",
+  "optionB": "La Cruz de Malta",
+  "optionC": "La Cruz de Santiago",
+  "optionD": "La Cruz de Borgoña",
+  "correctAnswer": "La Cruz de San Jorge"
+ },
+ {
+  "id": 200,
+  "question": "¿Qué bandera aparece en el escudo del FC Barcelona?",
+  "optionA": "La bandera de España",
+  "optionB": "La senyera catalana",
+  "optionC": "La bandera de Suiza",
+  "optionD": "La bandera de Argentina",
+  "correctAnswer": "La senyera catalana"
+ },
+ {
+  "id": 201,
+  "question": "¿Qué deporte fue el origen principal del FC Barcelona?",
+  "optionA": "Baloncesto",
+  "optionB": "Fútbol",
+  "optionC": "Balonmano",
+  "optionD": "Hockey patines",
+  "correctAnswer": "Fútbol"
+ },
+ {
+  "id": 202,
+  "question": "¿Qué nacionalidad tenía Joan Gamper?",
+  "optionA": "Española",
+  "optionB": "Suiza",
+  "optionC": "Alemana",
+  "optionD": "Francesa",
+  "correctAnswer": "Suiza"
+ },
+ {
+  "id": 203,
+  "question": "¿Con qué nombre era conocido originalmente Joan Gamper?",
+  "optionA": "Hans Gamper",
+  "optionB": "Johann Cruyff",
+  "optionC": "Henrik Gamper",
+  "optionD": "Juan Walter",
+  "correctAnswer": "Hans Gamper"
+ },
+ {
+  "id": 204,
+  "question": "¿Qué competición catalana fue importante en los primeros años del Barça?",
+  "optionA": "Copa Macaya",
+  "optionB": "Copa Intertoto",
+  "optionC": "Copa Latina",
+  "optionD": "Copa Federación UEFA",
+  "correctAnswer": "Copa Macaya"
+ },
+ {
+  "id": 205,
+  "question": "¿Qué club es el gran rival ciudadano del FC Barcelona?",
+  "optionA": "Girona FC",
+  "optionB": "RCD Espanyol",
+  "optionC": "Real Zaragoza",
+  "optionD": "Villarreal CF",
+  "correctAnswer": "RCD Espanyol"
+ },
+ {
+  "id": 206,
+  "question": "¿Qué club es el rival del Barça en El Clásico?",
+  "optionA": "Atlético de Madrid",
+  "optionB": "Real Madrid",
+  "optionC": "Sevilla",
+  "optionD": "Athletic Club",
+  "correctAnswer": "Real Madrid"
+ },
+ {
+  "id": 207,
+  "question": "¿Qué estadio precedió al Camp Nou como gran casa del Barça?",
+  "optionA": "Camp de Les Corts",
+  "optionB": "Estadi Johan Cruyff",
+  "optionC": "Palau Blaugrana",
+  "optionD": "Miniestadi",
+  "correctAnswer": "Camp de Les Corts"
+ },
+ {
+  "id": 208,
+  "question": "¿En qué década se inauguró el Camp Nou?",
+  "optionA": "Años 30",
+  "optionB": "Años 40",
+  "optionC": "Años 50",
+  "optionD": "Años 70",
+  "correctAnswer": "Años 50"
+ },
+ {
+  "id": 209,
+  "question": "¿Qué nombre comercial recibió el Camp Nou por acuerdo de patrocinio con una plataforma musical?",
+  "optionA": "Spotify Camp Nou",
+  "optionB": "Apple Camp Nou",
+  "optionC": "Amazon Camp Nou",
+  "optionD": "Netflix Camp Nou",
+  "correctAnswer": "Spotify Camp Nou"
+ },
+ {
+  "id": 210,
+  "question": "¿Qué recinto usa el Barça como sede temporal durante las obras del Camp Nou?",
+  "optionA": "Estadi Olímpic Lluís Companys",
+  "optionB": "RCDE Stadium",
+  "optionC": "La Romareda",
+  "optionD": "Mestalla",
+  "correctAnswer": "Estadi Olímpic Lluís Companys"
+ },
+ {
+  "id": 211,
+  "question": "¿En qué montaña de Barcelona se encuentra el Estadi Olímpic Lluís Companys?",
+  "optionA": "Tibidabo",
+  "optionB": "Montjuïc",
+  "optionC": "Collserola",
+  "optionD": "Montserrat",
+  "correctAnswer": "Montjuïc"
+ },
+ {
+  "id": 212,
+  "question": "¿Qué instalación acoge habitualmente las secciones de baloncesto, balonmano, hockey patines y fútbol sala del Barça?",
+  "optionA": "Palau Blaugrana",
+  "optionB": "Camp Nou",
+  "optionC": "Estadi Johan Cruyff",
+  "optionD": "Velòdrom d'Horta",
+  "correctAnswer": "Palau Blaugrana"
+ },
+ {
+  "id": 213,
+  "question": "¿Qué nombre recibe la ciudad deportiva del FC Barcelona?",
+  "optionA": "Ciutat Esportiva Joan Gamper",
+  "optionB": "Ciutat Esportiva Johan Cruyff",
+  "optionC": "Ciutat Blaugrana Kubala",
+  "optionD": "Ciutat Esportiva Camp Nou",
+  "correctAnswer": "Ciutat Esportiva Joan Gamper"
+ },
+ {
+  "id": 214,
+  "question": "¿Qué estadio del club lleva el nombre de Johan Cruyff?",
+  "optionA": "Estadi Johan Cruyff",
+  "optionB": "Camp Johan",
+  "optionC": "Palau Cruyff",
+  "optionD": "Arena Cruyff Barcelona",
+  "correctAnswer": "Estadi Johan Cruyff"
+ },
+ {
+  "id": 215,
+  "question": "¿Qué academia es símbolo de la cantera azulgrana?",
+  "optionA": "La Masia",
+  "optionB": "La Fábrica",
+  "optionC": "Zubieta",
+  "optionD": "Lezama",
+  "correctAnswer": "La Masia"
+ },
+ {
+  "id": 216,
+  "question": "¿Qué tres canteranos del Barça fueron finalistas del Balón de Oro 2010?",
+  "optionA": "Messi, Xavi e Iniesta",
+  "optionB": "Puyol, Piqué y Busquets",
+  "optionC": "Pedro, Bojan y Thiago",
+  "optionD": "Fàbregas, Alba y Valdés",
+  "correctAnswer": "Messi, Xavi e Iniesta"
+ },
+ {
+  "id": 217,
+  "question": "¿Qué jugador argentino llegó al Barça siendo adolescente y se formó en La Masia?",
+  "optionA": "Lionel Messi",
+  "optionB": "Diego Maradona",
+  "optionC": "Javier Mascherano",
+  "optionD": "Juan Román Riquelme",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 218,
+  "question": "¿Qué centrocampista de Terrassa es una de las grandes leyendas de La Masia?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Luis Suárez Miramontes",
+  "optionC": "Ronald Koeman",
+  "optionD": "Rivaldo",
+  "correctAnswer": "Xavi Hernández"
+ },
+ {
+  "id": 219,
+  "question": "¿Qué centrocampista manchego es una leyenda del Barça y de la selección española?",
+  "optionA": "Andrés Iniesta",
+  "optionB": "David Silva",
+  "optionC": "Juan Mata",
+  "optionD": "Santi Cazorla",
+  "correctAnswer": "Andrés Iniesta"
+ },
+ {
+  "id": 220,
+  "question": "¿Qué mediocentro de Badia del Vallès fue clave en el Barça de Guardiola?",
+  "optionA": "Sergio Busquets",
+  "optionB": "Xabi Alonso",
+  "optionC": "Javi Martínez",
+  "optionD": "Thiago Motta",
+  "correctAnswer": "Sergio Busquets"
+ },
+ {
+  "id": 221,
+  "question": "¿Qué portero formado en el Barça ganó tres Champions como titular azulgrana?",
+  "optionA": "Víctor Valdés",
+  "optionB": "Pepe Reina",
+  "optionC": "Albert Jorquera",
+  "optionD": "Carles Busquets",
+  "correctAnswer": "Víctor Valdés"
+ },
+ {
+  "id": 222,
+  "question": "¿Qué defensa fue capitán del Barça y símbolo de entrega?",
+  "optionA": "Carles Puyol",
+  "optionB": "Dani Alves",
+  "optionC": "Eric Abidal",
+  "optionD": "Rafa Márquez",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 223,
+  "question": "¿Qué jugador del Barça marcó el gol de España en la semifinal del Mundial 2010?",
+  "optionA": "Carles Puyol",
+  "optionB": "Gerard Piqué",
+  "optionC": "Sergio Busquets",
+  "optionD": "Jordi Alba",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 224,
+  "question": "¿Qué futbolista argentino es el máximo goleador histórico del Barça?",
+  "optionA": "Lionel Messi",
+  "optionB": "César Rodríguez",
+  "optionC": "Luis Suárez",
+  "optionD": "László Kubala",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 225,
+  "question": "¿Qué dorsal se asocia más con Messi en el Barça?",
+  "optionA": "7",
+  "optionB": "9",
+  "optionC": "10",
+  "optionD": "14",
+  "correctAnswer": "10"
+ },
+ {
+  "id": 226,
+  "question": "¿Qué jugador asistió a Messi en su primer gol oficial con el Barça?",
+  "optionA": "Ronaldinho",
+  "optionB": "Xavi",
+  "optionC": "Deco",
+  "optionD": "Eto'o",
+  "correctAnswer": "Ronaldinho"
+ },
+ {
+  "id": 227,
+  "question": "¿Qué brasileño fue ovacionado en el Santiago Bernabéu jugando con el Barça en 2005?",
+  "optionA": "Ronaldinho",
+  "optionB": "Rivaldo",
+  "optionC": "Neymar",
+  "optionD": "Romário",
+  "correctAnswer": "Ronaldinho"
+ },
+ {
+  "id": 228,
+  "question": "¿Qué delantero camerunés marcó en las finales de Champions de 2006 y 2009?",
+  "optionA": "Samuel Eto'o",
+  "optionB": "Roger Milla",
+  "optionC": "Alex Song",
+  "optionD": "Patrick Mboma",
+  "correctAnswer": "Samuel Eto'o"
+ },
+ {
+  "id": 229,
+  "question": "¿Qué brasileño marcó el gol decisivo de la final de Champions 2006?",
+  "optionA": "Juliano Belletti",
+  "optionB": "Ronaldinho",
+  "optionC": "Rivaldo",
+  "optionD": "Dani Alves",
+  "correctAnswer": "Juliano Belletti"
+ },
+ {
+  "id": 230,
+  "question": "¿Qué técnico neerlandés llevó al Barça a la Champions de 2006?",
+  "optionA": "Frank Rijkaard",
+  "optionB": "Louis van Gaal",
+  "optionC": "Ronald Koeman",
+  "optionD": "Rinus Michels",
+  "correctAnswer": "Frank Rijkaard"
+ },
+ {
+  "id": 231,
+  "question": "¿Qué entrenador ganó el sextete con el Barça en 2009?",
+  "optionA": "Pep Guardiola",
+  "optionB": "Luis Enrique",
+  "optionC": "Johan Cruyff",
+  "optionD": "Frank Rijkaard",
+  "correctAnswer": "Pep Guardiola"
+ },
+ {
+  "id": 232,
+  "question": "¿Qué seis títulos ganó el Barça en 2009?",
+  "optionA": "Liga, Copa, Champions, Supercopa de España, Supercopa de Europa y Mundial de Clubes",
+  "optionB": "Liga, Copa, UEFA, Intertoto, Mundial y Supercopa",
+  "optionC": "Liga, Copa Catalunya, Champions, Recopa, Mundial y Copa Latina",
+  "optionD": "Liga, Copa, Europa League, Supercopa UEFA, Intercontinental y Copa Eva Duarte",
+  "correctAnswer": "Liga, Copa, Champions, Supercopa de España, Supercopa de Europa y Mundial de Clubes"
+ },
+ {
+  "id": 233,
+  "question": "¿Qué equipo derrotó el Barça en la final de Champions 2009?",
+  "optionA": "Manchester United",
+  "optionB": "Chelsea",
+  "optionC": "Arsenal",
+  "optionD": "Bayern de Múnich",
+  "correctAnswer": "Manchester United"
+ },
+ {
+  "id": 234,
+  "question": "¿Qué equipo derrotó el Barça en la final de Champions 2015?",
+  "optionA": "Juventus",
+  "optionB": "Bayern de Múnich",
+  "optionC": "Borussia Dortmund",
+  "optionD": "Paris Saint-Germain",
+  "correctAnswer": "Juventus"
+ },
+ {
+  "id": 235,
+  "question": "¿Qué equipo derrotó el Barça en la final de la Copa de Europa 1992?",
+  "optionA": "Sampdoria",
+  "optionB": "AC Milan",
+  "optionC": "Benfica",
+  "optionD": "Ajax",
+  "correctAnswer": "Sampdoria"
+ },
+ {
+  "id": 236,
+  "question": "¿Qué jugador marcó el gol de Wembley 1992?",
+  "optionA": "Ronald Koeman",
+  "optionB": "Hristo Stoichkov",
+  "optionC": "Romário",
+  "optionD": "Michael Laudrup",
+  "correctAnswer": "Ronald Koeman"
+ },
+ {
+  "id": 237,
+  "question": "¿Qué entrenador construyó el Dream Team del Barça?",
+  "optionA": "Johan Cruyff",
+  "optionB": "Pep Guardiola",
+  "optionC": "Terry Venables",
+  "optionD": "Bobby Robson",
+  "correctAnswer": "Johan Cruyff"
+ },
+ {
+  "id": 238,
+  "question": "¿Qué futbolista búlgaro ganó el Balón de Oro tras brillar en el Barça?",
+  "optionA": "Hristo Stoichkov",
+  "optionB": "Dimitar Berbatov",
+  "optionC": "Krasimir Balakov",
+  "optionD": "Stiliyan Petrov",
+  "correctAnswer": "Hristo Stoichkov"
+ },
+ {
+  "id": 239,
+  "question": "¿Qué brasileño fue delantero estrella del Dream Team y campeón del mundo en 1994?",
+  "optionA": "Romário",
+  "optionB": "Ronaldo",
+  "optionC": "Rivaldo",
+  "optionD": "Bebeto",
+  "correctAnswer": "Romário"
+ },
+ {
+  "id": 240,
+  "question": "¿Qué danés fue uno de los cerebros ofensivos del Dream Team?",
+  "optionA": "Michael Laudrup",
+  "optionB": "Brian Laudrup",
+  "optionC": "Allan Simonsen",
+  "optionD": "Christian Eriksen",
+  "correctAnswer": "Michael Laudrup"
+ },
+ {
+  "id": 241,
+  "question": "¿Qué jugador portugués abandonó el Barça por el Real Madrid en el año 2000?",
+  "optionA": "Luis Figo",
+  "optionB": "Deco",
+  "optionC": "Ricardo Quaresma",
+  "optionD": "Simão Sabrosa",
+  "correctAnswer": "Luis Figo"
+ },
+ {
+  "id": 242,
+  "question": "¿Qué brasileño ganó el Balón de Oro en 2005 siendo jugador del Barça?",
+  "optionA": "Ronaldinho",
+  "optionB": "Rivaldo",
+  "optionC": "Kaká",
+  "optionD": "Neymar",
+  "correctAnswer": "Ronaldinho"
+ },
+ {
+  "id": 243,
+  "question": "¿Qué astro argentino fichó por el Barça en 1982?",
+  "optionA": "Diego Armando Maradona",
+  "optionB": "Lionel Messi",
+  "optionC": "Mario Kempes",
+  "optionD": "Javier Saviola",
+  "correctAnswer": "Diego Armando Maradona"
+ },
+ {
+  "id": 244,
+  "question": "¿Qué húngaro es una de las leyendas más importantes de los años 50 del Barça?",
+  "optionA": "László Kubala",
+  "optionB": "Ferenc Puskás",
+  "optionC": "Sándor Kocsis",
+  "optionD": "Zoltán Czibor",
+  "correctAnswer": "László Kubala"
+ },
+ {
+  "id": 245,
+  "question": "¿Qué apodo se asocia a László Kubala?",
+  "optionA": "Laszy",
+  "optionB": "El Pelusa",
+  "optionC": "El Flaco",
+  "optionD": "El Mago",
+  "correctAnswer": "Laszy"
+ },
+ {
+  "id": 246,
+  "question": "¿Qué jugador fue conocido como 'El Diví'?",
+  "optionA": "Josep Samitier",
+  "optionB": "Paulino Alcántara",
+  "optionC": "César Rodríguez",
+  "optionD": "Migueli",
+  "correctAnswer": "Josep Samitier"
+ },
+ {
+  "id": 247,
+  "question": "¿Qué jugador fue conocido como 'El Romperredes'?",
+  "optionA": "Paulino Alcántara",
+  "optionB": "László Kubala",
+  "optionC": "Quini",
+  "optionD": "Luis Suárez",
+  "correctAnswer": "Paulino Alcántara"
+ },
+ {
+  "id": 248,
+  "question": "¿Qué delantero asturiano del Barça fue apodado 'El Brujo'?",
+  "optionA": "Quini",
+  "optionB": "Villa",
+  "optionC": "Luis Enrique",
+  "optionD": "Abelardo",
+  "correctAnswer": "Quini"
+ },
+ {
+  "id": 249,
+  "question": "¿Qué defensa neerlandés marcó el gol más importante de la primera Copa de Europa del Barça?",
+  "optionA": "Ronald Koeman",
+  "optionB": "Frank de Boer",
+  "optionC": "Michael Reiziger",
+  "optionD": "Giovanni van Bronckhorst",
+  "correctAnswer": "Ronald Koeman"
+ },
+ {
+  "id": 250,
+  "question": "¿Qué entrenador ganó el segundo triplete de la historia del Barça?",
+  "optionA": "Luis Enrique",
+  "optionB": "Pep Guardiola",
+  "optionC": "Tito Vilanova",
+  "optionD": "Ernesto Valverde",
+  "correctAnswer": "Luis Enrique"
+ },
+ {
+  "id": 251,
+  "question": "¿En qué temporada logró el Barça su segundo triplete?",
+  "optionA": "2014-15",
+  "optionB": "2015-16",
+  "optionC": "2010-11",
+  "optionD": "2017-18",
+  "correctAnswer": "2014-15"
+ },
+ {
+  "id": 252,
+  "question": "¿Qué delantero uruguayo fue parte del tridente MSN?",
+  "optionA": "Luis Suárez",
+  "optionB": "Diego Forlán",
+  "optionC": "Edinson Cavani",
+  "optionD": "Darwin Núñez",
+  "correctAnswer": "Luis Suárez"
+ },
+ {
+  "id": 253,
+  "question": "¿Qué brasileño fue parte del tridente MSN?",
+  "optionA": "Neymar",
+  "optionB": "Rivaldo",
+  "optionC": "Robinho",
+  "optionD": "Kaká",
+  "correctAnswer": "Neymar"
+ },
+ {
+  "id": 254,
+  "question": "¿Qué jugador croata marcó en la final de Champions 2015?",
+  "optionA": "Ivan Rakitic",
+  "optionB": "Luka Modrić",
+  "optionC": "Mateo Kovačić",
+  "optionD": "Mario Mandžukić",
+  "correctAnswer": "Ivan Rakitic"
+ },
+ {
+  "id": 255,
+  "question": "¿Qué jugador francés cedió el honor de levantar la Champions 2011 a Eric Abidal?",
+  "optionA": "Carles Puyol",
+  "optionB": "Xavi Hernández",
+  "optionC": "Andrés Iniesta",
+  "optionD": "Víctor Valdés",
+  "correctAnswer": "Carles Puyol"
+ },
+ {
+  "id": 256,
+  "question": "¿Qué francés fue símbolo de superación en el Barça de Guardiola?",
+  "optionA": "Eric Abidal",
+  "optionB": "Thierry Henry",
+  "optionC": "Ludovic Giuly",
+  "optionD": "Samuel Umtiti",
+  "correctAnswer": "Eric Abidal"
+ },
+ {
+  "id": 257,
+  "question": "¿Qué lateral brasileño fue clave en el Barça de Guardiola y de Luis Enrique?",
+  "optionA": "Dani Alves",
+  "optionB": "Cafú",
+  "optionC": "Maicon",
+  "optionD": "Roberto Carlos",
+  "correctAnswer": "Dani Alves"
+ },
+ {
+  "id": 258,
+  "question": "¿Qué jugador portugués llegó al Barça en 2004 y fue clave con Rijkaard?",
+  "optionA": "Deco",
+  "optionB": "Figo",
+  "optionC": "Cristiano Ronaldo",
+  "optionD": "Rui Costa",
+  "correctAnswer": "Deco"
+ },
+ {
+  "id": 259,
+  "question": "¿Qué portero alemán se consolidó como titular del Barça tras la era Valdés?",
+  "optionA": "Marc-André ter Stegen",
+  "optionB": "Manuel Neuer",
+  "optionC": "Bernd Leno",
+  "optionD": "Oliver Kahn",
+  "correctAnswer": "Marc-André ter Stegen"
+ },
+ {
+  "id": 260,
+  "question": "¿Qué joven extremo del Barça se convirtió en una gran promesa internacional española?",
+  "optionA": "Lamine Yamal",
+  "optionB": "Marc Guiu",
+  "optionC": "Ilaix Moriba",
+  "optionD": "Adama Traoré",
+  "correctAnswer": "Lamine Yamal"
+ },
+ {
+  "id": 261,
+  "question": "¿Qué futbolista heredó el dorsal 10 tras la salida de Messi?",
+  "optionA": "Ansu Fati",
+  "optionB": "Pedri",
+  "optionC": "Dembélé",
+  "optionD": "Raphinha",
+  "correctAnswer": "Ansu Fati"
+ },
+ {
+  "id": 262,
+  "question": "¿Qué lateral izquierdo canterano se consolidó en el Barça en la década de 2020?",
+  "optionA": "Alejandro Balde",
+  "optionB": "Marc Bartra",
+  "optionC": "Eric García",
+  "optionD": "Óscar Mingueza",
+  "correctAnswer": "Alejandro Balde"
+ },
+ {
+  "id": 263,
+  "question": "¿Cuántas Champions League masculinas tiene el Barça según su palmarés oficial hasta 2026?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6",
+  "correctAnswer": "5"
+ },
+ {
+  "id": 264,
+  "question": "¿Cuántos Mundiales de Clubes FIFA tiene el Barça según su palmarés oficial?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 265,
+  "question": "¿Cuántas Recopas de Europa ganó el Barça según su palmarés oficial?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "5",
+  "correctAnswer": "4"
+ },
+ {
+  "id": 266,
+  "question": "¿Cuántas Copas de Ferias ganó el Barça?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "3"
+ },
+ {
+  "id": 267,
+  "question": "¿Cuántas Supercopas de Europa tiene el Barça según su palmarés oficial?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6",
+  "correctAnswer": "5"
+ },
+ {
+  "id": 268,
+  "question": "¿Cuántas Copas Latinas ganó el Barça?",
+  "optionA": "1",
+  "optionB": "2",
+  "optionC": "3",
+  "optionD": "4",
+  "correctAnswer": "2"
+ },
+ {
+  "id": 269,
+  "question": "¿Qué competición ganó el Barça por primera vez en la temporada 1928-29?",
+  "optionA": "La Liga",
+  "optionB": "La Champions",
+  "optionC": "La Supercopa",
+  "optionD": "El Mundial de Clubes",
+  "correctAnswer": "La Liga"
+ },
+ {
+  "id": 270,
+  "question": "¿Qué título europeo ganó el Barça en Wembley en 1992?",
+  "optionA": "Copa de Europa",
+  "optionB": "Recopa",
+  "optionC": "Copa de Ferias",
+  "optionD": "Europa League",
+  "correctAnswer": "Copa de Europa"
+ },
+ {
+  "id": 271,
+  "question": "¿Qué título europeo ganó el Barça en París en 2006?",
+  "optionA": "Champions League",
+  "optionB": "Europa League",
+  "optionC": "Recopa",
+  "optionD": "Supercopa de Europa",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 272,
+  "question": "¿Qué título europeo ganó el Barça en Roma en 2009?",
+  "optionA": "Champions League",
+  "optionB": "Recopa",
+  "optionC": "Copa Latina",
+  "optionD": "Copa Intertoto",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 273,
+  "question": "¿Qué título europeo ganó el Barça en Londres en 2011?",
+  "optionA": "Champions League",
+  "optionB": "Europa League",
+  "optionC": "Recopa",
+  "optionD": "Copa de Ferias",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 274,
+  "question": "¿Qué título europeo ganó el Barça en Berlín en 2015?",
+  "optionA": "Champions League",
+  "optionB": "Supercopa de Europa",
+  "optionC": "Copa Latina",
+  "optionD": "Copa de Ferias",
+  "correctAnswer": "Champions League"
+ },
+ {
+  "id": 275,
+  "question": "¿Cuál fue el marcador de la final de Champions 2006 entre Barça y Arsenal?",
+  "optionA": "2-1",
+  "optionB": "3-1",
+  "optionC": "1-0",
+  "optionD": "4-2",
+  "correctAnswer": "2-1"
+ },
+ {
+  "id": 276,
+  "question": "¿Cuál fue el marcador de la final de Champions 2009 entre Barça y Manchester United?",
+  "optionA": "2-0",
+  "optionB": "3-1",
+  "optionC": "1-0",
+  "optionD": "4-1",
+  "correctAnswer": "2-0"
+ },
+ {
+  "id": 277,
+  "question": "¿Qué jugador marcó para el Manchester United en la final de Champions 2011?",
+  "optionA": "Wayne Rooney",
+  "optionB": "Cristiano Ronaldo",
+  "optionC": "Ryan Giggs",
+  "optionD": "Paul Scholes",
+  "correctAnswer": "Wayne Rooney"
+ },
+ {
+  "id": 278,
+  "question": "¿Qué jugador del Barça marcó de cabeza en la final de Champions 2009?",
+  "optionA": "Lionel Messi",
+  "optionB": "Samuel Eto'o",
+  "optionC": "Carles Puyol",
+  "optionD": "Thierry Henry",
+  "correctAnswer": "Lionel Messi"
+ },
+ {
+  "id": 279,
+  "question": "¿Qué jugador abrió el marcador para el Barça en la final de Champions 2009?",
+  "optionA": "Samuel Eto'o",
+  "optionB": "Messi",
+  "optionC": "Xavi",
+  "optionD": "Iniesta",
+  "correctAnswer": "Samuel Eto'o"
+ },
+ {
+  "id": 280,
+  "question": "¿Qué jugador abrió el marcador para el Barça en la final de Champions 2011?",
+  "optionA": "Pedro Rodríguez",
+  "optionB": "Messi",
+  "optionC": "Villa",
+  "optionD": "Xavi",
+  "correctAnswer": "Pedro Rodríguez"
+ },
+ {
+  "id": 281,
+  "question": "¿Qué jugador cerró el marcador para el Barça en la final de Champions 2011?",
+  "optionA": "David Villa",
+  "optionB": "Pedro",
+  "optionC": "Messi",
+  "optionD": "Iniesta",
+  "correctAnswer": "David Villa"
+ },
+ {
+  "id": 282,
+  "question": "¿Qué centrocampista asistió a Pedro en la final de Champions 2011?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Andrés Iniesta",
+  "optionC": "Sergio Busquets",
+  "optionD": "Cesc Fàbregas",
+  "correctAnswer": "Xavi Hernández"
+ },
+ {
+  "id": 283,
+  "question": "¿Qué delantero español fichó el Barça desde el Valencia en 2010?",
+  "optionA": "David Villa",
+  "optionB": "Fernando Torres",
+  "optionC": "Raúl Tamudo",
+  "optionD": "Álvaro Negredo",
+  "correctAnswer": "David Villa"
+ },
+ {
+  "id": 284,
+  "question": "¿Qué entrenador del Barça era conocido por el juego de posición y la presión tras pérdida?",
+  "optionA": "Pep Guardiola",
+  "optionB": "Bobby Robson",
+  "optionC": "Terry Venables",
+  "optionD": "Gerardo Martino",
+  "correctAnswer": "Pep Guardiola"
+ },
+ {
+  "id": 285,
+  "question": "¿Qué concepto futbolístico se asocia al Barça de posesión y pases cortos?",
+  "optionA": "Tiki-taka",
+  "optionB": "Catenaccio",
+  "optionC": "Kick and rush",
+  "optionD": "Fútbol total defensivo",
+  "correctAnswer": "Tiki-taka"
+ },
+ {
+  "id": 286,
+  "question": "¿Qué entrenador neerlandés influyó enormemente en la filosofía futbolística del Barça?",
+  "optionA": "Johan Cruyff",
+  "optionB": "Carlo Ancelotti",
+  "optionC": "José Mourinho",
+  "optionD": "Diego Simeone",
+  "correctAnswer": "Johan Cruyff"
+ },
+ {
+  "id": 287,
+  "question": "¿Qué dorsal se asocia míticamente con Johan Cruyff?",
+  "optionA": "14",
+  "optionB": "10",
+  "optionC": "9",
+  "optionD": "6",
+  "correctAnswer": "14"
+ },
+ {
+  "id": 288,
+  "question": "¿En qué año llegó Johan Cruyff al Barça como jugador?",
+  "optionA": "1973",
+  "optionB": "1969",
+  "optionC": "1988",
+  "optionD": "1992",
+  "correctAnswer": "1973"
+ },
+ {
+  "id": 289,
+  "question": "¿Qué resultado histórico logró el Barça en el Bernabéu en 1974?",
+  "optionA": "0-5",
+  "optionB": "1-3",
+  "optionC": "2-6",
+  "optionD": "0-4",
+  "correctAnswer": "0-5"
+ },
+ {
+  "id": 290,
+  "question": "¿Qué jugador marcó dos goles en el 5-0 al Real Madrid de 2010?",
+  "optionA": "David Villa",
+  "optionB": "Messi",
+  "optionC": "Pedro",
+  "optionD": "Xavi",
+  "correctAnswer": "David Villa"
+ },
+ {
+  "id": 291,
+  "question": "¿Qué jugador abrió el marcador en el 5-0 al Real Madrid de 2010?",
+  "optionA": "Xavi Hernández",
+  "optionB": "Pedro",
+  "optionC": "Villa",
+  "optionD": "Messi",
+  "correctAnswer": "Xavi Hernández"
+ },
+ {
+  "id": 292,
+  "question": "¿Contra qué rival fue el famoso gol de Iniesta en Stamford Bridge?",
+  "optionA": "Chelsea",
+  "optionB": "Arsenal",
+  "optionC": "Liverpool",
+  "optionD": "Manchester United",
+  "correctAnswer": "Chelsea"
+ },
+ {
+  "id": 293,
+  "question": "¿Qué remontada europea firmó el Barça ante el PSG en 2017?",
+  "optionA": "6-1 tras perder 4-0",
+  "optionB": "5-0 tras perder 3-0",
+  "optionC": "4-1 tras perder 2-0",
+  "optionD": "7-2 tras perder 5-1",
+  "correctAnswer": "6-1 tras perder 4-0"
+ },
+ {
+  "id": 294,
+  "question": "¿Qué equipo eliminó al Barça en la remontada de Roma de 2018?",
+  "optionA": "AS Roma",
+  "optionB": "Juventus",
+  "optionC": "Napoli",
+  "optionD": "Lazio",
+  "correctAnswer": "AS Roma"
+ },
+ {
+  "id": 295,
+  "question": "¿Qué equipo eliminó al Barça en la remontada de Anfield de 2019?",
+  "optionA": "Liverpool",
+  "optionB": "Chelsea",
+  "optionC": "Manchester City",
+  "optionD": "Tottenham",
+  "correctAnswer": "Liverpool"
+ },
+ {
+  "id": 296,
+  "question": "¿Qué equipo derrotó al Barça 2-8 en Champions en 2020?",
+  "optionA": "Bayern de Múnich",
+  "optionB": "Liverpool",
+  "optionC": "PSG",
+  "optionD": "Juventus",
+  "correctAnswer": "Bayern de Múnich"
+ },
+ {
+  "id": 297,
+  "question": "¿En qué ciudad se jugó el Barça-Bayern 2-8 de 2020?",
+  "optionA": "Lisboa",
+  "optionB": "Múnich",
+  "optionC": "Barcelona",
+  "optionD": "Madrid",
+  "correctAnswer": "Lisboa"
+ },
+ {
+  "id": 298,
+  "question": "¿Qué título ganó el Barça en la final de Copa de 2021 ante el Athletic Club?",
+  "optionA": "Copa del Rey",
+  "optionB": "Supercopa de España",
+  "optionC": "Liga",
+  "optionD": "Europa League",
+  "correctAnswer": "Copa del Rey"
+ },
+ {
+  "id": 299,
+  "question": "¿Qué rival derrotó el Barça en la final de Copa del Rey 2021?",
+  "optionA": "Athletic Club",
+  "optionB": "Real Sociedad",
+  "optionC": "Valencia",
+  "optionD": "Sevilla",
+  "correctAnswer": "Athletic Club"
+ },
+ {
+  "id": 300,
+  "question": "¿Qué entrenador ganó una Liga con 100 puntos en el Barça?",
+  "optionA": "Tito Vilanova",
+  "optionB": "Pep Guardiola",
+  "optionC": "Luis Enrique",
+  "optionD": "Ernesto Valverde",
+  "correctAnswer": "Tito Vilanova"
+ },
+ {
+  "id": 301,
+  "question": "¿En qué temporada logró el Barça de Tito Vilanova los 100 puntos en Liga?",
+  "optionA": "2012-13",
+  "optionB": "2011-12",
+  "optionC": "2013-14",
+  "optionD": "2014-15",
+  "correctAnswer": "2012-13"
+ },
+ {
+  "id": 302,
+  "question": "¿Qué entrenador ganó dos Ligas consecutivas con el Barça entre 2017 y 2019?",
+  "optionA": "Ernesto Valverde",
+  "optionB": "Luis Enrique",
+  "optionC": "Xavi Hernández",
+  "optionD": "Ronald Koeman",
+  "correctAnswer": "Ernesto Valverde"
+ },
+ {
+  "id": 303,
+  "question": "¿Qué portero alemán fue clave en la Champions 2014-15?",
+  "optionA": "Marc-André ter Stegen",
+  "optionB": "Manuel Neuer",
+  "optionC": "Bernd Leno",
+  "optionD": "Roman Weidenfeller",
+  "correctAnswer": "Marc-André ter Stegen"
+ },
+ {
+  "id": 304,
+  "question": "¿Qué jugador argentino fue defensa y mediocentro del Barça de Luis Enrique?",
+  "optionA": "Javier Mascherano",
+  "optionB": "Gabriel Milito",
+  "optionC": "Javier Saviola",
+  "optionD": "Juan Pablo Sorín",
+  "correctAnswer": "Javier Mascherano"
+ },
+ {
+  "id": 305,
+  "question": "¿Qué delantero chileno jugó en el Barça antes de fichar por el Arsenal?",
+  "optionA": "Alexis Sánchez",
+  "optionB": "Eduardo Vargas",
+  "optionC": "Iván Zamorano",
+  "optionD": "Humberto Suazo",
+  "correctAnswer": "Alexis Sánchez"
+ },
+ {
+  "id": 306,
+  "question": "¿Qué centrocampista español regresó al Barça desde el Arsenal en 2011?",
+  "optionA": "Cesc Fàbregas",
+  "optionB": "Mikel Arteta",
+  "optionC": "Santi Cazorla",
+  "optionD": "Juan Mata",
+  "correctAnswer": "Cesc Fàbregas"
+ },
+ {
+  "id": 307,
+  "question": "¿Qué delantero sueco jugó en el Barça en la temporada 2009-10?",
+  "optionA": "Zlatan Ibrahimović",
+  "optionB": "Henrik Larsson",
+  "optionC": "Tomas Brolin",
+  "optionD": "Marcus Berg",
+  "correctAnswer": "Zlatan Ibrahimović"
+ },
+ {
+  "id": 308,
+  "question": "¿Qué delantero sueco fue decisivo como suplente en la final de Champions 2006?",
+  "optionA": "Henrik Larsson",
+  "optionB": "Zlatan Ibrahimović",
+  "optionC": "Tomas Brolin",
+  "optionD": "Kenneth Andersson",
+  "correctAnswer": "Henrik Larsson"
+ },
+ {
+  "id": 309,
+  "question": "¿Qué futbolista argentino jugó en el Barça antes de consolidarse como entrenador?",
+  "optionA": "Mauricio Pochettino",
+  "optionB": "Diego Simeone",
+  "optionC": "Jorge Sampaoli",
+  "optionD": "Marcelo Bielsa",
+  "correctAnswer": "Mauricio Pochettino"
+ },
+ {
+  "id": 310,
+  "question": "¿Qué jugador español fue apodado 'El Guaje' y jugó en el Barça?",
+  "optionA": "David Villa",
+  "optionB": "Pedro",
+  "optionC": "Bojan",
+  "optionD": "Sergi Roberto",
+  "correctAnswer": "David Villa"
+ },
+ {
+  "id": 311,
+  "question": "¿Qué delantero canterano batió récords de precocidad en el Barça a finales de los 2000?",
+  "optionA": "Bojan Krkić",
+  "optionB": "Marc Guiu",
+  "optionC": "Gerard Deulofeu",
+  "optionD": "Sandro Ramírez",
+  "correctAnswer": "Bojan Krkić"
+ },
+ {
+  "id": 312,
+  "question": "¿Qué lateral izquierdo llegó desde el Valencia en 2012 y fue gran socio de Messi?",
+  "optionA": "Jordi Alba",
+  "optionB": "Adriano Correia",
+  "optionC": "Lucas Digne",
+  "optionD": "Junior Firpo",
+  "correctAnswer": "Jordi Alba"
+ },
+ {
+  "id": 313,
+  "question": "¿Qué jugador brasileño fue lateral izquierdo y derecho en el Barça de Guardiola?",
+  "optionA": "Adriano Correia",
+  "optionB": "Maxwell",
+  "optionC": "Sylvinho",
+  "optionD": "Belletti",
+  "correctAnswer": "Adriano Correia"
+ },
+ {
+  "id": 314,
+  "question": "¿Qué defensa brasileño fue titular en la final de Champions 2009?",
+  "optionA": "Sylvinho",
+  "optionB": "Dani Alves",
+  "optionC": "Belletti",
+  "optionD": "Adriano",
+  "correctAnswer": "Sylvinho"
+ },
+ {
+  "id": 315,
+  "question": "¿Qué jugador marfileño fue centrocampista y defensa en el Barça de Guardiola?",
+  "optionA": "Yaya Touré",
+  "optionB": "Didier Drogba",
+  "optionC": "Kolo Touré",
+  "optionD": "Seydou Doumbia",
+  "correctAnswer": "Yaya Touré"
+ },
+ {
+  "id": 316,
+  "question": "¿Qué jugador maliense fue centrocampista del Barça de Guardiola?",
+  "optionA": "Seydou Keita",
+  "optionB": "Mahamadou Diarra",
+  "optionC": "Frédéric Kanouté",
+  "optionD": "Momo Sissoko",
+  "correctAnswer": "Seydou Keita"
+ },
+ {
+  "id": 317,
+  "question": "¿Qué brasileño fue lateral del Barça y después entrenador interino de Brasil?",
+  "optionA": "Sylvinho",
+  "optionB": "Rivaldo",
+  "optionC": "Romário",
+  "optionD": "Edmílson",
+  "correctAnswer": "Sylvinho"
+ },
+ {
+  "id": 318,
+  "question": "¿Qué neerlandés fue portero del Barça y más tarde entrenador del Manchester United?",
+  "optionA": "Louis van Gaal",
+  "optionB": "Ronald Koeman",
+  "optionC": "Frank Rijkaard",
+  "optionD": "Johan Neeskens",
+  "correctAnswer": "Louis van Gaal"
+ },
+ {
+  "id": 319,
+  "question": "¿Qué entrenador neerlandés fue jugador y técnico del Barça?",
+  "optionA": "Ronald Koeman",
+  "optionB": "Carlo Ancelotti",
+  "optionC": "Arsène Wenger",
+  "optionD": "Fabio Capello",
+  "correctAnswer": "Ronald Koeman"
+ },
+ {
+  "id": 320,
+  "question": "¿Qué jugador neerlandés fue delantero del Barça en los años 90 y 2000?",
+  "optionA": "Patrick Kluivert",
+  "optionB": "Ruud van Nistelrooy",
+  "optionC": "Robin van Persie",
+  "optionD": "Roy Makaay",
+  "correctAnswer": "Patrick Kluivert"
+ },
+ {
+  "id": 321,
+  "question": "¿Qué brasileño jugó solo una temporada en el Barça antes de ir al Inter?",
+  "optionA": "Ronaldo Nazário",
+  "optionB": "Ronaldinho",
+  "optionC": "Rivaldo",
+  "optionD": "Romário",
+  "correctAnswer": "Ronaldo Nazário"
+ },
+ {
+  "id": 322,
+  "question": "¿Qué jugador brasileño marcó una chilena memorable contra el Valencia en 2001?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldinho",
+  "optionC": "Ronaldo",
+  "optionD": "Romário",
+  "correctAnswer": "Rivaldo"
+ },
+ {
+  "id": 323,
+  "question": "¿Qué delantero brasileño fue conocido por su gran temporada 1993-94 en el Barça?",
+  "optionA": "Romário",
+  "optionB": "Ronaldo",
+  "optionC": "Rivaldo",
+  "optionD": "Giovanni",
+  "correctAnswer": "Romário"
+ },
+ {
+  "id": 324,
+  "question": "¿Qué brasileño del Barça ganó el Mundial 2002 como estrella de Brasil?",
+  "optionA": "Rivaldo",
+  "optionB": "Ronaldinho",
+  "optionC": "Ronaldo",
+  "optionD": "Edmílson",
+  "correctAnswer": "Rivaldo"
+ },
+ {
+  "id": 325,
+  "question": "¿Qué portugués fue ayudante de Bobby Robson y luego de Van Gaal en el Barça?",
+  "optionA": "José Mourinho",
+  "optionB": "André Villas-Boas",
+  "optionC": "Carlos Queiroz",
+  "optionD": "Nuno Espírito Santo",
+  "correctAnswer": "José Mourinho"
+ },
+ {
+  "id": 326,
+  "question": "¿Qué presidente fue clave en la construcción del Barça moderno durante un mandato iniciado en 1978?",
+  "optionA": "Josep Lluís Núñez",
+  "optionB": "Joan Gamper",
+  "optionC": "Enric Llaudet",
+  "optionD": "Narcís de Carreras",
+  "correctAnswer": "Josep Lluís Núñez"
+ },
+ {
+  "id": 327,
+  "question": "¿Qué presidente popularizó institucionalmente el lema 'Més que un club'?",
+  "optionA": "Narcís de Carreras",
+  "optionB": "Joan Gamper",
+  "optionC": "Josep Maria Bartomeu",
+  "optionD": "Sandro Rosell",
+  "correctAnswer": "Narcís de Carreras"
+ },
+ {
+  "id": 328,
+  "question": "¿Qué himno cantan los aficionados del Barça antes de los partidos importantes?",
+  "optionA": "Cant del Barça",
+  "optionB": "You'll Never Walk Alone",
+  "optionC": "Els Segadors",
+  "optionD": "Hala Barça",
+  "correctAnswer": "Cant del Barça"
+ },
+ {
+  "id": 329,
+  "question": "¿Qué idioma predomina en el 'Cant del Barça'?",
+  "optionA": "Catalán",
+  "optionB": "Castellano",
+  "optionC": "Francés",
+  "optionD": "Italiano",
+  "correctAnswer": "Catalán"
+ },
+ {
+  "id": 330,
+  "question": "¿Qué frase completa el lema 'Més que...'?",
+  "optionA": "un club",
+  "optionB": "un equip",
+  "optionC": "una ciutat",
+  "optionD": "una lliga",
+  "correctAnswer": "un club"
+ },
+ {
+  "id": 331,
+  "question": "¿Qué sección del Barça ha dominado históricamente el balonmano europeo?",
+  "optionA": "Barça Handbol",
+  "optionB": "Barça Rugby",
+  "optionC": "Barça Beisbol",
+  "optionD": "Barça Atletismo",
+  "correctAnswer": "Barça Handbol"
+ },
+ {
+  "id": 332,
+  "question": "¿Qué sección del Barça juega en la Liga ACB?",
+  "optionA": "Barça Basket",
+  "optionB": "Barça Futsal",
+  "optionC": "Barça Hockey",
+  "optionD": "Barça Handbol",
+  "correctAnswer": "Barça Basket"
+ },
+ {
+  "id": 333,
+  "question": "¿Qué sección del Barça compite en fútbol sala?",
+  "optionA": "Barça Futsal",
+  "optionB": "Barça Basket",
+  "optionC": "Barça Rugby",
+  "optionD": "Barça Hoquei",
+  "correctAnswer": "Barça Futsal"
+ },
+ {
+  "id": 334,
+  "question": "¿Qué sección del Barça compite tradicionalmente en hockey sobre patines?",
+  "optionA": "Barça Hoquei",
+  "optionB": "Barça Ice Hockey",
+  "optionC": "Barça Rugby",
+  "optionD": "Barça Baseball",
+  "correctAnswer": "Barça Hoquei"
+ },
+ {
+  "id": 335,
+  "question": "¿En qué año se profesionalizó el Barça Femení según el club?",
+  "optionA": "2015",
+  "optionB": "2011",
+  "optionC": "2018",
+  "optionD": "2020",
+  "correctAnswer": "2015"
+ },
+ {
+  "id": 336,
+  "question": "¿Qué equipo derrotó el Barça Femení en la final de Champions 2023?",
+  "optionA": "Wolfsburg",
+  "optionB": "Chelsea",
+  "optionC": "Lyon",
+  "optionD": "PSG",
+  "correctAnswer": "Wolfsburg"
+ },
+ {
+  "id": 337,
+  "question": "¿Qué jugadora marcó dos goles en la final de Champions femenina 2023?",
+  "optionA": "Patri Guijarro",
+  "optionB": "Aitana Bonmatí",
+  "optionC": "Alexia Putellas",
+  "optionD": "Salma Paralluelo",
+  "correctAnswer": "Patri Guijarro"
+ },
+ {
+  "id": 338,
+  "question": "¿Qué jugadora del Barça Femení es conocida por su liderazgo y el dorsal 11?",
+  "optionA": "Alexia Putellas",
+  "optionB": "Mapi León",
+  "optionC": "Cata Coll",
+  "optionD": "Mariona Caldentey",
+  "correctAnswer": "Alexia Putellas"
+ },
+ {
+  "id": 339,
+  "question": "¿Qué centrocampista del Barça Femení es conocida por su visión de juego y Balón de Oro?",
+  "optionA": "Aitana Bonmatí",
+  "optionB": "Marta Torrejón",
+  "optionC": "Clàudia Pina",
+  "optionD": "Leila Ouahabi",
+  "correctAnswer": "Aitana Bonmatí"
+ },
+ {
+  "id": 340,
+  "question": "¿Qué portera del Barça Femení fue clave en la Champions 2023-24?",
+  "optionA": "Cata Coll",
+  "optionB": "Sandra Paños",
+  "optionC": "Lola Gallardo",
+  "optionD": "Misa Rodríguez",
+  "correctAnswer": "Cata Coll"
+ },
+ {
+  "id": 341,
+  "question": "¿Qué extremo noruega ha sido una de las grandes estrellas del Barça Femení?",
+  "optionA": "Caroline Graham Hansen",
+  "optionB": "Ada Hegerberg",
+  "optionC": "Guro Reiten",
+  "optionD": "Frida Maanum",
+  "correctAnswer": "Caroline Graham Hansen"
+ },
+ {
+  "id": 342,
+  "question": "¿Qué delantera española del Barça Femení fue una de las grandes promesas surgidas en la década de 2020?",
+  "optionA": "Salma Paralluelo",
+  "optionB": "Vero Boquete",
+  "optionC": "Amanda Sampedro",
+  "optionD": "Lola Gallardo",
+  "correctAnswer": "Salma Paralluelo"
+ },
+ {
+  "id": 343,
+  "question": "¿Qué estadio registró récords de asistencia para partidos del Barça Femení en 2022?",
+  "optionA": "Camp Nou",
+  "optionB": "Estadi Johan Cruyff",
+  "optionC": "Palau Blaugrana",
+  "optionD": "Montilivi",
+  "correctAnswer": "Camp Nou"
+ },
+ {
+  "id": 344,
+  "question": "¿Qué club ha sido uno de los grandes rivales europeos del Barça Femení en finales de Champions?",
+  "optionA": "Lyon",
+  "optionB": "Manchester City",
+  "optionC": "Benfica",
+  "optionD": "Ajax",
+  "correctAnswer": "Lyon"
+ },
+ {
+  "id": 345,
+  "question": "¿Qué elemento hace que el Barça sea considerado algo más que un equipo deportivo?",
+  "optionA": "Su dimensión social, cultural e identitaria",
+  "optionB": "Su uniforme blanco",
+  "optionC": "Su origen exclusivamente empresarial",
+  "optionD": "Su ausencia de socios",
+  "correctAnswer": "Su dimensión social, cultural e identitaria"
+ },
+ {
+  "id": 346,
+  "question": "¿Qué frase resume mejor el sentimiento de pertenencia del aficionado culé?",
+  "optionA": "Més que un club",
+  "optionB": "Nunca caminarás solo",
+  "optionC": "Hala Madrid",
+  "optionD": "Aúpa Atleti",
+  "correctAnswer": "Més que un club"
+ }
+]
