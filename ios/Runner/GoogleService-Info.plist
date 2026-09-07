@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCLOvo1ym0y19siRPd5axRx0mQ_avya8nM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>297294877365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cgr.triviamastermobile</string>
+	<key>PROJECT_ID</key>
+	<string>trivia-master-48ll8w</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trivia-master-48ll8w.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:297294877365:ios:eeb1edf6dead758156a4fc</string>
+</dict>
+</plist>
