@@ -1,0 +1,54 @@
+workflows:
+  ios-ipad-only:
+    name: iOS iPad Only Build
+    max_build_duration: 120
+    integrations:
+      app_store_connect: Apple Developer
+    environment:
+      groups:
+        - ios_signing_keys
+      vars:
+        BUNDLE_ID: com.cgr.AprendeInglesLucia
+        P12_PASSWORD: TempBuildPass123
+      flutter: 3.32.0
+      xcode: 26.4.1
+      cocoapods: default
+    scripts:
+      - name: Decode certificate private key
+        script: |
+          echo $CERTIFICATE_PRIVATE_KEY | base64 -D > /tmp/certificate_private_key.pem
+      - name: Set up keychain
+        script: keychain initialize
+      - name: Fetch signing files
+        script: |
+          app-store-connect fetch-signing-files "$BUNDLE_ID" \
+            --type IOS_APP_STORE \
+            --certificate-key "$(cat /tmp/certificate_private_key.pem)" \
+            --p12-password "$P12_PASSWORD" \
+            --create
+      - name: Import certificate into keychain
+        script: |
+          keychain add-certificates --certificate "/Users/builder/Library/Developer/Xcode/UserData/Certificates/*.p12" --certificate-password "$P12_PASSWORD"
+      - name: Set up code signing settings on Xcode project
+        script: xcode-project use-profiles
+      - name: Get Flutter packages
+        script: flutter pub get
+      - name: Generate app icons
+        script: dart run flutter_launcher_icons
+      - name: Force iPad-only device family
+        script: |
+          sed -i '' -E 's/TARGETED_DEVICE_FAMILY = [^;]+;/TARGETED_DEVICE_FAMILY = 2;/g' ios/Runner.xcodeproj/project.pbxproj
+      - name: Install pods
+        script: find . -name "Podfile" -execdir pod install \;
+      - name: Flutter build ipa
+        script: |
+          flutter build ipa --release \
+            --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        submit_to_app_store: false
