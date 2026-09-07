@@ -142,7 +142,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                   .fontStyle,
                                         ),
                                         color: Colors.white,
-                                        fontSize: 12.0,
+                                        fontSize: 14.0,
                                         letterSpacing: 0.0,
                                         fontWeight: FlutterFlowTheme.of(context)
                                             .headlineSmall
@@ -287,7 +287,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                         .fontStyle,
                                               ),
                                               color: Colors.black,
-                                              fontSize: 14.0,
+                                              fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
                                               fontStyle:
@@ -421,7 +421,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                             .fontStyle,
                                                   ),
                                                   color: Color(0xFFD3D3D6),
-                                                  fontSize: 14.0,
+                                                  fontSize: 16.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -562,7 +562,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                             .fontStyle,
                                                   ),
                                                   color: Color(0xFFD3D3D6),
-                                                  fontSize: 14.0,
+                                                  fontSize: 16.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -703,7 +703,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                             .fontStyle,
                                                   ),
                                                   color: Color(0xFFD3D3D6),
-                                                  fontSize: 14.0,
+                                                  fontSize: 16.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -844,7 +844,7 @@ class _GamePageWidgetState extends State<GamePageWidget> {
                                                             .fontStyle,
                                                   ),
                                                   color: Color(0xFFD3D3D6),
-                                                  fontSize: 14.0,
+                                                  fontSize: 16.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(

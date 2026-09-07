@@ -126,15 +126,15 @@ class _OnlineGameViewState extends State<OnlineGameView> {
       color: Color(0xFF020818),
       child: SafeArea(
         child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 30, vertical: 20),
+          padding: EdgeInsets.symmetric(horizontal: 24, vertical: 16),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Row(
                 children: [
                   Container(
-                    width: 70,
-                    height: 70,
+                    width: 75,
+                    height: 75,
                     decoration: BoxDecoration(
                       color: Color(0xFF00A3FF),
                       shape: BoxShape.circle,
@@ -158,48 +158,48 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                   ),
                 ],
               ),
-              SizedBox(height: 30),
+              SizedBox(height: 24),
               Text(
                 'SALA DE ESPERA',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Color(0xFFFFD54F),
-                  fontSize: 22,
+                  fontSize: 18,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 1,
                 ),
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 16),
               Text(
                 'Código para compartir',
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.white70, fontSize: 16),
+                style: TextStyle(color: Colors.white70, fontSize: 14),
               ),
               SizedBox(height: 8),
               Container(
-                padding: EdgeInsets.symmetric(vertical: 20),
+                padding: EdgeInsets.symmetric(vertical: 14),
                 decoration: BoxDecoration(
                   color: Color(0xFF10233D),
-                  borderRadius: BorderRadius.circular(20),
-                  border: Border.all(color: Color(0xFFFFD54F), width: 3),
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(color: Color(0xFFFFD54F), width: 2),
                 ),
                 child: Text(
                   codigo,
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 48,
+                    fontSize: 32,
                     fontWeight: FontWeight.bold,
-                    letterSpacing: 12,
+                    letterSpacing: 6,
                   ),
                 ),
               ),
-              SizedBox(height: 30),
+              SizedBox(height: 24),
               Text(
                 'Jugadores (${jugadores.length}/$maxJugadores)',
                 style: TextStyle(
                     color: Colors.white,
-                    fontSize: 18,
+                    fontSize: 16,
                     fontWeight: FontWeight.w600),
               ),
               SizedBox(height: 12),
@@ -214,10 +214,10 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                     return Container(
                       margin: EdgeInsets.only(bottom: 10),
                       padding:
-                          EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+                          EdgeInsets.symmetric(horizontal: 14, vertical: 10),
                       decoration: BoxDecoration(
                         color: Color(0xFF10233D),
-                        borderRadius: BorderRadius.circular(16),
+                        borderRadius: BorderRadius.circular(14),
                         border: Border.all(color: Color(0xFF5E6F87), width: 2),
                       ),
                       child: Row(
@@ -233,7 +233,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                             child: Text(
                               (data['nombre'] ?? 'Jugador') as String,
                               style:
-                                  TextStyle(color: Colors.white, fontSize: 18),
+                                  TextStyle(color: Colors.white, fontSize: 16),
                             ),
                           ),
                         ],
@@ -253,17 +253,17 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                         },
                   child: Container(
                     width: double.infinity,
-                    padding: EdgeInsets.symmetric(vertical: 18),
+                    padding: EdgeInsets.symmetric(vertical: 14),
                     decoration: BoxDecoration(
                       color: Color(0xFFFFD54F),
-                      borderRadius: BorderRadius.circular(16),
+                      borderRadius: BorderRadius.circular(14),
                     ),
                     child: Text(
                       'INICIAR PARTIDA',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: Color(0xFF020818),
-                        fontSize: 18,
+                        fontSize: 16,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
@@ -273,7 +273,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                 Text(
                   'Esperando a que el anfitrión inicie la partida…',
                   textAlign: TextAlign.center,
-                  style: TextStyle(color: Colors.white70, fontSize: 15),
+                  style: TextStyle(color: Colors.white70, fontSize: 14),
                 ),
             ],
           ),
@@ -349,12 +349,12 @@ class _OnlineGameViewState extends State<OnlineGameView> {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Padding(
-                padding: EdgeInsetsDirectional.fromSTEB(30, 40, 20, 0),
+                padding: EdgeInsetsDirectional.fromSTEB(20, 24, 20, 0),
                 child: Row(
                   children: [
                     Container(
-                      width: 70,
-                      height: 70,
+                      width: 75,
+                      height: 75,
                       decoration: BoxDecoration(
                         color: Color(0xFF00A3FF),
                         shape: BoxShape.circle,
@@ -377,7 +377,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                     Spacer(),
                     Container(
                       padding:
-                          EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                          EdgeInsets.symmetric(horizontal: 14, vertical: 8),
                       decoration: BoxDecoration(
                         color: revelando
                             ? Color(0xFF10233D)
@@ -391,14 +391,14 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                               : (restantes <= 5
                                   ? Colors.redAccent
                                   : Color(0xFF5E6F87)),
-                          width: 3,
+                          width: 2,
                         ),
                       ),
                       child: Text(
                         revelando ? 'Revelando…' : '$restantes s',
                         style: TextStyle(
                           color: Colors.white,
-                          fontSize: 18,
+                          fontSize: 14,
                           fontWeight: FontWeight.bold,
                         ),
                       ),
@@ -409,7 +409,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
               Padding(
                 padding: EdgeInsetsDirectional.fromSTEB(20, 16, 20, 0),
                 child: SizedBox(
-                  height: 44,
+                  height: 40,
                   child: ListView(
                     scrollDirection: Axis.horizontal,
                     children: jugadores.map((doc) {
@@ -418,10 +418,10 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                       return Container(
                         margin: EdgeInsetsDirectional.fromSTEB(0, 0, 10, 0),
                         padding:
-                            EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                            EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                         decoration: BoxDecoration(
                           color: esYo ? Color(0xFF10233D) : Color(0xFF0B1730),
-                          borderRadius: BorderRadius.circular(20),
+                          borderRadius: BorderRadius.circular(16),
                           border: Border.all(
                             color: esYo ? Color(0xFFFFD54F) : Color(0xFF5E6F87),
                             width: esYo ? 2 : 1,
@@ -457,7 +457,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                     'Pregunta $numeroPreguntaActual de $totalPreguntas',
                     style: TextStyle(
                       color: Colors.white,
-                      fontSize: 16,
+                      fontSize: 14,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -465,46 +465,25 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                 ),
               ),
               Padding(
-                padding: EdgeInsetsDirectional.fromSTEB(0, 40, 0, 0),
-                child: Row(
-                  children: [
-                    Expanded(
-                      child: Padding(
-                        padding: EdgeInsetsDirectional.fromSTEB(30, 0, 16, 0),
-                        child: Container(
-                          width: double.infinity,
-                          height: 225,
-                          decoration: BoxDecoration(
-                            color: Color(0xFFF5F5F5),
-                            borderRadius: BorderRadius.circular(24),
-                            border: Border.all(color: Colors.white, width: 5),
-                          ),
-                          padding: EdgeInsets.all(10),
-                          alignment: Alignment.topLeft,
-                          child: Text(
-                            (pregunta['question'] ?? '') as String,
-                            style: TextStyle(
-                              color: Colors.black,
-                              fontSize: 28,
-                              fontWeight: FontWeight.w600,
-                            ),
-                          ),
-                        ),
-                      ),
+                padding: EdgeInsetsDirectional.fromSTEB(20, 24, 20, 0),
+                child: Container(
+                  width: double.infinity,
+                  height: 150,
+                  decoration: BoxDecoration(
+                    color: Color(0xFFF5F5F5),
+                    borderRadius: BorderRadius.circular(24),
+                    border: Border.all(color: Colors.white, width: 5),
+                  ),
+                  padding: EdgeInsets.all(10),
+                  alignment: Alignment.topLeft,
+                  child: Text(
+                    (pregunta['question'] ?? '') as String,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
                     ),
-                    Padding(
-                      padding: EdgeInsetsDirectional.fromSTEB(0, 0, 30, 0),
-                      child: ClipRRect(
-                        borderRadius: BorderRadius.circular(8),
-                        child: Image.network(
-                          _imagenTema(pregunta['theme'] as String?),
-                          width: 180,
-                          height: 180,
-                          fit: BoxFit.contain,
-                        ),
-                      ),
-                    ),
-                  ],
+                  ),
                 ),
               ),
               ...List.generate(4, (i) {
@@ -520,17 +499,17 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                   borde = esCorrecta
                       ? Color(0xFF00FF06)
                       : (esMiFallida ? Colors.redAccent : Color(0xFF5E6F87));
-                  anchoBorde = (esCorrecta || esMiFallida) ? 5 : 4;
+                  anchoBorde = (esCorrecta || esMiFallida) ? 4 : 3;
                 } else {
                   borde = seleccionada ? Color(0xFFFFD54F) : Color(0xFF5E6F87);
-                  anchoBorde = seleccionada ? 5 : 4;
+                  anchoBorde = seleccionada ? 4 : 3;
                 }
 
                 final tapHabilitado =
                     !revelando && !yaRespondio && restantes > 0;
 
                 return Padding(
-                  padding: EdgeInsetsDirectional.fromSTEB(30, 24, 30, 0),
+                  padding: EdgeInsetsDirectional.fromSTEB(20, 16, 20, 0),
                   child: InkWell(
                     splashColor: Colors.transparent,
                     focusColor: Colors.transparent,
@@ -543,7 +522,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                         : null,
                     child: Container(
                       width: double.infinity,
-                      height: 100,
+                      height: 75,
                       decoration: BoxDecoration(
                         color: Color(0xFF10233D),
                         borderRadius: BorderRadius.circular(24),
@@ -556,8 +535,8 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                             padding:
                                 EdgeInsetsDirectional.fromSTEB(10, 0, 0, 0),
                             child: Container(
-                              width: 60,
-                              height: 60,
+                              width: 40,
+                              height: 40,
                               decoration: BoxDecoration(
                                 color: Color(0xFFEDEDED),
                                 shape: BoxShape.circle,
@@ -567,7 +546,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                                 letras[i],
                                 style: TextStyle(
                                   color: Color(0xFF1C2D47),
-                                  fontSize: 36,
+                                  fontSize: 26,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -576,12 +555,12 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                           Expanded(
                             child: Padding(
                               padding:
-                                  EdgeInsetsDirectional.fromSTEB(20, 5, 10, 5),
+                                  EdgeInsetsDirectional.fromSTEB(14, 5, 10, 5),
                               child: Text(
                                 texto,
                                 style: TextStyle(
                                   color: Color(0xFFD3D3D6),
-                                  fontSize: 26,
+                                  fontSize: 16,
                                 ),
                               ),
                             ),
@@ -593,13 +572,13 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                 );
               }),
               Padding(
-                padding: EdgeInsetsDirectional.fromSTEB(0, 24, 0, 40),
+                padding: EdgeInsetsDirectional.fromSTEB(0, 16, 0, 24),
                 child: Text(
                   (!revelando && yaRespondio)
                       ? 'Respuesta enviada. Esperando al resto…'
                       : ' ',
                   textAlign: TextAlign.center,
-                  style: TextStyle(color: Colors.white70, fontSize: 16),
+                  style: TextStyle(color: Colors.white70, fontSize: 14),
                 ),
               ),
             ],
@@ -671,141 +650,147 @@ class _OnlineGameViewState extends State<OnlineGameView> {
 
                 return Dialog(
                   backgroundColor: Color(0xFF050C18),
-                  insetPadding: EdgeInsets.symmetric(horizontal: 24),
+                  insetPadding: EdgeInsets.symmetric(horizontal: 20),
                   shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(20),
+                    borderRadius: BorderRadius.circular(16),
                     side: BorderSide(color: Color(0xFFFFD54F), width: 2),
                   ),
-                  child: Padding(
-                    padding: EdgeInsets.all(24),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      crossAxisAlignment: CrossAxisAlignment.stretch,
-                      children: [
-                        Text(
-                          'RESPUESTA CORRECTA',
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                            color: Color(0xFFFFD54F),
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                            letterSpacing: 1,
-                          ),
-                        ),
-                        SizedBox(height: 12),
-                        Container(
-                          width: double.infinity,
-                          padding: EdgeInsets.symmetric(
-                              vertical: 14, horizontal: 16),
-                          decoration: BoxDecoration(
-                            color: Color(0xFF10233D),
-                            borderRadius: BorderRadius.circular(14),
-                            border:
-                                Border.all(color: Color(0xFF00FF06), width: 2),
-                          ),
-                          child: Text(
-                            textoCorrecta,
+                  child: ConstrainedBox(
+                    constraints: BoxConstraints(maxWidth: 340),
+                    child: Padding(
+                      padding: EdgeInsets.all(20),
+                      child: Column(
+                        mainAxisSize: MainAxisSize.min,
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          Text(
+                            'RESPUESTA CORRECTA',
                             textAlign: TextAlign.center,
                             style: TextStyle(
-                              color: Colors.white,
-                              fontSize: 18,
-                              fontWeight: FontWeight.w600,
+                              color: Color(0xFFFFD54F),
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                              letterSpacing: 1,
                             ),
                           ),
-                        ),
-                        SizedBox(height: 20),
-                        Text(
-                          'Puntos de esta ronda',
-                          style: TextStyle(color: Colors.white70, fontSize: 14),
-                        ),
-                        SizedBox(height: 8),
-                        ConstrainedBox(
-                          constraints: BoxConstraints(maxHeight: 220),
-                          child: ListView(
-                            shrinkWrap: true,
-                            children: jugadores.map((doc) {
-                              final jd = doc.data() as Map<String, dynamic>;
-                              final ganados = (jd['puntosRonda'] ?? 0) as int;
-                              final total = (jd['puntos'] ?? 0) as int;
-                              final acerto = ganados > 0;
-                              return Padding(
-                                padding: EdgeInsets.only(bottom: 8),
-                                child: Row(
-                                  children: [
-                                    Icon(
-                                      acerto
-                                          ? Icons.check_circle
-                                          : Icons.cancel,
-                                      color: acerto
-                                          ? Color(0xFF00FF06)
-                                          : Colors.redAccent,
-                                      size: 20,
-                                    ),
-                                    SizedBox(width: 10),
-                                    Expanded(
-                                      child: Text(
-                                        (jd['nombre'] ?? '') as String,
-                                        style: TextStyle(
-                                            color: Colors.white, fontSize: 16),
-                                      ),
-                                    ),
-                                    Text(
-                                      '+$ganados',
-                                      style: TextStyle(
-                                        color: acerto
-                                            ? Color(0xFF00FF06)
-                                            : Colors.white38,
-                                        fontSize: 15,
-                                        fontWeight: FontWeight.bold,
-                                      ),
-                                    ),
-                                    SizedBox(width: 10),
-                                    Text(
-                                      '($total)',
-                                      style: TextStyle(
-                                          color: Colors.white54, fontSize: 14),
-                                    ),
-                                  ],
-                                ),
-                              );
-                            }).toList(),
-                          ),
-                        ),
-                        SizedBox(height: 20),
-                        if (esAnfitrion)
-                          InkWell(
-                            splashColor: Colors.transparent,
-                            onTap: () async {
-                              await avanzarPregunta(partidaId);
-                            },
-                            child: Container(
-                              width: double.infinity,
-                              padding: EdgeInsets.symmetric(vertical: 16),
-                              decoration: BoxDecoration(
-                                color: Color(0xFFFFD54F),
-                                borderRadius: BorderRadius.circular(14),
-                              ),
-                              child: Text(
-                                esUltima
-                                    ? 'VER RESULTADOS FINALES'
-                                    : 'SIGUIENTE PREGUNTA',
-                                textAlign: TextAlign.center,
-                                style: TextStyle(
-                                  color: Color(0xFF020818),
-                                  fontSize: 15,
-                                  fontWeight: FontWeight.bold,
-                                ),
+                          SizedBox(height: 12),
+                          Container(
+                            width: double.infinity,
+                            padding: EdgeInsets.symmetric(
+                                vertical: 14, horizontal: 16),
+                            decoration: BoxDecoration(
+                              color: Color(0xFF10233D),
+                              borderRadius: BorderRadius.circular(14),
+                              border: Border.all(
+                                  color: Color(0xFF00FF06), width: 2),
+                            ),
+                            child: Text(
+                              textoCorrecta,
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 16,
+                                fontWeight: FontWeight.w600,
                               ),
                             ),
-                          )
-                        else
+                          ),
+                          SizedBox(height: 16),
                           Text(
-                            'Esperando al anfitrión…',
-                            textAlign: TextAlign.center,
+                            'Puntos de esta ronda',
                             style:
                                 TextStyle(color: Colors.white70, fontSize: 14),
                           ),
-                      ],
+                          SizedBox(height: 8),
+                          ConstrainedBox(
+                            constraints: BoxConstraints(maxHeight: 200),
+                            child: ListView(
+                              shrinkWrap: true,
+                              children: jugadores.map((doc) {
+                                final jd = doc.data() as Map<String, dynamic>;
+                                final ganados = (jd['puntosRonda'] ?? 0) as int;
+                                final total = (jd['puntos'] ?? 0) as int;
+                                final acerto = ganados > 0;
+                                return Padding(
+                                  padding: EdgeInsets.only(bottom: 8),
+                                  child: Row(
+                                    children: [
+                                      Icon(
+                                        acerto
+                                            ? Icons.check_circle
+                                            : Icons.cancel,
+                                        color: acerto
+                                            ? Color(0xFF00FF06)
+                                            : Colors.redAccent,
+                                        size: 18,
+                                      ),
+                                      SizedBox(width: 10),
+                                      Expanded(
+                                        child: Text(
+                                          (jd['nombre'] ?? '') as String,
+                                          style: TextStyle(
+                                              color: Colors.white,
+                                              fontSize: 14),
+                                        ),
+                                      ),
+                                      Text(
+                                        '+$ganados',
+                                        style: TextStyle(
+                                          color: acerto
+                                              ? Color(0xFF00FF06)
+                                              : Colors.white38,
+                                          fontSize: 14,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                      SizedBox(width: 10),
+                                      Text(
+                                        '($total)',
+                                        style: TextStyle(
+                                            color: Colors.white54,
+                                            fontSize: 13),
+                                      ),
+                                    ],
+                                  ),
+                                );
+                              }).toList(),
+                            ),
+                          ),
+                          SizedBox(height: 16),
+                          if (esAnfitrion)
+                            InkWell(
+                              splashColor: Colors.transparent,
+                              onTap: () async {
+                                await avanzarPregunta(partidaId);
+                              },
+                              child: Container(
+                                width: double.infinity,
+                                padding: EdgeInsets.symmetric(vertical: 14),
+                                decoration: BoxDecoration(
+                                  color: Color(0xFFFFD54F),
+                                  borderRadius: BorderRadius.circular(14),
+                                ),
+                                child: Text(
+                                  esUltima
+                                      ? 'VER RESULTADOS FINALES'
+                                      : 'SIGUIENTE PREGUNTA',
+                                  textAlign: TextAlign.center,
+                                  style: TextStyle(
+                                    color: Color(0xFF020818),
+                                    fontSize: 14,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ),
+                            )
+                          else
+                            Text(
+                              'Esperando al anfitrión…',
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                  color: Colors.white70, fontSize: 14),
+                            ),
+                        ],
+                      ),
                     ),
                   ),
                 );
@@ -835,7 +820,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
       color: Color(0xFF020818),
       child: SafeArea(
         child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 30, vertical: 30),
+          padding: EdgeInsets.symmetric(horizontal: 24, vertical: 24),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
@@ -844,12 +829,12 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Color(0xFFFFD54F),
-                  fontSize: 24,
+                  fontSize: 18,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 1,
                 ),
               ),
-              SizedBox(height: 30),
+              SizedBox(height: 24),
               Expanded(
                 child: ListView.builder(
                   itemCount: ordenados.length,
@@ -858,12 +843,12 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                         ordenados[index].data() as Map<String, dynamic>;
                     final esGanador = index == 0;
                     return Container(
-                      margin: EdgeInsets.only(bottom: 12),
+                      margin: EdgeInsets.only(bottom: 10),
                       padding:
-                          EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+                          EdgeInsets.symmetric(horizontal: 14, vertical: 12),
                       decoration: BoxDecoration(
                         color: Color(0xFF10233D),
-                        borderRadius: BorderRadius.circular(16),
+                        borderRadius: BorderRadius.circular(14),
                         border: Border.all(
                           color:
                               esGanador ? Color(0xFFFFD54F) : Color(0xFF5E6F87),
@@ -877,18 +862,18 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                               padding:
                                   EdgeInsetsDirectional.fromSTEB(0, 0, 12, 0),
                               child: Icon(Icons.emoji_events,
-                                  color: Color(0xFFFFD54F), size: 28),
+                                  color: Color(0xFFFFD54F), size: 22),
                             ),
                           Text('${index + 1}.',
                               style: TextStyle(
-                                  color: Colors.white70, fontSize: 18)),
+                                  color: Colors.white70, fontSize: 15)),
                           SizedBox(width: 12),
                           Expanded(
                             child: Text(
                               (data['nombre'] ?? '') as String,
                               style: TextStyle(
                                 color: Colors.white,
-                                fontSize: 18,
+                                fontSize: 16,
                                 fontWeight: FontWeight.w600,
                               ),
                             ),
@@ -897,7 +882,7 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                             '${data['puntos'] ?? 0} pts',
                             style: TextStyle(
                               color: Color(0xFFFFD54F),
-                              fontSize: 18,
+                              fontSize: 16,
                               fontWeight: FontWeight.bold,
                             ),
                           ),
@@ -919,17 +904,17 @@ class _OnlineGameViewState extends State<OnlineGameView> {
                 },
                 child: Container(
                   width: double.infinity,
-                  padding: EdgeInsets.symmetric(vertical: 18),
+                  padding: EdgeInsets.symmetric(vertical: 14),
                   decoration: BoxDecoration(
                     color: Color(0xFFFFD54F),
-                    borderRadius: BorderRadius.circular(16),
+                    borderRadius: BorderRadius.circular(14),
                   ),
                   child: Text(
                     'VOLVER AL INICIO',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Color(0xFF020818),
-                      fontSize: 16,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -950,11 +935,11 @@ class _OnlineGameViewState extends State<OnlineGameView> {
       color: Color(0xFF020818),
       alignment: Alignment.center,
       child: Padding(
-        padding: EdgeInsets.all(30),
+        padding: EdgeInsets.all(24),
         child: Text(
           mensaje,
           textAlign: TextAlign.center,
-          style: TextStyle(color: Colors.white, fontSize: 16),
+          style: TextStyle(color: Colors.white, fontSize: 14),
         ),
       ),
     );
@@ -986,30 +971,5 @@ class _OnlineGameViewState extends State<OnlineGameView> {
           .doc(miUid)
           .update({'activo': false, 'salidaEn': DateTime.now()});
     } catch (_) {}
-  }
-
-  String _imagenTema(String? tema) {
-    switch (tema ?? '') {
-      case 'FUTBOL':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/dogrcpfk5iw7/Futbol.png';
-      case 'MUNDIALES':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/dyuznxqc3crw/mundiales.png';
-      case 'REGUETON':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/6lzfweb9jjgf/Regueton.png';
-      case 'MADRIDISTA':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/wmp1dscls0lp/realmadrid.png';
-      case 'BARCELONISTA':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/1emmw5u6j5vc/barcelona.png';
-      case 'Cuerpo humano':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/iprk6v0j0bwy/Esqueleto-removebg-preview.png';
-      case 'INVENTORES':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/r6t8mv0ja106/Inventores-removebg-preview.png';
-      case 'HISTORIA DE ESPAÑA':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/72hvygvjp67v/historia.png';
-      case 'ESO Geografía e Historia':
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/72hvygvjp67v/historia.png';
-      default:
-        return 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/7cujadfehb8w/Secundaria-removebg-preview.png';
-    }
   }
 }
