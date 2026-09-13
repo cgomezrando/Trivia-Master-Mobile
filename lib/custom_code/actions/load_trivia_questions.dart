@@ -35,6 +35,12 @@ const Map<String, String> _themeToUrl = {
       'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/0x3gny9puzli/inventores.json',
   'HISTORIA DE ESPAÑA':
       'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets/7c73w5722kqo/historia_de_espana.json',
+  'CINE':
+      'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-mobile-e3cfp4/assets/ryz1hy1n9hty/cine.json',
+  'CULTURA GENERAL':
+      'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-mobile-e3cfp4/assets/sbtbkbjd714i/cultura.json',
+  'NATURALEZA':
+      'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-mobile-e3cfp4/assets/xbjwtqu6xptp/naturaleza.json',
 
   // ── Temas de ESO (se seleccionan desde la ventana de SECUNDARIA) ──
   'ESO Matemáticas':

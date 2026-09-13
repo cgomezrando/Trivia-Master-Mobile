@@ -348,103 +348,110 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                             mainAxisSize: MainAxisSize.max,
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              InkWell(
-                                splashColor: Colors.transparent,
-                                focusColor: Colors.transparent,
-                                hoverColor: Colors.transparent,
-                                highlightColor: Colors.transparent,
-                                onTap: () async {
-                                  if (functions.listContains(
-                                      FFAppState().selectedThemes.toList(),
-                                      'FUTBOL')) {
-                                    FFAppState()
-                                        .removeFromSelectedThemes('FUTBOL');
-                                    safeSetState(() {});
-                                  } else {
-                                    FFAppState().addToSelectedThemes('FUTBOL');
-                                    safeSetState(() {});
-                                  }
-                                },
-                                child: Container(
-                                  width: 100.0,
-                                  height: 120.0,
-                                  decoration: BoxDecoration(
-                                    color: Color(0xFF050C18),
-                                    boxShadow: [
-                                      BoxShadow(
-                                        blurRadius: 30.0,
-                                        color: Colors.black,
-                                        offset: Offset(
-                                          0.0,
-                                          8.0,
+                              Align(
+                                alignment: AlignmentDirectional(0.0, 0.0),
+                                child: InkWell(
+                                  splashColor: Colors.transparent,
+                                  focusColor: Colors.transparent,
+                                  hoverColor: Colors.transparent,
+                                  highlightColor: Colors.transparent,
+                                  onTap: () async {
+                                    if (functions.listContains(
+                                        FFAppState().selectedThemes.toList(),
+                                        'FUTBOL')) {
+                                      FFAppState()
+                                          .removeFromSelectedThemes('FUTBOL');
+                                      safeSetState(() {});
+                                    } else {
+                                      FFAppState()
+                                          .addToSelectedThemes('FUTBOL');
+                                      safeSetState(() {});
+                                    }
+                                  },
+                                  child: Container(
+                                    width: 90.0,
+                                    height: 100.0,
+                                    decoration: BoxDecoration(
+                                      color: Color(0xFF050C18),
+                                      boxShadow: [
+                                        BoxShadow(
+                                          blurRadius: 30.0,
+                                          color: Colors.black,
+                                          offset: Offset(
+                                            0.0,
+                                            8.0,
+                                          ),
+                                        )
+                                      ],
+                                      borderRadius: BorderRadius.only(
+                                        topLeft: Radius.circular(12.0),
+                                        topRight: Radius.circular(12.0),
+                                        bottomLeft: Radius.circular(12.0),
+                                        bottomRight: Radius.circular(12.0),
+                                      ),
+                                      border: Border.all(
+                                        color: valueOrDefault<Color>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'FUTBOL')
+                                              ? Color(0xFFFFD54F)
+                                              : Color(0xFF182544),
+                                          Color(0xFF182544),
                                         ),
-                                      )
-                                    ],
-                                    borderRadius: BorderRadius.only(
-                                      topLeft: Radius.circular(12.0),
-                                      topRight: Radius.circular(12.0),
-                                      bottomLeft: Radius.circular(12.0),
-                                      bottomRight: Radius.circular(12.0),
-                                    ),
-                                    border: Border.all(
-                                      color: valueOrDefault<Color>(
-                                        functions.listContains(
-                                                FFAppState()
-                                                    .selectedThemes
-                                                    .toList(),
-                                                'FUTBOL')
-                                            ? Color(0xFFFFD54F)
-                                            : Color(0xFF182544),
-                                        Color(0xFF182544),
-                                      ),
-                                      width: valueOrDefault<double>(
-                                        functions.listContains(
-                                                FFAppState()
-                                                    .selectedThemes
-                                                    .toList(),
-                                                'FUTBOL')
-                                            ? 6.0
-                                            : 4.0,
-                                        4.0,
-                                      ),
-                                    ),
-                                  ),
-                                  child: Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [
-                                      ClipRRect(
-                                        borderRadius:
-                                            BorderRadius.circular(8.0),
-                                        child: Image.asset(
-                                          'assets/images/Futbol.png',
-                                          width: 75.0,
-                                          height: 75.0,
-                                          fit: BoxFit.cover,
+                                        width: valueOrDefault<double>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'FUTBOL')
+                                              ? 6.0
+                                              : 4.0,
+                                          4.0,
                                         ),
                                       ),
-                                      Text(
-                                        'FÚTBOL',
-                                        style: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .override(
-                                              font: GoogleFonts.inter(
+                                    ),
+                                    child: Column(
+                                      mainAxisSize: MainAxisSize.max,
+                                      mainAxisAlignment:
+                                          MainAxisAlignment.center,
+                                      children: [
+                                        ClipRRect(
+                                          borderRadius:
+                                              BorderRadius.circular(8.0),
+                                          child: Image.asset(
+                                            'assets/images/Futbol.png',
+                                            width: 65.0,
+                                            height: 65.0,
+                                            fit: BoxFit.cover,
+                                          ),
+                                        ),
+                                        Text(
+                                          'FÚTBOL',
+                                          style: FlutterFlowTheme.of(context)
+                                              .bodyMedium
+                                              .override(
+                                                font: GoogleFonts.inter(
+                                                  fontWeight: FontWeight.bold,
+                                                  fontStyle:
+                                                      FlutterFlowTheme.of(
+                                                              context)
+                                                          .bodyMedium
+                                                          .fontStyle,
+                                                ),
+                                                color: Colors.white,
+                                                fontSize: 16.0,
+                                                letterSpacing: 0.0,
                                                 fontWeight: FontWeight.bold,
                                                 fontStyle:
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .fontStyle,
                                               ),
-                                              color: Colors.white,
-                                              fontSize: 16.0,
-                                              letterSpacing: 0.0,
-                                              fontWeight: FontWeight.bold,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                      ),
-                                    ],
+                                        ),
+                                      ],
+                                    ),
                                   ),
                                 ),
                               ),
@@ -470,8 +477,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -521,8 +528,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/mundiales.png',
-                                            width: 75.0,
-                                            height: 75.0,
+                                            width: 60.0,
+                                            height: 60.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
@@ -577,8 +584,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -628,8 +635,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/espaa_1.png',
-                                            width: 75.0,
-                                            height: 75.0,
+                                            width: 60.0,
+                                            height: 60.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
@@ -667,7 +674,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         ),
                         Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 20.0, 0.0, 0.0),
+                              0.0, 10.0, 0.0, 0.0),
                           child: Row(
                             mainAxisSize: MainAxisSize.max,
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -683,8 +690,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   );
                                 },
                                 child: Container(
-                                  width: 100.0,
-                                  height: 120.0,
+                                  width: 90.0,
+                                  height: 100.0,
                                   decoration: BoxDecoration(
                                     color: Color(0xFF050C18),
                                     boxShadow: [
@@ -731,8 +738,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
                                           'assets/images/Secundaria-removebg-preview.png',
-                                          width: 75.0,
-                                          height: 75.0,
+                                          width: 60.0,
+                                          height: 60.0,
                                           fit: BoxFit.cover,
                                         ),
                                       ),
@@ -749,7 +756,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                         .fontStyle,
                                               ),
                                               color: Colors.white,
-                                              fontSize: 12.0,
+                                              fontSize: 11.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.bold,
                                               fontStyle:
@@ -784,8 +791,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -835,8 +842,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/Esqueleto-removebg-preview.png',
-                                            width: 75.0,
-                                            height: 75.0,
+                                            width: 60.0,
+                                            height: 60.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
@@ -891,8 +898,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -944,8 +951,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/Inventores-removebg-preview.png',
-                                            width: 75.0,
-                                            height: 75.0,
+                                            width: 60.0,
+                                            height: 60.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
@@ -983,7 +990,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         ),
                         Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 20.0, 0.0, 0.0),
+                              0.0, 10.0, 0.0, 0.0),
                           child: Row(
                             mainAxisSize: MainAxisSize.max,
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -1007,8 +1014,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   }
                                 },
                                 child: Container(
-                                  width: 100.0,
-                                  height: 120.0,
+                                  width: 90.0,
+                                  height: 100.0,
                                   decoration: BoxDecoration(
                                     color: Color(0xFF050C18),
                                     boxShadow: [
@@ -1060,8 +1067,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
                                           'assets/images/realmadrid.png',
-                                          width: 75.0,
-                                          height: 75.0,
+                                          width: 60.0,
+                                          height: 60.0,
                                           fit: BoxFit.cover,
                                         ),
                                       ),
@@ -1114,8 +1121,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -1171,8 +1178,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 BorderRadius.circular(8.0),
                                             child: Image.asset(
                                               'assets/images/barcelona.png',
-                                              width: 65.0,
-                                              height: 65.0,
+                                              width: 50.0,
+                                              height: 50.0,
                                               fit: BoxFit.contain,
                                             ),
                                           ),
@@ -1228,8 +1235,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     }
                                   },
                                   child: Container(
-                                    width: 100.0,
-                                    height: 120.0,
+                                    width: 90.0,
+                                    height: 100.0,
                                     decoration: BoxDecoration(
                                       color: Color(0xFF050C18),
                                       boxShadow: [
@@ -1279,13 +1286,347 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/Regueton.png',
-                                            width: 75.0,
-                                            height: 75.0,
+                                            width: 60.0,
+                                            height: 60.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
                                         Text(
                                           'EL SABIO DE REGGAETON',
+                                          textAlign: TextAlign.center,
+                                          style: FlutterFlowTheme.of(context)
+                                              .bodyMedium
+                                              .override(
+                                                font: GoogleFonts.inter(
+                                                  fontWeight: FontWeight.bold,
+                                                  fontStyle:
+                                                      FlutterFlowTheme.of(
+                                                              context)
+                                                          .bodyMedium
+                                                          .fontStyle,
+                                                ),
+                                                color: Colors.white,
+                                                fontSize: 12.0,
+                                                letterSpacing: 0.0,
+                                                fontWeight: FontWeight.bold,
+                                                fontStyle:
+                                                    FlutterFlowTheme.of(context)
+                                                        .bodyMedium
+                                                        .fontStyle,
+                                              ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsetsDirectional.fromSTEB(
+                              0.0, 10.0, 0.0, 0.0),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.max,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              InkWell(
+                                splashColor: Colors.transparent,
+                                focusColor: Colors.transparent,
+                                hoverColor: Colors.transparent,
+                                highlightColor: Colors.transparent,
+                                onTap: () async {
+                                  if (functions.listContains(
+                                      FFAppState().selectedThemes.toList(),
+                                      'CINE')) {
+                                    FFAppState()
+                                        .removeFromSelectedThemes('CINE');
+                                    safeSetState(() {});
+                                  } else {
+                                    FFAppState().addToSelectedThemes('CINE');
+                                    safeSetState(() {});
+                                  }
+                                },
+                                child: Container(
+                                  width: 90.0,
+                                  height: 100.0,
+                                  decoration: BoxDecoration(
+                                    color: Color(0xFF050C18),
+                                    boxShadow: [
+                                      BoxShadow(
+                                        blurRadius: 30.0,
+                                        color: Colors.black,
+                                        offset: Offset(
+                                          0.0,
+                                          8.0,
+                                        ),
+                                      )
+                                    ],
+                                    borderRadius: BorderRadius.only(
+                                      topLeft: Radius.circular(12.0),
+                                      topRight: Radius.circular(12.0),
+                                      bottomLeft: Radius.circular(12.0),
+                                      bottomRight: Radius.circular(12.0),
+                                    ),
+                                    border: Border.all(
+                                      color: valueOrDefault<Color>(
+                                        functions.listContains(
+                                                FFAppState()
+                                                    .selectedThemes
+                                                    .toList(),
+                                                'CINE')
+                                            ? Color(0xFFFFD54F)
+                                            : Color(0xFF182544),
+                                        Color(0xFF182544),
+                                      ),
+                                      width: valueOrDefault<double>(
+                                        functions.listContains(
+                                                FFAppState()
+                                                    .selectedThemes
+                                                    .toList(),
+                                                'CINE')
+                                            ? 6.0
+                                            : 4.0,
+                                        4.0,
+                                      ),
+                                    ),
+                                  ),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.max,
+                                    mainAxisAlignment:
+                                        MainAxisAlignment.spaceEvenly,
+                                    children: [
+                                      ClipRRect(
+                                        borderRadius:
+                                            BorderRadius.circular(8.0),
+                                        child: Image.asset(
+                                          'assets/images/cine.png',
+                                          width: 60.0,
+                                          height: 60.0,
+                                          fit: BoxFit.cover,
+                                        ),
+                                      ),
+                                      Text(
+                                        'CINE',
+                                        textAlign: TextAlign.center,
+                                        style: FlutterFlowTheme.of(context)
+                                            .bodyMedium
+                                            .override(
+                                              font: GoogleFonts.inter(
+                                                fontWeight: FontWeight.bold,
+                                                fontStyle:
+                                                    FlutterFlowTheme.of(context)
+                                                        .bodyMedium
+                                                        .fontStyle,
+                                              ),
+                                              color: Colors.white,
+                                              fontSize: 16.0,
+                                              letterSpacing: 0.0,
+                                              fontWeight: FontWeight.bold,
+                                              fontStyle:
+                                                  FlutterFlowTheme.of(context)
+                                                      .bodyMedium
+                                                      .fontStyle,
+                                            ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                              Padding(
+                                padding: EdgeInsetsDirectional.fromSTEB(
+                                    20.0, 0.0, 0.0, 0.0),
+                                child: InkWell(
+                                  splashColor: Colors.transparent,
+                                  focusColor: Colors.transparent,
+                                  hoverColor: Colors.transparent,
+                                  highlightColor: Colors.transparent,
+                                  onTap: () async {
+                                    if (functions.listContains(
+                                        FFAppState().selectedThemes.toList(),
+                                        'NATURALEZA')) {
+                                      FFAppState().removeFromSelectedThemes(
+                                          'NATURALEZA');
+                                      safeSetState(() {});
+                                    } else {
+                                      FFAppState()
+                                          .addToSelectedThemes('NATURALEZA');
+                                      safeSetState(() {});
+                                    }
+                                  },
+                                  child: Container(
+                                    width: 90.0,
+                                    height: 100.0,
+                                    decoration: BoxDecoration(
+                                      color: Color(0xFF050C18),
+                                      boxShadow: [
+                                        BoxShadow(
+                                          blurRadius: 30.0,
+                                          color: Colors.black,
+                                          offset: Offset(
+                                            0.0,
+                                            8.0,
+                                          ),
+                                        )
+                                      ],
+                                      borderRadius: BorderRadius.only(
+                                        topLeft: Radius.circular(12.0),
+                                        topRight: Radius.circular(12.0),
+                                        bottomLeft: Radius.circular(12.0),
+                                        bottomRight: Radius.circular(12.0),
+                                      ),
+                                      border: Border.all(
+                                        color: valueOrDefault<Color>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'NATURALEZA')
+                                              ? Color(0xFFFFD54F)
+                                              : Color(0xFF182544),
+                                          Color(0xFF182544),
+                                        ),
+                                        width: valueOrDefault<double>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'NATURALEZA')
+                                              ? 6.0
+                                              : 4.0,
+                                          4.0,
+                                        ),
+                                      ),
+                                    ),
+                                    child: Column(
+                                      mainAxisSize: MainAxisSize.max,
+                                      mainAxisAlignment:
+                                          MainAxisAlignment.spaceEvenly,
+                                      children: [
+                                        Padding(
+                                          padding:
+                                              EdgeInsetsDirectional.fromSTEB(
+                                                  0.0, 8.0, 0.0, 0.0),
+                                          child: ClipRRect(
+                                            borderRadius:
+                                                BorderRadius.circular(8.0),
+                                            child: Image.asset(
+                                              'assets/images/naturaleza.png',
+                                              width: 60.0,
+                                              height: 60.0,
+                                              fit: BoxFit.contain,
+                                            ),
+                                          ),
+                                        ),
+                                        Text(
+                                          'NATURALEZA',
+                                          textAlign: TextAlign.center,
+                                          style: FlutterFlowTheme.of(context)
+                                              .bodyMedium
+                                              .override(
+                                                font: GoogleFonts.inter(
+                                                  fontWeight: FontWeight.bold,
+                                                  fontStyle:
+                                                      FlutterFlowTheme.of(
+                                                              context)
+                                                          .bodyMedium
+                                                          .fontStyle,
+                                                ),
+                                                color: Colors.white,
+                                                fontSize: 11.0,
+                                                letterSpacing: 0.0,
+                                                fontWeight: FontWeight.bold,
+                                                fontStyle:
+                                                    FlutterFlowTheme.of(context)
+                                                        .bodyMedium
+                                                        .fontStyle,
+                                              ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              Padding(
+                                padding: EdgeInsetsDirectional.fromSTEB(
+                                    20.0, 0.0, 0.0, 0.0),
+                                child: InkWell(
+                                  splashColor: Colors.transparent,
+                                  focusColor: Colors.transparent,
+                                  hoverColor: Colors.transparent,
+                                  highlightColor: Colors.transparent,
+                                  onTap: () async {
+                                    if (functions.listContains(
+                                        FFAppState().selectedThemes.toList(),
+                                        'CULTURA GENERAL')) {
+                                      FFAppState().removeFromSelectedThemes(
+                                          'CULTURA GENERAL');
+                                      safeSetState(() {});
+                                    } else {
+                                      FFAppState().addToSelectedThemes(
+                                          'CULTURA GENERAL');
+                                      safeSetState(() {});
+                                    }
+                                  },
+                                  child: Container(
+                                    width: 90.0,
+                                    height: 100.0,
+                                    decoration: BoxDecoration(
+                                      color: Color(0xFF050C18),
+                                      boxShadow: [
+                                        BoxShadow(
+                                          blurRadius: 30.0,
+                                          color: Colors.black,
+                                          offset: Offset(
+                                            0.0,
+                                            8.0,
+                                          ),
+                                        )
+                                      ],
+                                      borderRadius: BorderRadius.only(
+                                        topLeft: Radius.circular(12.0),
+                                        topRight: Radius.circular(12.0),
+                                        bottomLeft: Radius.circular(12.0),
+                                        bottomRight: Radius.circular(12.0),
+                                      ),
+                                      border: Border.all(
+                                        color: valueOrDefault<Color>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'CULTURA GENERAL')
+                                              ? Color(0xFFFFD54F)
+                                              : Color(0xFF182544),
+                                          Color(0xFF182544),
+                                        ),
+                                        width: valueOrDefault<double>(
+                                          functions.listContains(
+                                                  FFAppState()
+                                                      .selectedThemes
+                                                      .toList(),
+                                                  'CULTURA GENERAL')
+                                              ? 6.0
+                                              : 4.0,
+                                          4.0,
+                                        ),
+                                      ),
+                                    ),
+                                    child: Column(
+                                      mainAxisSize: MainAxisSize.max,
+                                      children: [
+                                        ClipRRect(
+                                          borderRadius:
+                                              BorderRadius.circular(8.0),
+                                          child: Image.asset(
+                                            'assets/images/cultura_general.png',
+                                            width: 75.0,
+                                            height: 60.0,
+                                            fit: BoxFit.cover,
+                                          ),
+                                        ),
+                                        Text(
+                                          'CULTURA GENERAL',
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium

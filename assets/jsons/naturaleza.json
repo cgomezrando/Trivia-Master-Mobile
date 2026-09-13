@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el animal terrestre más grande del mundo?",
+    "optionA": "El elefante africano",
+    "optionB": "El rinoceronte blanco",
+    "optionC": "El hipopótamo",
+    "optionD": "La jirafa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el animal más alto del mundo?",
+    "optionA": "El elefante africano",
+    "optionB": "La jirafa",
+    "optionC": "El avestruz",
+    "optionD": "El alce",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero es conocido por ser el más rápido en tierra?",
+    "optionA": "El antílope",
+    "optionB": "El leopardo",
+    "optionC": "El guepardo",
+    "optionD": "El león",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es famoso por cambiar de color para camuflarse?",
+    "optionA": "El cocodrilo",
+    "optionB": "La iguana",
+    "optionC": "La tortuga",
+    "optionD": "El camaleón",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 5,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero pone huevos?",
+    "optionA": "El castor",
+    "optionB": "El armadillo",
+    "optionC": "El ornitorrinco",
+    "optionD": "El koala",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 6,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal duerme colgado boca abajo con frecuencia?",
+    "optionA": "El búho",
+    "optionB": "El murciélago",
+    "optionC": "La ardilla",
+    "optionD": "El perezoso",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el mamífero más grande del planeta?",
+    "optionA": "El tiburón ballena",
+    "optionB": "El cachalote",
+    "optionC": "La ballena azul",
+    "optionD": "La orca",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 8,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene una bolsa donde lleva a sus crías?",
+    "optionA": "El mapache",
+    "optionB": "El canguro",
+    "optionC": "El lémur",
+    "optionD": "El panda",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal se alimenta principalmente de bambú?",
+    "optionA": "El koala",
+    "optionB": "El gorila",
+    "optionC": "El panda gigante",
+    "optionD": "El oso polar",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino utiliza sus colmillos para ayudarse a subir al hielo?",
+    "optionA": "El manatí",
+    "optionB": "La morsa",
+    "optionC": "El delfín",
+    "optionD": "La foca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es conocido por construir presas en los ríos?",
+    "optionA": "La nutria",
+    "optionB": "El tejón",
+    "optionC": "El castor",
+    "optionD": "El mapache",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero tiene un caparazón formado por placas óseas?",
+    "optionA": "El erizo",
+    "optionB": "El puercoespín",
+    "optionC": "El pangolín",
+    "optionD": "El armadillo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene púas que utiliza como defensa?",
+    "optionA": "El tejón",
+    "optionB": "El mapache",
+    "optionC": "El wombat",
+    "optionD": "El puercoespín",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran felino vive de forma natural en Asia y tiene rayas negras?",
+    "optionA": "El leopardo",
+    "optionB": "El jaguar",
+    "optionC": "El tigre",
+    "optionD": "El guepardo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran felino de América tiene manchas en forma de roseta y una mordida especialmente potente?",
+    "optionA": "El jaguar",
+    "optionB": "El puma",
+    "optionC": "El lince",
+    "optionD": "El guepardo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es conocido por su melena en los machos adultos?",
+    "optionA": "El leopardo",
+    "optionB": "El león",
+    "optionC": "El tigre",
+    "optionD": "El puma",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero del Ártico tiene la piel negra bajo su pelaje blanco?",
+    "optionA": "El zorro ártico",
+    "optionB": "La foca",
+    "optionC": "El lobo ártico",
+    "optionD": "El oso polar",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 18,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es famoso por moverse muy lentamente y pasar gran parte del tiempo en los árboles?",
+    "optionA": "El lémur",
+    "optionB": "El koala",
+    "optionC": "El orangután",
+    "optionD": "El perezoso",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 19,
+    "Subject": "Naturaleza",
+    "question": "¿Qué primate es el más grande del mundo?",
+    "optionA": "El chimpancé",
+    "optionB": "El gorila",
+    "optionC": "El babuino",
+    "optionD": "El orangután",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal utiliza una larga trompa para respirar, oler, beber y manipular objetos?",
+    "optionA": "El rinoceronte",
+    "optionB": "El elefante",
+    "optionC": "El hipopótamo",
+    "optionD": "El tapir",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el pez más grande del mundo?",
+    "optionA": "El pez espada",
+    "optionB": "La manta gigante",
+    "optionC": "El tiburón ballena",
+    "optionD": "El tiburón blanco",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez es conocido por inflar su cuerpo cuando se siente amenazado?",
+    "optionA": "El pez payaso",
+    "optionB": "El atún",
+    "optionC": "El pez globo",
+    "optionD": "El pez espada",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez vive entre los tentáculos de las anémonas y es famoso por sus colores naranja y blanco?",
+    "optionA": "El pez payaso",
+    "optionB": "El caballito de mar",
+    "optionC": "El pez ángel",
+    "optionD": "El pez cirujano",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 24,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene forma de caballo y es el macho quien lleva los huevos en una bolsa?",
+    "optionA": "El pez aguja",
+    "optionB": "El pez payaso",
+    "optionC": "El caballito de mar",
+    "optionD": "La morena",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tiene un largo hocico en forma de espada?",
+    "optionA": "El pez luna",
+    "optionB": "El pez espada",
+    "optionC": "El atún rojo",
+    "optionD": "El mero",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez puede generar fuertes descargas eléctricas para defenderse o capturar presas?",
+    "optionA": "La morena",
+    "optionB": "La barracuda",
+    "optionC": "La anguila eléctrica",
+    "optionD": "El congrio",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene ocho brazos con ventosas?",
+    "optionA": "El pulpo",
+    "optionB": "El calamar",
+    "optionC": "La sepia",
+    "optionD": "La medusa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino posee diez apéndices, incluidos dos tentáculos más largos para capturar presas?",
+    "optionA": "El calamar",
+    "optionB": "El pulpo",
+    "optionC": "La estrella de mar",
+    "optionD": "El erizo de mar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene cinco brazos en muchas de sus especies y puede regenerarlos?",
+    "optionA": "El erizo de mar",
+    "optionB": "La estrella de mar",
+    "optionC": "La esponja",
+    "optionD": "La medusa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino posee un caparazón duro y suele caminar lateralmente?",
+    "optionA": "La gamba",
+    "optionB": "La langosta",
+    "optionC": "El cangrejo",
+    "optionD": "El pulpo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 31,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto produce miel?",
+    "optionA": "La libélula",
+    "optionB": "La hormiga",
+    "optionC": "La avispa",
+    "optionD": "La abeja",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 32,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto pasa por una fase de oruga antes de convertirse en adulto?",
+    "optionA": "La mariposa",
+    "optionB": "La cucaracha",
+    "optionC": "La hormiga",
+    "optionD": "El saltamontes",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 33,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es conocido por emitir luz mediante bioluminiscencia?",
+    "optionA": "La avispa",
+    "optionB": "La luciérnaga",
+    "optionC": "La libélula",
+    "optionD": "La cigarra",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede levantar varias veces su propio peso?",
+    "optionA": "La hormiga",
+    "optionB": "El mosquito",
+    "optionC": "La polilla",
+    "optionD": "La mosca",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene grandes ojos compuestos y suele verse volando cerca del agua?",
+    "optionA": "La libélula",
+    "optionB": "La abeja",
+    "optionC": "La mantis religiosa",
+    "optionD": "El escarabajo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto hembra se alimenta de sangre en muchas especies para producir sus huevos?",
+    "optionA": "El mosquito",
+    "optionB": "La mosca doméstica",
+    "optionC": "La mariposa",
+    "optionD": "La abeja",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 37,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es famoso por frotar sus alas para producir un sonido característico durante el verano?",
+    "optionA": "La mariquita",
+    "optionB": "El grillo",
+    "optionC": "La hormiga",
+    "optionD": "La libélula",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto depredador mantiene sus patas delanteras dobladas como si estuviera rezando?",
+    "optionA": "El saltamontes",
+    "optionB": "La avispa",
+    "optionC": "El escarabajo",
+    "optionD": "La mantis religiosa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 39,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño insecto suele tener élitros rojos con puntos negros?",
+    "optionA": "La termita",
+    "optionB": "La cigarra",
+    "optionC": "La mariquita",
+    "optionD": "La polilla",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insectos construyen grandes termiteros y viven en colonias organizadas?",
+    "optionA": "Las libélulas",
+    "optionB": "Las termitas",
+    "optionC": "Los grillos",
+    "optionD": "Las mariposas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil puede desprenderse de su cola para escapar de un depredador y regenerarla parcialmente?",
+    "optionA": "La lagartija",
+    "optionB": "La tortuga",
+    "optionC": "La serpiente",
+    "optionD": "El cocodrilo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 42,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil posee un caparazón que protege gran parte de su cuerpo?",
+    "optionA": "La tortuga",
+    "optionB": "La iguana",
+    "optionC": "El gecko",
+    "optionD": "El camaleón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil es conocido por su potente mordida y por vivir en ríos y zonas pantanosas?",
+    "optionA": "El camaleón",
+    "optionB": "El cocodrilo",
+    "optionC": "La iguana",
+    "optionD": "La tortuga",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente mata a sus presas principalmente mediante constricción?",
+    "optionA": "La víbora",
+    "optionB": "La serpiente de cascabel",
+    "optionC": "La cobra",
+    "optionD": "La boa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente es conocida por desplegar una especie de capucha cuando se siente amenazada?",
+    "optionA": "La pitón",
+    "optionB": "La anaconda",
+    "optionC": "La boa",
+    "optionD": "La cobra",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente tiene un cascabel en el extremo de la cola?",
+    "optionA": "La cobra",
+    "optionB": "La mamba negra",
+    "optionC": "La pitón",
+    "optionD": "La serpiente de cascabel",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran serpiente sudamericana vive asociada a ríos y pantanos?",
+    "optionA": "La cobra real",
+    "optionB": "La víbora cornuda",
+    "optionC": "La mamba negra",
+    "optionD": "La anaconda",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 48,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil marino regresa a playas para poner sus huevos?",
+    "optionA": "La tortuga marina",
+    "optionB": "El dragón de Komodo",
+    "optionC": "El cocodrilo del Nilo",
+    "optionD": "La iguana verde",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el lagarto vivo más grande del mundo?",
+    "optionA": "El dragón de Komodo",
+    "optionB": "El varano del Nilo",
+    "optionC": "El monstruo de Gila",
+    "optionD": "La iguana verde",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 50,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil tiene almohadillas especiales en los dedos que le permiten trepar por paredes y techos?",
+    "optionA": "El cocodrilo",
+    "optionB": "La tortuga",
+    "optionC": "La anaconda",
+    "optionD": "El gecko",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal terrestre tiene un cuerno o dos sobre el hocico y una piel muy gruesa?",
+    "optionA": "El tapir",
+    "optionB": "El rinoceronte",
+    "optionC": "El hipopótamo",
+    "optionD": "El búfalo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero pasa gran parte del día dentro del agua para mantenerse fresco?",
+    "optionA": "El hipopótamo",
+    "optionB": "El camello",
+    "optionC": "El bisonte",
+    "optionD": "El jabalí",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 53,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal del desierto almacena grasa en sus jorobas?",
+    "optionA": "El antílope",
+    "optionB": "El camello",
+    "optionC": "El yak",
+    "optionD": "El búfalo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 54,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es famoso por tener franjas blancas y negras por todo el cuerpo?",
+    "optionA": "La hiena",
+    "optionB": "El ñu",
+    "optionC": "El okapi",
+    "optionD": "La cebra",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 55,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero australiano se alimenta principalmente de hojas de eucalipto?",
+    "optionA": "El koala",
+    "optionB": "El wombat",
+    "optionC": "El demonio de Tasmania",
+    "optionD": "El canguro",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 56,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es conocido por hacerse una bola cuando se siente amenazado?",
+    "optionA": "El tejón",
+    "optionB": "El mapache",
+    "optionC": "El castor",
+    "optionD": "El pangolín",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 57,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero tiene una característica máscara oscura alrededor de los ojos?",
+    "optionA": "La nutria",
+    "optionB": "El castor",
+    "optionC": "El tejón",
+    "optionD": "El mapache",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 58,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal africano es conocido por sus grandes orejas y su hocico alargado, y se alimenta de hormigas y termitas?",
+    "optionA": "El pangolín",
+    "optionB": "El facóquero",
+    "optionC": "El tapir",
+    "optionD": "El cerdo hormiguero",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 59,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero utiliza una larga lengua pegajosa para capturar hormigas y termitas?",
+    "optionA": "El armadillo",
+    "optionB": "El oso hormiguero",
+    "optionC": "El perezoso",
+    "optionD": "El puercoespín",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene grandes astas que los machos renuevan periódicamente?",
+    "optionA": "El jabalí",
+    "optionB": "El oso",
+    "optionC": "El lobo",
+    "optionD": "El ciervo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal salvaje es antepasado del perro doméstico?",
+    "optionA": "La hiena",
+    "optionB": "El zorro",
+    "optionC": "El lobo",
+    "optionD": "El chacal",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño mamífero es conocido por almacenar comida en sus mejillas?",
+    "optionA": "El erizo",
+    "optionB": "El conejo",
+    "optionC": "La ardilla",
+    "optionD": "El hámster",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 63,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal vive tanto en tierra como en agua y construye madrigueras cerca de ríos?",
+    "optionA": "El zorro",
+    "optionB": "La nutria",
+    "optionC": "El conejo",
+    "optionD": "El tejón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino es famoso por su inteligencia y por comunicarse mediante silbidos?",
+    "optionA": "El delfín",
+    "optionB": "La morsa",
+    "optionC": "La foca",
+    "optionD": "El manatí",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino es conocido como 'vaca marina' por su alimentación herbívora?",
+    "optionA": "El manatí",
+    "optionB": "El delfín",
+    "optionC": "La orca",
+    "optionD": "La foca",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino blanco y negro pertenece a la familia de los delfines?",
+    "optionA": "La orca",
+    "optionB": "El cachalote",
+    "optionC": "La beluga",
+    "optionD": "La foca leopardo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 67,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cetáceo posee un largo colmillo en espiral, especialmente los machos?",
+    "optionA": "El delfín",
+    "optionB": "La beluga",
+    "optionC": "El cachalote",
+    "optionD": "El narval",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 68,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ballena es conocida por sus largas aletas pectorales y sus complejos cantos?",
+    "optionA": "La ballena jorobada",
+    "optionB": "La orca",
+    "optionC": "La ballena gris",
+    "optionD": "La beluga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 69,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene ocho brazos y puede expulsar tinta para escapar?",
+    "optionA": "El cangrejo",
+    "optionB": "La medusa",
+    "optionC": "La estrella de mar",
+    "optionD": "El pulpo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 70,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene un cuerpo gelatinoso y tentáculos con células urticantes?",
+    "optionA": "La estrella de mar",
+    "optionB": "El pepino de mar",
+    "optionC": "La esponja",
+    "optionD": "La medusa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 71,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez depredador es famoso por sus grandes dientes triangulares?",
+    "optionA": "El pez luna",
+    "optionB": "El tiburón blanco",
+    "optionC": "El tiburón peregrino",
+    "optionD": "El mero",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de gran tamaño es conocido por su cuerpo casi circular y aplanado lateralmente?",
+    "optionA": "El pez espada",
+    "optionB": "La barracuda",
+    "optionC": "El pez luna",
+    "optionD": "El mero",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 73,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez es famoso por nadar en grandes bancos y es muy importante en la pesca comercial?",
+    "optionA": "El caballito de mar",
+    "optionB": "La morena",
+    "optionC": "La sardina",
+    "optionD": "El pez globo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 74,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de cuerpo alargado y grandes dientes es un rápido depredador de mares tropicales?",
+    "optionA": "La sardina",
+    "optionB": "El lenguado",
+    "optionC": "La barracuda",
+    "optionD": "El pez payaso",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez plano suele vivir apoyado sobre el fondo marino con ambos ojos en el mismo lado del cuerpo?",
+    "optionA": "El pez espada",
+    "optionB": "El lenguado",
+    "optionC": "El atún",
+    "optionD": "La caballa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez es conocido por realizar largas migraciones y alcanzar gran velocidad en mar abierto?",
+    "optionA": "El lenguado",
+    "optionB": "El pez globo",
+    "optionC": "El mero",
+    "optionD": "El atún",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 77,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene cinco pares de patas y grandes pinzas delanteras?",
+    "optionA": "La langosta",
+    "optionB": "La medusa",
+    "optionC": "La estrella de mar",
+    "optionD": "El calamar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino posee un cuerpo cubierto de púas y suele encontrarse sobre fondos rocosos?",
+    "optionA": "El pulpo",
+    "optionB": "El erizo de mar",
+    "optionC": "La almeja",
+    "optionD": "La medusa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 79,
+    "Subject": "Naturaleza",
+    "question": "¿Qué molusco produce perlas de forma natural en algunas especies?",
+    "optionA": "El mejillón",
+    "optionB": "El calamar",
+    "optionC": "La ostra",
+    "optionD": "El caracol",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 80,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino filtra el agua para alimentarse y suele vivir adherido a las rocas?",
+    "optionA": "La sepia",
+    "optionB": "El cangrejo",
+    "optionC": "El mejillón",
+    "optionD": "La gamba",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 81,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es conocido por realizar grandes migraciones formando enormes enjambres que pueden dañar cultivos?",
+    "optionA": "La langosta",
+    "optionB": "La luciérnaga",
+    "optionC": "La mariquita",
+    "optionD": "La libélula",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto vive en colmenas organizadas alrededor de una reina?",
+    "optionA": "La abeja",
+    "optionB": "La mariposa",
+    "optionC": "El grillo",
+    "optionD": "La libélula",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 83,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede caminar sobre la superficie del agua gracias a la tensión superficial?",
+    "optionA": "El escarabajo pelotero",
+    "optionB": "El zapatero",
+    "optionC": "La mantis",
+    "optionD": "La cigarra",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "Subject": "Naturaleza",
+    "question": "¿Qué escarabajo forma bolas de estiércol que utiliza como alimento o para reproducirse?",
+    "optionA": "La luciérnaga",
+    "optionB": "La mariquita",
+    "optionC": "El ciervo volante",
+    "optionD": "El escarabajo pelotero",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 85,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es conocido por su fuerte canto durante los días calurosos de verano?",
+    "optionA": "La avispa",
+    "optionB": "La hormiga",
+    "optionC": "La cigarra",
+    "optionD": "La mariposa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 86,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto construye nidos de papel masticando fibras de madera?",
+    "optionA": "La avispa",
+    "optionB": "La libélula",
+    "optionC": "La pulga",
+    "optionD": "La termita",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño insecto sin alas puede saltar grandes distancias en relación con su tamaño?",
+    "optionA": "La hormiga",
+    "optionB": "La termita",
+    "optionC": "La polilla",
+    "optionD": "La pulga",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 88,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto suele alimentarse de tejidos y puede dañar prendas almacenadas?",
+    "optionA": "La avispa",
+    "optionB": "La mariquita",
+    "optionC": "La polilla",
+    "optionD": "La libélula",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 89,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene patas traseras especialmente adaptadas para saltar?",
+    "optionA": "La termita",
+    "optionB": "La mosca",
+    "optionC": "El saltamontes",
+    "optionD": "La abeja",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 90,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es un importante depredador natural de pulgones en jardines y cultivos?",
+    "optionA": "La cigarra",
+    "optionB": "El mosquito",
+    "optionC": "La mariquita",
+    "optionD": "La polilla",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil de gran tamaño vive en islas Galápagos y puede superar los 100 años de edad?",
+    "optionA": "La iguana verde",
+    "optionB": "La tortuga gigante",
+    "optionC": "El caimán",
+    "optionD": "El dragón de Komodo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil de Galápagos es capaz de alimentarse de algas bajo el agua?",
+    "optionA": "El camaleón",
+    "optionB": "La tortuga terrestre",
+    "optionC": "La iguana marina",
+    "optionD": "El gecko",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 93,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil americano se parece al cocodrilo pero suele tener el hocico más ancho y redondeado?",
+    "optionA": "El varano",
+    "optionB": "La iguana",
+    "optionC": "El caimán",
+    "optionD": "El gecko",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente es una de las más largas del mundo y mata a sus presas por constricción?",
+    "optionA": "La cobra real",
+    "optionB": "La pitón reticulada",
+    "optionC": "La mamba negra",
+    "optionD": "La víbora",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente africana es famosa por su velocidad y su veneno muy potente?",
+    "optionA": "La mamba negra",
+    "optionB": "La boa",
+    "optionC": "La pitón birmana",
+    "optionD": "La anaconda",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil herbívoro tiene una hilera de espinas a lo largo del lomo y es común en zonas tropicales de América?",
+    "optionA": "La iguana verde",
+    "optionB": "El gecko leopardo",
+    "optionC": "El caimán",
+    "optionD": "El monstruo de Gila",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 97,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio comienza normalmente su vida como renacuajo?",
+    "optionA": "La rana",
+    "optionB": "La serpiente",
+    "optionC": "La tortuga",
+    "optionD": "La lagartija",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio es famoso por poder regenerar extremidades y conservar rasgos larvarios durante toda su vida?",
+    "optionA": "El tritón",
+    "optionB": "El ajolote",
+    "optionC": "El sapo",
+    "optionD": "La salamandra común",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal puede respirar tanto por pulmones como a través de su piel húmeda?",
+    "optionA": "La iguana",
+    "optionB": "La rana",
+    "optionC": "La tortuga",
+    "optionD": "El ratón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 100,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio suele tener la piel más seca y rugosa que una rana y pasa bastante tiempo en tierra?",
+    "optionA": "El tritón",
+    "optionB": "El sapo",
+    "optionC": "La salamandra",
+    "optionD": "El ajolote",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal africano es conocido por su risa característica y vive en grupos llamados clanes?",
+    "optionA": "El chacal",
+    "optionB": "La hiena",
+    "optionC": "El suricato",
+    "optionD": "El licaón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 102,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño mamífero africano suele mantenerse erguido para vigilar posibles depredadores?",
+    "optionA": "El tejón",
+    "optionB": "La mangosta",
+    "optionC": "El suricato",
+    "optionD": "El hurón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero de hocico alargado tiene una pequeña trompa y vive en selvas de América y Asia?",
+    "optionA": "El capibara",
+    "optionB": "El okapi",
+    "optionC": "El tapir",
+    "optionD": "El pecarí",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "Subject": "Naturaleza",
+    "question": "¿Cuál es el roedor más grande del mundo?",
+    "optionA": "El capibara",
+    "optionB": "El puercoespín",
+    "optionC": "El castor",
+    "optionD": "La marmota",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 105,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal africano tiene el cuerpo parecido al de una jirafa pero las patas con rayas como una cebra?",
+    "optionA": "El kudu",
+    "optionB": "El ñu",
+    "optionC": "El impala",
+    "optionD": "El okapi",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 106,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero australiano excava madrigueras y tiene un cuerpo bajo y robusto?",
+    "optionA": "El wombat",
+    "optionB": "El wallaby",
+    "optionC": "El quokka",
+    "optionD": "El koala",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 107,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño marsupial australiano es conocido por su expresión que parece una sonrisa?",
+    "optionA": "El wombat",
+    "optionB": "El koala",
+    "optionC": "El quokka",
+    "optionD": "El petauro",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de Madagascar tiene grandes ojos y una larga cola y pertenece al grupo de los primates?",
+    "optionA": "El quokka",
+    "optionB": "La mangosta",
+    "optionC": "El lémur",
+    "optionD": "El suricato",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 109,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran primate asiático de pelo rojizo vive principalmente en Borneo y Sumatra?",
+    "optionA": "El chimpancé",
+    "optionB": "El gorila",
+    "optionC": "El orangután",
+    "optionD": "El gibón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano tiene un hocico ancho, grandes colmillos y verrugas visibles en la cara?",
+    "optionA": "El facóquero",
+    "optionB": "El tapir",
+    "optionC": "El jabalí",
+    "optionD": "El pecarí",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 111,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de montaña tiene grandes cuernos curvados y destaca por trepar por terrenos rocosos?",
+    "optionA": "El reno",
+    "optionB": "La cabra montés",
+    "optionC": "El bisonte",
+    "optionD": "El ciervo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de las regiones árticas tira tradicionalmente de trineos y posee grandes astas en ambos sexos?",
+    "optionA": "El bisonte",
+    "optionB": "El alce",
+    "optionC": "El yak",
+    "optionD": "El reno",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 113,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero es famoso por su gran cornamenta y es el miembro más grande de la familia de los ciervos?",
+    "optionA": "El alce",
+    "optionB": "El reno",
+    "optionC": "El ciervo rojo",
+    "optionD": "El antílope",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 114,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de las montañas del Himalaya tiene un largo pelaje que lo protege del frío?",
+    "optionA": "El yak",
+    "optionB": "El ñu",
+    "optionC": "El bisonte",
+    "optionD": "El búfalo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 115,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero americano tiene un pelaje muy denso y una gran joroba sobre los hombros?",
+    "optionA": "El búfalo africano",
+    "optionB": "El alce",
+    "optionC": "El yak",
+    "optionD": "El bisonte",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 116,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino es el mayor miembro de la familia de las focas?",
+    "optionA": "El león marino",
+    "optionB": "La foca común",
+    "optionC": "La morsa",
+    "optionD": "El elefante marino",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 117,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino puede caminar sobre sus cuatro aletas mejor que las focas verdaderas?",
+    "optionA": "La nutria marina",
+    "optionB": "El león marino",
+    "optionC": "El manatí",
+    "optionD": "La morsa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cetáceo blanco vive en aguas árticas y es conocido por sus numerosas vocalizaciones?",
+    "optionA": "La orca",
+    "optionB": "La ballena gris",
+    "optionC": "El narval",
+    "optionD": "La beluga",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 119,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cetáceo tiene una cabeza enorme y es famoso por realizar inmersiones muy profundas?",
+    "optionA": "La beluga",
+    "optionB": "El cachalote",
+    "optionC": "La orca",
+    "optionD": "La ballena azul",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino utiliza piedras para abrir conchas y otros alimentos?",
+    "optionA": "La nutria marina",
+    "optionB": "La foca",
+    "optionC": "El manatí",
+    "optionD": "El delfín",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce es famoso por nadar río arriba para reproducirse después de vivir en el mar?",
+    "optionA": "El salmón",
+    "optionB": "El lucio",
+    "optionC": "La trucha",
+    "optionD": "La carpa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 122,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce tiene largos bigotes alrededor de la boca que recuerdan a los de un gato?",
+    "optionA": "La carpa",
+    "optionB": "El lucio",
+    "optionC": "El pez gato",
+    "optionD": "La perca",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce es un depredador de cuerpo alargado y boca llena de dientes?",
+    "optionA": "El lucio",
+    "optionB": "La carpa",
+    "optionC": "La trucha",
+    "optionD": "La tilapia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez es conocido por adherirse a tiburones y otros animales marinos mediante un disco en la cabeza?",
+    "optionA": "La lamprea",
+    "optionB": "La rémora",
+    "optionC": "La morena",
+    "optionD": "La barracuda",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez cartilaginoso tiene un cuerpo muy ancho y aletas que parecen alas?",
+    "optionA": "El mero",
+    "optionB": "El pez espada",
+    "optionC": "El tiburón martillo",
+    "optionD": "La manta raya",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 126,
+    "Subject": "Naturaleza",
+    "question": "¿Qué tiburón se reconoce fácilmente por la peculiar forma lateralmente extendida de su cabeza?",
+    "optionA": "El tiburón peregrino",
+    "optionB": "El tiburón toro",
+    "optionC": "El tiburón tigre",
+    "optionD": "El tiburón martillo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 127,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran tiburón se alimenta principalmente filtrando plancton y no cazando grandes presas?",
+    "optionA": "El tiburón peregrino",
+    "optionB": "El tiburón blanco",
+    "optionC": "El tiburón tigre",
+    "optionD": "El tiburón toro",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 128,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tropical tiene una prolongación afilada a cada lado de la cola que recuerda a un bisturí?",
+    "optionA": "El pez ángel",
+    "optionB": "El pez cirujano",
+    "optionC": "El pez payaso",
+    "optionD": "El pez mariposa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 129,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez puede desplazarse por el fondo utilizando sus aletas y tiene una cabeza ancha y aspecto poco habitual?",
+    "optionA": "La sardina",
+    "optionB": "El pez espada",
+    "optionC": "El rape",
+    "optionD": "El atún",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 130,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene diez patas, dos grandes pinzas y vive en fondos rocosos?",
+    "optionA": "El pulpo",
+    "optionB": "El bogavante",
+    "optionC": "La sepia",
+    "optionD": "El mejillón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 131,
+    "Subject": "Naturaleza",
+    "question": "¿Qué arácnido tiene ocho patas y produce seda para construir telas en muchas especies?",
+    "optionA": "El escarabajo",
+    "optionB": "La araña",
+    "optionC": "La hormiga",
+    "optionD": "La mantis",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 132,
+    "Subject": "Naturaleza",
+    "question": "¿Qué arácnido posee unas pinzas delanteras y una cola terminada en aguijón?",
+    "optionA": "La garrapata",
+    "optionB": "La araña",
+    "optionC": "El ciempiés",
+    "optionD": "El escorpión",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 133,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene muchas patas, un cuerpo alargado y un par de patas por segmento?",
+    "optionA": "La lombriz",
+    "optionB": "El milpiés",
+    "optionC": "La oruga",
+    "optionD": "El ciempiés",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 134,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene un cuerpo alargado con numerosos segmentos y generalmente dos pares de patas por segmento?",
+    "optionA": "El milpiés",
+    "optionB": "El ciempiés",
+    "optionC": "La oruga",
+    "optionD": "La escolopendra",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 135,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto social cultiva hongos dentro de su colonia utilizando fragmentos de hojas?",
+    "optionA": "La termita",
+    "optionB": "La avispa",
+    "optionC": "La hormiga cortadora de hojas",
+    "optionD": "La abeja melífera",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 136,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede transmitir enfermedades como el dengue y la malaria mediante su picadura?",
+    "optionA": "El grillo",
+    "optionB": "La mariquita",
+    "optionC": "El mosquito",
+    "optionD": "La libélula",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene una fase juvenil acuática y es un gran cazador de mosquitos cuando es adulto?",
+    "optionA": "La termita",
+    "optionB": "La cigarra",
+    "optionC": "La libélula",
+    "optionD": "La polilla",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 138,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto se alimenta frecuentemente de néctar y ayuda a polinizar flores mientras vuela de una a otra?",
+    "optionA": "La cucaracha",
+    "optionB": "La pulga",
+    "optionC": "La termita",
+    "optionD": "La mariposa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 139,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene alas delanteras endurecidas llamadas élitros que protegen las alas de vuelo?",
+    "optionA": "El escarabajo",
+    "optionB": "La avispa",
+    "optionC": "El mosquito",
+    "optionD": "La mosca",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 140,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto doméstico es conocido por su resistencia y por buscar alimento principalmente durante la noche?",
+    "optionA": "La abeja",
+    "optionB": "La libélula",
+    "optionC": "La cucaracha",
+    "optionD": "La mariquita",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 141,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil puede mover sus ojos de forma independiente y lanzar rápidamente su lengua para capturar insectos?",
+    "optionA": "La iguana",
+    "optionB": "El camaleón",
+    "optionC": "El varano",
+    "optionD": "El gecko",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran reptil australiano puede vivir tanto en agua dulce como salada y es uno de los cocodrilos más grandes?",
+    "optionA": "El caimán",
+    "optionB": "El cocodrilo marino",
+    "optionC": "El gavial",
+    "optionD": "El cocodrilo enano",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 143,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cocodriliano tiene un hocico extremadamente largo y estrecho adaptado para capturar peces?",
+    "optionA": "El gavial",
+    "optionB": "El caimán",
+    "optionC": "El aligátor",
+    "optionD": "El cocodrilo del Nilo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 144,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil venenoso del suroeste de Estados Unidos y México tiene manchas llamativas y un cuerpo robusto?",
+    "optionA": "El dragón barbudo",
+    "optionB": "El gecko",
+    "optionC": "El monstruo de Gila",
+    "optionD": "La iguana verde",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 145,
+    "Subject": "Naturaleza",
+    "question": "¿Qué lagarto australiano despliega una gran membrana alrededor del cuello cuando se siente amenazado?",
+    "optionA": "El lagarto de gorguera",
+    "optionB": "El dragón de Komodo",
+    "optionC": "El camaleón",
+    "optionD": "La iguana marina",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente venenosa tiene dos largos colmillos móviles en la parte delantera de la boca?",
+    "optionA": "La culebra de escalera",
+    "optionB": "La boa",
+    "optionC": "La pitón",
+    "optionD": "La víbora",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 147,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio de cuerpo alargado y cola conserva la cola durante toda su vida adulta?",
+    "optionA": "El sapo",
+    "optionB": "La salamandra",
+    "optionC": "La tortuga",
+    "optionD": "La rana",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio se parece a una pequeña lagartija, pero tiene piel húmeda y vive asociado al agua?",
+    "optionA": "El camaleón",
+    "optionB": "El tritón",
+    "optionC": "La iguana",
+    "optionD": "El gecko",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave no voladora es la más grande del mundo?",
+    "optionA": "El emú",
+    "optionB": "El casuario",
+    "optionC": "El pingüino emperador",
+    "optionD": "El avestruz",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 150,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave marina no puede volar pero es una excelente nadadora y vive principalmente en el hemisferio sur?",
+    "optionA": "El pelícano",
+    "optionB": "El pingüino",
+    "optionC": "El albatros",
+    "optionD": "El frailecillo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 151,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano es famoso por sus enormes orejas y por alimentarse principalmente de insectos durante la noche?",
+    "optionA": "El chacal",
+    "optionB": "El fénec",
+    "optionC": "El zorro orejudo",
+    "optionD": "El suricato",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 152,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño zorro del desierto tiene unas orejas muy grandes que le ayudan a disipar el calor?",
+    "optionA": "El zorro ártico",
+    "optionB": "El chacal",
+    "optionC": "El fénec",
+    "optionD": "El licaón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 153,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano caza en grupo y también es conocido como perro salvaje africano?",
+    "optionA": "El chacal",
+    "optionB": "El dingo",
+    "optionC": "La hiena",
+    "optionD": "El licaón",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 154,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero australiano salvaje está estrechamente emparentado con el perro?",
+    "optionA": "El quokka",
+    "optionB": "El wombat",
+    "optionC": "El demonio de Tasmania",
+    "optionD": "El dingo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 155,
+    "Subject": "Naturaleza",
+    "question": "¿Qué marsupial carnívoro es originario de Tasmania y destaca por sus fuertes mandíbulas?",
+    "optionA": "El quokka",
+    "optionB": "El koala",
+    "optionC": "El wombat",
+    "optionD": "El demonio de Tasmania",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de Sudamérica tiene un cuello largo y está emparentado con la llama?",
+    "optionA": "El tapir",
+    "optionB": "El guanaco",
+    "optionC": "El pecarí",
+    "optionD": "El capibara",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal andino se cría por su lana especialmente suave y fina?",
+    "optionA": "El reno",
+    "optionB": "La alpaca",
+    "optionC": "El bisonte",
+    "optionD": "El yak",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño camélido salvaje de los Andes produce una de las fibras animales más finas del mundo?",
+    "optionA": "El guanaco",
+    "optionB": "La alpaca",
+    "optionC": "La vicuña",
+    "optionD": "La llama",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 159,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero de América tiene una cola prensil y puede colgarse de las ramas?",
+    "optionA": "El mapache",
+    "optionB": "La marmota",
+    "optionC": "La zarigüeya",
+    "optionD": "El tejón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 160,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal norteamericano es famoso por entrar en una profunda hibernación durante el invierno?",
+    "optionA": "La nutria",
+    "optionB": "El mapache",
+    "optionC": "El castor",
+    "optionD": "La marmota",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 161,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero excavador tiene grandes garras delanteras y vive gran parte de su vida bajo tierra?",
+    "optionA": "El erizo",
+    "optionB": "El lirón",
+    "optionC": "La musaraña",
+    "optionD": "El topo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 162,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño mamífero insectívoro tiene un hocico puntiagudo y un metabolismo muy rápido?",
+    "optionA": "La musaraña",
+    "optionB": "El hámster",
+    "optionC": "El topo",
+    "optionD": "El ratón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero puede planear entre árboles gracias a una membrana de piel entre sus patas?",
+    "optionA": "La marmota",
+    "optionB": "El lirón",
+    "optionC": "La ardilla roja",
+    "optionD": "La ardilla voladora",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 164,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal es conocido por lavar o manipular su comida con las patas delanteras cerca del agua?",
+    "optionA": "La nutria",
+    "optionB": "El castor",
+    "optionC": "El mapache",
+    "optionD": "El tejón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano tiene grandes escamas protectoras y se alimenta principalmente de hormigas y termitas?",
+    "optionA": "El puercoespín",
+    "optionB": "El cerdo hormiguero",
+    "optionC": "El pangolín gigante",
+    "optionD": "El armadillo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 166,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce es famoso por sus grandes dientes y vive en ríos de Sudamérica?",
+    "optionA": "La piraña",
+    "optionB": "La tilapia",
+    "optionC": "La trucha",
+    "optionD": "La carpa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez amazónico puede respirar aire atmosférico y alcanzar más de dos metros de longitud?",
+    "optionA": "El pirarucú",
+    "optionB": "El pez gato",
+    "optionC": "El lucio",
+    "optionD": "La piraña",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 168,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tropical es conocido por su cuerpo comprimido y sus llamativos colores en los arrecifes de coral?",
+    "optionA": "La sardina",
+    "optionB": "El pez ángel",
+    "optionC": "El lenguado",
+    "optionD": "El atún",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 169,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de arrecife tiene un hocico fino y suele presentar patrones de colores muy llamativos?",
+    "optionA": "El pez espada",
+    "optionB": "El pez mariposa",
+    "optionC": "El mero",
+    "optionD": "La caballa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 170,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez depredador suele esconderse entre rocas y tiene una boca muy grande?",
+    "optionA": "El lenguado",
+    "optionB": "La sardina",
+    "optionC": "El mero",
+    "optionD": "El pez payaso",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 171,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez alargado vive escondido en grietas de arrecifes y posee una potente mandíbula?",
+    "optionA": "La caballa",
+    "optionB": "La trucha",
+    "optionC": "La morena",
+    "optionD": "La rémora",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 172,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tiene una boca circular con dientes y puede adherirse a otros peces para alimentarse?",
+    "optionA": "La rémora",
+    "optionB": "La lamprea",
+    "optionC": "La morena",
+    "optionD": "La anguila",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 173,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez puede salir brevemente del agua y desplazarse sobre el barro usando sus aletas?",
+    "optionA": "El caballito de mar",
+    "optionB": "El pez globo",
+    "optionC": "El saltarín del fango",
+    "optionD": "El pez luna",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 174,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de arrecife es capaz de cambiar de sexo durante su vida en algunas especies?",
+    "optionA": "La sardina",
+    "optionB": "El pez loro",
+    "optionC": "El atún",
+    "optionD": "El pez espada",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 175,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino posee un caparazón formado por dos valvas y vive enterrado frecuentemente en la arena?",
+    "optionA": "La sepia",
+    "optionB": "La almeja",
+    "optionC": "La gamba",
+    "optionD": "El erizo de mar",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 176,
+    "Subject": "Naturaleza",
+    "question": "¿Qué molusco marino puede cambiar rápidamente de color y tiene una estructura interna llamada jibión?",
+    "optionA": "El caracol",
+    "optionB": "El mejillón",
+    "optionC": "La ostra",
+    "optionD": "La sepia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 177,
+    "Subject": "Naturaleza",
+    "question": "¿Qué crustáceo pequeño y alargado es común en el mar y se desplaza nadando con varias patas abdominales?",
+    "optionA": "La gamba",
+    "optionB": "La almeja",
+    "optionC": "El erizo de mar",
+    "optionD": "El cangrejo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 178,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene un cuerpo blando protegido por una concha en espiral y se desplaza lentamente sobre un pie muscular?",
+    "optionA": "La medusa",
+    "optionB": "El caracol marino",
+    "optionC": "La gamba",
+    "optionD": "La estrella de mar",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 179,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino alargado y blando está emparentado con las estrellas y los erizos de mar?",
+    "optionA": "La esponja",
+    "optionB": "El pepino de mar",
+    "optionC": "La medusa",
+    "optionD": "La anguila",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 180,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal acuático filtra partículas del agua y carece de órganos y tejidos verdaderos?",
+    "optionA": "La anémona",
+    "optionB": "La medusa",
+    "optionC": "La estrella de mar",
+    "optionD": "La esponja de mar",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 181,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto posee un largo aparato bucal enrollado que utiliza para beber néctar?",
+    "optionA": "La libélula",
+    "optionB": "La hormiga",
+    "optionC": "La mariposa",
+    "optionD": "La termita",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 182,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto doméstico tiene un solo par de alas funcionales y grandes ojos compuestos?",
+    "optionA": "La mariposa",
+    "optionB": "La cucaracha",
+    "optionC": "La abeja",
+    "optionD": "La mosca",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 183,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede formar enormes colonias subterráneas con reina, obreras y soldados?",
+    "optionA": "La hormiga",
+    "optionB": "La polilla",
+    "optionC": "La cigarra",
+    "optionD": "La libélula",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto acuático juvenil construye en algunas especies una funda protectora con pequeñas piedras o restos vegetales?",
+    "optionA": "El tricóptero",
+    "optionB": "El grillo",
+    "optionC": "La mariquita",
+    "optionD": "La mantis",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 185,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto de cuerpo fino y patas largas suele confundirse con un mosquito gigante pero normalmente no pica?",
+    "optionA": "La típula",
+    "optionB": "La termita",
+    "optionC": "La avispa",
+    "optionD": "La pulga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto se caracteriza por tener grandes mandíbulas en los machos, parecidas a las astas de un ciervo?",
+    "optionA": "El ciervo volante",
+    "optionB": "La mariquita",
+    "optionC": "El escarabajo pelotero",
+    "optionD": "La luciérnaga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede desplazarse hacia atrás, hacia delante y quedarse suspendido en el aire con gran precisión?",
+    "optionA": "La hormiga",
+    "optionB": "La libélula",
+    "optionC": "El saltamontes",
+    "optionD": "La cigarra",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 188,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto social tiene una reina que puede vivir muchos años y poner miles de huevos?",
+    "optionA": "La libélula",
+    "optionB": "La termita",
+    "optionC": "La mariposa",
+    "optionD": "El grillo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "Subject": "Naturaleza",
+    "question": "¿Qué arácnido diminuto puede adherirse a mamíferos y alimentarse de su sangre?",
+    "optionA": "La garrapata",
+    "optionB": "El opilión",
+    "optionC": "La araña saltarina",
+    "optionD": "El escorpión",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 190,
+    "Subject": "Naturaleza",
+    "question": "¿Qué arácnido es conocido por saltar sobre sus presas en lugar de atraparlas principalmente con una gran telaraña?",
+    "optionA": "El ácaro",
+    "optionB": "La garrapata",
+    "optionC": "El escorpión",
+    "optionD": "La araña saltarina",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 191,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil australiano tiene una garganta espinosa y es una mascota popular en muchos países?",
+    "optionA": "La iguana marina",
+    "optionB": "El gecko leopardo",
+    "optionC": "El dragón barbudo",
+    "optionD": "El camaleón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 192,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño reptil nocturno tiene manchas y es una mascota común por su carácter generalmente dócil?",
+    "optionA": "El caimán",
+    "optionB": "El gecko leopardo",
+    "optionC": "La iguana verde",
+    "optionD": "El varano del Nilo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente no venenosa de gran tamaño puede matar a sus presas enrollándose alrededor de ellas?",
+    "optionA": "La cobra",
+    "optionB": "La mamba negra",
+    "optionC": "La víbora",
+    "optionD": "La pitón",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil tiene un caparazón aplanado y patas adaptadas como aletas para nadar largas distancias?",
+    "optionA": "La tortuga terrestre",
+    "optionB": "La iguana verde",
+    "optionC": "La tortuga marina",
+    "optionD": "El gecko",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio presenta a menudo colores brillantes que advierten a los depredadores de que su piel es tóxica?",
+    "optionA": "El sapo común",
+    "optionB": "La rana dardo venenosa",
+    "optionC": "La rana toro",
+    "optionD": "El tritón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio de gran tamaño recibe su nombre por un sonido grave parecido al mugido de un toro?",
+    "optionA": "La rana toro",
+    "optionB": "El ajolote",
+    "optionC": "El sapo partero",
+    "optionD": "La salamandra",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 197,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio macho transporta los huevos enrollados alrededor de sus patas traseras hasta que están listos para eclosionar?",
+    "optionA": "La salamandra",
+    "optionB": "La rana arborícola",
+    "optionC": "El tritón",
+    "optionD": "El sapo partero",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 198,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave rapaz nocturna puede girar la cabeza mucho más que un ser humano?",
+    "optionA": "El búho",
+    "optionB": "El cuervo",
+    "optionC": "El águila",
+    "optionD": "El halcón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 199,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave es famosa por imitar sonidos, incluida la voz humana, en muchas especies?",
+    "optionA": "El loro",
+    "optionB": "La cigüeña",
+    "optionC": "El avestruz",
+    "optionD": "El pingüino",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 200,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave rapaz es conocida por alcanzar velocidades extraordinarias durante sus picados de caza?",
+    "optionA": "El halcón peregrino",
+    "optionB": "El buitre leonado",
+    "optionC": "El búho real",
+    "optionD": "El águila real",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 201,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero es famoso por tener una lengua azul muy larga y vivir en las selvas de África central?",
+    "optionA": "El tapir",
+    "optionB": "El ñu",
+    "optionC": "El okapi",
+    "optionD": "El antílope",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 202,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal africano realiza grandes migraciones en manadas por las llanuras del Serengeti?",
+    "optionA": "El ñu",
+    "optionB": "El rinoceronte",
+    "optionC": "El facóquero",
+    "optionD": "El hipopótamo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 203,
+    "Subject": "Naturaleza",
+    "question": "¿Qué antílope africano es conocido por sus grandes saltos y su cuerpo esbelto?",
+    "optionA": "El impala",
+    "optionB": "El bisonte",
+    "optionC": "El yak",
+    "optionD": "El jabalí",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 204,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero vive en grupos, excava madrigueras y es conocido por su fuerte olor defensivo?",
+    "optionA": "El castor",
+    "optionB": "El mapache",
+    "optionC": "La marmota",
+    "optionD": "La mofeta",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 205,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal americano puede lanzar un líquido de olor muy fuerte para defenderse?",
+    "optionA": "El tejón",
+    "optionB": "El puercoespín",
+    "optionC": "El armadillo",
+    "optionD": "La mofeta",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 206,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño mamífero tiene el cuerpo cubierto de púas y puede enrollarse formando una bola?",
+    "optionA": "El lirón",
+    "optionB": "El erizo",
+    "optionC": "El topo",
+    "optionD": "La musaraña",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 207,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero de cuerpo alargado es conocido por cazar conejos y roedores y pertenece a la familia de los mustélidos?",
+    "optionA": "El castor",
+    "optionB": "El hurón",
+    "optionC": "El mapache",
+    "optionD": "El capibara",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 208,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene grandes incisivos que crecen continuamente y es famoso por trepar a los árboles para buscar frutos y semillas?",
+    "optionA": "La ardilla",
+    "optionB": "El erizo",
+    "optionC": "El topo",
+    "optionD": "El conejo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 209,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero europeo vive en madrigueras y tiene características franjas blancas y negras en la cabeza?",
+    "optionA": "El tejón",
+    "optionB": "La nutria",
+    "optionC": "El castor",
+    "optionD": "El zorro",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 210,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal tiene largas orejas, fuertes patas traseras y puede correr a gran velocidad por el campo?",
+    "optionA": "El hámster",
+    "optionB": "La liebre",
+    "optionC": "El conejo",
+    "optionD": "La marmota",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 211,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero del desierto puede sobrevivir largos periodos con muy poca agua y tiene largas patas traseras para saltar?",
+    "optionA": "El lirón",
+    "optionB": "La musaraña",
+    "optionC": "El castor",
+    "optionD": "El jerbo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 212,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal sudamericano se parece a un pequeño cerdo y vive en grupos?",
+    "optionA": "El armadillo",
+    "optionB": "El capibara",
+    "optionC": "El pecarí",
+    "optionD": "El tapir",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 213,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano posee cuernos largos en forma de espiral y vive en sabanas y bosques abiertos?",
+    "optionA": "El ñu",
+    "optionB": "El búfalo",
+    "optionC": "El impala",
+    "optionD": "El kudu",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 214,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal del Himalaya está adaptado a grandes altitudes y tiene un espeso pelaje grisáceo?",
+    "optionA": "El leopardo de las nieves",
+    "optionB": "El puma",
+    "optionC": "El guepardo",
+    "optionD": "El lince",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 215,
+    "Subject": "Naturaleza",
+    "question": "¿Qué felino de América también recibe el nombre de león de montaña?",
+    "optionA": "El lince",
+    "optionB": "El jaguar",
+    "optionC": "El puma",
+    "optionD": "El ocelote",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 216,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño felino salvaje de América tiene un pelaje con manchas y rayas muy llamativas?",
+    "optionA": "El puma",
+    "optionB": "El lince",
+    "optionC": "El ocelote",
+    "optionD": "El guepardo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "Subject": "Naturaleza",
+    "question": "¿Qué felino europeo tiene orejas con pinceles de pelo y una cola corta?",
+    "optionA": "El lince ibérico",
+    "optionB": "El gato montés",
+    "optionC": "El puma",
+    "optionD": "El leopardo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 218,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino tiene grandes ojos, bigotes sensibles y suele descansar sobre playas o bloques de hielo?",
+    "optionA": "La orca",
+    "optionB": "El delfín",
+    "optionC": "La foca",
+    "optionD": "El manatí",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 219,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene grandes aletas pectorales y puede saltar fuera del agua durante sus migraciones?",
+    "optionA": "El cachalote",
+    "optionB": "La ballena jorobada",
+    "optionC": "La beluga",
+    "optionD": "El narval",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cetáceo posee dientes en lugar de barbas y es uno de los mayores depredadores marinos?",
+    "optionA": "La ballena azul",
+    "optionB": "El cachalote",
+    "optionC": "La ballena gris",
+    "optionD": "La ballena franca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 221,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce es muy común en lagos y estanques y tiene grandes escamas?",
+    "optionA": "La trucha",
+    "optionB": "La carpa",
+    "optionC": "El lucio",
+    "optionD": "El salmón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce vive en aguas frías y limpias y está emparentado con el salmón?",
+    "optionA": "La tilapia",
+    "optionB": "La carpa",
+    "optionC": "La trucha",
+    "optionD": "La perca",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 223,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez suele tener rayas oscuras verticales y vive en lagos y ríos de agua dulce?",
+    "optionA": "El atún",
+    "optionB": "La sardina",
+    "optionC": "El lenguado",
+    "optionD": "La perca",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 224,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tropical de agua dulce es muy popular en acuarios y tiene largas aletas de colores?",
+    "optionA": "El mero",
+    "optionB": "La sardina",
+    "optionC": "El bacalao",
+    "optionD": "El pez betta",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 225,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño pez de acuario es famoso por sus colores brillantes y por reproducirse con facilidad?",
+    "optionA": "El salmón",
+    "optionB": "El guppy",
+    "optionC": "El lenguado",
+    "optionD": "El rape",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 226,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez marino vive habitualmente en aguas frías del Atlántico Norte y es muy importante para la pesca?",
+    "optionA": "La tilapia",
+    "optionB": "La piraña",
+    "optionC": "El pez payaso",
+    "optionD": "El bacalao",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 227,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tiene un cuerpo alargado y plateado y suele formar grandes bancos en el mar?",
+    "optionA": "La anchoa",
+    "optionB": "La morena",
+    "optionC": "El rape",
+    "optionD": "El mero",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 228,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez marino puede enterrarse parcialmente en la arena para esperar a sus presas?",
+    "optionA": "El atún",
+    "optionB": "La caballa",
+    "optionC": "El rodaballo",
+    "optionD": "La sardina",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 229,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene un cuerpo transparente y forma de campana y se desplaza mediante pulsaciones?",
+    "optionA": "La medusa",
+    "optionB": "La ostra",
+    "optionC": "El mejillón",
+    "optionD": "El erizo de mar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 230,
+    "Subject": "Naturaleza",
+    "question": "¿Qué crustáceo tiene un abdomen largo, grandes antenas y carece de las enormes pinzas del bogavante?",
+    "optionA": "La gamba",
+    "optionB": "La langosta marina",
+    "optionC": "El percebe",
+    "optionD": "El cangrejo ermitaño",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 231,
+    "Subject": "Naturaleza",
+    "question": "¿Qué crustáceo vive dentro de conchas vacías de otros animales para proteger su abdomen blando?",
+    "optionA": "El cangrejo ermitaño",
+    "optionB": "El percebe",
+    "optionC": "La langosta",
+    "optionD": "La gamba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 232,
+    "Subject": "Naturaleza",
+    "question": "¿Qué crustáceo vive fijado a las rocas y posee un pedúnculo carnoso muy apreciado gastronómicamente en España?",
+    "optionA": "La almeja",
+    "optionB": "El mejillón",
+    "optionC": "El percebe",
+    "optionD": "El erizo de mar",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 233,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto se alimenta de madera y puede causar daños en estructuras de edificios?",
+    "optionA": "El mosquito",
+    "optionB": "La mariposa",
+    "optionC": "La libélula",
+    "optionD": "La termita",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 234,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto posee unas fuertes mandíbulas y suele vivir en colonias con una reina?",
+    "optionA": "La mosca",
+    "optionB": "La hormiga",
+    "optionC": "El grillo",
+    "optionD": "La polilla",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 235,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto pasa la mayor parte de su vida bajo tierra como ninfa antes de emerger como adulto?",
+    "optionA": "La avispa",
+    "optionB": "La cigarra",
+    "optionC": "La mariquita",
+    "optionD": "La abeja",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto suele tener el cuerpo verde o marrón y unas patas traseras muy desarrolladas para saltar?",
+    "optionA": "La hormiga",
+    "optionB": "El saltamontes",
+    "optionC": "La polilla",
+    "optionD": "La mosca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 237,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto nocturno suele sentirse atraído por las luces artificiales?",
+    "optionA": "La hormiga",
+    "optionB": "La termita",
+    "optionC": "La polilla",
+    "optionD": "La libélula",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto puede picar repetidamente porque normalmente no pierde el aguijón al hacerlo?",
+    "optionA": "La avispa",
+    "optionB": "La mariposa",
+    "optionC": "La abeja melífera",
+    "optionD": "La cigarra",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 239,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene un cuerpo dividido en cabeza, tórax y abdomen y exactamente seis patas?",
+    "optionA": "Un ciempiés",
+    "optionB": "Una araña",
+    "optionC": "Un insecto",
+    "optionD": "Un escorpión",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 240,
+    "Subject": "Naturaleza",
+    "question": "¿Cuántas patas tiene normalmente una araña adulta?",
+    "optionA": "Seis",
+    "optionB": "Ocho",
+    "optionC": "Diez",
+    "optionD": "Doce",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil posee una lengua bífida que utiliza para recoger partículas olorosas del ambiente?",
+    "optionA": "La tortuga",
+    "optionB": "El cocodrilo",
+    "optionC": "El gecko",
+    "optionD": "La serpiente",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 242,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil pasa gran parte del tiempo tomando el sol para elevar su temperatura corporal?",
+    "optionA": "La lagartija",
+    "optionB": "La salamandra",
+    "optionC": "La rana",
+    "optionD": "El ajolote",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 243,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil africano puede superar los cinco metros de longitud y vive en ríos y lagos?",
+    "optionA": "La iguana marina",
+    "optionB": "El dragón barbudo",
+    "optionC": "El cocodrilo del Nilo",
+    "optionD": "El caimán enano",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 244,
+    "Subject": "Naturaleza",
+    "question": "¿Qué tortuga terrestre gigante vive de forma natural en las islas Aldabra del océano Índico?",
+    "optionA": "La tortuga laúd",
+    "optionB": "La tortuga gigante de Aldabra",
+    "optionC": "La tortuga carey",
+    "optionD": "La tortuga boba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 245,
+    "Subject": "Naturaleza",
+    "question": "¿Qué tortuga marina es la más grande de todas las especies actuales?",
+    "optionA": "La tortuga boba",
+    "optionB": "La tortuga carey",
+    "optionC": "La tortuga verde",
+    "optionD": "La tortuga laúd",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 246,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio suele trepar por plantas gracias a discos adhesivos en los dedos?",
+    "optionA": "El ajolote",
+    "optionB": "El sapo común",
+    "optionC": "La salamandra",
+    "optionD": "La rana arborícola",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 247,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave tiene un gran pico con una bolsa extensible que utiliza para capturar peces?",
+    "optionA": "El pelícano",
+    "optionB": "El flamenco",
+    "optionC": "El albatros",
+    "optionD": "La cigüeña",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 248,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave tiene patas muy largas, plumaje rosado y suele alimentarse filtrando agua con el pico?",
+    "optionA": "La garza",
+    "optionB": "El pelícano",
+    "optionC": "El flamenco",
+    "optionD": "La cigüeña",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 249,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave marina posee una de las mayores envergaduras de alas y puede recorrer enormes distancias sobre el océano?",
+    "optionA": "El pingüino",
+    "optionB": "El cormorán",
+    "optionC": "El frailecillo",
+    "optionD": "El albatros",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 250,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave rapaz se alimenta principalmente de animales muertos y cumple una importante función como carroñera?",
+    "optionA": "El buitre",
+    "optionB": "El águila",
+    "optionC": "El halcón",
+    "optionD": "El búho",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 251,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano tiene un cuello muy largo que le permite alcanzar las hojas altas de los árboles?",
+    "optionA": "El okapi",
+    "optionB": "El kudu",
+    "optionC": "La jirafa",
+    "optionD": "El impala",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 252,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal utiliza sus grandes orejas para ayudar a regular su temperatura corporal en la sabana africana?",
+    "optionA": "El hipopótamo",
+    "optionB": "El búfalo",
+    "optionC": "El elefante africano",
+    "optionD": "El rinoceronte",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 253,
+    "Subject": "Naturaleza",
+    "question": "¿Qué felino tiene manchas negras sólidas y es famoso por su extraordinaria velocidad?",
+    "optionA": "El jaguar",
+    "optionB": "El leopardo",
+    "optionC": "El guepardo",
+    "optionD": "El lince",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 254,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran felino suele arrastrar sus presas hasta los árboles para protegerlas de otros depredadores?",
+    "optionA": "El león",
+    "optionB": "El puma",
+    "optionC": "El leopardo",
+    "optionD": "El guepardo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 255,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero africano tiene dos grandes cuernos y una boca ancha adaptada para pastar?",
+    "optionA": "El búfalo cafre",
+    "optionB": "El hipopótamo",
+    "optionC": "El ñu",
+    "optionD": "El rinoceronte blanco",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 256,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal del Ártico cambia su pelaje de marrón o gris a blanco según la estación?",
+    "optionA": "El glotón",
+    "optionB": "El lobo gris",
+    "optionC": "El reno",
+    "optionD": "El zorro ártico",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 257,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero de regiones frías tiene grandes patas que actúan como raquetas sobre la nieve y orejas con pinceles?",
+    "optionA": "El gato montés",
+    "optionB": "El lince canadiense",
+    "optionC": "El puma",
+    "optionD": "El zorro rojo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 258,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero carnívoro de regiones del norte es conocido por su fuerza pese a su tamaño relativamente pequeño?",
+    "optionA": "El glotón",
+    "optionB": "El tejón",
+    "optionC": "La marmota",
+    "optionD": "El castor",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 259,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal sudamericano tiene una larga cola prensil y un hocico alargado y se alimenta de frutos e insectos?",
+    "optionA": "El pecarí",
+    "optionB": "El capibara",
+    "optionC": "El kinkajú",
+    "optionD": "El armadillo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 260,
+    "Subject": "Naturaleza",
+    "question": "¿Qué primate utiliza herramientas como ramas para extraer termitas de sus nidos?",
+    "optionA": "El chimpancé",
+    "optionB": "El lémur",
+    "optionC": "El gorila",
+    "optionD": "El babuino",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 261,
+    "Subject": "Naturaleza",
+    "question": "¿Qué primate tiene brazos extremadamente largos que utiliza para desplazarse balanceándose entre las ramas?",
+    "optionA": "El gorila",
+    "optionB": "El babuino",
+    "optionC": "El gibón",
+    "optionD": "El macaco",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 262,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mono es conocido por su cara rojiza y por vivir en zonas montañosas de Japón con inviernos nevados?",
+    "optionA": "El orangután",
+    "optionB": "El babuino",
+    "optionC": "El tití",
+    "optionD": "El macaco japonés",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 263,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero sudamericano tiene una larga trompa flexible y está emparentado con rinocerontes y caballos?",
+    "optionA": "El tapir",
+    "optionB": "El oso hormiguero",
+    "optionC": "El pecarí",
+    "optionD": "El capibara",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 264,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño mamífero marino posee una gruesa capa de grasa y suele vivir en colonias costeras?",
+    "optionA": "La nutria",
+    "optionB": "El delfín",
+    "optionC": "El manatí",
+    "optionD": "La foca",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 265,
+    "Subject": "Naturaleza",
+    "question": "¿Qué mamífero marino de aguas frías tiene largos colmillos y grandes bigotes?",
+    "optionA": "La beluga",
+    "optionB": "La foca",
+    "optionC": "El león marino",
+    "optionD": "La morsa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 266,
+    "Subject": "Naturaleza",
+    "question": "¿Qué cetáceo es conocido por su cuerpo gris moteado y por realizar una de las migraciones más largas entre los mamíferos?",
+    "optionA": "La orca",
+    "optionB": "La ballena gris",
+    "optionC": "La beluga",
+    "optionD": "El cachalote",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 267,
+    "Subject": "Naturaleza",
+    "question": "¿Qué delfín de agua dulce vive en la cuenca del Amazonas y suele presentar una coloración rosada?",
+    "optionA": "El delfín rosado",
+    "optionB": "La marsopa",
+    "optionC": "La beluga",
+    "optionD": "El manatí",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 268,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño cetáceo se parece a un delfín pero suele tener el hocico más corto y triangular?",
+    "optionA": "La marsopa",
+    "optionB": "El narval",
+    "optionC": "La orca",
+    "optionD": "La foca",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 269,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de arrecife posee dientes fusionados que forman una especie de pico para raspar coral y algas?",
+    "optionA": "El pez mariposa",
+    "optionB": "El pez cirujano",
+    "optionC": "El pez loro",
+    "optionD": "El pez ángel",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 270,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tropical es conocido por esconderse entre las rocas y poder producir una mordedura dolorosa con sus fuertes mandíbulas?",
+    "optionA": "El pez luna",
+    "optionB": "El lenguado",
+    "optionC": "La sardina",
+    "optionD": "La morena",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 271,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez tiene una prolongación luminosa delante de la boca que utiliza como señuelo para atraer presas?",
+    "optionA": "La barracuda",
+    "optionB": "El rape abisal",
+    "optionC": "El pez espada",
+    "optionD": "El atún",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 272,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez marino tiene un cuerpo alargado y una mandíbula inferior prolongada como una aguja?",
+    "optionA": "El rodaballo",
+    "optionB": "La caballa",
+    "optionC": "El pez aguja",
+    "optionD": "El mero",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 273,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez es famoso por saltar fuera del agua y desplegar grandes aletas que le permiten planear brevemente?",
+    "optionA": "El pez globo",
+    "optionB": "El pez volador",
+    "optionC": "El pez luna",
+    "optionD": "El caballito de mar",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 274,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez de agua dulce es conocido por construir nidos de burbujas en la superficie en muchas variedades domésticas?",
+    "optionA": "La carpa",
+    "optionB": "El guppy",
+    "optionC": "El pez betta",
+    "optionD": "La trucha",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 275,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pez puede hincharse con agua y algunas especies contienen una potente toxina llamada tetrodotoxina?",
+    "optionA": "El pez ángel",
+    "optionB": "El pez payaso",
+    "optionC": "El pez loro",
+    "optionD": "El pez globo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 276,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene ocho brazos y tres corazones?",
+    "optionA": "El pulpo",
+    "optionB": "La medusa",
+    "optionC": "La estrella de mar",
+    "optionD": "La sepia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 277,
+    "Subject": "Naturaleza",
+    "question": "¿Qué molusco marino posee una concha formada por dos piezas unidas por una bisagra?",
+    "optionA": "La sepia",
+    "optionB": "La almeja",
+    "optionC": "El pulpo",
+    "optionD": "El caracol",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 278,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal marino tiene el cuerpo protegido por placas duras y se desplaza usando cientos de pequeños pies tubulares?",
+    "optionA": "La estrella de mar",
+    "optionB": "La medusa",
+    "optionC": "La gamba",
+    "optionD": "El mejillón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 279,
+    "Subject": "Naturaleza",
+    "question": "¿Qué crustáceo suele tener cinco pares de patas y las dos delanteras transformadas en pinzas?",
+    "optionA": "El kril",
+    "optionB": "El cangrejo",
+    "optionC": "La gamba",
+    "optionD": "El percebe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 280,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño crustáceo forma enormes concentraciones en el océano y es alimento fundamental para muchas ballenas?",
+    "optionA": "La langosta",
+    "optionB": "El kril",
+    "optionC": "El cangrejo",
+    "optionD": "El percebe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 281,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es capaz de transportar polen entre flores y desempeña un papel esencial en muchos ecosistemas y cultivos?",
+    "optionA": "La termita",
+    "optionB": "La pulga",
+    "optionC": "La cucaracha",
+    "optionD": "La abeja",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 282,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene antenas largas, patas traseras adaptadas al salto y suele cantar de noche?",
+    "optionA": "El grillo",
+    "optionB": "La mosca",
+    "optionC": "La termita",
+    "optionD": "La mariquita",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 283,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto depredador puede girar la cabeza y captura a sus presas con patas delanteras espinosas?",
+    "optionA": "La mantis religiosa",
+    "optionB": "La cigarra",
+    "optionC": "La polilla",
+    "optionD": "La libélula",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 284,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto suele vivir cerca de ríos y estanques y posee dos pares de grandes alas transparentes?",
+    "optionA": "La pulga",
+    "optionB": "La hormiga",
+    "optionC": "La termita",
+    "optionD": "La libélula",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 285,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto atraviesa las etapas de huevo, larva, pupa y adulto durante su metamorfosis completa?",
+    "optionA": "La libélula",
+    "optionB": "La mariposa",
+    "optionC": "El saltamontes",
+    "optionD": "La cigarra",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 286,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto es conocido por formar una crisálida antes de convertirse en adulto?",
+    "optionA": "La mantis",
+    "optionB": "La mariposa",
+    "optionC": "El grillo",
+    "optionD": "La termita",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 287,
+    "Subject": "Naturaleza",
+    "question": "¿Qué insecto tiene una sociedad organizada en castas y construye panales de cera?",
+    "optionA": "El saltamontes",
+    "optionB": "La libélula",
+    "optionC": "La abeja melífera",
+    "optionD": "La cigarra",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 288,
+    "Subject": "Naturaleza",
+    "question": "¿Qué pequeño arácnido microscópico incluye especies que viven en el polvo doméstico?",
+    "optionA": "El ácaro",
+    "optionB": "La hormiga",
+    "optionC": "La pulga",
+    "optionD": "El mosquito",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 289,
+    "Subject": "Naturaleza",
+    "question": "¿Qué arácnido posee ocho patas pero no tiene antenas?",
+    "optionA": "La araña",
+    "optionB": "El escarabajo",
+    "optionC": "La hormiga",
+    "optionD": "El ciempiés",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 290,
+    "Subject": "Naturaleza",
+    "question": "¿Qué animal de muchas patas puede enrollarse en espiral como mecanismo de defensa?",
+    "optionA": "El milpiés",
+    "optionB": "La lombriz",
+    "optionC": "El ciempiés",
+    "optionD": "La oruga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 291,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil puede permanecer inmóvil durante largos periodos esperando a que una presa se acerque al agua?",
+    "optionA": "La iguana",
+    "optionB": "El gecko",
+    "optionC": "La tortuga",
+    "optionD": "El cocodrilo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 292,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil tiene una mandíbula superior más ancha y redondeada que la de la mayoría de los cocodrilos?",
+    "optionA": "El varano",
+    "optionB": "El gavial",
+    "optionC": "La iguana",
+    "optionD": "El aligátor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 293,
+    "Subject": "Naturaleza",
+    "question": "¿Qué gran lagarto tiene una lengua bífida y utiliza el olfato para localizar carroña a gran distancia?",
+    "optionA": "El gecko",
+    "optionB": "El camaleón",
+    "optionC": "El dragón de Komodo",
+    "optionD": "La iguana verde",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 294,
+    "Subject": "Naturaleza",
+    "question": "¿Qué reptil es capaz de adherirse a superficies lisas gracias a millones de estructuras microscópicas en sus dedos?",
+    "optionA": "La anaconda",
+    "optionB": "La tortuga",
+    "optionC": "El caimán",
+    "optionD": "El gecko",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 295,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente venenosa suele levantar la parte delantera del cuerpo y expandir el cuello cuando se siente amenazada?",
+    "optionA": "La boa",
+    "optionB": "La cobra",
+    "optionC": "La anaconda",
+    "optionD": "La pitón",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 296,
+    "Subject": "Naturaleza",
+    "question": "¿Qué serpiente sudamericana puede alcanzar gran grosor y pasa mucho tiempo dentro del agua?",
+    "optionA": "La víbora europea",
+    "optionB": "La anaconda verde",
+    "optionC": "La mamba negra",
+    "optionD": "La cobra real",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 297,
+    "Subject": "Naturaleza",
+    "question": "¿Qué anfibio adulto suele carecer de cola y tiene patas traseras largas adaptadas al salto?",
+    "optionA": "El ajolote",
+    "optionB": "La rana",
+    "optionC": "El tritón",
+    "optionD": "La salamandra",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 298,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave no voladora de Australia es la segunda más grande del mundo después del avestruz?",
+    "optionA": "El frailecillo",
+    "optionB": "El emú",
+    "optionC": "El pingüino",
+    "optionD": "El kiwi",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 299,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave no voladora de Nueva Zelanda tiene alas muy reducidas y un pico largo con orificios nasales cerca de la punta?",
+    "optionA": "El kiwi",
+    "optionB": "El emú",
+    "optionC": "El pingüino",
+    "optionD": "El casuario",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 300,
+    "Subject": "Naturaleza",
+    "question": "¿Qué ave tropical posee un pico enorme y colorido que le ayuda a alcanzar frutos en las ramas?",
+    "optionA": "El pelícano",
+    "optionB": "El flamenco",
+    "optionC": "El tucán",
+    "optionD": "El albatros",
+    "correctAnswer": "C"
+  }
+]

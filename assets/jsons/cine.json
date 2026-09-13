@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jack en 'Titanic'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Matt Damon",
+    "optionC": "Tom Cruise",
+    "optionD": "Leonardo DiCaprio",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 2,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Rose en 'Titanic'?",
+    "optionA": "Kate Winslet",
+    "optionB": "Nicole Kidman",
+    "optionC": "Sandra Bullock",
+    "optionD": "Julia Roberts",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Titanic'?",
+    "optionA": "Steven Spielberg",
+    "optionB": "Christopher Nolan",
+    "optionC": "James Cameron",
+    "optionD": "Ridley Scott",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "Subject": "Cine",
+    "question": "¿Qué película tiene como protagonistas a Jack y Rose?",
+    "optionA": "Avatar",
+    "optionB": "Titanic",
+    "optionC": "Pearl Harbor",
+    "optionD": "El diario de Noa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Forrest en 'Forrest Gump'?",
+    "optionA": "Kevin Costner",
+    "optionB": "Robin Williams",
+    "optionC": "Tom Hanks",
+    "optionD": "Richard Gere",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 6,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Jurassic Park'?",
+    "optionA": "Tim Burton",
+    "optionB": "James Cameron",
+    "optionC": "Steven Spielberg",
+    "optionD": "George Lucas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "Subject": "Cine",
+    "question": "¿Qué película trata sobre un parque lleno de dinosaurios clonados?",
+    "optionA": "King Kong",
+    "optionB": "Jurassic Park",
+    "optionC": "Jumanji",
+    "optionD": "Godzilla",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Indiana Jones?",
+    "optionA": "Harrison Ford",
+    "optionB": "Kevin Costner",
+    "optionC": "Mel Gibson",
+    "optionD": "Bruce Willis",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jack Sparrow en 'Piratas del Caribe'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Johnny Depp",
+    "optionC": "Tom Hardy",
+    "optionD": "Orlando Bloom",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "Subject": "Cine",
+    "question": "¿Qué saga está protagonizada por el capitán Jack Sparrow?",
+    "optionA": "Harry Potter",
+    "optionB": "La momia",
+    "optionC": "Piratas del Caribe",
+    "optionD": "Indiana Jones",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Harry Potter en el cine?",
+    "optionA": "Elijah Wood",
+    "optionB": "Tom Holland",
+    "optionC": "Daniel Radcliffe",
+    "optionD": "Rupert Grint",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Ron Weasley en la saga 'Harry Potter'?",
+    "optionA": "Daniel Radcliffe",
+    "optionB": "Tom Felton",
+    "optionC": "Rupert Grint",
+    "optionD": "Robert Pattinson",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Hermione Granger en 'Harry Potter'?",
+    "optionA": "Keira Knightley",
+    "optionB": "Natalie Portman",
+    "optionC": "Emma Watson",
+    "optionD": "Emma Stone",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 14,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Frodo en 'El Señor de los Anillos'?",
+    "optionA": "Elijah Wood",
+    "optionB": "Orlando Bloom",
+    "optionC": "Daniel Radcliffe",
+    "optionD": "Tobey Maguire",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 15,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió la trilogía de 'El Señor de los Anillos'?",
+    "optionA": "George Lucas",
+    "optionB": "Steven Spielberg",
+    "optionC": "Ridley Scott",
+    "optionD": "Peter Jackson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 16,
+    "Subject": "Cine",
+    "question": "¿En qué saga aparece el personaje de Gollum?",
+    "optionA": "Piratas del Caribe",
+    "optionB": "Harry Potter",
+    "optionC": "Star Wars",
+    "optionD": "El Señor de los Anillos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Neo en 'Matrix'?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Hugh Jackman",
+    "optionC": "Christian Bale",
+    "optionD": "Tom Cruise",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "Subject": "Cine",
+    "question": "¿Qué película protagoniza Keanu Reeves como Neo?",
+    "optionA": "Constantine",
+    "optionB": "John Wick",
+    "optionC": "Matrix",
+    "optionD": "Speed",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Wolverine en la saga 'X-Men'?",
+    "optionA": "Hugh Jackman",
+    "optionB": "Ryan Reynolds",
+    "optionC": "Chris Hemsworth",
+    "optionD": "Chris Evans",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Iron Man en el Universo Marvel?",
+    "optionA": "Robert Downey Jr.",
+    "optionB": "Chris Hemsworth",
+    "optionC": "Chris Evans",
+    "optionD": "Mark Ruffalo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al Capitán América en las películas de Marvel?",
+    "optionA": "Chris Hemsworth",
+    "optionB": "Chris Pratt",
+    "optionC": "Jeremy Renner",
+    "optionD": "Chris Evans",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 22,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Thor en las películas de Marvel?",
+    "optionA": "Chris Hemsworth",
+    "optionB": "Chris Evans",
+    "optionC": "Jason Momoa",
+    "optionD": "Liam Hemsworth",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 23,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Spider-Man en 'Spider-Man: No Way Home'?",
+    "optionA": "Timothée Chalamet",
+    "optionB": "Andrew Garfield",
+    "optionC": "Tom Holland",
+    "optionD": "Tobey Maguire",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Deadpool?",
+    "optionA": "Ryan Gosling",
+    "optionB": "Chris Pratt",
+    "optionC": "Jake Gyllenhaal",
+    "optionD": "Ryan Reynolds",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 25,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Batman en 'El caballero oscuro'?",
+    "optionA": "George Clooney",
+    "optionB": "Christian Bale",
+    "optionC": "Michael Keaton",
+    "optionD": "Ben Affleck",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al Joker en 'El caballero oscuro'?",
+    "optionA": "Jack Nicholson",
+    "optionB": "Heath Ledger",
+    "optionC": "Joaquin Phoenix",
+    "optionD": "Jared Leto",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'El caballero oscuro'?",
+    "optionA": "Zack Snyder",
+    "optionB": "Christopher Nolan",
+    "optionC": "Sam Raimi",
+    "optionD": "Tim Burton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "Subject": "Cine",
+    "question": "¿Qué película de Christopher Nolan está protagonizada por Leonardo DiCaprio y gira alrededor de los sueños?",
+    "optionA": "Interstellar",
+    "optionB": "Tenet",
+    "optionC": "Dunkerque",
+    "optionD": "Origen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 29,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Maximus en 'Gladiator'?",
+    "optionA": "Gerard Butler",
+    "optionB": "Mel Gibson",
+    "optionC": "Clive Owen",
+    "optionD": "Russell Crowe",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 30,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Gladiator'?",
+    "optionA": "Ridley Scott",
+    "optionB": "Peter Jackson",
+    "optionC": "James Cameron",
+    "optionD": "Steven Spielberg",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Rocky Balboa?",
+    "optionA": "Jean-Claude Van Damme",
+    "optionB": "Sylvester Stallone",
+    "optionC": "Bruce Willis",
+    "optionD": "Arnold Schwarzenegger",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Terminator en las películas clásicas de la saga?",
+    "optionA": "Dolph Lundgren",
+    "optionB": "Arnold Schwarzenegger",
+    "optionC": "Steven Seagal",
+    "optionD": "Sylvester Stallone",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a John McClane en 'Jungla de cristal'?",
+    "optionA": "Bruce Willis",
+    "optionB": "Kurt Russell",
+    "optionC": "Nicolas Cage",
+    "optionD": "Mel Gibson",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Misión: Imposible' como Ethan Hunt?",
+    "optionA": "Matt Damon",
+    "optionB": "Brad Pitt",
+    "optionC": "George Clooney",
+    "optionD": "Tom Cruise",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 35,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jason Bourne en la mayoría de películas de la saga?",
+    "optionA": "Mark Wahlberg",
+    "optionB": "Matt Damon",
+    "optionC": "Ben Affleck",
+    "optionD": "Tom Cruise",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "Subject": "Cine",
+    "question": "¿Quién protagoniza 'Pretty Woman' junto a Richard Gere?",
+    "optionA": "Meg Ryan",
+    "optionB": "Sandra Bullock",
+    "optionC": "Demi Moore",
+    "optionD": "Julia Roberts",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "Subject": "Cine",
+    "question": "¿Qué actriz protagoniza 'Los juegos del hambre' como Katniss Everdeen?",
+    "optionA": "Anne Hathaway",
+    "optionB": "Scarlett Johansson",
+    "optionC": "Emma Stone",
+    "optionD": "Jennifer Lawrence",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Harley Quinn en 'Escuadrón Suicida'?",
+    "optionA": "Margot Robbie",
+    "optionB": "Charlize Theron",
+    "optionC": "Gal Gadot",
+    "optionD": "Jennifer Lawrence",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 39,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Wonder Woman en el cine reciente?",
+    "optionA": "Scarlett Johansson",
+    "optionB": "Angelina Jolie",
+    "optionC": "Natalie Portman",
+    "optionD": "Gal Gadot",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 40,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Black Widow en las películas de Marvel?",
+    "optionA": "Jennifer Aniston",
+    "optionB": "Scarlett Johansson",
+    "optionC": "Jessica Alba",
+    "optionD": "Anne Hathaway",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Pulp Fiction'?",
+    "optionA": "Guy Ritchie",
+    "optionB": "Quentin Tarantino",
+    "optionC": "Martin Scorsese",
+    "optionD": "David Fincher",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'El lobo de Wall Street'?",
+    "optionA": "Quentin Tarantino",
+    "optionB": "Steven Spielberg",
+    "optionC": "Martin Scorsese",
+    "optionD": "Ridley Scott",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 43,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jordan Belfort en 'El lobo de Wall Street'?",
+    "optionA": "Leonardo DiCaprio",
+    "optionB": "Brad Pitt",
+    "optionC": "Matt Damon",
+    "optionD": "Christian Bale",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 44,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Náufrago'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Kevin Costner",
+    "optionC": "Tom Hanks",
+    "optionD": "Robin Williams",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 45,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al protagonista de 'Eduardo Manostijeras'?",
+    "optionA": "Nicolas Cage",
+    "optionB": "Jim Carrey",
+    "optionC": "Johnny Depp",
+    "optionD": "Keanu Reeves",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Eduardo Manostijeras'?",
+    "optionA": "Sam Raimi",
+    "optionB": "Tim Burton",
+    "optionC": "Robert Zemeckis",
+    "optionD": "Wes Anderson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Barbie en la película 'Barbie' de 2023?",
+    "optionA": "Margot Robbie",
+    "optionB": "Jennifer Lawrence",
+    "optionC": "Anne Hathaway",
+    "optionD": "Emma Stone",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 48,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Ken en 'Barbie' de 2023?",
+    "optionA": "Ryan Gosling",
+    "optionB": "Chris Evans",
+    "optionC": "Bradley Cooper",
+    "optionD": "Ryan Reynolds",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "Subject": "Cine",
+    "question": "¿Qué película protagonizan Ryan Gosling y Emma Stone como Sebastian y Mia?",
+    "optionA": "Moulin Rouge",
+    "optionB": "Whiplash",
+    "optionC": "Barbie",
+    "optionD": "La La Land",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Avatar'?",
+    "optionA": "Ridley Scott",
+    "optionB": "James Cameron",
+    "optionC": "Steven Spielberg",
+    "optionD": "Peter Jackson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 51,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a James Bond en 'Casino Royale' (2006)?",
+    "optionA": "Pierce Brosnan",
+    "optionB": "Jason Statham",
+    "optionC": "Colin Firth",
+    "optionD": "Daniel Craig",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 52,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Gandalf en 'El Señor de los Anillos'?",
+    "optionA": "Michael Caine",
+    "optionB": "Christopher Lee",
+    "optionC": "Ian McKellen",
+    "optionD": "Patrick Stewart",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Legolas en 'El Señor de los Anillos'?",
+    "optionA": "Elijah Wood",
+    "optionB": "Jude Law",
+    "optionC": "Viggo Mortensen",
+    "optionD": "Orlando Bloom",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 54,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Aragorn en 'El Señor de los Anillos'?",
+    "optionA": "Hugh Jackman",
+    "optionB": "Orlando Bloom",
+    "optionC": "Viggo Mortensen",
+    "optionD": "Sean Bean",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Bella en la saga 'Crepúsculo'?",
+    "optionA": "Emma Watson",
+    "optionB": "Dakota Johnson",
+    "optionC": "Jennifer Lawrence",
+    "optionD": "Kristen Stewart",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 56,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Edward Cullen en 'Crepúsculo'?",
+    "optionA": "Taylor Lautner",
+    "optionB": "Andrew Garfield",
+    "optionC": "Robert Pattinson",
+    "optionD": "Daniel Radcliffe",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 57,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Aquaman en las películas de DC?",
+    "optionA": "Dwayne Johnson",
+    "optionB": "Jason Momoa",
+    "optionC": "Henry Cavill",
+    "optionD": "Chris Hemsworth",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Superman en 'El hombre de acero'?",
+    "optionA": "Christian Bale",
+    "optionB": "Henry Cavill",
+    "optionC": "Ben Affleck",
+    "optionD": "Chris Evans",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 59,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Doctor Strange en Marvel?",
+    "optionA": "Mark Ruffalo",
+    "optionB": "Benedict Cumberbatch",
+    "optionC": "Tom Hiddleston",
+    "optionD": "Jude Law",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Loki en las películas de Marvel?",
+    "optionA": "Benedict Cumberbatch",
+    "optionB": "Chris Evans",
+    "optionC": "Jeremy Renner",
+    "optionD": "Tom Hiddleston",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Star-Lord en 'Guardianes de la Galaxia'?",
+    "optionA": "Chris Pratt",
+    "optionB": "Chris Evans",
+    "optionC": "Ryan Reynolds",
+    "optionD": "Chris Pine",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Thanos en las películas de Marvel?",
+    "optionA": "Dave Bautista",
+    "optionB": "Josh Brolin",
+    "optionC": "Jeff Bridges",
+    "optionD": "Vin Diesel",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 63,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Peeta Mellark en 'Los juegos del hambre'?",
+    "optionA": "Josh Hutcherson",
+    "optionB": "Liam Hemsworth",
+    "optionC": "Miles Teller",
+    "optionD": "Zac Efron",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 64,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Dominic Toretto en 'Fast & Furious'?",
+    "optionA": "Paul Walker",
+    "optionB": "Jason Statham",
+    "optionC": "Dwayne Johnson",
+    "optionD": "Vin Diesel",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 65,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpretó a Brian O'Conner en 'Fast & Furious'?",
+    "optionA": "Channing Tatum",
+    "optionB": "Paul Walker",
+    "optionC": "Vin Diesel",
+    "optionD": "Mark Wahlberg",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 66,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a John Wick?",
+    "optionA": "Jason Statham",
+    "optionB": "Liam Neeson",
+    "optionC": "Keanu Reeves",
+    "optionD": "Gerard Butler",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 67,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Leónidas en '300'?",
+    "optionA": "Gerard Butler",
+    "optionB": "Clive Owen",
+    "optionC": "Russell Crowe",
+    "optionD": "Jason Momoa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 68,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Braveheart' como William Wallace?",
+    "optionA": "Kevin Costner",
+    "optionB": "Russell Crowe",
+    "optionC": "Liam Neeson",
+    "optionD": "Mel Gibson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 69,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a William Turner en 'Piratas del Caribe'?",
+    "optionA": "Orlando Bloom",
+    "optionB": "Johnny Depp",
+    "optionC": "Jude Law",
+    "optionD": "Colin Farrell",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 70,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Elizabeth Swann en 'Piratas del Caribe'?",
+    "optionA": "Keira Knightley",
+    "optionB": "Natalie Portman",
+    "optionC": "Kate Winslet",
+    "optionD": "Anne Hathaway",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Taken (Venganza)' como Bryan Mills?",
+    "optionA": "Nicolas Cage",
+    "optionB": "Jason Statham",
+    "optionC": "Bruce Willis",
+    "optionD": "Liam Neeson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 72,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Danny Ocean en 'Ocean's Eleven'?",
+    "optionA": "Matt Damon",
+    "optionB": "Andy Garcia",
+    "optionC": "Brad Pitt",
+    "optionD": "George Clooney",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 73,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Tyler Durden en 'El club de la lucha'?",
+    "optionA": "Jared Leto",
+    "optionB": "Brad Pitt",
+    "optionC": "Christian Bale",
+    "optionD": "Edward Norton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 74,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Truman Burbank en 'El show de Truman'?",
+    "optionA": "Jim Carrey",
+    "optionB": "Tom Hanks",
+    "optionC": "Robin Williams",
+    "optionD": "Steve Carell",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 75,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'La máscara' (1994)?",
+    "optionA": "Jim Carrey",
+    "optionB": "Eddie Murphy",
+    "optionC": "Ben Stiller",
+    "optionD": "Adam Sandler",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 76,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Mrs. Doubtfire en 'Señora Doubtfire'?",
+    "optionA": "Robin Williams",
+    "optionB": "Jim Carrey",
+    "optionC": "Dustin Hoffman",
+    "optionD": "Tom Hanks",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "Subject": "Cine",
+    "question": "¿Qué actor presta su voz original a Shrek?",
+    "optionA": "Mike Myers",
+    "optionB": "Eddie Murphy",
+    "optionC": "Ben Stiller",
+    "optionD": "Jack Black",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "Subject": "Cine",
+    "question": "¿Qué actor pone la voz original a Burro en 'Shrek'?",
+    "optionA": "Jamie Foxx",
+    "optionB": "Eddie Murphy",
+    "optionC": "Chris Rock",
+    "optionD": "Will Smith",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 79,
+    "Subject": "Cine",
+    "question": "¿Quién pone la voz original a Po en 'Kung Fu Panda'?",
+    "optionA": "Mike Myers",
+    "optionB": "Seth Rogen",
+    "optionC": "Steve Carell",
+    "optionD": "Jack Black",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 80,
+    "Subject": "Cine",
+    "question": "¿Qué película de animación tiene como protagonistas a Woody y Buzz Lightyear?",
+    "optionA": "Cars",
+    "optionB": "Shrek",
+    "optionC": "Toy Story",
+    "optionD": "Monstruos, S.A.",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 81,
+    "Subject": "Cine",
+    "question": "¿En qué película de Pixar aparece el pez payaso Nemo?",
+    "optionA": "Ratatouille",
+    "optionB": "Buscando a Nemo",
+    "optionC": "Up",
+    "optionD": "Luca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "Subject": "Cine",
+    "question": "¿Qué película de Pixar tiene como protagonista a un robot que limpia una Tierra abandonada?",
+    "optionA": "Robots",
+    "optionB": "Big Hero 6",
+    "optionC": "WALL-E",
+    "optionD": "Los Increíbles",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 83,
+    "Subject": "Cine",
+    "question": "¿En qué película de Pixar viaja Carl Fredricksen en una casa sostenida por globos?",
+    "optionA": "Coco",
+    "optionB": "Up",
+    "optionC": "Soul",
+    "optionD": "Del revés",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "Subject": "Cine",
+    "question": "¿Qué película de Pixar está ambientada en el mundo de los muertos durante el Día de Muertos?",
+    "optionA": "Brave",
+    "optionB": "Coco",
+    "optionC": "Luca",
+    "optionD": "Encanto",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "Subject": "Cine",
+    "question": "¿Qué película de Disney incluye a los personajes Elsa y Anna?",
+    "optionA": "Encanto",
+    "optionB": "Vaiana",
+    "optionC": "Enredados",
+    "optionD": "Frozen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 86,
+    "Subject": "Cine",
+    "question": "¿Qué película de Disney tiene como protagonista a Simba?",
+    "optionA": "Tarzán",
+    "optionB": "Hércules",
+    "optionC": "El rey león",
+    "optionD": "Aladdín",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 87,
+    "Subject": "Cine",
+    "question": "¿Qué película de Disney tiene como protagonista a una joven llamada Bella y una Bestia encantada?",
+    "optionA": "Blancanieves",
+    "optionB": "La sirenita",
+    "optionC": "Cenicienta",
+    "optionD": "La bella y la bestia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 88,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'E.T., el extraterrestre'?",
+    "optionA": "Steven Spielberg",
+    "optionB": "Robert Zemeckis",
+    "optionC": "George Lucas",
+    "optionD": "James Cameron",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Regreso al futuro'?",
+    "optionA": "Chris Columbus",
+    "optionB": "Steven Spielberg",
+    "optionC": "Robert Zemeckis",
+    "optionD": "Ron Howard",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 90,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Marty McFly en 'Regreso al futuro'?",
+    "optionA": "Matthew Broderick",
+    "optionB": "Emilio Estevez",
+    "optionC": "Michael J. Fox",
+    "optionD": "Tom Hanks",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'La lista de Schindler'?",
+    "optionA": "Martin Scorsese",
+    "optionB": "Roman Polanski",
+    "optionC": "Steven Spielberg",
+    "optionD": "Francis Ford Coppola",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 92,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Oskar Schindler en 'La lista de Schindler'?",
+    "optionA": "Jeremy Irons",
+    "optionB": "Liam Neeson",
+    "optionC": "Ralph Fiennes",
+    "optionD": "Anthony Hopkins",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Kill Bill'?",
+    "optionA": "Quentin Tarantino",
+    "optionB": "David Fincher",
+    "optionC": "Guy Ritchie",
+    "optionD": "Robert Rodriguez",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 94,
+    "Subject": "Cine",
+    "question": "¿Qué actriz protagoniza 'Kill Bill' como Beatrix Kiddo?",
+    "optionA": "Nicole Kidman",
+    "optionB": "Uma Thurman",
+    "optionC": "Cameron Diaz",
+    "optionD": "Charlize Theron",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al protagonista de 'El curioso caso de Benjamin Button'?",
+    "optionA": "Leonardo DiCaprio",
+    "optionB": "Matt Damon",
+    "optionC": "Brad Pitt",
+    "optionD": "George Clooney",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Freddie Mercury en 'Bohemian Rhapsody'?",
+    "optionA": "Jared Leto",
+    "optionB": "Sacha Baron Cohen",
+    "optionC": "Rami Malek",
+    "optionD": "Taron Egerton",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Mia en 'La La Land'?",
+    "optionA": "Emma Stone",
+    "optionB": "Anne Hathaway",
+    "optionC": "Jennifer Lawrence",
+    "optionD": "Natalie Portman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Neo en la saga 'Matrix'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Matt Damon",
+    "optionC": "Tom Cruise",
+    "optionD": "Keanu Reeves",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 99,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Hannibal Lecter en 'El silencio de los corderos'?",
+    "optionA": "Anthony Hopkins",
+    "optionB": "Jack Nicholson",
+    "optionC": "Gary Oldman",
+    "optionD": "Michael Caine",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 100,
+    "Subject": "Cine",
+    "question": "¿Qué película protagoniza Will Smith como un agente que vigila extraterrestres en la Tierra?",
+    "optionA": "Soy leyenda",
+    "optionB": "Men in Black",
+    "optionC": "Independence Day",
+    "optionD": "Hancock",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Jack Dawson en 'Titanic'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Brad Pitt",
+    "optionC": "Johnny Depp",
+    "optionD": "Leonardo DiCaprio",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 102,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Tony Stark en las películas de 'Iron Man'?",
+    "optionA": "Robert Downey Jr.",
+    "optionB": "Mark Ruffalo",
+    "optionC": "Jeremy Renner",
+    "optionD": "Chris Evans",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Natasha Romanoff, Viuda Negra, en Marvel?",
+    "optionA": "Scarlett Johansson",
+    "optionB": "Gal Gadot",
+    "optionC": "Brie Larson",
+    "optionD": "Jennifer Lawrence",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Peter Parker en la trilogía de 'Spider-Man' dirigida por Sam Raimi?",
+    "optionA": "Andrew Garfield",
+    "optionB": "Jake Gyllenhaal",
+    "optionC": "Tom Holland",
+    "optionD": "Tobey Maguire",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 105,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Spider-Man en 'The Amazing Spider-Man'?",
+    "optionA": "Tom Holland",
+    "optionB": "Tobey Maguire",
+    "optionC": "Andrew Garfield",
+    "optionD": "Robert Pattinson",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Bruce Wayne en 'The Batman' (2022)?",
+    "optionA": "Christian Bale",
+    "optionB": "Robert Pattinson",
+    "optionC": "Henry Cavill",
+    "optionD": "Ben Affleck",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al Joker en la película 'Joker' de 2019?",
+    "optionA": "Willem Dafoe",
+    "optionB": "Jared Leto",
+    "optionC": "Joaquin Phoenix",
+    "optionD": "Heath Ledger",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Superman en la película de 1978?",
+    "optionA": "Val Kilmer",
+    "optionB": "Christopher Reeve",
+    "optionC": "Michael Keaton",
+    "optionD": "Kurt Russell",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Alfred en la trilogía de Batman de Christopher Nolan?",
+    "optionA": "Gary Oldman",
+    "optionB": "Morgan Freeman",
+    "optionC": "Michael Caine",
+    "optionD": "Jeremy Irons",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Lucius Fox en la trilogía de Batman de Christopher Nolan?",
+    "optionA": "Samuel L. Jackson",
+    "optionB": "Denzel Washington",
+    "optionC": "Laurence Fishburne",
+    "optionD": "Morgan Freeman",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 111,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Jack Torrance en 'El resplandor'?",
+    "optionA": "Gene Hackman",
+    "optionB": "Jack Nicholson",
+    "optionC": "Al Pacino",
+    "optionD": "Robert De Niro",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'El resplandor'?",
+    "optionA": "Martin Scorsese",
+    "optionB": "Alfred Hitchcock",
+    "optionC": "Steven Spielberg",
+    "optionD": "Stanley Kubrick",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 113,
+    "Subject": "Cine",
+    "question": "¿Qué actriz protagoniza 'Pretty Woman' junto a Richard Gere?",
+    "optionA": "Meg Ryan",
+    "optionB": "Sandra Bullock",
+    "optionC": "Julia Roberts",
+    "optionD": "Demi Moore",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "Subject": "Cine",
+    "question": "¿Qué actriz protagoniza 'Gravity' junto a George Clooney?",
+    "optionA": "Nicole Kidman",
+    "optionB": "Sandra Bullock",
+    "optionC": "Julia Roberts",
+    "optionD": "Jodie Foster",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 115,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Erin Brockovich en la película del mismo nombre?",
+    "optionA": "Sandra Bullock",
+    "optionB": "Julia Roberts",
+    "optionC": "Meryl Streep",
+    "optionD": "Julianne Moore",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 116,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Miranda Priestly en 'El diablo viste de Prada'?",
+    "optionA": "Meryl Streep",
+    "optionB": "Helen Mirren",
+    "optionC": "Diane Keaton",
+    "optionD": "Glenn Close",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 117,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Andy Sachs en 'El diablo viste de Prada'?",
+    "optionA": "Rachel McAdams",
+    "optionB": "Natalie Portman",
+    "optionC": "Anne Hathaway",
+    "optionD": "Emily Blunt",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Bridget Jones en el cine?",
+    "optionA": "Kate Hudson",
+    "optionB": "Cameron Diaz",
+    "optionC": "Renée Zellweger",
+    "optionD": "Reese Witherspoon",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 119,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Elle Woods en 'Una rubia muy legal'?",
+    "optionA": "Renée Zellweger",
+    "optionB": "Reese Witherspoon",
+    "optionC": "Jennifer Aniston",
+    "optionD": "Cameron Diaz",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "Subject": "Cine",
+    "question": "¿Qué actriz protagoniza 'Lara Croft: Tomb Raider' (2001)?",
+    "optionA": "Angelina Jolie",
+    "optionB": "Kate Beckinsale",
+    "optionC": "Charlize Theron",
+    "optionD": "Milla Jovovich",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Evelyn en 'La momia' (1999)?",
+    "optionA": "Kate Beckinsale",
+    "optionB": "Catherine Zeta-Jones",
+    "optionC": "Rachel Weisz",
+    "optionD": "Keira Knightley",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 122,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Rick O'Connell en 'La momia' (1999)?",
+    "optionA": "Nicolas Cage",
+    "optionB": "Gerard Butler",
+    "optionC": "Hugh Jackman",
+    "optionD": "Brendan Fraser",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 123,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Eduardo Manostijeras'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Johnny Depp",
+    "optionC": "Nicolas Cage",
+    "optionD": "Jim Carrey",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 124,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a la protagonista de 'Amélie'?",
+    "optionA": "Audrey Tautou",
+    "optionB": "Marion Cotillard",
+    "optionC": "Léa Seydoux",
+    "optionD": "Juliette Binoche",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 125,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Édith Piaf en 'La vida en rosa'?",
+    "optionA": "Marion Cotillard",
+    "optionB": "Isabelle Huppert",
+    "optionC": "Sophie Marceau",
+    "optionD": "Audrey Tautou",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Maximus en 'Gladiator'?",
+    "optionA": "Russell Crowe",
+    "optionB": "Hugh Jackman",
+    "optionC": "Gerard Butler",
+    "optionD": "Mel Gibson",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 127,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Cómodo en 'Gladiator'?",
+    "optionA": "Jared Leto",
+    "optionB": "Russell Crowe",
+    "optionC": "Joaquin Phoenix",
+    "optionD": "Christian Bale",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "Subject": "Cine",
+    "question": "¿Qué película protagoniza Russell Crowe como el matemático John Nash?",
+    "optionA": "La teoría del todo",
+    "optionB": "El indomable Will Hunting",
+    "optionC": "Una mente maravillosa",
+    "optionD": "El discurso del rey",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Stephen Hawking en 'La teoría del todo'?",
+    "optionA": "Colin Firth",
+    "optionB": "Rami Malek",
+    "optionC": "Benedict Cumberbatch",
+    "optionD": "Eddie Redmayne",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 130,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al rey Jorge VI en 'El discurso del rey'?",
+    "optionA": "Colin Firth",
+    "optionB": "Gary Oldman",
+    "optionC": "Jude Law",
+    "optionD": "Hugh Grant",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Alan Turing en 'The Imitation Game (Descifrando Enigma)'?",
+    "optionA": "Eddie Redmayne",
+    "optionB": "Colin Firth",
+    "optionC": "Tom Hiddleston",
+    "optionD": "Benedict Cumberbatch",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 132,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Ray Charles en 'Ray'?",
+    "optionA": "Forest Whitaker",
+    "optionB": "Jamie Foxx",
+    "optionC": "Will Smith",
+    "optionD": "Denzel Washington",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 133,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Muhammad Ali en 'Ali' (2001)?",
+    "optionA": "Will Smith",
+    "optionB": "Denzel Washington",
+    "optionC": "Idris Elba",
+    "optionD": "Jamie Foxx",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 134,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Chris Gardner en 'En busca de la felicidad'?",
+    "optionA": "Eddie Murphy",
+    "optionB": "Denzel Washington",
+    "optionC": "Jamie Foxx",
+    "optionD": "Will Smith",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 135,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Soy leyenda'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Denzel Washington",
+    "optionC": "Mark Wahlberg",
+    "optionD": "Will Smith",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "Subject": "Cine",
+    "question": "¿Qué película protagoniza Tom Cruise como un piloto llamado Maverick?",
+    "optionA": "Misión: Imposible",
+    "optionB": "Top Gun",
+    "optionC": "Días de trueno",
+    "optionD": "Oblivion",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 137,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Goose en la primera película de 'Top Gun'?",
+    "optionA": "Anthony Edwards",
+    "optionB": "Val Kilmer",
+    "optionC": "Ed Harris",
+    "optionD": "Miles Teller",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 138,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Maverick en 'Top Gun: Maverick'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Brad Pitt",
+    "optionC": "Val Kilmer",
+    "optionD": "George Clooney",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 139,
+    "Subject": "Cine",
+    "question": "¿Qué película protagoniza Nicolas Cage como un historiador que busca un tesoro relacionado con la Declaración de Independencia de EE. UU.?",
+    "optionA": "Cara a cara",
+    "optionB": "60 segundos",
+    "optionC": "La búsqueda (National Treasure)",
+    "optionD": "Con Air",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 140,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Ghost Rider' como Johnny Blaze?",
+    "optionA": "Nicolas Cage",
+    "optionB": "Wesley Snipes",
+    "optionC": "Keanu Reeves",
+    "optionD": "Hugh Jackman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 141,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Blade en la trilogía original del personaje?",
+    "optionA": "Jamie Foxx",
+    "optionB": "Samuel L. Jackson",
+    "optionC": "Wesley Snipes",
+    "optionD": "Denzel Washington",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 142,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al agente J en 'Men in Black'?",
+    "optionA": "Eddie Murphy",
+    "optionB": "Chris Tucker",
+    "optionC": "Martin Lawrence",
+    "optionD": "Will Smith",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 143,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al agente K en 'Men in Black'?",
+    "optionA": "Kevin Costner",
+    "optionB": "Tommy Lee Jones",
+    "optionC": "Ed Harris",
+    "optionD": "Harrison Ford",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 144,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Axel Foley en 'Superdetective en Hollywood'?",
+    "optionA": "Will Smith",
+    "optionB": "Eddie Murphy",
+    "optionC": "Martin Lawrence",
+    "optionD": "Chris Rock",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 145,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Solo en casa' como Kevin McCallister?",
+    "optionA": "Elijah Wood",
+    "optionB": "Macaulay Culkin",
+    "optionC": "Haley Joel Osment",
+    "optionD": "Daniel Radcliffe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "Subject": "Cine",
+    "question": "¿Qué película tiene como protagonista a un niño llamado Kevin que se queda accidentalmente solo en Navidad?",
+    "optionA": "Santa Claus",
+    "optionB": "Elf",
+    "optionC": "Un padre en apuros",
+    "optionD": "Solo en casa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 147,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Buddy en la comedia navideña 'Elf'?",
+    "optionA": "Will Ferrell",
+    "optionB": "Adam Sandler",
+    "optionC": "Steve Carell",
+    "optionD": "Ben Stiller",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 148,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Ace Ventura: Detective de mascotas'?",
+    "optionA": "Ben Stiller",
+    "optionB": "Adam Sandler",
+    "optionC": "Mike Myers",
+    "optionD": "Jim Carrey",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 149,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Derek Zoolander en 'Zoolander'?",
+    "optionA": "Will Ferrell",
+    "optionB": "Vince Vaughn",
+    "optionC": "Ben Stiller",
+    "optionD": "Owen Wilson",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Click' como Michael Newman?",
+    "optionA": "Steve Carell",
+    "optionB": "Adam Sandler",
+    "optionC": "Jim Carrey",
+    "optionD": "Ben Stiller",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 151,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Don Vito Corleone en 'El padrino'?",
+    "optionA": "Joe Pesci",
+    "optionB": "Robert De Niro",
+    "optionC": "Marlon Brando",
+    "optionD": "Al Pacino",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 152,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Michael Corleone en la trilogía de 'El padrino'?",
+    "optionA": "Al Pacino",
+    "optionB": "Robert De Niro",
+    "optionC": "Marlon Brando",
+    "optionD": "Dustin Hoffman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 153,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Travis Bickle en 'Taxi Driver'?",
+    "optionA": "Al Pacino",
+    "optionB": "Gene Hackman",
+    "optionC": "Jack Nicholson",
+    "optionD": "Robert De Niro",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 154,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jake LaMotta en 'Toro salvaje'?",
+    "optionA": "Sylvester Stallone",
+    "optionB": "Joe Pesci",
+    "optionC": "Robert De Niro",
+    "optionD": "Al Pacino",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Scarface' (1983) como Tony Montana?",
+    "optionA": "Al Pacino",
+    "optionB": "Robert De Niro",
+    "optionC": "John Travolta",
+    "optionD": "Nicolas Cage",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 156,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Vincent Vega en 'Pulp Fiction'?",
+    "optionA": "Tim Roth",
+    "optionB": "Bruce Willis",
+    "optionC": "Samuel L. Jackson",
+    "optionD": "John Travolta",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 157,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Jules Winnfield en 'Pulp Fiction'?",
+    "optionA": "Morgan Freeman",
+    "optionB": "Samuel L. Jackson",
+    "optionC": "Jamie Foxx",
+    "optionD": "Denzel Washington",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Django en 'Django desencadenado'?",
+    "optionA": "Idris Elba",
+    "optionB": "Jamie Foxx",
+    "optionC": "Will Smith",
+    "optionD": "Samuel L. Jackson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 159,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al doctor King Schultz en 'Django desencadenado'?",
+    "optionA": "Christoph Waltz",
+    "optionB": "Ralph Fiennes",
+    "optionC": "Leonardo DiCaprio",
+    "optionD": "Brad Pitt",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 160,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al coronel Hans Landa en 'Malditos bastardos'?",
+    "optionA": "Michael Fassbender",
+    "optionB": "Daniel Brühl",
+    "optionC": "Christoph Waltz",
+    "optionD": "Brad Pitt",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 161,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Aldo Raine en 'Malditos bastardos'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Matt Damon",
+    "optionC": "George Clooney",
+    "optionD": "Brad Pitt",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 162,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Rick Dalton en 'Érase una vez en... Hollywood'?",
+    "optionA": "Matthew McConaughey",
+    "optionB": "Brad Pitt",
+    "optionC": "Christian Bale",
+    "optionD": "Leonardo DiCaprio",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 163,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Cliff Booth en 'Érase una vez en... Hollywood'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Matt Damon",
+    "optionC": "Leonardo DiCaprio",
+    "optionD": "George Clooney",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 164,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Naomi Lapaglia en 'El lobo de Wall Street'?",
+    "optionA": "Scarlett Johansson",
+    "optionB": "Emma Stone",
+    "optionC": "Margot Robbie",
+    "optionD": "Jennifer Lawrence",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Frank Abagnale Jr. en 'Atrápame si puedes'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Leonardo DiCaprio",
+    "optionC": "Matt Damon",
+    "optionD": "Edward Norton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 166,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al capitán John Miller en 'Salvar al soldado Ryan'?",
+    "optionA": "Tom Hanks",
+    "optionB": "Kevin Costner",
+    "optionC": "Matt Damon",
+    "optionD": "Tom Cruise",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al soldado Ryan en 'Salvar al soldado Ryan'?",
+    "optionA": "Mark Wahlberg",
+    "optionB": "Matt Damon",
+    "optionC": "Ben Affleck",
+    "optionD": "Tom Hanks",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Will Hunting en 'El indomable Will Hunting'?",
+    "optionA": "Matt Damon",
+    "optionB": "Ben Affleck",
+    "optionC": "Edward Norton",
+    "optionD": "Robin Williams",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 169,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al psicólogo Sean Maguire en 'El indomable Will Hunting'?",
+    "optionA": "Tom Hanks",
+    "optionB": "Kevin Spacey",
+    "optionC": "Robin Williams",
+    "optionD": "Dustin Hoffman",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Andy Dufresne en 'Cadena perpetua'?",
+    "optionA": "Morgan Freeman",
+    "optionB": "Tim Robbins",
+    "optionC": "Tom Hanks",
+    "optionD": "Kevin Costner",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 171,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Red en 'Cadena perpetua'?",
+    "optionA": "Samuel L. Jackson",
+    "optionB": "Forest Whitaker",
+    "optionC": "Morgan Freeman",
+    "optionD": "Denzel Washington",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 172,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al detective Somerset en 'Seven'?",
+    "optionA": "Denzel Washington",
+    "optionB": "Samuel L. Jackson",
+    "optionC": "Morgan Freeman",
+    "optionD": "Tommy Lee Jones",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 173,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al detective Mills en 'Seven'?",
+    "optionA": "Brad Pitt",
+    "optionB": "Christian Bale",
+    "optionC": "Edward Norton",
+    "optionD": "Matt Damon",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 174,
+    "Subject": "Cine",
+    "question": "¿Quién protagoniza 'El sexto sentido' como el psicólogo Malcolm Crowe?",
+    "optionA": "Nicolas Cage",
+    "optionB": "Kevin Costner",
+    "optionC": "John Travolta",
+    "optionD": "Bruce Willis",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 175,
+    "Subject": "Cine",
+    "question": "¿Qué actor infantil interpreta a Cole en 'El sexto sentido'?",
+    "optionA": "Haley Joel Osment",
+    "optionB": "Daniel Radcliffe",
+    "optionC": "Freddie Highmore",
+    "optionD": "Macaulay Culkin",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 176,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Máximo Décimo Meridio en 'Gladiator'?",
+    "optionA": "Gerard Butler",
+    "optionB": "Hugh Jackman",
+    "optionC": "Russell Crowe",
+    "optionD": "Mel Gibson",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 177,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'El patriota' como Benjamin Martin?",
+    "optionA": "Kevin Costner",
+    "optionB": "Russell Crowe",
+    "optionC": "Liam Neeson",
+    "optionD": "Mel Gibson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 178,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Robin Hood en la película de 2010 dirigida por Ridley Scott?",
+    "optionA": "Clive Owen",
+    "optionB": "Gerard Butler",
+    "optionC": "Russell Crowe",
+    "optionD": "Kevin Costner",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 179,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'El último samurái'?",
+    "optionA": "Tom Cruise",
+    "optionB": "Keanu Reeves",
+    "optionC": "Brad Pitt",
+    "optionD": "Matt Damon",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Nathan Algren en 'El último samurái'?",
+    "optionA": "Hugh Jackman",
+    "optionB": "Tom Cruise",
+    "optionC": "Christian Bale",
+    "optionD": "Russell Crowe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 181,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'El renacido' como Hugh Glass?",
+    "optionA": "Tom Hardy",
+    "optionB": "Brad Pitt",
+    "optionC": "Christian Bale",
+    "optionD": "Leonardo DiCaprio",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 182,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a John Fitzgerald en 'El renacido'?",
+    "optionA": "Leonardo DiCaprio",
+    "optionB": "Christian Bale",
+    "optionC": "Tom Hardy",
+    "optionD": "Michael Fassbender",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 183,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Bane en 'El caballero oscuro: La leyenda renace'?",
+    "optionA": "Tom Hardy",
+    "optionB": "Michael Fassbender",
+    "optionC": "Cillian Murphy",
+    "optionD": "Heath Ledger",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a J. Robert Oppenheimer en 'Oppenheimer'?",
+    "optionA": "Benedict Cumberbatch",
+    "optionB": "Robert Downey Jr.",
+    "optionC": "Matt Damon",
+    "optionD": "Cillian Murphy",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 185,
+    "Subject": "Cine",
+    "question": "¿Qué director realizó 'Oppenheimer'?",
+    "optionA": "Ridley Scott",
+    "optionB": "Christopher Nolan",
+    "optionC": "Denis Villeneuve",
+    "optionD": "David Fincher",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 186,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Dune' (2021)?",
+    "optionA": "Ridley Scott",
+    "optionB": "James Cameron",
+    "optionC": "Christopher Nolan",
+    "optionD": "Denis Villeneuve",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 187,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Paul Atreides en 'Dune' (2021)?",
+    "optionA": "Austin Butler",
+    "optionB": "Timothée Chalamet",
+    "optionC": "Tom Holland",
+    "optionD": "Robert Pattinson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 188,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Chani en 'Dune' (2021)?",
+    "optionA": "Anya Taylor-Joy",
+    "optionB": "Zendaya",
+    "optionC": "Margot Robbie",
+    "optionD": "Florence Pugh",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Furiosa en 'Mad Max: Furia en la carretera'?",
+    "optionA": "Kate Beckinsale",
+    "optionB": "Angelina Jolie",
+    "optionC": "Charlize Theron",
+    "optionD": "Scarlett Johansson",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 190,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Max en 'Mad Max: Furia en la carretera'?",
+    "optionA": "Jason Statham",
+    "optionB": "Tom Hardy",
+    "optionC": "Mel Gibson",
+    "optionD": "Gerard Butler",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 191,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Elvis Presley en la película 'Elvis' de 2022?",
+    "optionA": "Timothée Chalamet",
+    "optionB": "Austin Butler",
+    "optionC": "Rami Malek",
+    "optionD": "Taron Egerton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 192,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Elton John en 'Rocketman'?",
+    "optionA": "Eddie Redmayne",
+    "optionB": "Taron Egerton",
+    "optionC": "Austin Butler",
+    "optionD": "Rami Malek",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Johnny Cash en 'En la cuerda floja'?",
+    "optionA": "Jake Gyllenhaal",
+    "optionB": "Christian Bale",
+    "optionC": "Matthew McConaughey",
+    "optionD": "Joaquin Phoenix",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a June Carter en 'En la cuerda floja'?",
+    "optionA": "Reese Witherspoon",
+    "optionB": "Renée Zellweger",
+    "optionC": "Amy Adams",
+    "optionD": "Nicole Kidman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 195,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Mia Wallace en 'Pulp Fiction'?",
+    "optionA": "Uma Thurman",
+    "optionB": "Sharon Stone",
+    "optionC": "Michelle Pfeiffer",
+    "optionD": "Nicole Kidman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 196,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Sarah Connor en 'Terminator 2'?",
+    "optionA": "Sigourney Weaver",
+    "optionB": "Linda Hamilton",
+    "optionC": "Sharon Stone",
+    "optionD": "Jamie Lee Curtis",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 197,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Ellen Ripley en la saga 'Alien'?",
+    "optionA": "Sigourney Weaver",
+    "optionB": "Linda Hamilton",
+    "optionC": "Jodie Foster",
+    "optionD": "Jamie Lee Curtis",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 198,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Laurie Strode en la saga 'Halloween'?",
+    "optionA": "Neve Campbell",
+    "optionB": "Sigourney Weaver",
+    "optionC": "Jamie Lee Curtis",
+    "optionD": "Linda Hamilton",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 199,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Sidney Prescott en la saga 'Scream'?",
+    "optionA": "Sarah Michelle Gellar",
+    "optionB": "Courteney Cox",
+    "optionC": "Jennifer Love Hewitt",
+    "optionD": "Neve Campbell",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 200,
+    "Subject": "Cine",
+    "question": "¿Quién dirigió 'Tiburón'?",
+    "optionA": "George Lucas",
+    "optionB": "Ridley Scott",
+    "optionC": "James Cameron",
+    "optionD": "Steven Spielberg",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 201,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Rocky Balboa en la saga 'Rocky'?",
+    "optionA": "Jean-Claude Van Damme",
+    "optionB": "Arnold Schwarzenegger",
+    "optionC": "Sylvester Stallone",
+    "optionD": "Bruce Willis",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 202,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a John Rambo en la saga 'Rambo'?",
+    "optionA": "Steven Seagal",
+    "optionB": "Sylvester Stallone",
+    "optionC": "Chuck Norris",
+    "optionD": "Arnold Schwarzenegger",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 203,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Dutch en 'Depredador' (1987)?",
+    "optionA": "Bruce Willis",
+    "optionB": "Dolph Lundgren",
+    "optionC": "Sylvester Stallone",
+    "optionD": "Arnold Schwarzenegger",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 204,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a John Matrix en 'Commando'?",
+    "optionA": "Steven Seagal",
+    "optionB": "Kurt Russell",
+    "optionC": "Jean-Claude Van Damme",
+    "optionD": "Arnold Schwarzenegger",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 205,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Karate Kid' (1984) como Daniel LaRusso?",
+    "optionA": "Ralph Macchio",
+    "optionB": "Emilio Estevez",
+    "optionC": "Matthew Broderick",
+    "optionD": "Michael J. Fox",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 206,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al señor Miyagi en 'Karate Kid'?",
+    "optionA": "George Takei",
+    "optionB": "Pat Morita",
+    "optionC": "James Hong",
+    "optionD": "Jackie Chan",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 207,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Bloodsport' como Frank Dux?",
+    "optionA": "Jean-Claude Van Damme",
+    "optionB": "Dolph Lundgren",
+    "optionC": "Chuck Norris",
+    "optionD": "Steven Seagal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 208,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Ivan Drago en 'Rocky IV'?",
+    "optionA": "Steven Seagal",
+    "optionB": "Jean-Claude Van Damme",
+    "optionC": "Dolph Lundgren",
+    "optionD": "Arnold Schwarzenegger",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "Subject": "Cine",
+    "question": "¿Qué actor protagoniza 'Transporter' como Frank Martin?",
+    "optionA": "Clive Owen",
+    "optionB": "Gerard Butler",
+    "optionC": "Jason Statham",
+    "optionD": "Vin Diesel",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 210,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Lee Christmas en 'Los mercenarios'?",
+    "optionA": "Jet Li",
+    "optionB": "Dolph Lundgren",
+    "optionC": "Bruce Willis",
+    "optionD": "Jason Statham",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 211,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Frank Martin en la saga 'Transporter'?",
+    "optionA": "Mark Wahlberg",
+    "optionB": "Liam Neeson",
+    "optionC": "Vin Diesel",
+    "optionD": "Jason Statham",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 212,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Frank Castle en 'The Punisher' (2004)?",
+    "optionA": "Thomas Jane",
+    "optionB": "Wesley Snipes",
+    "optionC": "Nicolas Cage",
+    "optionD": "Eric Bana",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 213,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Hellboy en las películas dirigidas por Guillermo del Toro?",
+    "optionA": "Ron Perlman",
+    "optionB": "Josh Brolin",
+    "optionC": "Hugh Jackman",
+    "optionD": "Vin Diesel",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 214,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Eric Draven en 'El cuervo' (1994)?",
+    "optionA": "Christian Slater",
+    "optionB": "Keanu Reeves",
+    "optionC": "Brandon Lee",
+    "optionD": "Johnny Depp",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 215,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Eric Draven en 'El cuervo' de 2024?",
+    "optionA": "Bill Skarsgård",
+    "optionB": "Austin Butler",
+    "optionC": "Alexander Skarsgård",
+    "optionD": "Robert Pattinson",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 216,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Pennywise en las películas 'It' de 2017 y 2019?",
+    "optionA": "Jared Leto",
+    "optionB": "Willem Dafoe",
+    "optionC": "Bill Skarsgård",
+    "optionD": "Rami Malek",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Beetlejuice en la película de Tim Burton?",
+    "optionA": "Johnny Depp",
+    "optionB": "Jack Nicholson",
+    "optionC": "Michael Keaton",
+    "optionD": "Jim Carrey",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 218,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Batman en las películas de Tim Burton de 1989 y 1992?",
+    "optionA": "Val Kilmer",
+    "optionB": "Michael Keaton",
+    "optionC": "Christian Bale",
+    "optionD": "George Clooney",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 219,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Bruce Wayne en 'Batman Forever'?",
+    "optionA": "Michael Keaton",
+    "optionB": "Val Kilmer",
+    "optionC": "George Clooney",
+    "optionD": "Ben Affleck",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Batman en 'Batman y Robin' (1997)?",
+    "optionA": "George Clooney",
+    "optionB": "Val Kilmer",
+    "optionC": "Ben Affleck",
+    "optionD": "Michael Keaton",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 221,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Blade Runner Rick Deckard?",
+    "optionA": "Kurt Russell",
+    "optionB": "Harrison Ford",
+    "optionC": "Michael Douglas",
+    "optionD": "Rutger Hauer",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Han Solo en la trilogía original de 'Star Wars'?",
+    "optionA": "Harrison Ford",
+    "optionB": "Billy Dee Williams",
+    "optionC": "Alec Guinness",
+    "optionD": "Mark Hamill",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 223,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Luke Skywalker en la trilogía original de 'Star Wars'?",
+    "optionA": "Ewan McGregor",
+    "optionB": "Mark Hamill",
+    "optionC": "Hayden Christensen",
+    "optionD": "Harrison Ford",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 224,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a la princesa Leia en la trilogía original de 'Star Wars'?",
+    "optionA": "Linda Hamilton",
+    "optionB": "Carrie Fisher",
+    "optionC": "Natalie Portman",
+    "optionD": "Sigourney Weaver",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 225,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Obi-Wan Kenobi en las precuelas de 'Star Wars'?",
+    "optionA": "Hayden Christensen",
+    "optionB": "Mark Hamill",
+    "optionC": "Liam Neeson",
+    "optionD": "Ewan McGregor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 226,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Anakin Skywalker en 'El ataque de los clones' y 'La venganza de los Sith'?",
+    "optionA": "Mark Hamill",
+    "optionB": "Ewan McGregor",
+    "optionC": "Adam Driver",
+    "optionD": "Hayden Christensen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 227,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Kylo Ren en la trilogía secuela de 'Star Wars'?",
+    "optionA": "Oscar Isaac",
+    "optionB": "Adam Driver",
+    "optionC": "John Boyega",
+    "optionD": "Hayden Christensen",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 228,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Rey en la trilogía secuela de 'Star Wars'?",
+    "optionA": "Natalie Portman",
+    "optionB": "Daisy Ridley",
+    "optionC": "Felicity Jones",
+    "optionD": "Keira Knightley",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 229,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Finn en la trilogía secuela de 'Star Wars'?",
+    "optionA": "Adam Driver",
+    "optionB": "Anthony Mackie",
+    "optionC": "Oscar Isaac",
+    "optionD": "John Boyega",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 230,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Poe Dameron en la trilogía secuela de 'Star Wars'?",
+    "optionA": "Pedro Pascal",
+    "optionB": "Diego Luna",
+    "optionC": "John Boyega",
+    "optionD": "Oscar Isaac",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 231,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Indiana Jones en la saga del mismo nombre?",
+    "optionA": "Harrison Ford",
+    "optionB": "Tom Selleck",
+    "optionC": "Kevin Costner",
+    "optionD": "Kurt Russell",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 232,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al doctor Alan Grant en 'Jurassic Park'?",
+    "optionA": "Jeff Goldblum",
+    "optionB": "Sam Neill",
+    "optionC": "Richard Attenborough",
+    "optionD": "Harrison Ford",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 233,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al doctor Ian Malcolm en 'Jurassic Park'?",
+    "optionA": "Laura Dern",
+    "optionB": "Sam Neill",
+    "optionC": "Jeff Goldblum",
+    "optionD": "Richard Attenborough",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 234,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Owen Grady en 'Jurassic World'?",
+    "optionA": "Chris Pine",
+    "optionB": "Chris Evans",
+    "optionC": "Chris Hemsworth",
+    "optionD": "Chris Pratt",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 235,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Claire Dearing en 'Jurassic World'?",
+    "optionA": "Rachel McAdams",
+    "optionB": "Jessica Chastain",
+    "optionC": "Bryce Dallas Howard",
+    "optionD": "Amy Adams",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 236,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Katniss Everdeen en la saga 'Los juegos del hambre'?",
+    "optionA": "Emma Stone",
+    "optionB": "Brie Larson",
+    "optionC": "Jennifer Lawrence",
+    "optionD": "Shailene Woodley",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 237,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Gale Hawthorne en 'Los juegos del hambre'?",
+    "optionA": "Josh Hutcherson",
+    "optionB": "Theo James",
+    "optionC": "Liam Hemsworth",
+    "optionD": "Chris Hemsworth",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Tris Prior en la saga 'Divergente'?",
+    "optionA": "Kristen Stewart",
+    "optionB": "Dakota Johnson",
+    "optionC": "Shailene Woodley",
+    "optionD": "Jennifer Lawrence",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 239,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Cuatro en la saga 'Divergente'?",
+    "optionA": "Theo James",
+    "optionB": "Miles Teller",
+    "optionC": "Liam Hemsworth",
+    "optionD": "Ansel Elgort",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 240,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Hazel Grace en 'Bajo la misma estrella'?",
+    "optionA": "Emma Stone",
+    "optionB": "Shailene Woodley",
+    "optionC": "Dakota Johnson",
+    "optionD": "Lily Collins",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Augustus Waters en 'Bajo la misma estrella'?",
+    "optionA": "Zac Efron",
+    "optionB": "Miles Teller",
+    "optionC": "Ansel Elgort",
+    "optionD": "Theo James",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 242,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Christian Grey en la saga 'Cincuenta sombras de Grey'?",
+    "optionA": "Robert Pattinson",
+    "optionB": "Theo James",
+    "optionC": "Henry Cavill",
+    "optionD": "Jamie Dornan",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 243,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Anastasia Steele en 'Cincuenta sombras de Grey'?",
+    "optionA": "Kristen Stewart",
+    "optionB": "Lily Collins",
+    "optionC": "Emma Watson",
+    "optionD": "Dakota Johnson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 244,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Noah Calhoun en 'El diario de Noa'?",
+    "optionA": "Ryan Gosling",
+    "optionB": "Ryan Reynolds",
+    "optionC": "Channing Tatum",
+    "optionD": "Jake Gyllenhaal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 245,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Allie Hamilton en 'El diario de Noa'?",
+    "optionA": "Rachel McAdams",
+    "optionB": "Amanda Seyfried",
+    "optionC": "Reese Witherspoon",
+    "optionD": "Kate Hudson",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Regina George en 'Chicas malas'?",
+    "optionA": "Rachel McAdams",
+    "optionB": "Amanda Seyfried",
+    "optionC": "Emma Stone",
+    "optionD": "Lindsay Lohan",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 247,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Cady Heron en 'Chicas malas' (2004)?",
+    "optionA": "Amanda Seyfried",
+    "optionB": "Rachel McAdams",
+    "optionC": "Hilary Duff",
+    "optionD": "Lindsay Lohan",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 248,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Sophie en 'Mamma Mia!'?",
+    "optionA": "Anne Hathaway",
+    "optionB": "Amanda Seyfried",
+    "optionC": "Emma Stone",
+    "optionD": "Lily James",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 249,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Donna en 'Mamma Mia!'?",
+    "optionA": "Meryl Streep",
+    "optionB": "Julie Andrews",
+    "optionC": "Diane Keaton",
+    "optionD": "Helen Mirren",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 250,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Vivian Ward en 'Pretty Woman'?",
+    "optionA": "Meg Ryan",
+    "optionB": "Julia Roberts",
+    "optionC": "Demi Moore",
+    "optionD": "Sandra Bullock",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 251,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Forrest Gump?",
+    "optionA": "John Travolta",
+    "optionB": "Tom Hanks",
+    "optionC": "Robin Williams",
+    "optionD": "Kevin Costner",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 252,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al capitán Jack Aubrey en 'Master and Commander'?",
+    "optionA": "Hugh Jackman",
+    "optionB": "Russell Crowe",
+    "optionC": "Clive Owen",
+    "optionD": "Gerard Butler",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 253,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Maximus en la secuela 'Gladiator II'?",
+    "optionA": "Pedro Pascal",
+    "optionB": "Timothée Chalamet",
+    "optionC": "Paul Mescal",
+    "optionD": "Austin Butler",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 254,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Lucius en 'Gladiator II'?",
+    "optionA": "Pedro Pascal",
+    "optionB": "Joseph Quinn",
+    "optionC": "Barry Keoghan",
+    "optionD": "Paul Mescal",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 255,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al general Acacius en 'Gladiator II'?",
+    "optionA": "Pedro Pascal",
+    "optionB": "Oscar Isaac",
+    "optionC": "Antonio Banderas",
+    "optionD": "Javier Bardem",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 256,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Maxwell Lord en 'Wonder Woman 1984'?",
+    "optionA": "Oscar Isaac",
+    "optionB": "Pedro Pascal",
+    "optionC": "Javier Bardem",
+    "optionD": "Diego Luna",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 257,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Javier Peña en 'Narcos' y al Mandaloriano en 'The Mandalorian'?",
+    "optionA": "Oscar Isaac",
+    "optionB": "Pedro Pascal",
+    "optionC": "Diego Luna",
+    "optionD": "Benicio del Toro",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 258,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Willy Wonka en 'Charlie y la fábrica de chocolate' (2005)?",
+    "optionA": "Johnny Depp",
+    "optionB": "Jim Carrey",
+    "optionC": "Ben Stiller",
+    "optionD": "Mike Myers",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 259,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Willy Wonka en 'Wonka' (2023)?",
+    "optionA": "Tom Holland",
+    "optionB": "Austin Butler",
+    "optionC": "Ansel Elgort",
+    "optionD": "Timothée Chalamet",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 260,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Elvis Presley en 'Elvis' (2022)?",
+    "optionA": "Rami Malek",
+    "optionB": "Taron Egerton",
+    "optionC": "Timothée Chalamet",
+    "optionD": "Austin Butler",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 261,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Marilyn Monroe en 'Blonde'?",
+    "optionA": "Jessica Chastain",
+    "optionB": "Penélope Cruz",
+    "optionC": "Ana de Armas",
+    "optionD": "Margot Robbie",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 262,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Marta Cabrera en 'Puñales por la espalda'?",
+    "optionA": "Penélope Cruz",
+    "optionB": "Eiza González",
+    "optionC": "Ana de Armas",
+    "optionD": "Salma Hayek",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 263,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al detective Benoit Blanc en 'Puñales por la espalda'?",
+    "optionA": "Pierce Brosnan",
+    "optionB": "Daniel Craig",
+    "optionC": "Colin Firth",
+    "optionD": "Ralph Fiennes",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 264,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Marta en 'Puñales por la espalda'?",
+    "optionA": "Ana de Armas",
+    "optionB": "Rachel Weisz",
+    "optionC": "Rebecca Ferguson",
+    "optionD": "Emily Blunt",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 265,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Evelyn en 'Un lugar tranquilo'?",
+    "optionA": "Rachel McAdams",
+    "optionB": "Amy Adams",
+    "optionC": "Emily Blunt",
+    "optionD": "Jessica Chastain",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 266,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Lee Abbott en 'Un lugar tranquilo'?",
+    "optionA": "Jason Sudeikis",
+    "optionB": "John Krasinski",
+    "optionC": "Ryan Reynolds",
+    "optionD": "Chris Pratt",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 267,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Mary Poppins en 'El regreso de Mary Poppins'?",
+    "optionA": "Anne Hathaway",
+    "optionB": "Amy Adams",
+    "optionC": "Emily Blunt",
+    "optionD": "Emma Stone",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 268,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Cruella en la película de 2021?",
+    "optionA": "Emma Stone",
+    "optionB": "Margot Robbie",
+    "optionC": "Emma Watson",
+    "optionD": "Anne Hathaway",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 269,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Gwen Stacy en 'The Amazing Spider-Man'?",
+    "optionA": "Emma Stone",
+    "optionB": "Bryce Dallas Howard",
+    "optionC": "Kirsten Dunst",
+    "optionD": "Zendaya",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 270,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Mary Jane Watson en la trilogía de Spider-Man de Sam Raimi?",
+    "optionA": "Emma Stone",
+    "optionB": "Kirsten Dunst",
+    "optionC": "Natalie Portman",
+    "optionD": "Zendaya",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 271,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a MJ en las películas de Spider-Man protagonizadas por Tom Holland?",
+    "optionA": "Zendaya",
+    "optionB": "Emma Stone",
+    "optionC": "Kirsten Dunst",
+    "optionD": "Hailee Steinfeld",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 272,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Peter Quill en 'Guardianes de la Galaxia'?",
+    "optionA": "Chris Pine",
+    "optionB": "Chris Pratt",
+    "optionC": "Chris Hemsworth",
+    "optionD": "Chris Evans",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 273,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Drax en 'Guardianes de la Galaxia'?",
+    "optionA": "Vin Diesel",
+    "optionB": "Dwayne Johnson",
+    "optionC": "Dave Bautista",
+    "optionD": "Jason Momoa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 274,
+    "Subject": "Cine",
+    "question": "¿Quién pone la voz original a Groot en 'Guardianes de la Galaxia'?",
+    "optionA": "Bradley Cooper",
+    "optionB": "Chris Pratt",
+    "optionC": "Vin Diesel",
+    "optionD": "Dave Bautista",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 275,
+    "Subject": "Cine",
+    "question": "¿Qué actor pone la voz original a Rocket en 'Guardianes de la Galaxia'?",
+    "optionA": "Chris Pratt",
+    "optionB": "Ryan Reynolds",
+    "optionC": "Bradley Cooper",
+    "optionD": "Seth Rogen",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 276,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Gamora en 'Guardianes de la Galaxia'?",
+    "optionA": "Thandiwe Newton",
+    "optionB": "Rosario Dawson",
+    "optionC": "Zoe Saldaña",
+    "optionD": "Michelle Rodriguez",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 277,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Neytiri en 'Avatar'?",
+    "optionA": "Zoe Saldaña",
+    "optionB": "Naomie Harris",
+    "optionC": "Lupita Nyong'o",
+    "optionD": "Michelle Rodriguez",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 278,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Jake Sully en 'Avatar'?",
+    "optionA": "Joel Edgerton",
+    "optionB": "Chris Pine",
+    "optionC": "Taylor Kitsch",
+    "optionD": "Sam Worthington",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 279,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Aquiles en 'Troya'?",
+    "optionA": "Russell Crowe",
+    "optionB": "Eric Bana",
+    "optionC": "Orlando Bloom",
+    "optionD": "Brad Pitt",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 280,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Héctor en 'Troya'?",
+    "optionA": "Orlando Bloom",
+    "optionB": "Gerard Butler",
+    "optionC": "Brad Pitt",
+    "optionD": "Eric Bana",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 281,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Paris en 'Troya'?",
+    "optionA": "Orlando Bloom",
+    "optionB": "Colin Farrell",
+    "optionC": "Eric Bana",
+    "optionD": "Jude Law",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 282,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Alejandro Magno en 'Alejandro' (2004)?",
+    "optionA": "Colin Farrell",
+    "optionB": "Orlando Bloom",
+    "optionC": "Jude Law",
+    "optionD": "Christian Bale",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 283,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Sherlock Holmes en las películas dirigidas por Guy Ritchie?",
+    "optionA": "Jude Law",
+    "optionB": "Benedict Cumberbatch",
+    "optionC": "Johnny Depp",
+    "optionD": "Robert Downey Jr.",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 284,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al doctor Watson en las películas de Sherlock Holmes de Guy Ritchie?",
+    "optionA": "Colin Firth",
+    "optionB": "Ewan McGregor",
+    "optionC": "Hugh Grant",
+    "optionD": "Jude Law",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 285,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Arthur Fleck en 'Joker'?",
+    "optionA": "Jared Leto",
+    "optionB": "Joaquin Phoenix",
+    "optionC": "Heath Ledger",
+    "optionD": "Jack Nicholson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 286,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Napoleón Bonaparte en 'Napoleón' (2023)?",
+    "optionA": "Christian Bale",
+    "optionB": "Russell Crowe",
+    "optionC": "Joaquin Phoenix",
+    "optionD": "Michael Fassbender",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 287,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Magneto joven en las películas de 'X-Men'?",
+    "optionA": "James McAvoy",
+    "optionB": "Nicholas Hoult",
+    "optionC": "Michael Fassbender",
+    "optionD": "Tom Hardy",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 288,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta al profesor Charles Xavier joven en 'X-Men: Primera generación'?",
+    "optionA": "Benedict Cumberbatch",
+    "optionB": "Ewan McGregor",
+    "optionC": "Michael Fassbender",
+    "optionD": "James McAvoy",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 289,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Deadpool en las películas del personaje?",
+    "optionA": "Chris Pratt",
+    "optionB": "Ryan Reynolds",
+    "optionC": "Ryan Gosling",
+    "optionD": "Jake Gyllenhaal",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 290,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Cable en 'Deadpool 2'?",
+    "optionA": "Gerard Butler",
+    "optionB": "Jeff Bridges",
+    "optionC": "Hugh Jackman",
+    "optionD": "Josh Brolin",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 291,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Venom/Eddie Brock en las películas de 'Venom'?",
+    "optionA": "Christian Bale",
+    "optionB": "Tom Hardy",
+    "optionC": "Michael Fassbender",
+    "optionD": "Tom Holland",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 292,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Morbius en la película de 2022?",
+    "optionA": "Jared Leto",
+    "optionB": "Jake Gyllenhaal",
+    "optionC": "Oscar Isaac",
+    "optionD": "Joaquin Phoenix",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 293,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta a Moon Knight en la serie del mismo nombre y a Poe Dameron en 'Star Wars'?",
+    "optionA": "Diego Luna",
+    "optionB": "Pedro Pascal",
+    "optionC": "Adam Driver",
+    "optionD": "Oscar Isaac",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 294,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Cassian Andor en 'Rogue One'?",
+    "optionA": "Gael García Bernal",
+    "optionB": "Diego Luna",
+    "optionC": "Pedro Pascal",
+    "optionD": "Oscar Isaac",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 295,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Jyn Erso en 'Rogue One'?",
+    "optionA": "Daisy Ridley",
+    "optionB": "Natalie Portman",
+    "optionC": "Felicity Jones",
+    "optionD": "Keira Knightley",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 296,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a la reina Amidala/Padmé en las precuelas de 'Star Wars'?",
+    "optionA": "Natalie Portman",
+    "optionB": "Daisy Ridley",
+    "optionC": "Keira Knightley",
+    "optionD": "Carrie Fisher",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 297,
+    "Subject": "Cine",
+    "question": "¿Qué actriz interpreta a Nina en 'Cisne negro'?",
+    "optionA": "Anne Hathaway",
+    "optionB": "Mila Kunis",
+    "optionC": "Keira Knightley",
+    "optionD": "Natalie Portman",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 298,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a V en 'V de Vendetta'?",
+    "optionA": "Hugo Weaving",
+    "optionB": "Gary Oldman",
+    "optionC": "Jeremy Irons",
+    "optionD": "Alan Rickman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 299,
+    "Subject": "Cine",
+    "question": "¿Qué actor interpreta al agente Smith en la saga 'Matrix'?",
+    "optionA": "Hugo Weaving",
+    "optionB": "Laurence Fishburne",
+    "optionC": "Guy Pearce",
+    "optionD": "Keanu Reeves",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 300,
+    "Subject": "Cine",
+    "question": "¿Quién interpreta a Morfeo en la trilogía original de 'Matrix'?",
+    "optionA": "Forest Whitaker",
+    "optionB": "Laurence Fishburne",
+    "optionC": "Samuel L. Jackson",
+    "optionD": "Morgan Freeman",
+    "correctAnswer": "B"
+  }
+]

@@ -14,6 +14,8 @@ import '/backend/schema/structs/index.dart';
 String themeImageUrl(String theme) {
   const String base =
       'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-48ll8w/assets';
+  const String baseMobile =
+      'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/trivia-master-mobile-e3cfp4/assets';
 
   const String iconoSecundaria =
       '$base/7cujadfehb8w/Secundaria-removebg-preview.png';
@@ -33,6 +35,9 @@ String themeImageUrl(String theme) {
     'ESO Geografía e Historia': iconoHistoria,
     'ESO Física y Química': iconoSecundaria,
     'ESO Biología y Geología': iconoSecundaria,
+    'CINE': '$baseMobile/p06jqa9xy011/cine.png',
+    'CULTURA GENERAL': '$baseMobile/ziuavn8lw0s5/cultura_general.png',
+    'NATURALEZA': '$baseMobile/3zq19n1wsog0/naturaleza.png',
   };
 
   return imagenes[theme.trim()] ?? iconoSecundaria;

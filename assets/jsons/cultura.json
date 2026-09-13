@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se celebró la Exposición Universal de Sevilla?",
+    "optionA": "1994",
+    "optionB": "1992",
+    "optionC": "1990",
+    "optionD": "1986",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "Subject": "Cultura General",
+    "question": "¿En qué fecha tuvieron lugar los atentados contra las Torres Gemelas de Nueva York?",
+    "optionA": "11 de marzo de 2004",
+    "optionB": "9 de noviembre de 2001",
+    "optionC": "7 de julio de 2005",
+    "optionD": "11 de septiembre de 2001",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 3,
+    "Subject": "Cultura General",
+    "question": "¿En qué año cayó el Muro de Berlín?",
+    "optionA": "1985",
+    "optionB": "1991",
+    "optionC": "1989",
+    "optionD": "1993",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "Subject": "Cultura General",
+    "question": "¿En qué año llegó el ser humano por primera vez a la Luna?",
+    "optionA": "1965",
+    "optionB": "1972",
+    "optionC": "1969",
+    "optionD": "1975",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "Subject": "Cultura General",
+    "question": "¿Quién fue el primer ser humano en pisar la Luna?",
+    "optionA": "Neil Armstrong",
+    "optionB": "Yuri Gagarin",
+    "optionC": "Michael Collins",
+    "optionD": "Buzz Aldrin",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad acogió los Juegos Olímpicos de 1992?",
+    "optionA": "Barcelona",
+    "optionB": "Sevilla",
+    "optionC": "Valencia",
+    "optionD": "Madrid",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "Subject": "Cultura General",
+    "question": "¿En qué año entró España en la Comunidad Económica Europea?",
+    "optionA": "1982",
+    "optionB": "1986",
+    "optionC": "1992",
+    "optionD": "1978",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "Subject": "Cultura General",
+    "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "optionA": "1939",
+    "optionB": "1945",
+    "optionC": "1936",
+    "optionD": "1941",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "Subject": "Cultura General",
+    "question": "¿En qué año terminó la Segunda Guerra Mundial en Europa?",
+    "optionA": "1946",
+    "optionB": "1943",
+    "optionC": "1945",
+    "optionD": "1944",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "Subject": "Cultura General",
+    "question": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki en 1945?",
+    "optionA": "Alemania",
+    "optionB": "Unión Soviética",
+    "optionC": "Reino Unido",
+    "optionD": "Estados Unidos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se hundió el Titanic?",
+    "optionA": "1912",
+    "optionB": "1914",
+    "optionC": "1918",
+    "optionD": "1908",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "Subject": "Cultura General",
+    "question": "¿Qué país fue el primero en enviar un ser humano al espacio?",
+    "optionA": "China",
+    "optionB": "La Unión Soviética",
+    "optionC": "Estados Unidos",
+    "optionD": "Francia",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "Subject": "Cultura General",
+    "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+    "optionA": "Valentina Tereshkova",
+    "optionB": "Yuri Gagarin",
+    "optionC": "Neil Armstrong",
+    "optionD": "John Glenn",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "Subject": "Cultura General",
+    "question": "¿Qué científica ganó dos premios Nobel en dos disciplinas científicas diferentes?",
+    "optionA": "Ada Lovelace",
+    "optionB": "Marie Curie",
+    "optionC": "Jane Goodall",
+    "optionD": "Rosalind Franklin",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico formuló la teoría de la relatividad?",
+    "optionA": "Isaac Newton",
+    "optionB": "Albert Einstein",
+    "optionC": "Nikola Tesla",
+    "optionD": "Niels Bohr",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico propuso las leyes del movimiento y la gravitación universal?",
+    "optionA": "Isaac Newton",
+    "optionB": "Johannes Kepler",
+    "optionC": "Galileo Galilei",
+    "optionD": "Albert Einstein",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 17,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento se asocia principalmente con Alexander Graham Bell?",
+    "optionA": "La televisión",
+    "optionB": "El teléfono",
+    "optionC": "La bombilla",
+    "optionD": "La radio",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "Subject": "Cultura General",
+    "question": "¿Quién es conocido por perfeccionar una bombilla eléctrica práctica y comercialmente viable?",
+    "optionA": "James Watt",
+    "optionB": "Nikola Tesla",
+    "optionC": "Thomas Edison",
+    "optionD": "Guglielmo Marconi",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento revolucionó Johannes Gutenberg en el siglo XV?",
+    "optionA": "La máquina de vapor",
+    "optionB": "La imprenta de tipos móviles",
+    "optionC": "La brújula",
+    "optionD": "El telescopio",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico observó el cielo con telescopio y defendió el modelo heliocéntrico?",
+    "optionA": "Michael Faraday",
+    "optionB": "Louis Pasteur",
+    "optionC": "Charles Darwin",
+    "optionD": "Galileo Galilei",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 21,
+    "Subject": "Cultura General",
+    "question": "¿Quién formuló la teoría de la evolución por selección natural?",
+    "optionA": "Charles Darwin",
+    "optionB": "Louis Pasteur",
+    "optionC": "Gregor Mendel",
+    "optionD": "Carl Linneo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 22,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico descubrió la penicilina?",
+    "optionA": "Robert Koch",
+    "optionB": "Alexander Fleming",
+    "optionC": "Louis Pasteur",
+    "optionD": "Edward Jenner",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene forma de bota en los mapas de Europa?",
+    "optionA": "Grecia",
+    "optionB": "Croacia",
+    "optionC": "Italia",
+    "optionD": "Portugal",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el océano más grande del planeta?",
+    "optionA": "El océano Índico",
+    "optionB": "El océano Ártico",
+    "optionC": "El océano Atlántico",
+    "optionD": "El océano Pacífico",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 25,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el río más largo de Sudamérica?",
+    "optionA": "El Amazonas",
+    "optionB": "El Río de la Plata",
+    "optionC": "El Orinoco",
+    "optionD": "El Paraná",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+    "optionA": "El Everest",
+    "optionB": "El Aconcagua",
+    "optionC": "El Kilimanjaro",
+    "optionD": "El K2",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene la mayor superficie del mundo?",
+    "optionA": "Canadá",
+    "optionB": "Estados Unidos",
+    "optionC": "China",
+    "optionD": "Rusia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 28,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el desierto cálido más grande del mundo?",
+    "optionA": "El Kalahari",
+    "optionB": "El Atacama",
+    "optionC": "El Sáhara",
+    "optionD": "El Gobi",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad es conocida como 'la Ciudad Eterna'?",
+    "optionA": "Roma",
+    "optionB": "Estambul",
+    "optionC": "Atenas",
+    "optionD": "París",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad está atravesada por el río Sena?",
+    "optionA": "Roma",
+    "optionB": "Viena",
+    "optionC": "París",
+    "optionD": "Londres",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 31,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad está atravesada por el río Támesis?",
+    "optionA": "Londres",
+    "optionB": "Bruselas",
+    "optionC": "Dublín",
+    "optionD": "Ámsterdam",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene como capital Canberra?",
+    "optionA": "Sudáfrica",
+    "optionB": "Australia",
+    "optionC": "Canadá",
+    "optionD": "Nueva Zelanda",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Canadá?",
+    "optionA": "Ottawa",
+    "optionB": "Vancouver",
+    "optionC": "Toronto",
+    "optionD": "Montreal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene como capital Brasilia?",
+    "optionA": "Chile",
+    "optionB": "Brasil",
+    "optionC": "Argentina",
+    "optionD": "Colombia",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La Gioconda' o 'Mona Lisa'?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Rafael",
+    "optionC": "Caravaggio",
+    "optionD": "Miguel Ángel",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'Guernica'?",
+    "optionA": "Diego Velázquez",
+    "optionB": "Salvador Dalí",
+    "optionC": "Joan Miró",
+    "optionD": "Pablo Picasso",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La noche estrellada'?",
+    "optionA": "Paul Cézanne",
+    "optionB": "Claude Monet",
+    "optionC": "Vincent van Gogh",
+    "optionD": "Edvard Munch",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 38,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'Las Meninas'?",
+    "optionA": "Murillo",
+    "optionB": "Francisco de Goya",
+    "optionC": "Diego Velázquez",
+    "optionD": "El Greco",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "optionA": "Calderón de la Barca",
+    "optionB": "Francisco de Quevedo",
+    "optionC": "Miguel de Cervantes",
+    "optionD": "Lope de Vega",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Romeo y Julieta'?",
+    "optionA": "Jane Austen",
+    "optionB": "Oscar Wilde",
+    "optionC": "Charles Dickens",
+    "optionD": "William Shakespeare",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 41,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Cien años de soledad'?",
+    "optionA": "Pablo Neruda",
+    "optionB": "Mario Vargas Llosa",
+    "optionC": "Jorge Luis Borges",
+    "optionD": "Gabriel García Márquez",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 42,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo británico estaba formado por John Lennon, Paul McCartney, George Harrison y Ringo Starr?",
+    "optionA": "The Rolling Stones",
+    "optionB": "Queen",
+    "optionC": "The Beatles",
+    "optionD": "The Who",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 43,
+    "Subject": "Cultura General",
+    "question": "¿Quién fue el cantante principal de Queen?",
+    "optionA": "David Bowie",
+    "optionB": "Freddie Mercury",
+    "optionC": "Elton John",
+    "optionD": "Mick Jagger",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante es conocido como 'el Rey del Pop'?",
+    "optionA": "Stevie Wonder",
+    "optionB": "Prince",
+    "optionC": "Elvis Presley",
+    "optionD": "Michael Jackson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "Subject": "Cultura General",
+    "question": "¿Qué deportista jamaicano posee algunas de las marcas más famosas de la historia en 100 y 200 metros?",
+    "optionA": "Carl Lewis",
+    "optionB": "Michael Johnson",
+    "optionC": "Mo Farah",
+    "optionD": "Usain Bolt",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "Subject": "Cultura General",
+    "question": "¿Qué tenista español ganó 14 veces Roland Garros?",
+    "optionA": "David Ferrer",
+    "optionB": "Rafael Nadal",
+    "optionC": "Manuel Santana",
+    "optionD": "Carlos Alcaraz",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "Subject": "Cultura General",
+    "question": "¿Qué selección ganó el Mundial de fútbol de 2010?",
+    "optionA": "Brasil",
+    "optionB": "Alemania",
+    "optionC": "España",
+    "optionD": "Países Bajos",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 48,
+    "Subject": "Cultura General",
+    "question": "¿En qué país se celebró el Mundial de fútbol de 2010?",
+    "optionA": "Alemania",
+    "optionB": "Japón",
+    "optionC": "Brasil",
+    "optionD": "Sudáfrica",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 49,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa lanzó el primer iPhone en 2007?",
+    "optionA": "Apple",
+    "optionB": "Microsoft",
+    "optionC": "Samsung",
+    "optionD": "Nokia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 50,
+    "Subject": "Cultura General",
+    "question": "¿Qué red social fue fundada por Mark Zuckerberg y varios compañeros de Harvard?",
+    "optionA": "Instagram",
+    "optionB": "Twitter",
+    "optionC": "LinkedIn",
+    "optionD": "Facebook",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "Subject": "Cultura General",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "optionA": "1914",
+    "optionB": "1912",
+    "optionC": "1918",
+    "optionD": "1916",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 52,
+    "Subject": "Cultura General",
+    "question": "¿Qué acontecimiento de 1986 marcó una gran tragedia nuclear en la entonces Unión Soviética?",
+    "optionA": "La explosión del Challenger",
+    "optionB": "El accidente de Chernóbil",
+    "optionC": "El desastre de Fukushima",
+    "optionD": "El accidente de Three Mile Island",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "Subject": "Cultura General",
+    "question": "¿En qué año tuvo lugar el desastre nuclear de Chernóbil?",
+    "optionA": "1986",
+    "optionB": "1979",
+    "optionC": "1991",
+    "optionD": "1989",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 54,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se produjo el tsunami del océano Índico que causó una enorme catástrofe en Asia?",
+    "optionA": "2010",
+    "optionB": "2001",
+    "optionC": "2004",
+    "optionD": "2006",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "Subject": "Cultura General",
+    "question": "¿Qué transatlántico fue hundido por un submarino alemán en 1915 durante la Primera Guerra Mundial?",
+    "optionA": "El Britannic",
+    "optionB": "El Titanic",
+    "optionC": "El Lusitania",
+    "optionD": "El Queen Mary",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se proclamó la Segunda República española?",
+    "optionA": "1928",
+    "optionB": "1936",
+    "optionC": "1931",
+    "optionD": "1939",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 57,
+    "Subject": "Cultura General",
+    "question": "¿En qué año terminó la Guerra Civil española?",
+    "optionA": "1941",
+    "optionB": "1945",
+    "optionC": "1936",
+    "optionD": "1939",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 58,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se aprobó la actual Constitución española?",
+    "optionA": "1975",
+    "optionB": "1986",
+    "optionC": "1978",
+    "optionD": "1981",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se introdujeron físicamente los billetes y monedas de euro en España?",
+    "optionA": "1999",
+    "optionB": "2002",
+    "optionC": "2000",
+    "optionD": "2004",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "Subject": "Cultura General",
+    "question": "¿Qué país sufrió un gran terremoto y tsunami en 2011 que provocó el accidente nuclear de Fukushima?",
+    "optionA": "Filipinas",
+    "optionB": "Indonesia",
+    "optionC": "Japón",
+    "optionD": "China",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "Subject": "Cultura General",
+    "question": "¿Qué país fue dividido en Alemania Oriental y Alemania Occidental tras la Segunda Guerra Mundial?",
+    "optionA": "Alemania",
+    "optionB": "Polonia",
+    "optionC": "Austria",
+    "optionD": "Checoslovaquia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "Subject": "Cultura General",
+    "question": "¿Qué país fue gobernado durante décadas por Nelson Mandela como símbolo de la lucha contra el apartheid?",
+    "optionA": "Sudáfrica",
+    "optionB": "Nigeria",
+    "optionC": "Kenia",
+    "optionD": "Etiopía",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 63,
+    "Subject": "Cultura General",
+    "question": "¿Quién fue el primer presidente negro de Sudáfrica elegido en elecciones democráticas?",
+    "optionA": "Kofi Annan",
+    "optionB": "Thabo Mbeki",
+    "optionC": "Nelson Mandela",
+    "optionD": "Desmond Tutu",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 64,
+    "Subject": "Cultura General",
+    "question": "¿Qué activista estadounidense pronunció el famoso discurso 'I Have a Dream'?",
+    "optionA": "Martin Luther King Jr.",
+    "optionB": "Barack Obama",
+    "optionC": "Rosa Parks",
+    "optionD": "Malcolm X",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "Subject": "Cultura General",
+    "question": "¿Qué mujer se convirtió en un símbolo del movimiento por los derechos civiles al negarse a ceder su asiento en un autobús?",
+    "optionA": "Michelle Obama",
+    "optionB": "Harriet Tubman",
+    "optionC": "Angela Davis",
+    "optionD": "Rosa Parks",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 66,
+    "Subject": "Cultura General",
+    "question": "¿Qué físico desarrolló gran parte de la teoría cuántica y dio nombre a una constante fundamental?",
+    "optionA": "Niels Bohr",
+    "optionB": "Max Planck",
+    "optionC": "Erwin Schrödinger",
+    "optionD": "Richard Feynman",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "Subject": "Cultura General",
+    "question": "¿Qué científica fue clave para comprender la estructura del ADN gracias a imágenes de difracción de rayos X?",
+    "optionA": "Barbara McClintock",
+    "optionB": "Marie Curie",
+    "optionC": "Dorothy Hodgkin",
+    "optionD": "Rosalind Franklin",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 68,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico formuló las leyes básicas de la herencia estudiando plantas de guisante?",
+    "optionA": "Louis Pasteur",
+    "optionB": "Gregor Mendel",
+    "optionC": "Charles Darwin",
+    "optionD": "Robert Hooke",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico desarrolló la vacuna contra la rabia?",
+    "optionA": "Robert Koch",
+    "optionB": "Louis Pasteur",
+    "optionC": "Edward Jenner",
+    "optionD": "Alexander Fleming",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento se asocia con los hermanos Wright?",
+    "optionA": "El avión",
+    "optionB": "El teléfono",
+    "optionC": "La radio",
+    "optionD": "El automóvil",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento se asocia principalmente con Guglielmo Marconi?",
+    "optionA": "El automóvil",
+    "optionB": "La radio",
+    "optionC": "La televisión",
+    "optionD": "La fotografía",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "Subject": "Cultura General",
+    "question": "¿Quién desarrolló uno de los primeros automóviles prácticos con motor de gasolina?",
+    "optionA": "Henry Ford",
+    "optionB": "James Watt",
+    "optionC": "Rudolf Diesel",
+    "optionD": "Karl Benz",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 73,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresario popularizó la fabricación en cadena de automóviles con el Ford T?",
+    "optionA": "Enzo Ferrari",
+    "optionB": "Karl Benz",
+    "optionC": "Louis Chevrolet",
+    "optionD": "Henry Ford",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 74,
+    "Subject": "Cultura General",
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "optionA": "Mercurio",
+    "optionB": "Venus",
+    "optionC": "Júpiter",
+    "optionD": "Marte",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 75,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el planeta más grande del sistema solar?",
+    "optionA": "Urano",
+    "optionB": "Neptuno",
+    "optionC": "Júpiter",
+    "optionD": "Saturno",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 76,
+    "Subject": "Cultura General",
+    "question": "¿Qué planeta es famoso por sus grandes anillos visibles?",
+    "optionA": "Venus",
+    "optionB": "Saturno",
+    "optionC": "Urano",
+    "optionD": "Júpiter",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 77,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "optionA": "Tierra",
+    "optionB": "Mercurio",
+    "optionC": "Venus",
+    "optionD": "Marte",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 78,
+    "Subject": "Cultura General",
+    "question": "¿Qué planeta tiene una rotación tan lenta que un día dura más que un año?",
+    "optionA": "Marte",
+    "optionB": "Mercurio",
+    "optionC": "Neptuno",
+    "optionD": "Venus",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 79,
+    "Subject": "Cultura General",
+    "question": "¿Cómo se llama la galaxia en la que se encuentra el sistema solar?",
+    "optionA": "Triángulo",
+    "optionB": "Sombrero",
+    "optionC": "La Vía Láctea",
+    "optionD": "Andrómeda",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 80,
+    "Subject": "Cultura General",
+    "question": "¿Qué estrella es la más cercana a la Tierra?",
+    "optionA": "El Sol",
+    "optionB": "Próxima Centauri",
+    "optionC": "Betelgeuse",
+    "optionD": "Sirio",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 81,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el país más poblado de África?",
+    "optionA": "Nigeria",
+    "optionB": "Egipto",
+    "optionC": "Etiopía",
+    "optionD": "Sudáfrica",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Japón?",
+    "optionA": "Osaka",
+    "optionB": "Tokio",
+    "optionC": "Kioto",
+    "optionD": "Nagoya",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Argentina?",
+    "optionA": "Mendoza",
+    "optionB": "Buenos Aires",
+    "optionC": "Rosario",
+    "optionD": "Córdoba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene como capital Wellington?",
+    "optionA": "Nueva Zelanda",
+    "optionB": "Australia",
+    "optionC": "Irlanda",
+    "optionD": "Canadá",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 85,
+    "Subject": "Cultura General",
+    "question": "¿Qué río atraviesa Egipto y ha sido esencial para su civilización desde la Antigüedad?",
+    "optionA": "El Congo",
+    "optionB": "El Zambeze",
+    "optionC": "El Nilo",
+    "optionD": "El Níger",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 86,
+    "Subject": "Cultura General",
+    "question": "¿Qué cordillera separa tradicionalmente Europa de Asia en parte de Rusia?",
+    "optionA": "El Cáucaso",
+    "optionB": "Los Alpes",
+    "optionC": "Los Cárpatos",
+    "optionD": "Los Urales",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 87,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la isla más grande del mundo?",
+    "optionA": "Groenlandia",
+    "optionB": "Madagascar",
+    "optionC": "Nueva Guinea",
+    "optionD": "Borneo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "Subject": "Cultura General",
+    "question": "¿Qué estrecho separa Europa de África entre España y Marruecos?",
+    "optionA": "El estrecho de Gibraltar",
+    "optionB": "El canal de Suez",
+    "optionC": "El Bósforo",
+    "optionD": "El estrecho de Ormuz",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'El grito'?",
+    "optionA": "Edvard Munch",
+    "optionB": "Gustav Klimt",
+    "optionC": "Claude Monet",
+    "optionD": "Vincent van Gogh",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'El nacimiento de Venus'?",
+    "optionA": "Rafael",
+    "optionB": "Tiziano",
+    "optionC": "Leonardo da Vinci",
+    "optionD": "Sandro Botticelli",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 91,
+    "Subject": "Cultura General",
+    "question": "¿Quién esculpió el famoso 'David' de mármol conservado en Florencia?",
+    "optionA": "Bernini",
+    "optionB": "Miguel Ángel",
+    "optionC": "Rodin",
+    "optionD": "Donatello",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'La Odisea'?",
+    "optionA": "Sófocles",
+    "optionB": "Virgilio",
+    "optionC": "Platón",
+    "optionD": "Homero",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 93,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió '1984'?",
+    "optionA": "H. G. Wells",
+    "optionB": "George Orwell",
+    "optionC": "Aldous Huxley",
+    "optionD": "Ray Bradbury",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 94,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'El principito'?",
+    "optionA": "Albert Camus",
+    "optionB": "Antoine de Saint-Exupéry",
+    "optionC": "Victor Hugo",
+    "optionD": "Julio Verne",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo interpretó 'Bohemian Rhapsody'?",
+    "optionA": "Pink Floyd",
+    "optionB": "Led Zeppelin",
+    "optionC": "Queen",
+    "optionD": "The Beatles",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante fue conocido como 'el Rey del Rock and Roll'?",
+    "optionA": "Chuck Berry",
+    "optionB": "Frank Sinatra",
+    "optionC": "Elvis Presley",
+    "optionD": "Johnny Cash",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "Subject": "Cultura General",
+    "question": "¿Qué banda irlandesa está liderada por Bono?",
+    "optionA": "Radiohead",
+    "optionB": "Oasis",
+    "optionC": "Coldplay",
+    "optionD": "U2",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 98,
+    "Subject": "Cultura General",
+    "question": "¿Qué selección ha ganado más Copas del Mundo de fútbol masculino?",
+    "optionA": "Italia",
+    "optionB": "Alemania",
+    "optionC": "Argentina",
+    "optionD": "Brasil",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 99,
+    "Subject": "Cultura General",
+    "question": "¿Qué piloto español ganó dos campeonatos mundiales de Fórmula 1 en 2005 y 2006?",
+    "optionA": "Fernando Alonso",
+    "optionB": "Carlos Sainz",
+    "optionC": "Pedro de la Rosa",
+    "optionD": "Marc Gené",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 100,
+    "Subject": "Cultura General",
+    "question": "¿Qué compañía creó el sistema operativo Windows?",
+    "optionA": "IBM",
+    "optionB": "Google",
+    "optionC": "Microsoft",
+    "optionD": "Apple",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "Subject": "Cultura General",
+    "question": "¿En qué año fue derribado el Muro de Berlín por completo tras la reunificación alemana?",
+    "optionA": "1992",
+    "optionB": "1989",
+    "optionC": "1987",
+    "optionD": "1990",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 102,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se disolvió oficialmente la Unión Soviética?",
+    "optionA": "1995",
+    "optionB": "1993",
+    "optionC": "1991",
+    "optionD": "1989",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "Subject": "Cultura General",
+    "question": "¿Qué desastre espacial ocurrió en 1986 pocos segundos después del despegue?",
+    "optionA": "El accidente del Columbia",
+    "optionB": "La explosión del transbordador Challenger",
+    "optionC": "El incendio del Apolo 1",
+    "optionD": "La pérdida del Sputnik 1",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 104,
+    "Subject": "Cultura General",
+    "question": "¿Qué nave llevó a Cristóbal Colón en su primer viaje a América en 1492?",
+    "optionA": "La Trinidad",
+    "optionB": "La Santa María",
+    "optionC": "La Victoria",
+    "optionD": "La San Gabriel",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "Subject": "Cultura General",
+    "question": "¿En qué año llegó Cristóbal Colón a América en su primer viaje?",
+    "optionA": "1500",
+    "optionB": "1512",
+    "optionC": "1492",
+    "optionD": "1488",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad italiana quedó sepultada por la erupción del Vesubio en el año 79?",
+    "optionA": "Florencia",
+    "optionB": "Verona",
+    "optionC": "Pompeya",
+    "optionD": "Rávena",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 107,
+    "Subject": "Cultura General",
+    "question": "¿Qué antigua civilización construyó Machu Picchu?",
+    "optionA": "La civilización maya",
+    "optionB": "La civilización olmeca",
+    "optionC": "La civilización inca",
+    "optionD": "La civilización azteca",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "Subject": "Cultura General",
+    "question": "¿Qué civilización construyó las pirámides de Giza?",
+    "optionA": "La civilización persa",
+    "optionB": "La civilización romana",
+    "optionC": "La civilización egipcia",
+    "optionD": "La civilización griega",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 109,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad fue la capital del Imperio bizantino durante siglos?",
+    "optionA": "Alejandría",
+    "optionB": "Atenas",
+    "optionC": "Constantinopla",
+    "optionD": "Antioquía",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "Subject": "Cultura General",
+    "question": "¿Qué navegante completó la primera vuelta al mundo tras la muerte de Magallanes?",
+    "optionA": "Juan Sebastián Elcano",
+    "optionB": "Hernán Cortés",
+    "optionC": "Vasco da Gama",
+    "optionD": "Américo Vespucio",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 111,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico propuso que los planetas giran alrededor del Sol en un modelo heliocéntrico?",
+    "optionA": "Nicolás Copérnico",
+    "optionB": "Galileo Galilei",
+    "optionC": "Tycho Brahe",
+    "optionD": "Isaac Newton",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "Subject": "Cultura General",
+    "question": "¿Quién formuló las tres leyes del movimiento planetario?",
+    "optionA": "Johannes Kepler",
+    "optionB": "Michael Faraday",
+    "optionC": "Edwin Hubble",
+    "optionD": "Nicolás Copérnico",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 113,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico demostró que los microorganismos intervienen en la fermentación y ayudó a desarrollar la pasteurización?",
+    "optionA": "Antoine Lavoisier",
+    "optionB": "Robert Hooke",
+    "optionC": "Gregor Mendel",
+    "optionD": "Louis Pasteur",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 114,
+    "Subject": "Cultura General",
+    "question": "¿Quién descubrió los rayos X en 1895?",
+    "optionA": "Alexander Fleming",
+    "optionB": "Wilhelm Röntgen",
+    "optionC": "Ernest Rutherford",
+    "optionD": "Michael Faraday",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 115,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico descubrió el electrón?",
+    "optionA": "Ernest Rutherford",
+    "optionB": "James Chadwick",
+    "optionC": "Niels Bohr",
+    "optionD": "J. J. Thomson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 116,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico descubrió el neutrón en 1932?",
+    "optionA": "Max Planck",
+    "optionB": "James Chadwick",
+    "optionC": "J. J. Thomson",
+    "optionD": "Ernest Rutherford",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento permitió a Samuel Morse transmitir mensajes mediante impulsos eléctricos?",
+    "optionA": "El telégrafo",
+    "optionB": "El teléfono",
+    "optionC": "El fonógrafo",
+    "optionD": "La radio",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 118,
+    "Subject": "Cultura General",
+    "question": "¿Qué invento está asociado a los hermanos Lumière?",
+    "optionA": "El cinematógrafo",
+    "optionB": "La radio",
+    "optionC": "La máquina de escribir",
+    "optionD": "El gramófono",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 119,
+    "Subject": "Cultura General",
+    "question": "¿Quién desarrolló el primer teléfono móvil portátil comercialmente reconocido?",
+    "optionA": "Steve Jobs",
+    "optionB": "Bill Gates",
+    "optionC": "Tim Berners-Lee",
+    "optionD": "Martin Cooper",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 120,
+    "Subject": "Cultura General",
+    "question": "¿Quién inventó la World Wide Web?",
+    "optionA": "Tim Berners-Lee",
+    "optionB": "Bill Gates",
+    "optionC": "Steve Wozniak",
+    "optionD": "Vint Cerf",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "Subject": "Cultura General",
+    "question": "¿En qué década nació la World Wide Web?",
+    "optionA": "En la década de 2000",
+    "optionB": "En la década de 1980",
+    "optionC": "En la década de 1990",
+    "optionD": "En la década de 1970",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 122,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el continente con mayor superficie?",
+    "optionA": "Europa",
+    "optionB": "Asia",
+    "optionC": "África",
+    "optionD": "América del Norte",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el continente más pequeño por superficie?",
+    "optionA": "Oceanía",
+    "optionB": "América del Sur",
+    "optionC": "Europa",
+    "optionD": "Antártida",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "Subject": "Cultura General",
+    "question": "¿Qué país ocupa la mayor parte de la península ibérica?",
+    "optionA": "Francia",
+    "optionB": "Andorra",
+    "optionC": "Portugal",
+    "optionD": "España",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 125,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Turquía?",
+    "optionA": "Bursa",
+    "optionB": "Esmirna",
+    "optionC": "Estambul",
+    "optionD": "Ankara",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 126,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Marruecos?",
+    "optionA": "Rabat",
+    "optionB": "Marrakech",
+    "optionC": "Fez",
+    "optionD": "Casablanca",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 127,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Suiza?",
+    "optionA": "Basilea",
+    "optionB": "Berna",
+    "optionC": "Ginebra",
+    "optionD": "Zúrich",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 128,
+    "Subject": "Cultura General",
+    "question": "¿Qué país está formado por más de 17.000 islas y tiene Yakarta como una de sus principales ciudades?",
+    "optionA": "Malasia",
+    "optionB": "Japón",
+    "optionC": "Filipinas",
+    "optionD": "Indonesia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 129,
+    "Subject": "Cultura General",
+    "question": "¿Qué mar separa Europa de África?",
+    "optionA": "El mar Báltico",
+    "optionB": "El mar Mediterráneo",
+    "optionC": "El mar del Norte",
+    "optionD": "El mar Negro",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el lago de agua dulce más profundo del mundo?",
+    "optionA": "El lago Titicaca",
+    "optionB": "El lago Victoria",
+    "optionC": "El lago Baikal",
+    "optionD": "El lago Superior",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La persistencia de la memoria', famosa por sus relojes blandos?",
+    "optionA": "Salvador Dalí",
+    "optionB": "René Magritte",
+    "optionC": "Joan Miró",
+    "optionD": "Pablo Picasso",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La joven de la perla'?",
+    "optionA": "Rubens",
+    "optionB": "Velázquez",
+    "optionC": "Rembrandt",
+    "optionD": "Johannes Vermeer",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 133,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Rafael",
+    "optionC": "Miguel Ángel",
+    "optionD": "Botticelli",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 134,
+    "Subject": "Cultura General",
+    "question": "¿Quién compuso la Novena Sinfonía, que incluye la 'Oda a la alegría'?",
+    "optionA": "Wolfgang Amadeus Mozart",
+    "optionB": "Ludwig van Beethoven",
+    "optionC": "Franz Schubert",
+    "optionD": "Johann Sebastian Bach",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "Subject": "Cultura General",
+    "question": "¿Quién compuso 'Las cuatro estaciones'?",
+    "optionA": "Frédéric Chopin",
+    "optionB": "Giacomo Puccini",
+    "optionC": "Johann Strauss",
+    "optionD": "Antonio Vivaldi",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Orgullo y prejuicio'?",
+    "optionA": "Mary Shelley",
+    "optionB": "Virginia Woolf",
+    "optionC": "Emily Brontë",
+    "optionD": "Jane Austen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 137,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Frankenstein'?",
+    "optionA": "Emily Brontë",
+    "optionB": "Mary Shelley",
+    "optionC": "Agatha Christie",
+    "optionD": "Jane Austen",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 138,
+    "Subject": "Cultura General",
+    "question": "¿Quién creó al detective Sherlock Holmes?",
+    "optionA": "Jules Verne",
+    "optionB": "Agatha Christie",
+    "optionC": "Arthur Conan Doyle",
+    "optionD": "Edgar Allan Poe",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 139,
+    "Subject": "Cultura General",
+    "question": "¿Qué escritor creó a Hercule Poirot y Miss Marple?",
+    "optionA": "Arthur Conan Doyle",
+    "optionB": "Agatha Christie",
+    "optionC": "George Orwell",
+    "optionD": "Virginia Woolf",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 140,
+    "Subject": "Cultura General",
+    "question": "¿Qué banda publicó el álbum 'The Dark Side of the Moon'?",
+    "optionA": "Queen",
+    "optionB": "Pink Floyd",
+    "optionC": "The Beatles",
+    "optionD": "Led Zeppelin",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante estadounidense popularizó canciones como 'Like a Virgin' y 'Vogue'?",
+    "optionA": "Madonna",
+    "optionB": "Cher",
+    "optionC": "Cyndi Lauper",
+    "optionD": "Whitney Houston",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 142,
+    "Subject": "Cultura General",
+    "question": "¿Qué artista lanzó el álbum 'Thriller', uno de los más vendidos de la historia?",
+    "optionA": "Prince",
+    "optionB": "Stevie Wonder",
+    "optionC": "George Michael",
+    "optionD": "Michael Jackson",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 143,
+    "Subject": "Cultura General",
+    "question": "¿Qué país ganó la Eurocopa de fútbol de 2008?",
+    "optionA": "España",
+    "optionB": "Italia",
+    "optionC": "Francia",
+    "optionD": "Alemania",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 144,
+    "Subject": "Cultura General",
+    "question": "¿Qué deportista estadounidense ganó 23 medallas de oro olímpicas en natación?",
+    "optionA": "Michael Phelps",
+    "optionB": "Ryan Lochte",
+    "optionC": "Ian Thorpe",
+    "optionD": "Mark Spitz",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 145,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciclista español ganó cinco veces el Tour de Francia?",
+    "optionA": "Carlos Sastre",
+    "optionB": "Miguel Induráin",
+    "optionC": "Pedro Delgado",
+    "optionD": "Alberto Contador",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "Subject": "Cultura General",
+    "question": "¿Qué piloto brasileño de Fórmula 1 ganó tres campeonatos mundiales y murió en 1994?",
+    "optionA": "Nelson Piquet",
+    "optionB": "Emerson Fittipaldi",
+    "optionC": "Ayrton Senna",
+    "optionD": "Rubens Barrichello",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 147,
+    "Subject": "Cultura General",
+    "question": "¿Qué consola lanzó Sony por primera vez en Japón en 1994?",
+    "optionA": "Nintendo 64",
+    "optionB": "Xbox",
+    "optionC": "Dreamcast",
+    "optionD": "PlayStation",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 148,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa desarrolló originalmente el buscador Google?",
+    "optionA": "Google",
+    "optionB": "Microsoft",
+    "optionC": "Yahoo!",
+    "optionD": "Apple",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 149,
+    "Subject": "Cultura General",
+    "question": "¿Qué servicio de vídeo fue fundado en 2005 y posteriormente comprado por Google?",
+    "optionA": "Vimeo",
+    "optionB": "YouTube",
+    "optionC": "Twitch",
+    "optionD": "Netflix",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 150,
+    "Subject": "Cultura General",
+    "question": "¿Qué enciclopedia en línea, creada en 2001, puede ser editada colaborativamente por sus usuarios?",
+    "optionA": "Britannica",
+    "optionB": "Reddit",
+    "optionC": "Wikipedia",
+    "optionD": "Encarta",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 151,
+    "Subject": "Cultura General",
+    "question": "¿En qué año comenzó la Revolución francesa?",
+    "optionA": "1789",
+    "optionB": "1776",
+    "optionC": "1815",
+    "optionD": "1799",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 152,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+    "optionA": "1776",
+    "optionB": "1765",
+    "optionC": "1783",
+    "optionD": "1789",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 153,
+    "Subject": "Cultura General",
+    "question": "¿Qué emperador francés fue derrotado definitivamente en la batalla de Waterloo?",
+    "optionA": "Napoleón III",
+    "optionB": "Napoleón Bonaparte",
+    "optionC": "Carlos X",
+    "optionD": "Luis XIV",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad fue destruida en gran parte por un terremoto en 1755, seguido de un tsunami e incendios?",
+    "optionA": "Roma",
+    "optionB": "Nápoles",
+    "optionC": "Atenas",
+    "optionD": "Lisboa",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 155,
+    "Subject": "Cultura General",
+    "question": "¿Qué país fue el primero en reconocer legalmente el voto femenino a nivel nacional en 1893?",
+    "optionA": "Reino Unido",
+    "optionB": "Estados Unidos",
+    "optionC": "Nueva Zelanda",
+    "optionD": "Francia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 156,
+    "Subject": "Cultura General",
+    "question": "¿En qué año fue asesinado John F. Kennedy en Dallas?",
+    "optionA": "1961",
+    "optionB": "1965",
+    "optionC": "1968",
+    "optionD": "1963",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 157,
+    "Subject": "Cultura General",
+    "question": "¿En qué año comenzó la construcción del Muro de Berlín?",
+    "optionA": "1968",
+    "optionB": "1963",
+    "optionC": "1961",
+    "optionD": "1956",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 158,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad japonesa sufrió la primera bomba atómica utilizada en guerra?",
+    "optionA": "Nagasaki",
+    "optionB": "Osaka",
+    "optionC": "Hiroshima",
+    "optionD": "Tokio",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 159,
+    "Subject": "Cultura General",
+    "question": "¿Qué organización internacional fue creada en 1945 para promover la paz y la cooperación entre países?",
+    "optionA": "La UNESCO",
+    "optionB": "La Unión Europea",
+    "optionC": "La OTAN",
+    "optionD": "La ONU",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 160,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se fundó la Organización de las Naciones Unidas?",
+    "optionA": "1950",
+    "optionB": "1945",
+    "optionC": "1939",
+    "optionD": "1919",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 161,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico descubrió la radiactividad natural en 1896?",
+    "optionA": "Ernest Rutherford",
+    "optionB": "Pierre Curie",
+    "optionC": "Niels Bohr",
+    "optionD": "Henri Becquerel",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 162,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico propuso un modelo atómico con un núcleo pequeño y denso?",
+    "optionA": "Ernest Rutherford",
+    "optionB": "Dmitri Mendeléyev",
+    "optionC": "Max Planck",
+    "optionD": "J. J. Thomson",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "Subject": "Cultura General",
+    "question": "¿Quién organizó la tabla periódica de los elementos de forma precursora a la actual?",
+    "optionA": "Robert Boyle",
+    "optionB": "Antoine Lavoisier",
+    "optionC": "Dmitri Mendeléyev",
+    "optionD": "Michael Faraday",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico formuló el principio de incertidumbre en mecánica cuántica?",
+    "optionA": "Niels Bohr",
+    "optionB": "Max Planck",
+    "optionC": "Werner Heisenberg",
+    "optionD": "Erwin Schrödinger",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico da nombre a la famosa ecuación de onda usada en mecánica cuántica?",
+    "optionA": "Paul Dirac",
+    "optionB": "Max Born",
+    "optionC": "Enrico Fermi",
+    "optionD": "Erwin Schrödinger",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 166,
+    "Subject": "Cultura General",
+    "question": "¿Qué unidad del Sistema Internacional se utiliza para medir la fuerza?",
+    "optionA": "El newton",
+    "optionB": "El vatio",
+    "optionC": "El pascal",
+    "optionD": "El julio",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "Subject": "Cultura General",
+    "question": "¿Qué unidad se utiliza para medir la potencia?",
+    "optionA": "El julio",
+    "optionB": "El amperio",
+    "optionC": "El vatio",
+    "optionD": "El voltio",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 168,
+    "Subject": "Cultura General",
+    "question": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+    "optionA": "El oxígeno",
+    "optionB": "El dióxido de carbono",
+    "optionC": "El nitrógeno",
+    "optionD": "El argón",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 169,
+    "Subject": "Cultura General",
+    "question": "¿Qué elemento químico tiene el símbolo Fe?",
+    "optionA": "El francio",
+    "optionB": "El fósforo",
+    "optionC": "El hierro",
+    "optionD": "El flúor",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "Subject": "Cultura General",
+    "question": "¿Qué elemento químico tiene el símbolo Au?",
+    "optionA": "El aluminio",
+    "optionB": "El cobre",
+    "optionC": "La plata",
+    "optionD": "El oro",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 171,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el país más grande de América del Sur por superficie?",
+    "optionA": "Colombia",
+    "optionB": "Argentina",
+    "optionC": "Perú",
+    "optionD": "Brasil",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 172,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el país más pequeño del mundo por superficie?",
+    "optionA": "Ciudad del Vaticano",
+    "optionB": "San Marino",
+    "optionC": "Liechtenstein",
+    "optionD": "Mónaco",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "Subject": "Cultura General",
+    "question": "¿Qué país europeo tiene forma aproximada de hexágono y es conocido como 'el Hexágono'?",
+    "optionA": "Alemania",
+    "optionB": "Polonia",
+    "optionC": "España",
+    "optionD": "Francia",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 174,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Noruega?",
+    "optionA": "Estocolmo",
+    "optionB": "Copenhague",
+    "optionC": "Oslo",
+    "optionD": "Helsinki",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 175,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Suecia?",
+    "optionA": "Copenhague",
+    "optionB": "Estocolmo",
+    "optionC": "Oslo",
+    "optionD": "Helsinki",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 176,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Finlandia?",
+    "optionA": "Estocolmo",
+    "optionB": "Tallin",
+    "optionC": "Helsinki",
+    "optionD": "Oslo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 177,
+    "Subject": "Cultura General",
+    "question": "¿Qué río atraviesa Budapest?",
+    "optionA": "El Rin",
+    "optionB": "El Danubio",
+    "optionC": "El Elba",
+    "optionD": "El Vístula",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 178,
+    "Subject": "Cultura General",
+    "question": "¿Qué río atraviesa Roma?",
+    "optionA": "El Danubio",
+    "optionB": "El Tíber",
+    "optionC": "El Po",
+    "optionD": "El Arno",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 179,
+    "Subject": "Cultura General",
+    "question": "¿Qué mar baña la costa oriental de Italia?",
+    "optionA": "El mar Adriático",
+    "optionB": "El mar Negro",
+    "optionC": "El mar Báltico",
+    "optionD": "El mar Egeo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene la ciudad de Petra, famosa por sus construcciones excavadas en roca?",
+    "optionA": "Jordania",
+    "optionB": "Líbano",
+    "optionC": "Siria",
+    "optionD": "Egipto",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La última cena'?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Tiziano",
+    "optionC": "Rafael",
+    "optionD": "Miguel Ángel",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 182,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'Los girasoles'?",
+    "optionA": "Claude Monet",
+    "optionB": "Paul Gauguin",
+    "optionC": "Vincent van Gogh",
+    "optionD": "Edgar Degas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 183,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'El beso' de 1907-1908?",
+    "optionA": "Edvard Munch",
+    "optionB": "Gustav Klimt",
+    "optionC": "Egon Schiele",
+    "optionD": "Kandinsky",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 184,
+    "Subject": "Cultura General",
+    "question": "¿Qué escultor creó 'El pensador'?",
+    "optionA": "Donatello",
+    "optionB": "Miguel Ángel",
+    "optionC": "Bernini",
+    "optionD": "Auguste Rodin",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 185,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Crimen y castigo'?",
+    "optionA": "Fiódor Dostoyevski",
+    "optionB": "Antón Chéjov",
+    "optionC": "Nikolái Gógol",
+    "optionD": "León Tolstói",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Los miserables'?",
+    "optionA": "Honoré de Balzac",
+    "optionB": "Victor Hugo",
+    "optionC": "Émile Zola",
+    "optionD": "Alejandro Dumas",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 187,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'La vuelta al mundo en 80 días'?",
+    "optionA": "H. G. Wells",
+    "optionB": "Julio Verne",
+    "optionC": "Daniel Defoe",
+    "optionD": "Robert Louis Stevenson",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 188,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Drácula'?",
+    "optionA": "Robert Louis Stevenson",
+    "optionB": "Bram Stoker",
+    "optionC": "Mary Shelley",
+    "optionD": "Oscar Wilde",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'El retrato de Dorian Gray'?",
+    "optionA": "Charles Dickens",
+    "optionB": "Oscar Wilde",
+    "optionC": "Bram Stoker",
+    "optionD": "James Joyce",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 190,
+    "Subject": "Cultura General",
+    "question": "¿Qué compositor escribió la ópera 'La flauta mágica'?",
+    "optionA": "Wolfgang Amadeus Mozart",
+    "optionB": "Ludwig van Beethoven",
+    "optionC": "Richard Wagner",
+    "optionD": "Giacomo Puccini",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 191,
+    "Subject": "Cultura General",
+    "question": "¿Qué compositor alemán escribió numerosas obras para órgano y los 'Conciertos de Brandeburgo'?",
+    "optionA": "Franz Schubert",
+    "optionB": "Johann Sebastian Bach",
+    "optionC": "Richard Strauss",
+    "optionD": "Johannes Brahms",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 192,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante británico lanzó el álbum '21'?",
+    "optionA": "Amy Winehouse",
+    "optionB": "Annie Lennox",
+    "optionC": "Dua Lipa",
+    "optionD": "Adele",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 193,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo lanzó la canción 'Hotel California'?",
+    "optionA": "Fleetwood Mac",
+    "optionB": "Bon Jovi",
+    "optionC": "Dire Straits",
+    "optionD": "Eagles",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo británico publicó 'Stairway to Heaven'?",
+    "optionA": "Deep Purple",
+    "optionB": "Pink Floyd",
+    "optionC": "The Who",
+    "optionD": "Led Zeppelin",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 195,
+    "Subject": "Cultura General",
+    "question": "¿Qué selección ganó el primer Mundial de fútbol, celebrado en 1930?",
+    "optionA": "Argentina",
+    "optionB": "Uruguay",
+    "optionC": "Italia",
+    "optionD": "Brasil",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "Subject": "Cultura General",
+    "question": "¿En qué deporte destacó Michael Jordan?",
+    "optionA": "Hockey sobre hielo",
+    "optionB": "Baloncesto",
+    "optionC": "Béisbol",
+    "optionD": "Fútbol americano",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 197,
+    "Subject": "Cultura General",
+    "question": "¿Qué tenista suizo ganó 20 títulos de Grand Slam individuales masculinos?",
+    "optionA": "Roger Federer",
+    "optionB": "Stan Wawrinka",
+    "optionC": "Pete Sampras",
+    "optionD": "Boris Becker",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 198,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa lanzó la consola Xbox original en 2001?",
+    "optionA": "Microsoft",
+    "optionB": "Sony",
+    "optionC": "Sega",
+    "optionD": "Nintendo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 199,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa desarrolló la consola Wii?",
+    "optionA": "Sony",
+    "optionB": "Sega",
+    "optionC": "Nintendo",
+    "optionD": "Microsoft",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 200,
+    "Subject": "Cultura General",
+    "question": "¿Qué plataforma de streaming comenzó como un servicio de alquiler de DVD por correo en Estados Unidos?",
+    "optionA": "Netflix",
+    "optionB": "Disney+",
+    "optionC": "Hulu",
+    "optionD": "Spotify",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 201,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se inauguró oficialmente el canal de Panamá?",
+    "optionA": "1914",
+    "optionB": "1920",
+    "optionC": "1904",
+    "optionD": "1931",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 202,
+    "Subject": "Cultura General",
+    "question": "¿Qué dos océanos conecta el canal de Panamá?",
+    "optionA": "El Ártico y el Atlántico",
+    "optionB": "El Índico y el Pacífico",
+    "optionC": "El Atlántico y el Pacífico",
+    "optionD": "El Atlántico y el Índico",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "Subject": "Cultura General",
+    "question": "¿Qué canal artificial une el mar Mediterráneo con el mar Rojo?",
+    "optionA": "El canal de Suez",
+    "optionB": "El canal de Kiel",
+    "optionC": "El canal de Corinto",
+    "optionD": "El canal de Panamá",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 204,
+    "Subject": "Cultura General",
+    "question": "¿En qué país se encuentra la ciudad de Dubrovnik?",
+    "optionA": "Montenegro",
+    "optionB": "Italia",
+    "optionC": "Croacia",
+    "optionD": "Grecia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 205,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Islandia?",
+    "optionA": "Oslo",
+    "optionB": "Reikiavik",
+    "optionC": "Helsinki",
+    "optionD": "Tallin",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 206,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Irlanda?",
+    "optionA": "Dublín",
+    "optionB": "Cork",
+    "optionC": "Galway",
+    "optionD": "Belfast",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 207,
+    "Subject": "Cultura General",
+    "question": "¿Qué país europeo tiene como capital Praga?",
+    "optionA": "República Checa",
+    "optionB": "Hungría",
+    "optionC": "Eslovenia",
+    "optionD": "Eslovaquia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 208,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Hungría?",
+    "optionA": "Budapest",
+    "optionB": "Bratislava",
+    "optionC": "Belgrado",
+    "optionD": "Bucarest",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 209,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene como capital Bangkok?",
+    "optionA": "Malasia",
+    "optionB": "Vietnam",
+    "optionC": "Tailandia",
+    "optionD": "Camboya",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 210,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Egipto?",
+    "optionA": "El Cairo",
+    "optionB": "Giza",
+    "optionC": "Alejandría",
+    "optionD": "Luxor",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 211,
+    "Subject": "Cultura General",
+    "question": "¿Qué montaña japonesa es un volcán y uno de los símbolos más reconocibles del país?",
+    "optionA": "El monte Haku",
+    "optionB": "El monte Aso",
+    "optionC": "El monte Fuji",
+    "optionD": "El monte Ontake",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 212,
+    "Subject": "Cultura General",
+    "question": "¿Qué cataratas se encuentran en la frontera entre Canadá y Estados Unidos?",
+    "optionA": "Las cataratas Victoria",
+    "optionB": "Las cataratas del Iguazú",
+    "optionC": "Las cataratas del Rin",
+    "optionD": "Las cataratas del Niágara",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 213,
+    "Subject": "Cultura General",
+    "question": "¿Qué cataratas están situadas en la frontera entre Zambia y Zimbabue?",
+    "optionA": "Las cataratas del Iguazú",
+    "optionB": "Las cataratas del Niágara",
+    "optionC": "Las cataratas de Yosemite",
+    "optionD": "Las cataratas Victoria",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 214,
+    "Subject": "Cultura General",
+    "question": "¿En qué continente se encuentra el desierto del Kalahari?",
+    "optionA": "Australia",
+    "optionB": "África",
+    "optionC": "Asia",
+    "optionD": "América del Sur",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "Subject": "Cultura General",
+    "question": "¿Qué cordillera recorre gran parte de la costa occidental de Sudamérica?",
+    "optionA": "Los Andes",
+    "optionB": "Los Alpes",
+    "optionC": "Las Rocosas",
+    "optionD": "Los Pirineos",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 216,
+    "Subject": "Cultura General",
+    "question": "¿Qué estrecho separa Asia de América del Norte?",
+    "optionA": "El estrecho de Magallanes",
+    "optionB": "El Bósforo",
+    "optionC": "El estrecho de Gibraltar",
+    "optionD": "El estrecho de Bering",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 217,
+    "Subject": "Cultura General",
+    "question": "¿Qué explorador noruego fue el primero en llegar al Polo Sur?",
+    "optionA": "Fridtjof Nansen",
+    "optionB": "Robert Scott",
+    "optionC": "Ernest Shackleton",
+    "optionD": "Roald Amundsen",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 218,
+    "Subject": "Cultura General",
+    "question": "¿Qué expedición logró la primera circunnavegación de la Tierra?",
+    "optionA": "La expedición de Colón",
+    "optionB": "La expedición de Cook",
+    "optionC": "La expedición de Vasco da Gama",
+    "optionD": "La expedición de Magallanes y Elcano",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 219,
+    "Subject": "Cultura General",
+    "question": "¿Qué civilización antigua desarrolló una extensa red de calzadas y tuvo su capital en Roma?",
+    "optionA": "La civilización fenicia",
+    "optionB": "La civilización egipcia",
+    "optionC": "La civilización romana",
+    "optionD": "La civilización persa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 220,
+    "Subject": "Cultura General",
+    "question": "¿Qué pueblo antiguo construyó la ciudad de Petra?",
+    "optionA": "Los hititas",
+    "optionB": "Los fenicios",
+    "optionC": "Los romanos",
+    "optionD": "Los nabateos",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 221,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad fue sede de los primeros Juegos Olímpicos modernos en 1896?",
+    "optionA": "Londres",
+    "optionB": "Atenas",
+    "optionC": "París",
+    "optionD": "Roma",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "Subject": "Cultura General",
+    "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+    "optionA": "1904",
+    "optionB": "1900",
+    "optionC": "1896",
+    "optionD": "1888",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 223,
+    "Subject": "Cultura General",
+    "question": "¿Qué país ganó el Mundial de fútbol de 2022?",
+    "optionA": "Brasil",
+    "optionB": "Argentina",
+    "optionC": "Croacia",
+    "optionD": "Francia",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 224,
+    "Subject": "Cultura General",
+    "question": "¿Qué futbolista argentino fue capitán de su selección campeona del mundo en 2022?",
+    "optionA": "Ángel Di María",
+    "optionB": "Julián Álvarez",
+    "optionC": "Lionel Messi",
+    "optionD": "Lautaro Martínez",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 225,
+    "Subject": "Cultura General",
+    "question": "¿En qué deporte destacó Usain Bolt?",
+    "optionA": "Ciclismo",
+    "optionB": "Natación",
+    "optionC": "Boxeo",
+    "optionD": "Atletismo",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 226,
+    "Subject": "Cultura General",
+    "question": "¿Qué deportista estadounidense fue conocido como 'The Greatest' y fue campeón mundial de boxeo?",
+    "optionA": "Muhammad Ali",
+    "optionB": "Joe Frazier",
+    "optionC": "Mike Tyson",
+    "optionD": "George Foreman",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 227,
+    "Subject": "Cultura General",
+    "question": "¿Qué jugadora de tenis estadounidense ganó 23 títulos individuales de Grand Slam en la era Open?",
+    "optionA": "Steffi Graf",
+    "optionB": "Martina Navratilova",
+    "optionC": "Venus Williams",
+    "optionD": "Serena Williams",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 228,
+    "Subject": "Cultura General",
+    "question": "¿Qué país organiza cada año el torneo de tenis de Wimbledon?",
+    "optionA": "Francia",
+    "optionB": "Australia",
+    "optionC": "Reino Unido",
+    "optionD": "Estados Unidos",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 229,
+    "Subject": "Cultura General",
+    "question": "¿Qué físico formuló la famosa ecuación E = mc²?",
+    "optionA": "Enrico Fermi",
+    "optionB": "Isaac Newton",
+    "optionC": "Niels Bohr",
+    "optionD": "Albert Einstein",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 230,
+    "Subject": "Cultura General",
+    "question": "¿Qué órgano del cuerpo humano bombea la sangre?",
+    "optionA": "El corazón",
+    "optionB": "El hígado",
+    "optionC": "El riñón",
+    "optionD": "El pulmón",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 231,
+    "Subject": "Cultura General",
+    "question": "¿Qué vitamina produce el cuerpo principalmente gracias a la exposición de la piel a la luz solar?",
+    "optionA": "Vitamina B12",
+    "optionB": "Vitamina K",
+    "optionC": "Vitamina D",
+    "optionD": "Vitamina C",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 232,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo sanguíneo es conocido habitualmente como donante universal de glóbulos rojos?",
+    "optionA": "AB positivo",
+    "optionB": "O negativo",
+    "optionC": "B negativo",
+    "optionD": "A positivo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 233,
+    "Subject": "Cultura General",
+    "question": "¿Qué metal líquido a temperatura ambiente se utilizaba tradicionalmente en termómetros?",
+    "optionA": "El estaño",
+    "optionB": "El mercurio",
+    "optionC": "El aluminio",
+    "optionD": "El plomo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 234,
+    "Subject": "Cultura General",
+    "question": "¿Qué elemento químico es esencial para formar la hemoglobina de la sangre?",
+    "optionA": "El zinc",
+    "optionB": "El hierro",
+    "optionC": "El calcio",
+    "optionD": "El sodio",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 235,
+    "Subject": "Cultura General",
+    "question": "¿Qué gas utilizan las plantas durante la fotosíntesis?",
+    "optionA": "Nitrógeno",
+    "optionB": "Dióxido de carbono",
+    "optionC": "Hidrógeno",
+    "optionD": "Oxígeno",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico es considerado uno de los padres de la computación y propuso la llamada máquina de Turing?",
+    "optionA": "John von Neumann",
+    "optionB": "Alan Turing",
+    "optionC": "Charles Babbage",
+    "optionD": "Claude Shannon",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 237,
+    "Subject": "Cultura General",
+    "question": "¿Qué matemática del siglo XIX es considerada una de las primeras programadoras de la historia?",
+    "optionA": "Grace Hopper",
+    "optionB": "Emmy Noether",
+    "optionC": "Sophie Germain",
+    "optionD": "Ada Lovelace",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 238,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa creó el sistema operativo Android antes de que fuera adquirido por Google?",
+    "optionA": "Sun Microsystems",
+    "optionB": "Nokia",
+    "optionC": "Android Inc.",
+    "optionD": "Motorola",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 239,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa lanzó el primer iPad en 2010?",
+    "optionA": "Microsoft",
+    "optionB": "Samsung",
+    "optionC": "Sony",
+    "optionD": "Apple",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 240,
+    "Subject": "Cultura General",
+    "question": "¿Qué plataforma musical nació en Suecia y se lanzó al público en 2008?",
+    "optionA": "Spotify",
+    "optionB": "Deezer",
+    "optionC": "Pandora",
+    "optionD": "Napster",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 241,
+    "Subject": "Cultura General",
+    "question": "¿Qué red social fue conocida originalmente por limitar sus mensajes a 140 caracteres?",
+    "optionA": "Facebook",
+    "optionB": "Twitter",
+    "optionC": "Instagram",
+    "optionD": "LinkedIn",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 242,
+    "Subject": "Cultura General",
+    "question": "¿Qué sistema de navegación por satélite fue desarrollado originalmente por Estados Unidos?",
+    "optionA": "GLONASS",
+    "optionB": "GPS",
+    "optionC": "Galileo",
+    "optionD": "BeiDou",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 243,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'Impresión, sol naciente', obra que dio nombre al impresionismo?",
+    "optionA": "Édouard Manet",
+    "optionB": "Edgar Degas",
+    "optionC": "Claude Monet",
+    "optionD": "Pierre-Auguste Renoir",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 244,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La libertad guiando al pueblo'?",
+    "optionA": "Henri Matisse",
+    "optionB": "Eugène Delacroix",
+    "optionC": "Claude Monet",
+    "optionD": "Paul Cézanne",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 245,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Moby-Dick'?",
+    "optionA": "Herman Melville",
+    "optionB": "Ernest Hemingway",
+    "optionC": "Mark Twain",
+    "optionD": "Jack London",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'El viejo y el mar'?",
+    "optionA": "Ernest Hemingway",
+    "optionB": "John Steinbeck",
+    "optionC": "William Faulkner",
+    "optionD": "F. Scott Fitzgerald",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 247,
+    "Subject": "Cultura General",
+    "question": "¿Qué escritor creó al personaje de Tom Sawyer?",
+    "optionA": "Jack London",
+    "optionB": "Charles Dickens",
+    "optionC": "Mark Twain",
+    "optionD": "Herman Melville",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 248,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante interpretó 'Rolling in the Deep'?",
+    "optionA": "Rihanna",
+    "optionB": "Beyoncé",
+    "optionC": "Taylor Swift",
+    "optionD": "Adele",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 249,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo británico hizo famosa la canción 'Wonderwall'?",
+    "optionA": "Oasis",
+    "optionB": "Radiohead",
+    "optionC": "Blur",
+    "optionD": "Coldplay",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 250,
+    "Subject": "Cultura General",
+    "question": "¿Qué banda estadounidense publicó el álbum 'Nevermind' en 1991?",
+    "optionA": "Green Day",
+    "optionB": "Nirvana",
+    "optionC": "Pearl Jam",
+    "optionD": "Metallica",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 251,
+    "Subject": "Cultura General",
+    "question": "¿En qué año llegó el hombre al Polo Norte por primera vez según la expedición tradicionalmente atribuida a Robert Peary?",
+    "optionA": "1899",
+    "optionB": "1909",
+    "optionC": "1912",
+    "optionD": "1921",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 252,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad fue dividida por un muro durante la Guerra Fría?",
+    "optionA": "Varsovia",
+    "optionB": "Viena",
+    "optionC": "Praga",
+    "optionD": "Berlín",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 253,
+    "Subject": "Cultura General",
+    "question": "¿Qué país sufrió la Revolución de los Claveles en 1974?",
+    "optionA": "Portugal",
+    "optionB": "Grecia",
+    "optionC": "España",
+    "optionD": "Italia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 254,
+    "Subject": "Cultura General",
+    "question": "¿Qué líder soviético impulsó la perestroika y la glásnost?",
+    "optionA": "Nikita Jrushchov",
+    "optionB": "Leonid Brézhnev",
+    "optionC": "Mijaíl Gorbachov",
+    "optionD": "Borís Yeltsin",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 255,
+    "Subject": "Cultura General",
+    "question": "¿Qué país vivió la llamada Revolución Cultural entre 1966 y 1976?",
+    "optionA": "Japón",
+    "optionB": "Vietnam",
+    "optionC": "China",
+    "optionD": "Corea del Norte",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 256,
+    "Subject": "Cultura General",
+    "question": "¿Qué tratado puso fin oficialmente a la Primera Guerra Mundial con Alemania?",
+    "optionA": "El Tratado de Utrecht",
+    "optionB": "El Tratado de París",
+    "optionC": "El Tratado de Versalles",
+    "optionD": "El Tratado de Tordesillas",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 257,
+    "Subject": "Cultura General",
+    "question": "¿Qué ciudad fue escenario de la famosa caída de Saigón en 1975?",
+    "optionA": "Bangkok",
+    "optionB": "Ciudad Ho Chi Minh",
+    "optionC": "Phnom Penh",
+    "optionD": "Hanói",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 258,
+    "Subject": "Cultura General",
+    "question": "¿Qué país fue gobernado por Fidel Castro durante décadas?",
+    "optionA": "Nicaragua",
+    "optionB": "República Dominicana",
+    "optionC": "Venezuela",
+    "optionD": "Cuba",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 259,
+    "Subject": "Cultura General",
+    "question": "¿Qué acontecimiento de 1929 desencadenó una grave crisis económica mundial?",
+    "optionA": "El crack de Wall Street",
+    "optionB": "La crisis asiática",
+    "optionC": "La burbuja puntocom",
+    "optionD": "La crisis del petróleo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 260,
+    "Subject": "Cultura General",
+    "question": "¿Qué emperador romano adoptó el cristianismo y fundó Constantinopla?",
+    "optionA": "Trajano",
+    "optionB": "Nerón",
+    "optionC": "Constantino I",
+    "optionD": "Augusto",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 261,
+    "Subject": "Cultura General",
+    "question": "¿Qué civilización construyó Chichén Itzá?",
+    "optionA": "La civilización inca",
+    "optionB": "La civilización maya",
+    "optionC": "La civilización azteca",
+    "optionD": "La civilización olmeca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 262,
+    "Subject": "Cultura General",
+    "question": "¿Qué civilización fundó Tenochtitlán, antecesora de Ciudad de México?",
+    "optionA": "La civilización maya",
+    "optionB": "La civilización azteca",
+    "optionC": "La civilización fenicia",
+    "optionD": "La civilización inca",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 263,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico desarrolló la teoría de la selección natural al estudiar, entre otros lugares, las islas Galápagos?",
+    "optionA": "Louis Pasteur",
+    "optionB": "Gregor Mendel",
+    "optionC": "Alfred Wegener",
+    "optionD": "Charles Darwin",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 264,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico propuso la teoría de la deriva continental?",
+    "optionA": "Edwin Hubble",
+    "optionB": "Alfred Wegener",
+    "optionC": "Charles Darwin",
+    "optionD": "James Hutton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 265,
+    "Subject": "Cultura General",
+    "question": "¿Quién descubrió que el universo se está expandiendo al observar galaxias lejanas?",
+    "optionA": "Carl Sagan",
+    "optionB": "Stephen Hawking",
+    "optionC": "Edwin Hubble",
+    "optionD": "Johannes Kepler",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 266,
+    "Subject": "Cultura General",
+    "question": "¿Qué científico popularizó la idea de los agujeros negros y estudió su radiación?",
+    "optionA": "Richard Feynman",
+    "optionB": "Carl Sagan",
+    "optionC": "Max Planck",
+    "optionD": "Stephen Hawking",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 267,
+    "Subject": "Cultura General",
+    "question": "¿Qué astrónomo descubrió Urano en 1781?",
+    "optionA": "William Herschel",
+    "optionB": "Galileo Galilei",
+    "optionC": "Edmond Halley",
+    "optionD": "Tycho Brahe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 268,
+    "Subject": "Cultura General",
+    "question": "¿Qué cometa es visible desde la Tierra aproximadamente cada 76 años?",
+    "optionA": "El cometa Halley",
+    "optionB": "El cometa Hale-Bopp",
+    "optionC": "El cometa Hyakutake",
+    "optionD": "El cometa Encke",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 269,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el satélite natural más grande de Saturno?",
+    "optionA": "Europa",
+    "optionB": "Ío",
+    "optionC": "Titán",
+    "optionD": "Ganímedes",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 270,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el satélite natural más grande del sistema solar?",
+    "optionA": "Europa",
+    "optionB": "La Luna",
+    "optionC": "Ganímedes",
+    "optionD": "Titán",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 271,
+    "Subject": "Cultura General",
+    "question": "¿Qué planeta gira prácticamente de lado debido a la inclinación extrema de su eje?",
+    "optionA": "Saturno",
+    "optionB": "Mercurio",
+    "optionC": "Marte",
+    "optionD": "Urano",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 272,
+    "Subject": "Cultura General",
+    "question": "¿Qué capa de la atmósfera contiene la mayor parte del ozono que protege de la radiación ultravioleta?",
+    "optionA": "La estratosfera",
+    "optionB": "La termosfera",
+    "optionC": "La mesosfera",
+    "optionD": "La troposfera",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 273,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "optionA": "El zinc",
+    "optionB": "El hierro",
+    "optionC": "El aluminio",
+    "optionD": "El cobre",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 274,
+    "Subject": "Cultura General",
+    "question": "¿Qué elemento químico tiene el símbolo Na?",
+    "optionA": "El sodio",
+    "optionB": "El níquel",
+    "optionC": "El neón",
+    "optionD": "El nitrógeno",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 275,
+    "Subject": "Cultura General",
+    "question": "¿Qué elemento químico tiene el símbolo K?",
+    "optionA": "El calcio",
+    "optionB": "El criptón",
+    "optionC": "El potasio",
+    "optionD": "El cobalto",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 276,
+    "Subject": "Cultura General",
+    "question": "¿Qué órgano del cuerpo humano produce insulina?",
+    "optionA": "El hígado",
+    "optionB": "El riñón",
+    "optionC": "El páncreas",
+    "optionD": "El bazo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 277,
+    "Subject": "Cultura General",
+    "question": "¿Qué órgano filtra la sangre y produce la orina?",
+    "optionA": "El pulmón",
+    "optionB": "El páncreas",
+    "optionC": "El estómago",
+    "optionD": "El riñón",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 278,
+    "Subject": "Cultura General",
+    "question": "¿Qué parte del ojo controla la cantidad de luz que entra?",
+    "optionA": "El cristalino",
+    "optionB": "La córnea",
+    "optionC": "La retina",
+    "optionD": "El iris",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 279,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "optionA": "El fémur",
+    "optionB": "El radio",
+    "optionC": "La tibia",
+    "optionD": "El húmero",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 280,
+    "Subject": "Cultura General",
+    "question": "¿Qué vitamina está especialmente relacionada con la coagulación de la sangre?",
+    "optionA": "Vitamina E",
+    "optionB": "Vitamina C",
+    "optionC": "Vitamina A",
+    "optionD": "Vitamina K",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 281,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Corea del Sur?",
+    "optionA": "Tokio",
+    "optionB": "Seúl",
+    "optionC": "Busan",
+    "optionD": "Pekín",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 282,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Vietnam?",
+    "optionA": "Ho Chi Minh",
+    "optionB": "Da Nang",
+    "optionC": "Hue",
+    "optionD": "Hanói",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 283,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Perú?",
+    "optionA": "Trujillo",
+    "optionB": "Lima",
+    "optionC": "Cusco",
+    "optionD": "Arequipa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 284,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Colombia?",
+    "optionA": "Cartagena",
+    "optionB": "Bogotá",
+    "optionC": "Cali",
+    "optionD": "Medellín",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 285,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene como capital Santiago?",
+    "optionA": "Argentina",
+    "optionB": "Chile",
+    "optionC": "Uruguay",
+    "optionD": "Perú",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 286,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es la capital de Austria?",
+    "optionA": "Salzburgo",
+    "optionB": "Graz",
+    "optionC": "Viena",
+    "optionD": "Innsbruck",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 287,
+    "Subject": "Cultura General",
+    "question": "¿Qué río atraviesa Viena, Bratislava, Budapest y Belgrado?",
+    "optionA": "El Volga",
+    "optionB": "El Danubio",
+    "optionC": "El Rin",
+    "optionD": "El Sena",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 288,
+    "Subject": "Cultura General",
+    "question": "¿Cuál es el río más largo de Europa?",
+    "optionA": "El Danubio",
+    "optionB": "El Volga",
+    "optionC": "El Rin",
+    "optionD": "El Dniéper",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 289,
+    "Subject": "Cultura General",
+    "question": "¿Qué país tiene la mayor cantidad de lagos del mundo?",
+    "optionA": "Canadá",
+    "optionB": "Suecia",
+    "optionC": "Rusia",
+    "optionD": "Finlandia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 290,
+    "Subject": "Cultura General",
+    "question": "¿Qué desierto se encuentra principalmente en Mongolia y el norte de China?",
+    "optionA": "El Gobi",
+    "optionB": "El Kalahari",
+    "optionC": "El Sáhara",
+    "optionD": "El Atacama",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 291,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'La ronda de noche'?",
+    "optionA": "Van Gogh",
+    "optionB": "Rembrandt",
+    "optionC": "Vermeer",
+    "optionD": "Rubens",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 292,
+    "Subject": "Cultura General",
+    "question": "¿Quién pintó 'El jardín de las delicias'?",
+    "optionA": "El Bosco",
+    "optionB": "Goya",
+    "optionC": "Velázquez",
+    "optionD": "Brueghel el Viejo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 293,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'Guerra y paz'?",
+    "optionA": "Fiódor Dostoyevski",
+    "optionB": "Iván Turguénev",
+    "optionC": "León Tolstói",
+    "optionD": "Antón Chéjov",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 294,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'La metamorfosis'?",
+    "optionA": "Albert Camus",
+    "optionB": "Hermann Hesse",
+    "optionC": "Thomas Mann",
+    "optionD": "Franz Kafka",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 295,
+    "Subject": "Cultura General",
+    "question": "¿Quién escribió 'El nombre de la rosa'?",
+    "optionA": "Alberto Moravia",
+    "optionB": "Primo Levi",
+    "optionC": "Italo Calvino",
+    "optionD": "Umberto Eco",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 296,
+    "Subject": "Cultura General",
+    "question": "¿Qué cantante fue conocida como la 'Reina del Soul'?",
+    "optionA": "Aretha Franklin",
+    "optionB": "Whitney Houston",
+    "optionC": "Diana Ross",
+    "optionD": "Tina Turner",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 297,
+    "Subject": "Cultura General",
+    "question": "¿Qué grupo publicó el álbum 'Abbey Road'?",
+    "optionA": "The Beatles",
+    "optionB": "The Who",
+    "optionC": "Queen",
+    "optionD": "The Rolling Stones",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 298,
+    "Subject": "Cultura General",
+    "question": "¿Qué deportista ganó ocho medallas de oro en natación en los Juegos Olímpicos de Pekín 2008?",
+    "optionA": "Michael Phelps",
+    "optionB": "Ryan Lochte",
+    "optionC": "Mark Spitz",
+    "optionD": "Ian Thorpe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 299,
+    "Subject": "Cultura General",
+    "question": "¿Qué país ganó el Mundial de rugby de 2019?",
+    "optionA": "Inglaterra",
+    "optionB": "Australia",
+    "optionC": "Nueva Zelanda",
+    "optionD": "Sudáfrica",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 300,
+    "Subject": "Cultura General",
+    "question": "¿Qué empresa desarrolló originalmente el navegador Chrome?",
+    "optionA": "Apple",
+    "optionB": "Google",
+    "optionC": "Mozilla",
+    "optionD": "Microsoft",
+    "correctAnswer": "B"
+  }
+]
