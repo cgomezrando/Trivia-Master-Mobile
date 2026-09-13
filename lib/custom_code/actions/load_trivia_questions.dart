@@ -176,12 +176,36 @@ Future<List<TriviaQuestionStruct>> loadTriviaQuestions(
         'poder identificar la respuesta correcta.');
   }
 
-  result.shuffle(rng);
-
-  if (questionCount > 0 && result.length > questionCount) {
-    return result.sublist(0, questionCount);
+  // Reparto por rondas: en cada ronda se coge 1 pregunta de cada tema que
+  // aún tenga preguntas disponibles, en un orden aleatorio distinto en cada
+  // ronda. Antes se hacía result.shuffle(rng) sobre la lista ya concatenada
+  // por tema, y al ser puramente aleatorio podían salir varias preguntas
+  // seguidas del mismo tema. Así se intercala 1 de cada tema (o lo más
+  // parecido posible si algún tema tiene menos preguntas que los demás),
+  // sin perder aleatoriedad ni dentro de cada tema ni en el orden de reparto.
+  final porTema = <String, List<TriviaQuestionStruct>>{};
+  for (final q in result) {
+    porTema.putIfAbsent(q.theme, () => <TriviaQuestionStruct>[]).add(q);
   }
-  return result;
+  for (final lista in porTema.values) {
+    lista.shuffle(rng);
+  }
+
+  final repartidas = <TriviaQuestionStruct>[];
+  while (porTema.values.any((lista) => lista.isNotEmpty)) {
+    final temasConStock = porTema.keys
+        .where((tema) => porTema[tema]!.isNotEmpty)
+        .toList()
+      ..shuffle(rng);
+    for (final tema in temasConStock) {
+      repartidas.add(porTema[tema]!.removeAt(0));
+    }
+  }
+
+  if (questionCount > 0 && repartidas.length > questionCount) {
+    return repartidas.sublist(0, questionCount);
+  }
+  return repartidas;
 }
 
 /// Descarga una URL y devuelve el texto, o null si falla.

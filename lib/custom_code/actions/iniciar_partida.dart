@@ -27,11 +27,14 @@ Future<bool> iniciarPartida(String partidaId) async {
       return false;
     }
 
+    // Hora del SERVIDOR, no la del dispositivo del anfitrión (ver el
+    // comentario en avanzar_pregunta.dart: es la misma corrección, para que
+    // la puntuación por tiempo no favorezca a quien abre la pregunta).
     await partidaRef.update({
       'estado': 'jugando',
       'indiceActual': 0,
       'numeroPreguntaActual': 1,
-      'preguntaAbiertaEn': DateTime.now(),
+      'preguntaAbiertaEn': FieldValue.serverTimestamp(),
     });
 
     debugPrint('Partida iniciada');

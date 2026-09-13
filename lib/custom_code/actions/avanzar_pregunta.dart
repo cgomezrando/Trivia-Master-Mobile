@@ -47,11 +47,23 @@ Future<bool> avanzarPregunta(String partidaId) async {
         });
       }
 
+      // IMPORTANTE: se usa la hora del SERVIDOR de Firestore, no la del
+      // dispositivo (DateTime.now()). Antes se guardaba la hora local de la
+      // tablet del anfitrión y luego se comparaba con la hora local de cada
+      // jugador al responder (respondidoEn, en enviar_respuesta.dart): si
+      // los relojes de los dispositivos no estaban perfectamente
+      // sincronizados, o si el anfitrión veía la pregunta nueva antes que
+      // el resto (su propio Firestore local se actualiza al instante,
+      // mientras que a los demás les llega tras el viaje de ida y vuelta al
+      // servidor), el anfitrión salía beneficiado en la puntuación por
+      // tiempo. Con FieldValue.serverTimestamp() todos los tiempos se miden
+      // con el mismo reloj (el del servidor), así que deja de depender de
+      // qué dispositivo es más rápido en ver o guardar la hora.
       await partidaRef.update({
         'estado': 'jugando',
         'indiceActual': nuevoIdx,
         'numeroPreguntaActual': nuevoIdx + 1,
-        'preguntaAbiertaEn': DateTime.now(),
+        'preguntaAbiertaEn': FieldValue.serverTimestamp(),
       });
 
       debugPrint('Avanzando a pregunta ${nuevoIdx + 1}');

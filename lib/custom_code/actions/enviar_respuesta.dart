@@ -40,9 +40,15 @@ Future<bool> enviarRespuesta(
       return false;
     }
 
+    // Hora del SERVIDOR, no la del dispositivo de cada jugador. Es la
+    // misma corrección que en avanzar_pregunta.dart / iniciar_partida.dart:
+    // preguntaAbiertaEn y respondidoEn tienen que medirse con el MISMO
+    // reloj para que la resta (respondidoEn - preguntaAbiertaEn) sea un
+    // tiempo real comparable entre jugadores, en vez de depender del reloj
+    // de cada tablet.
     await jugadorRef.update({
       'respuestaIndice': respuestaIndice,
-      'respondidoEn': DateTime.now(),
+      'respondidoEn': FieldValue.serverTimestamp(),
     });
 
     debugPrint('Respuesta enviada: pregunta índice $respuestaIndice');
