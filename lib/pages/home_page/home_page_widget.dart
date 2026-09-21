@@ -421,7 +421,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
-                                            'assets/images/Futbol.png',
+                                            'assets/images/balon-removebg-preview.png',
                                             width: 65.0,
                                             height: 65.0,
                                             fit: BoxFit.cover,
@@ -634,9 +634,9 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
-                                            'assets/images/espaa_1.png',
-                                            width: 60.0,
-                                            height: 60.0,
+                                            'assets/images/Spain.png',
+                                            width: 70.0,
+                                            height: 55.0,
                                             fit: BoxFit.cover,
                                           ),
                                         ),
@@ -737,8 +737,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
-                                          'assets/images/Secundaria-removebg-preview.png',
-                                          width: 60.0,
+                                          'assets/images/secundaria.png',
+                                          width: 65.0,
                                           height: 60.0,
                                           fit: BoxFit.cover,
                                         ),
@@ -841,7 +841,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
-                                            'assets/images/Esqueleto-removebg-preview.png',
+                                            'assets/images/cuerpo_humano-removebg-preview.png',
                                             width: 60.0,
                                             height: 60.0,
                                             fit: BoxFit.cover,
@@ -950,7 +950,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
-                                            'assets/images/Inventores-removebg-preview.png',
+                                            'assets/images/inventores.png',
                                             width: 60.0,
                                             height: 60.0,
                                             fit: BoxFit.cover,
@@ -1066,7 +1066,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
-                                          'assets/images/realmadrid.png',
+                                          'assets/images/madridista.png',
                                           width: 60.0,
                                           height: 60.0,
                                           fit: BoxFit.cover,
@@ -1169,19 +1169,14 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       mainAxisAlignment:
                                           MainAxisAlignment.spaceEvenly,
                                       children: [
-                                        Padding(
-                                          padding:
-                                              EdgeInsetsDirectional.fromSTEB(
-                                                  0.0, 8.0, 0.0, 0.0),
-                                          child: ClipRRect(
-                                            borderRadius:
-                                                BorderRadius.circular(8.0),
-                                            child: Image.asset(
-                                              'assets/images/barcelona.png',
-                                              width: 50.0,
-                                              height: 50.0,
-                                              fit: BoxFit.contain,
-                                            ),
+                                        ClipRRect(
+                                          borderRadius:
+                                              BorderRadius.circular(8.0),
+                                          child: Image.asset(
+                                            'assets/images/barcelonista.png',
+                                            width: 60.0,
+                                            height: 60.0,
+                                            fit: BoxFit.contain,
                                           ),
                                         ),
                                         Text(
@@ -1503,19 +1498,14 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       mainAxisAlignment:
                                           MainAxisAlignment.spaceEvenly,
                                       children: [
-                                        Padding(
-                                          padding:
-                                              EdgeInsetsDirectional.fromSTEB(
-                                                  0.0, 8.0, 0.0, 0.0),
-                                          child: ClipRRect(
-                                            borderRadius:
-                                                BorderRadius.circular(8.0),
-                                            child: Image.asset(
-                                              'assets/images/naturaleza.png',
-                                              width: 60.0,
-                                              height: 60.0,
-                                              fit: BoxFit.contain,
-                                            ),
+                                        ClipRRect(
+                                          borderRadius:
+                                              BorderRadius.circular(8.0),
+                                          child: Image.asset(
+                                            'assets/images/naturaleza.png',
+                                            width: 65.0,
+                                            height: 65.0,
+                                            fit: BoxFit.contain,
                                           ),
                                         ),
                                         Text(
@@ -1620,7 +1610,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               BorderRadius.circular(8.0),
                                           child: Image.asset(
                                             'assets/images/cultura_general.png',
-                                            width: 75.0,
+                                            width: 60.0,
                                             height: 60.0,
                                             fit: BoxFit.cover,
                                           ),

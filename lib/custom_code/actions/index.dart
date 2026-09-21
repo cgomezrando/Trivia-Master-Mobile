@@ -1,6 +1,5 @@
 export '/custom_code/actions/load_trivia_questions.dart'
     show loadTriviaQuestions;
-export '/custom_code/actions/add_points_to_player.dart' show addPointsToPlayer;
 export '/custom_code/actions/compute_ranking.dart' show computeRanking;
 export '/custom_code/actions/build_players.dart' show buildPlayers;
 export '/custom_code/actions/show_secundaria_dialog.dart'
