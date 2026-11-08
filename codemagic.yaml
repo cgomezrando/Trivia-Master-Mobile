@@ -10,7 +10,7 @@ workflows:
       vars:
         BUNDLE_ID: com.cgr.triviamastermobile
         P12_PASSWORD: TempBuildPass123
-      flutter: 3.32.0
+      flutter: 3.47.9
       xcode: 26.6
       cocoapods: default
 
