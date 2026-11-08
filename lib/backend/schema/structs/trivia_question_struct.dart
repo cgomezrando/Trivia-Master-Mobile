@@ -129,8 +129,8 @@ class TriviaQuestionStruct extends BaseStruct {
   }
 
   @override
-  int get hashCode =>
-      const ListEquality().hash([question, answers, correctIndex, theme]);
+  int get hashCode => const ListEquality().hash(
+      [question, const ListEquality().hash(answers), correctIndex, theme]);
 }
 
 TriviaQuestionStruct createTriviaQuestionStruct({
