@@ -200,12 +200,30 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     await revenue_cat.loadOfferings();
                                   }
 
-                                  FFAppState().isOnlineMode = true;
-                                  FFAppState().gameMode = '\'online\'';
-                                  safeSetState(() {});
-                                  await actions.showMultiplayerSetup(
-                                    context,
-                                  );
+                                  if (isEntitled) {
+                                    FFAppState().isOnlineMode = true;
+                                    FFAppState().gameMode = '\'online\'';
+                                    safeSetState(() {});
+                                    await actions.showMultiplayerSetup(
+                                      context,
+                                    );
+                                  } else {
+                                    ScaffoldMessenger.of(context).showSnackBar(
+                                      SnackBar(
+                                        content: Text(
+                                          'Necesitas comprar el multijugador para continuar',
+                                          style: TextStyle(
+                                            color: FlutterFlowTheme.of(context)
+                                                .primaryText,
+                                          ),
+                                        ),
+                                        duration: Duration(milliseconds: 4000),
+                                        backgroundColor:
+                                            FlutterFlowTheme.of(context)
+                                                .secondary,
+                                      ),
+                                    );
+                                  }
                                 },
                                 child: Container(
                                   width: 100.0,
